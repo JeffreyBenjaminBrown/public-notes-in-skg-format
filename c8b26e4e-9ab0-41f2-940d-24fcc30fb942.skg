@@ -1,6 +1,9 @@
 title: perfect mutual simulation hypothesis
 pid: c8b26e4e-9ab0-41f2-940d-24fcc30fb942
 body: |2-
-  Every thing is running the calculation that every other thing most needs to know. (How each thing needs to interpret the others will depend on it and probably be non-obvious from the outside.)
+  Everything running the calculation that every other thing most needs to know.
+  ("Everything that would have reason for this at once.")
+
+  Unfortunately, how each thing needs to interpret the others will depend on it and probably be non-obvious from the outside. That is, the reasons for simulation are as opaque as in the normal simulation hypothesis.
 misc:
 - Had_ID_Before_Import

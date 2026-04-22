@@ -1,0 +1,15 @@
+title: Simplify across time by grouping notes across time at/into (a smaller number of) important moments
+pid: 66fae336-d777-41bb-8f03-3c0fe7c2314a
+body: |2-
+  This is like quantization, but need not be uniform.
+  Interface: Draw the 'commas' to separate the list.
+  e.g. the list of notes
+  [a b c d e f]
+  might have a corresponding comma list:
+  [,   ,      ]
+  which translates to this grouping:
+  [a, b c, d e f].
+  (Because the monome has so few buttons,
+  the commas can't be between events;
+  they must indicate either the first or the last member of a group.
+  In the above example they indicate the last.)
