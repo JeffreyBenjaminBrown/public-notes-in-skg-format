@@ -1,0 +1,8 @@
+title: to show only filenames, not lines
+pid: c30ddc61-9370-40a7-9260-82ccdd97a184
+body: |2-
+  -l, --files-with-matches
+      Print only  the paths  with at least  one match  and suppress
+      match contents.
+
+      This overrides --files-without-match.

@@ -1,0 +1,5 @@
+title: KDE password store workaround
+pid: 59bd043f-513e-423e-8b4c-ca533c55a038
+body: |2-
+  # Run this in a shell. It opens the GUI.
+  signal-desktop --password-store=kwallet5

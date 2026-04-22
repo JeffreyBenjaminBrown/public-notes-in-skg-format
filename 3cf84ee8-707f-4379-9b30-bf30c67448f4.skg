@@ -1,0 +1,4 @@
+title: to get all subtypes of a type (including itself)
+pid: 3cf84ee8-707f-4379-9b30-bf30c67448f4
+body: |2-
+  match $x sub relation; get $x;

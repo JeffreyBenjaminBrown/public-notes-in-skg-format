@@ -1,0 +1,4 @@
+title: How to get the name of the JACK server?
+pid: c8ab7065-508b-456b-90db-f91cb65bac1c
+body: |2-
+  needed by Sound.JACK.newClient

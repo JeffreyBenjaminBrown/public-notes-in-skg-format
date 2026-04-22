@@ -1,0 +1,6 @@
+title: Pandas can export to [[id:8475bbbf-efbb-423e-901c-b464e807784c][parquet]].
+pid: 5b17456f-7237-48cc-a6a6-7a2dbef33aa3
+body: |2-
+  pd . DataFrame . to_parquet ()
+misc:
+- Had_ID_Before_Import

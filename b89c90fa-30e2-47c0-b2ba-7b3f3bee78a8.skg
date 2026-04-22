@@ -1,0 +1,12 @@
+title: demonstrating the syntax
+pid: b89c90fa-30e2-47c0-b2ba-7b3f3bee78a8
+body: |2-
+  This test works -- and more importantly,
+  if I swap the terms Left and Right, mypy complains.
+
+  def test_either_type_signatures ():
+    # This is designed to be "tested" with mypy, not pytest.
+    # I just want to make sure the type signature is accepted.
+    def f (b : bool) -> Either [ int, str ]:
+      if b: return Left (1)
+      else: return Right ("hello!")

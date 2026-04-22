@@ -1,0 +1,5 @@
+title: cp ~/dot-ssh/* ~/.ssh
+pid: cbc64a72-9296-4441-85bf-a01c4324d96e
+body: |2-
+  This overwrites some data I copied from my laptop,
+  which appears not to matter.

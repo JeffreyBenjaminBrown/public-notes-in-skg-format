@@ -1,0 +1,4 @@
+title: can have default values
+pid: 5b1402f2-b337-474c-8796-ae3d28eef3ab
+body: |2-
+  { x, y ? "bar" }: x + y

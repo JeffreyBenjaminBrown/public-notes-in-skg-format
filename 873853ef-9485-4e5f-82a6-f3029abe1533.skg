@@ -1,0 +1,5 @@
+title: named patterns
+pid: 873853ef-9485-4e5f-82a6-f3029abe1533
+body: |2-
+  valid_time( { Date = {Y,M,D},
+                Time = {H,Min,S} } ) -> ...

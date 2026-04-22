@@ -1,0 +1,7 @@
+title: the idea
+pid: 00e9cdc7-7d7f-4cd6-a4f2-fbb7d4734473
+body: |2-
+  Most of the form's inputs will be of types like "radio",
+  i.e. UI elements.
+  The "hidden" input just adds a key-value pair to the form,
+  without even letting the user know.

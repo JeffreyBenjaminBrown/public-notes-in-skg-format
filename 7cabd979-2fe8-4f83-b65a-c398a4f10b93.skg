@@ -1,0 +1,5 @@
+title: how
+pid: 7cabd979-2fe8-4f83-b65a-c398a4f10b93
+body: |2-
+  make ( [] type, length, optional capacity )
+  If the capacity is not specified, it is equal to the length.

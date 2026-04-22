@@ -1,0 +1,4 @@
+title: referring to values only defined at runtime
+pid: 318840cc-7a1c-4f52-8720-d1fc2ebbcd21
+body: |2-
+  "Occasionally, you may want to reference a variable which is only determined at run time. In that case, you cannot specify the variable name in the text of the program. You can use the symbol-value function to extract the value."

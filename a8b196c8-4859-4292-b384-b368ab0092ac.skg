@@ -1,0 +1,11 @@
+title: example
+pid: a8b196c8-4859-4292-b384-b368ab0092ac
+body: |2-
+  #+BEGIN_SRC rust
+  enum Message {
+      Quit,
+      Move { x: i32, y: i32 },
+      Write(String),
+      ChangeColor(i32, i32, i32),
+  }
+  #+end_src

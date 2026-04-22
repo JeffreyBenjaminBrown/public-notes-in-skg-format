@@ -1,0 +1,12 @@
+title: configure most of /etc/cntlm.conf
+pid: a3a3bd8c-6189-4920-b314-365f7a20d075
+body: |2-
+  Domain = get it from my admin
+  User = "
+  Proxy = x.x.x.x:8080
+    # where each x is a number;
+    # get it from my admin
+  NoProxy = ...
+    # The admin might have a list of exceptions.
+    # If not, probably can leave this at its default value.
+  Listen = 3128

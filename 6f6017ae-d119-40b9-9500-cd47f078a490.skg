@@ -1,0 +1,5 @@
+title: BROKEN in the 1.9-dev branch
+pid: 6f6017ae-d119-40b9-9500-cd47f078a490
+body: |2-
+  The entire Sound.Tidal.Transitions module is disabled.
+  I tried restoring it and ran into dependency hell.

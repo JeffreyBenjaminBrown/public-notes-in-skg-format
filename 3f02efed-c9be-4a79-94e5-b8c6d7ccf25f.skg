@@ -1,0 +1,8 @@
+title: formatting requirements
+pid: 3f02efed-c9be-4a79-94e5-b8c6d7ccf25f
+body: |2-
+  The file can have comments preceded by a #,
+  and empty lines (at least in the beginning, but maybe anywhere).
+  Every other line should be a note number,
+  followed by any amount of whitespace,
+  followed by the desired label.

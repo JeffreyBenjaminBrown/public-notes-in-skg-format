@@ -1,0 +1,4 @@
+title: Use AND, OR and parentheses for complex filters.
+pid: d3ba9a11-c3e6-4426-a1a7-fa2d2b7da620
+body: |2-
+  SELECT * FROM person WHERE (address_number = 309 AND id = 80539) OR (address_number = 10);

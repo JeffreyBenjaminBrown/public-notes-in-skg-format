@@ -1,0 +1,4 @@
+title: '"AUTOINCREMENT Does Not Work The Same As MySQL"'
+pid: 858016b8-a442-4e9e-88f2-73d8bf40f977
+body: |2-
+  https://www.sqlite.org/quirks.html

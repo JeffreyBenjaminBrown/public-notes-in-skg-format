@@ -1,0 +1,4 @@
+title: '"GNOME users may wish to delete their ~/.config/pulse'
+pid: 1d171c60-b88b-41df-ab75-a18db4055485
+body: |2-
+  due to the changes to stream routing logic"

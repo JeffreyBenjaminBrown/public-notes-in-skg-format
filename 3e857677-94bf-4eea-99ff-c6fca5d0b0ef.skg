@@ -1,0 +1,10 @@
+title: the "Django shell"
+pid: 3e857677-94bf-4eea-99ff-c6fca5d0b0ef
+body: |2-
+  start it with
+    python manage.py shell
+contains:
+- cf07e3e5-0e40-4c49-aede-34f919f8074a
+- 7bf60406-665b-40be-a5ab-774da5b6a85f
+- 1ec4663d-5346-4f91-a3ce-fd5ab0842476
+- 8829793a-7bf7-4421-a832-c99771c14446

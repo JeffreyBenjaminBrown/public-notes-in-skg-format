@@ -1,0 +1,5 @@
+title: why | the pitfall
+pid: 996a019a-73ca-4e8d-aed1-54b5153f14db
+body: |2-
+  If a value only known at runtime is to be the array length or capacity,
+  then for some reason simply declaring the slice won't work.

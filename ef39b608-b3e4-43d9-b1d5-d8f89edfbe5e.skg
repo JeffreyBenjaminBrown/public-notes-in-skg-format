@@ -1,0 +1,4 @@
+title: relative paths and command aliases are dangerous!
+pid: ef39b608-b3e4-43d9-b1d5-d8f89edfbe5e
+body: |2-
+  I was calling a python script from `cron` via `python3` which called another via the same command. But whereas the first resolved to the conda-installed python3.8 as hoped for, the second was resolving to the apt-installed python3.7. The solution was to never say `python3` and hope to be understood; instead give the full path to the executable (or a symlink to it).

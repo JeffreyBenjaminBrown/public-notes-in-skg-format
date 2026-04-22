@@ -1,0 +1,5 @@
+title: don't compute diffs (for SC or monomes) manually
+pid: 82934bee-acee-4cbc-b8ff-fd28cfedf9d9
+body: |2-
+  Would require recording both states.
+  This would be more CPU work, although no more work for SC or the monome.

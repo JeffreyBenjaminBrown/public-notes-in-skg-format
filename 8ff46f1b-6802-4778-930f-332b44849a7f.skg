@@ -1,0 +1,6 @@
+title: can be inspected
+pid: 8ff46f1b-6802-4778-930f-332b44849a7f
+body: |2-
+  Main> :set showimplicits
+  Main> :t show
+  Prelude.show : {0 a : Type} -> Show a => a -> String

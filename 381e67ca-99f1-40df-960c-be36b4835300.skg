@@ -1,0 +1,6 @@
+title: fn validate_and_filter_foreign_instructions
+pid: 381e67ca-99f1-40df-960c-be36b4835300
+body: |2-
+  Where it calls
+    buffernode_differs_from_disknode
+  Rather than bork, an attempt to save a foreign node should create a local 'lens' onto it: a node that overrides it, subscribes to it, and begins with whatever contents the user saved.

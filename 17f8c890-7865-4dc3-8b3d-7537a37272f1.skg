@@ -1,0 +1,4 @@
+title: For each match of a rule's "condition", the "conclusion" defines temporary data.
+pid: 17f8c890-7865-4dc3-8b3d-7537a37272f1
+body: |2-
+  Inferred results only last as long as the transaction spawning it.

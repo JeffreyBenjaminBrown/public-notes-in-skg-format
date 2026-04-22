@@ -1,0 +1,6 @@
+title: 'TODO PITFALL: Don''t inspect a drive being written to.'
+pid: 8bd90ac2-07cc-42cb-b6db-91ce65fb8ffe
+body: |2-
+  November 2020 I did that: while writing NixOS 20.09 onto a USB drive,
+  I tried running ls or du or something on it.
+  `dd` got confused and ended up overwriting two other USB drives instead.

@@ -1,0 +1,4 @@
+title: 'See "Serving files" here:'
+pid: 66f69bef-61e6-4347-bbb1-dfbb95581b26
+body: |2-
+  https://docs.djangoproject.com/en/3.1/howto/deployment/wsgi/modwsgi/

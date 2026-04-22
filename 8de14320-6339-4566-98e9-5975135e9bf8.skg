@@ -1,0 +1,20 @@
+title: '17\62 x 3\62: 20-ish frets'
+pid: 8de14320-6339-4566-98e9-5975135e9bf8
+body: |2-
+  [ 0 steps; 1 % 1 ; string 0 ; fret 0
+  , 62 steps; 2 % 1 ; string 4 ; fret - 2
+  , 36 steps; 3 % 2 ; string 3 ; fret - 5
+  , 20 steps; 5 % 4 ; string 1 ; fret 1
+  , 50 steps; 7 % 4 ; string 4 ; fret - 6
+  , 11 steps; 9 % 8 ; string 1 ; fret - 2
+  , 28 steps; 11 % 8 ; string 2 ; fret - 2
+  , 43 steps; 13 % 8 ; string 2 ; fret 3
+  , 56 steps; 15 % 8 ; string 4 ; fret - 4
+  , 5 steps; 17 % 16 ; string 1 ; fret - 4
+  # , 15 steps; 19 % 16 ; string 0 ; fret 5
+  # , 24 steps; 21 % 16 ; string 3 ; fret - 9
+  , 32 steps; 23 % 16 ; string 1 ; fret 5
+  , 40 steps; 25 % 16 ; string 2 ; fret 2
+  # , 47 steps; 27 % 16 ; string 4 ; fret - 7
+  , 53 steps; 29 % 16 ; string 4 ; fret - 5
+  , 59 steps; 31 % 16 ; string 4 ; fret - 3

@@ -1,0 +1,4 @@
+title: run Emacs without using an init file
+pid: 2c2b294c-54df-40cf-9b65-53a77e811fd1
+body: |2-
+  emacs --no-init-file

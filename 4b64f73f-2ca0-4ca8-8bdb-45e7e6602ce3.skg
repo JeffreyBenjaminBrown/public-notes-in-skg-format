@@ -1,0 +1,5 @@
+title: When __package__ is defined, `from . import a` works.
+pid: 4b64f73f-2ca0-4ca8-8bdb-45e7e6602ce3
+body: |2-
+  It works as if the dot was replaced
+  with the value of __package__.

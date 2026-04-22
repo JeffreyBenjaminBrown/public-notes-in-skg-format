@@ -1,0 +1,8 @@
+title: as numbers
+pid: e1b8d6da-46cd-43d9-a36c-65901786a67c
+body: |2-
+  0  steps; 1  % 1; string 0; fret 0
+  12 steps; 5  % 4; string 0; fret 6 (or string 2 fret -5)
+  17 steps; 11 % 8; string 1; fret 3
+  26 steps; 13 % 8; string 2; fret 2
+  37 steps; 2  % 1; string 3; fret 2

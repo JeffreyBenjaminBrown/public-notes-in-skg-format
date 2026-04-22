@@ -1,0 +1,5 @@
+title: identifiers can include "-"
+pid: abaa821a-f7a4-4dbb-9654-663a19a733da
+body: |2-
+  So "a-b" reads as a symbol,
+  whereas "a - b" reads as a minus b.

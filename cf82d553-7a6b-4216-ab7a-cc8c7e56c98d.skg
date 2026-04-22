@@ -1,0 +1,7 @@
+title: Illustrated here
+pid: cf82d553-7a6b-4216-ab7a-cc8c7e56c98d
+body: |2-
+  The pictures here are the important thing:
+  https://learnyousomeerlang.com/errors-and-exceptions#try-a-try-in-a-tree
+  There's also the code (search for the word "naive") here:
+  file://~/code/concurrent-langs/erlang/tree.erl

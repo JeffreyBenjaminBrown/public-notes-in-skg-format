@@ -1,0 +1,8 @@
+title: example code
+pid: 78551567-8f41-436e-8883-ac9d82a33b83
+body: |2-
+  from typing import List
+  from typing_extensions import TypeAlias
+
+  x : TypeAlias = List[str]
+  y : x = ["hi"]

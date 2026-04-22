@@ -1,0 +1,7 @@
+title: to rebuild just the current profile, politely
+pid: 28e17846-4fe5-4d39-a7e5-e94e3573467d
+body: |2-
+  sudo nixos-rebuild switch --keep-failed --cores 2 --max-jobs 1
+
+  That is also available at
+    nix/jbb/bash/single-polite-rebuild.sh

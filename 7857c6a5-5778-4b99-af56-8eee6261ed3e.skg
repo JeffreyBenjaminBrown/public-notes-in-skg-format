@@ -1,0 +1,7 @@
+title: Don't bring "structure" from an LFO (e.g. `saw`). \ TidalCycles
+pid: 7857c6a5-5778-4b99-af56-8eee6261ed3e
+body: |2-
+  Doing so gives it no structure at all --
+  that is, no attacks, no note starts.
+misc:
+- Had_ID_Before_Import

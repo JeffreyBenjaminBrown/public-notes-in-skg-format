@@ -1,0 +1,4 @@
+title: change the filters
+pid: 8db3122e-8756-4c23-9f0b-fc12c16a0bf9
+body: |2-
+  The default lpf, hpf, bpf only seem to do harm.

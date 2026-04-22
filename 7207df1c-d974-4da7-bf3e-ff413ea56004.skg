@@ -1,0 +1,5 @@
+title: String::from creates Strings from string literals
+pid: 7207df1c-d974-4da7-bf3e-ff413ea56004
+body: |2-
+  let strLiteral: &'static str = "string literal";
+  let strFigurative: String = String::from(strLiteral);

@@ -1,0 +1,5 @@
+title: to start it with a registered name
+pid: 9381a11a-bea2-4f65-93fd-15c62218fbf8
+body: |2-
+  supervisor:start_link({local, Name}, Module, Args)
+  supervisor:start_link({global, Name}, Module, Args)

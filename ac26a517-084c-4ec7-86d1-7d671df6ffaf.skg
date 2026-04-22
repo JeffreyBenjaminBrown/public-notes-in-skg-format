@@ -1,0 +1,5 @@
+title: Behaviors are intended to separate generic and specific code.
+pid: ac26a517-084c-4ec7-86d1-7d671df6ffaf
+body: |2-
+  The behavior is the generic part.
+  A module adhering to it is sometimes called a "callback module".

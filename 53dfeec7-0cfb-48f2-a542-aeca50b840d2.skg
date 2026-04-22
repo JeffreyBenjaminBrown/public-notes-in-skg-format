@@ -1,0 +1,11 @@
+title: syntax
+pid: 53dfeec7-0cfb-48f2-a542-aeca50b840d2
+body: |2-
+  var i interface{}
+  describe(i)
+
+  i = 42
+  describe(i)
+
+  i = "hello"
+  describe(i)

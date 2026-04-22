@@ -1,0 +1,5 @@
+title: of kill
+pid: f6a572f5-2761-4d1f-be09-ebca5d71c478
+body: |2-
+  Strip the IDs from the copy in the kill-ring,
+  if it had one.

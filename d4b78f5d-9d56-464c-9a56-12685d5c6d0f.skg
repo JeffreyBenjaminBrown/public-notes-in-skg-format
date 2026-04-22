@@ -1,0 +1,7 @@
+title: 'PITFALL: The orientation of the cable in the power unit matters.'
+pid: d4b78f5d-9d56-464c-9a56-12685d5c6d0f
+body: |2-
+  The easiest way is probably to make a note of it before disconnecting.
+  The surest way is to notice that there are teeth on one side of the port,
+  and compare their orientation to those of the teeth of the
+  many ports on the board.

@@ -1,0 +1,5 @@
+title: '"building it" appears to mean'
+pid: 69a8b433-cc4d-4509-b715-9f724dbc222c
+body: |2-
+  populating bin/ and obj/ folders,
+  creating them if necessary.

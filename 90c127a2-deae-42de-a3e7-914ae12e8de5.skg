@@ -1,0 +1,4 @@
+title: DON'T write direct functions from your data calling library code
+pid: 90c127a2-deae-42de-a3e7-914ae12e8de5
+body: |2-
+  i.e. from your kind of data to the effects the library has

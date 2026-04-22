@@ -1,0 +1,5 @@
+title: Reads are short.
+pid: 19b2fd9a-bd95-47fd-acac-09bcf826a1ba
+body: |2-
+  Reads are on the order of 100s of bases long.
+  A human gene is on the order of 1000s, and we have 25K-ish genes.

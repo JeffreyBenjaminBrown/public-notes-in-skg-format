@@ -1,0 +1,13 @@
+title: build script syntax
+pid: 0f88f7dd-443a-40b5-83eb-6e95c76fa06d
+body: |2-
+  It starts by "clearing the environment" | "using a standard environment". That corresponds to this line:
+    source $stdenv/setup
+
+  It might need to augment PATH with arguments, ala
+    PATH=$perl/bin:$PATH
+
+  It uses the automatically generated $out argument to determine where to build, ala
+    ./configure --prefix=$out
+
+  Beyond that it's just normal bash.

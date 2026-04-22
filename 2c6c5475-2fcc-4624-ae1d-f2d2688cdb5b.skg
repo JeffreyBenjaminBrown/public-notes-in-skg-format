@@ -1,0 +1,7 @@
+title: An Arc is not cloned from another Arc
+pid: 2c6c5475-2fcc-4624-ae1d-f2d2688cdb5b
+body: |2-
+  nor from what an Arc refers to,
+  but from a reference to an Arc.
+contains:
+- 3e0406a6-7637-43bd-92f8-70c3f43c9f6a

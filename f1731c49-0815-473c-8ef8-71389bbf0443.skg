@@ -1,0 +1,6 @@
+title: I used a Debian t3.micro w/ 8 GB storage
+pid: f1731c49-0815-473c-8ef8-71389bbf0443
+body: |2-
+  It doesn't give 750 free hours like t2.micro,
+  but over a year it's at least 10 dollars cheaper,
+  and after that should be 20.

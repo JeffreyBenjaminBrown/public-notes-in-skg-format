@@ -1,0 +1,6 @@
+title: syntax example
+pid: 957923db-e42b-4d44-8412-061f78224eee
+body: |2-
+  GET / HTTP/1.1
+  Host: example.com
+  X-API-KEY:  abcdef12345

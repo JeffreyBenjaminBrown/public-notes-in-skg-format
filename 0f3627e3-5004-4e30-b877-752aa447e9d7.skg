@@ -1,0 +1,14 @@
+title: an unedited but more recent quote, <2024-11-13 Wed>
+pid: 0f3627e3-5004-4e30-b877-752aa447e9d7
+body: |2-
+  Let us take a closer look at the type of index:
+
+  index : Fin n -> Vect n a -> a
+  It takes two arguments, an element of the finite set of n elements, and a vector with n elements of type a. But there are also two names, n and a, which are not declared explicitly. These are implicit arguments to index. We could also write the type of index as:
+
+  index : {a:Type} -> {n:Nat} -> Fin n -> Vect n a -> a
+  Implicit arguments, given in braces {} in the type declaration, are not given in applications of index; their values can be inferred from the types of the Fin n and Vect n a arguments. Any name beginning with a lower case letter which appears as a parameter or index in a type declaration, which is not applied to any arguments, will always be automatically bound as an implicit argument. Implicit arguments can still be given explicitly in applications, using {a=value} and {n=value}, for example:
+
+  index {a=Int} {n=2} FZ (2 :: 3 :: Nil)
+contains:
+- 6bc58a5f-446a-4080-82b5-91ccece8a2ac

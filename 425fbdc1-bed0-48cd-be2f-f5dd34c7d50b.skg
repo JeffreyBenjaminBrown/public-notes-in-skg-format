@@ -1,0 +1,7 @@
+title: Otherwise I get the error that `DefaultRuntimeDir` is not set.
+pid: 425fbdc1-bed0-48cd-be2f-f5dd34c7d50b
+body: |2-
+  In the default apache2.conf file, there's this line:
+    DefaultRuntimeDir ${APACHE_RUN_DIR}
+  but APACHE_RUN_DIR is not set,
+  and it's nowhere in code for the official Apache docker `httpd` image.

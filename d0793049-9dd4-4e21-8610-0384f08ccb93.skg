@@ -1,0 +1,14 @@
+title: the hypergraph index
+pid: d0793049-9dd4-4e21-8610-0384f08ccb93
+body: |2-
+  A hypergraph data store is a collection of atoms and relationships. The atoms can be anything -- music, Mozart, the music of Mozart, the noun "verb", anything. The relationships can hold any number of members, and those members can themselves be relationships. (In computer science, hypergraphs generalize graphs: Any graph is a hypergraph in which all relationships are binary and no relationship is a member of another relationship. Thus the hypergraph database generalizes the far more popular graph database.)
+
+  Hypergraph data can precisely and naturally reflect the structure of ordinary speech. For instance, "Sam threw the ball to Paul after Paul said 'over here'" is an "after" relationship between a ternary "threw-to" relationship and a binary "said" relationship. All language can be represented as such nested relationships, and language so represented can be searched more intelligently.
+
+  Ordinary search engines associate some key phrases with a document or website. There might be many such phrases, and in recent years there is even some semantic structure relating them. But neither the keywords nor the semantic structure around them is made apparent to the user. For a sufficiently complex query -- "Bash script to download all PDF links from a URL recursively excluding broken symlinks" certainly does the trick -- the user will be disappointed. But worse, the user does not know where the threshold lies, and does not know they have exceeded it until they have read through a number of search results that missed the mark.
+
+  Beyond parsing content, the other big data collection effort in a search engines is for ranking search results. When a query returns many results, Shyg will need to do likewise. Happily, the patent on PageRank has expired. However, part of the value of Shyg is that the query language will permit users to express many queries such that the response is brief.
+contains:
+- 9d88a4dd-828e-48ab-b2e9-51ffb504ae97
+misc:
+- Had_ID_Before_Import

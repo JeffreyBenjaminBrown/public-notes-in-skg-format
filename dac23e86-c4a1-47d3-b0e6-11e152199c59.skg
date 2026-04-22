@@ -1,0 +1,6 @@
+title: 'PITFALL: Not ncessary.'
+pid: dac23e86-c4a1-47d3-b0e6-11e152199c59
+body: |2-
+  Someone said this had to be done from source.
+  It doesn't. If you enable the community repository
+  for Alpine packages, Emacs is available that way.

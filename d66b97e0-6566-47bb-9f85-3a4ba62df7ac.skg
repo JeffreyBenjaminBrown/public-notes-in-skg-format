@@ -1,0 +1,5 @@
+title: To use GHC 8.10's newer garbage collector
+pid: d66b97e0-6566-47bb-9f85-3a4ba62df7ac
+body: |2-
+  https://well-typed.com/blog/2019/10/nonmoving-gc-merge/
+  Our new collector has been merged to GHC’s master branch and will be present in GHC 8.10.1. For a program to use the concurrent non-moving collector it must be compiled with GHC’s -threaded flag and invoked with the +RTS -xn runtime system flag.

@@ -1,0 +1,7 @@
+title: it loads 1031 libraries
+pid: 7bf60406-665b-40be-a5ab-774da5b6a85f
+body: |2-
+  by running this:
+    import os
+    for i in sys.modules.keys(): print(i)
+  (Running the same code in a shell opened with python3 shows only 61.)

@@ -1,0 +1,7 @@
+title: parallel vs. concurrent
+pid: c7224417-dcc0-40e1-ad5b-4d2cf94c4c1f
+body: |2-
+  parallel = simultaneous (multiple processors)
+  concurrent = not necessarily (e.g. multithreaded counts).
+misc:
+- Had_ID_Before_Import

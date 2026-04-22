@@ -1,0 +1,7 @@
+title: Ask peoples' availability.
+pid: a117b85d-bcbf-4330-a907-77f579822660
+body: |2-
+  Make a spreadsheet.
+  Compute sums at each date, because they are useful summary stats,
+  but when comparing any two such stats,
+  consider who is part of the difference.

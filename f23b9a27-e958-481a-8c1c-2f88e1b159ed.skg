@@ -1,0 +1,8 @@
+title: loop over numeric range
+pid: f23b9a27-e958-481a-8c1c-2f88e1b159ed
+body: |2-
+  C-style, plus a "let":
+
+  for (let ri = 0; ri < table.rows.length; ri++) {
+    table.rows [ri] . deleteCell (colIndex)
+  }

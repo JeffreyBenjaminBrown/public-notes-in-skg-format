@@ -1,0 +1,4 @@
+title: goal
+pid: 73faed8a-b1a2-4cd8-bc87-aadf6d6b121c
+body: |2-
+  Can Emacs be configured such that if I change the indentation of headlines, and any of a headline's text body text was aligned to start before the first character (excluding the asterisks and whitespace thereafter) of the headline, then that headline's body text will not change its indentation?

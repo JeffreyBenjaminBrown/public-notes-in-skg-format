@@ -1,0 +1,10 @@
+title: code
+pid: dc9502f7-455f-4f11-ad09-b7c34e4a13dc
+body: |2-
+  vat_coicop = pd.read_csv (
+    ...
+    , dtype = {
+        "coicop"          : "int32"
+      , "vat"           : "float32"
+      , "vat frac"      : "float32"
+    } )

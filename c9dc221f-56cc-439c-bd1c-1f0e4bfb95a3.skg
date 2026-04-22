@@ -1,0 +1,10 @@
+title: disable CPU throttling for each core
+aliases:
+- CPU throttling, how to disable
+- cpufreq-set
+pid: c9dc221f-56cc-439c-bd1c-1f0e4bfb95a3
+contains:
+- bbd7fc20-bef9-4dd9-8d85-110b54fc719b
+- 6f32108e-058d-41be-9f52-751918499c76
+misc:
+- Had_ID_Before_Import

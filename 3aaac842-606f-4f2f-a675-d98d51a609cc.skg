@@ -1,0 +1,5 @@
+title: example
+pid: 3aaac842-606f-4f2f-a675-d98d51a609cc
+body: |2-
+  convert -crop 354x354+0+0 headshot.jpg
+  (This makes it a square, and keeps the top-left corner.)

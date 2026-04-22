@@ -1,0 +1,14 @@
+title: tuned 20\87 apart
+pid: 49cddca5-c9ea-43b4-a808-16a56655b0e7
+body: |2-
+  5/4   = 28 \ 87 = 1 mod 3 = 2 strings - 4 frets
+  11/8  = 40 \ 87 = 1 mod 3 = 2 strings
+  3/2   = 51 \ 87 = 0 mod 3 = 3 strings - 3 frets
+  13/8  = 61 \ 87 = 1 mod 3 = 2 strings + 7 frets
+  7/4   = 70 \ 87 = 1 mod 3 = 2 strings + 10 frets, 5 strings - 10 frets
+  2/1   = 87 \ 87 = 0 mod 3 = 3 strings + 9 frets
+
+  16/15 = 8  \ 87 = 2 mod 3 = 1 string - 4 frets
+  8/7   = 17 \ 87 = 2 mod 3 = 1 string - 1 fret
+  7/6   = 19 \ 87 = 1 mod 3 = 2 strings - 7 frets
+  6/5   = 23 \ 87 = 2 mod 3 = 1 string + 1 fret

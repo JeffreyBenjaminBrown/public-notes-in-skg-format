@@ -1,0 +1,7 @@
+title: looping over a channel's values
+pid: 74d76325-2808-4208-a336-f4b087a00860
+body: |2-
+  "receives values from the channel repeatedly until it is closed":
+  for i := range ch { f (<-ch) }
+contains:
+- c51f5e36-9125-48f5-9fbd-318701336895

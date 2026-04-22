@@ -1,0 +1,5 @@
+title: export http_proxy and https_proxy
+pid: 84be33c7-47b1-4016-ad1d-5bfc9645d370
+body: |2-
+  export http_proxy=http://localhost:3128/
+  export https_proxy=http://localhost:3128/

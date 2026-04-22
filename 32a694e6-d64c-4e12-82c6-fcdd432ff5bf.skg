@@ -1,0 +1,6 @@
+title: the problem
+pid: 32a694e6-d64c-4e12-82c6-fcdd432ff5bf
+body: |2-
+  Docker was blocking access to the WiFi network's captive portal (the web page that you’re forced to see before you can access the internet on a public or restricted network).
+contains:
+- 9ad500b6-d0b0-42ef-9921-153cdd669d67

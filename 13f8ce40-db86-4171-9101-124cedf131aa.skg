@@ -1,0 +1,8 @@
+title: Each user could have a "considers [quality]" file, for various qualities.
+pid: 13f8ce40-db86-4171-9101-124cedf131aa
+body: |2-
+  Each link in such a file would be one that the user has judged to have that quality.
+  These files could get very long.
+  The user could, if they want, organize them with plain text,
+  but any link they included would be interpreted
+  as another object of judgment.

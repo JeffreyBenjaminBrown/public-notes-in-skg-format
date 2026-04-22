@@ -1,0 +1,4 @@
+title: retrieve a column
+pid: b176156a-296d-4a59-b4d8-83ce1cdaae07
+body: |2-
+  ps | get status

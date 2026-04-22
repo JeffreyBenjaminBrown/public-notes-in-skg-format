@@ -1,0 +1,7 @@
+title: 'PITFALL: move org-roam files [[id:b21e2b07-d97f-4135-ae22-8b8737075ce8][using dired]]'
+pid: f41a8828-d257-4462-974b-a9931b127075
+body: |2-
+  This causes updates to the org-roam db.
+  Maybe other Emacs file-moving facilities (e.g. neotree)
+  would do the same.
+  moving them from a shell certainly doesn't.

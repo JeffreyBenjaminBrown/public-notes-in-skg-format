@@ -1,0 +1,6 @@
+title: export level interpretations for interfaces
+pid: e36d05a6-5254-4af7-b993-781e688478f2
+body: |2-
+  export - the interface name is exported
+
+  public export - the interface name, method names and default definitions are exported

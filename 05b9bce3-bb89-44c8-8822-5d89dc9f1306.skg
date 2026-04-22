@@ -1,0 +1,14 @@
+title: '89 2 9: fret span 6, string span 10, mostly nice intervals but bad octave'
+pid: 05b9bce3-bb89-44c8-8822-5d89dc9f1306
+body: |2-
+  8 steps = 17 % 16:  string 0 fret 4
+  22 steps = 19 % 16: string 2 fret 2
+  29 steps = 5 % 4:   string 3 fret 1
+  41 steps = 11 % 8:  string 5 fret -2
+  47 steps = 23 % 16: string 5 fret 1
+  52 steps = 3 % 2:   string 6 fret -1
+  62 steps = 13 % 8:  string 6 fret 4
+  72 steps = 7 % 4:   string 8 fret 0
+  76 steps = 29 % 16: string 8 fret 2
+  85 steps = 31 % 16: string 9 fret 2
+  89 steps = 2 % 1:   string 9 fret 4

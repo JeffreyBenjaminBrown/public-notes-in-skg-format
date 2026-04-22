@@ -1,0 +1,8 @@
+title: '`filtered` changes which things are modified'
+pid: 0c4826d7-4c0c-47d6-a85e-b994a6127697
+body: |2-
+  > [1..6] & traversed . filtered (> 3) %~ (*2)
+  [1,2,3,8,10,12]
+
+  > (1,3) & both . filtered (> 2) %~ (*2) -- both is a traversal
+  (1,6)

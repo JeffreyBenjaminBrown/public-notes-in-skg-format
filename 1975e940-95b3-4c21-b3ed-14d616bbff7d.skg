@@ -1,0 +1,5 @@
+title: '`interpolate(In)`: morph parameters'
+pid: 1975e940-95b3-4c21-b3ed-14d616bbff7d
+body: |2-
+  d1 $ sound "arpy*16" # cutoff 100
+  interpolate 1 $ sound "arpy*16" # cutoff 16000

@@ -1,0 +1,7 @@
+title: the problem
+pid: fad206cc-8ee8-4c51-9ef3-9ba3b3767789
+body: |2-
+  When Rust constructs a document,
+  my algorithm was to include all content,
+  recursively. But if content is not unique,
+  something can be its own child.

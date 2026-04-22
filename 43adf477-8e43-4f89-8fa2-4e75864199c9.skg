@@ -1,0 +1,6 @@
+title: Index only every nth kmer of the text.
+pid: 43adf477-8e43-4f89-8fa2-4e75864199c9
+body: |2-
+  This makes the index shorter,
+  but it means in each pattern P we have to try kmers starting at every possible position modulo k. For instance, if we index every other kmer in the text,
+  then we have to try (any) kmer from P that starts at an even offset, and another that starts at n odd one.

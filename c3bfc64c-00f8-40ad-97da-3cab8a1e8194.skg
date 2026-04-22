@@ -1,0 +1,6 @@
+title: Suppose you would like to check the number of lines the string "Value" appears per file in the nushell project, then sort those files by largest line count.
+pid: c3bfc64c-00f8-40ad-97da-3cab8a1e8194
+body: |2-
+
+  > rg -c Value | lines | split column ":" file line_count | into int line_count | sort-by line_count | reverse
+  Output

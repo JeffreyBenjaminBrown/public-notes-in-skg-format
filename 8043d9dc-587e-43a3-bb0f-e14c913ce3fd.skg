@@ -1,0 +1,6 @@
+title: '`nix repl`'
+pid: 8043d9dc-587e-43a3-bb0f-e14c913ce3fd
+body: |2-
+  use it for testing
+contains:
+- 7a6a89c3-6436-4e4e-a4e9-c1d4f5bf9f9d

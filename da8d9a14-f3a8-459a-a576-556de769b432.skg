@@ -1,0 +1,7 @@
+title: 'PITFALL: By default it treats symlinks exactly how I like.'
+pid: da8d9a14-f3a8-459a-a576-556de769b432
+body: |2-
+  e.g. if `l` is a link into `p` and `p` is not backed up,
+  `l` is archived as, effectively, a dead link --
+  a link into something the archive doesn't know about --
+  rather than copying the content of the link.

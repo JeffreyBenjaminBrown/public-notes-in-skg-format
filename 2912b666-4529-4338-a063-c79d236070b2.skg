@@ -1,0 +1,4 @@
+title: make diff without running through diff-so-fancy
+pid: 2912b666-4529-4338-a063-c79d236070b2
+body: |2-
+  git --no-pager diff

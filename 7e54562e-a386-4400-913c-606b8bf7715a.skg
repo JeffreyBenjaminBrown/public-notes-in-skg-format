@@ -1,0 +1,14 @@
+title: 77 4 11
+pid: 7e54562e-a386-4400-913c-606b8bf7715a
+body: |2-
+  [ 7 steps = 17 % 16: string 1 fret -1
+  , 19 steps = 19 % 16: string 1 fret 2
+  , 25 steps = 5 % 4: string 3 fret -2
+  , 35 steps = 11 % 8: string 5 fret -5
+  , 40 steps = 23 % 16: string 4 fret -1
+  , 45 steps = 3 % 2: string 3 fret 3
+  , 54 steps = 13 % 8: string 6 fret -3
+  , 62 steps = 7 % 4: string 6 fret -1
+  , 66 steps = 29 % 16: string 6 fret 0
+  , 73 steps = 31 % 16: string 7 fret -1
+  , 77 steps = 2 % 1: string 7 fret 0

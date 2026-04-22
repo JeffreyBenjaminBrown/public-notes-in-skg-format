@@ -1,0 +1,21 @@
+title: __init__.py lets users ignore submodules.
+pid: cd34dacb-fde8-434c-a6c2-c5bfdba07cf2
+body: |2-
+  Suppose you develop a library with the following structure:
+
+  mylibrary/
+      __init__.py
+      module1.py
+      module2.py
+  And you want to provide the users of your library with two functions: func1() defined in module1.py and func2() defined in module2.py. If you leave __init__.py empty, then the users must specify the submodules to import the functions:
+
+  from mylibrary.module1 import func1
+  from mylibrary.module2 import func2
+  It may be something you want, but you may also want to allow the users to import the functions like this:
+
+  from mylibrary import func1, func2
+  So you import the functions in __init__.py:
+
+  # mylibrary/__init__.py
+  from mylibrary.module1 import func1
+  from mylibrary.module2 import func2

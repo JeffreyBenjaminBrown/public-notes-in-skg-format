@@ -1,0 +1,7 @@
+title: writing them
+pid: 67ba0d02-1a4f-4719-ae65-50bf84c54d2c
+body: |2-
+  iso :: (s -> a) -> (b -> t) -> Iso s t a b
+  anIso = iso to0 from0
+     where ...
+  Once that's defined:

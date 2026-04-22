@@ -1,0 +1,20 @@
+title: '17\68s x 1\68f: 7-lim +17 +19 +23 +27 +29'
+pid: 085e53e4-e981-4adf-94aa-fe6f644908e8
+body: |2-
+  [ 0 steps; 1 % 1 ; string 0 ; fret 0
+  , 68 steps; 2 % 1 ; string 4 ; fret 0
+  , 40 steps; 3 % 2 ; string 2 ; fret 6
+  , 22 steps; 5 % 4 ; string 1 ; fret 5
+  , 55 steps; 7 % 4 ; string 3 ; fret 4
+  # , 12 steps; 9 % 8 ; string 0 ; fret 12
+  # , 31 steps; 11 % 8 ; string 1 ; fret 14
+  # , 48 steps; 13 % 8 ; string 2 ; fret 14
+  # , 62 steps; 15 % 8 ; string 3 ; fret 11
+  , 6 steps; 17 % 16 ; string 0 ; fret 6
+  , 17 steps; 19 % 16 ; string 1 ; fret 0
+  # , 27 steps; 21 % 16 ; string 1 ; fret 10
+  , 36 steps; 23 % 16 ; string 2 ; fret 2
+  # , 44 steps; 25 % 16 ; string 2 ; fret 10
+  , 51 steps; 27 % 16 ; string 3 ; fret 0
+  , 58 steps; 29 % 16 ; string 3 ; fret 7
+  # , 65 steps; 31 % 16 ; string 3 ; fret 14

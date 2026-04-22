@@ -1,0 +1,4 @@
+title: how to find my instruction set in Bash
+pid: 55434009-09a0-4e52-907f-e176923419b9
+body: |2-
+  uname -m

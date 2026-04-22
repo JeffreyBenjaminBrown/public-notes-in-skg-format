@@ -1,0 +1,4 @@
+title: consuming adapter
+pid: ad543949-115f-40f2-a746-8d83c2fe4646
+body: |2-
+  "Methods that call next are called consuming adapters because calling them uses up the iterator."

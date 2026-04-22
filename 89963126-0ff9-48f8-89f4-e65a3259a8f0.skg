@@ -1,0 +1,9 @@
+title: 'Konsole|Nix bug: undead config file'
+pid: 89963126-0ff9-48f8-89f4-e65a3259a8f0
+contains:
+- 9b0ce970-8745-4400-b7cb-9a02d7c10a83
+- 202c7333-8307-487a-a2c3-6d33deb36a82
+- 58d24b3e-2360-4789-8fd3-e043e75e3dba
+- 8909f10e-7d6d-4a90-8a7d-049c68418432
+misc:
+- Had_ID_Before_Import

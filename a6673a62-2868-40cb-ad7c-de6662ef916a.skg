@@ -1,0 +1,6 @@
+title: They can be edited in the view, but to no effect on saving.
+pid: a6673a62-2868-40cb-ad7c-de6662ef916a
+body: |2-
+  Saving should restore them.
+  The way to change those is to change,
+  respectively, the subscriber or the hider.

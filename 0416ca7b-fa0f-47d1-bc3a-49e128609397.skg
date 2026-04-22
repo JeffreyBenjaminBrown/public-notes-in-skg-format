@@ -1,0 +1,4 @@
+title: Figure out why Apache doesn't respond after switching to Python 3.8.
+pid: 0416ca7b-fa0f-47d1-bc3a-49e128609397
+body: |2-
+  specifically, after switching mod-wsgi

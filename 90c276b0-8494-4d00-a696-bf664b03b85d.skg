@@ -1,0 +1,15 @@
+title: 'mod 1 space 8 : worse than space 9'
+pid: 90c276b0-8494-4d00-a696-bf664b03b85d
+body: |2-
+     Octaves are wider *and* the max fret reach is bigger.
+  6 steps = 17 % 16:  string 1 fret -2
+  16 steps = 19 % 16: string 2 fret  0
+  20 steps = 5 % 4:   string 3 fret -4
+  29 steps = 11 % 8:  string 4 fret -3
+  33 steps = 23 % 16: string 4 fret  1
+  37 steps = 3 % 2:   string 5 fret -3
+  44 steps = 13 % 8:  string 6 fret -4
+  51 steps = 7 % 4:   string 7 fret -5
+  54 steps = 29 % 16: string 7 fret -2
+  60 steps = 31 % 16: string 8 fret -4
+  63 steps = 2 % 1:   string 8 fret -1

@@ -1,0 +1,5 @@
+title: This shows what ports are in use. Unless I start Apache, none are.
+pid: 9c1e4960-9001-47ae-b65a-b3bf2b1610b1
+body: |2-
+  apt install net-tools
+  netstat -tulpn

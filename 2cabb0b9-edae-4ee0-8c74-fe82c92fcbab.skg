@@ -1,0 +1,67 @@
+title: response 1
+pid: 2cabb0b9-edae-4ee0-8c74-fe82c92fcbab
+body: |2-
+  Thanks, @tlater!
+
+  # Reboot?
+  I've rebooted a few times, by holding down the button and by telling KDE normally.
+
+
+  # find a stale cookie in home folder
+  From `/home/jeff`, running `find . -iname "*magic*cookie*"` finds nothing. Searching instead for `*cookie*` returns (excluding obvious non-candidates in folders I created by hand) the following:
+  ```
+  ./.cache/spotify/Browser/Cookies-journal
+  ./.cache/spotify/Browser/Cookies
+  ./.mozilla/firefox/f4w8x9v4.default/cookies.sqlite-wal
+  ./.mozilla/firefox/f4w8x9v4.default/cookies.sqlite
+  ./.config/Signal/SingletonCookie
+  ./.config/google-chrome/Default/Extension Cookies-journal
+  ./.config/google-chrome/Default/Safe Browsing Cookies-journal
+  ./.config/google-chrome/Default/Extension Cookies
+  ./.config/google-chrome/Default/Cookies-journal
+  ./.config/google-chrome/Default/Safe Browsing Cookies
+  ./.config/google-chrome/Default/Cookies
+  ./.config/BraveSoftware/Brave-Browser/SingletonCookie
+  ./.config/BraveSoftware/Brave-Browser/Default/Extension Cookies-journal
+  ./.config/BraveSoftware/Brave-Browser/Default/Safe Browsing Cookies-journal
+  ./.config/BraveSoftware/Brave-Browser/Default/Extension Cookies
+  ./.config/BraveSoftware/Brave-Browser/Default/Cookies-journal
+  ./.config/BraveSoftware/Brave-Browser/Default/Safe Browsing Cookies
+  ./.config/BraveSoftware/Brave-Browser/Default/Cookies
+  ./.config/BraveSoftware/Brave-Browser/Guest Profile/Safe Browsing Cookies-journal
+  ./.config/BraveSoftware/Brave-Browser/Guest Profile/Safe Browsing Cookies
+  ./.local/share/kcookiejar
+  ./.local/share/kcookiejar/cookies
+  ```
+
+
+  # login as normal user from another terminal
+  I can! After entering my password it says
+  ```
+  xset: unable to open display ""
+  ```
+  but then it drops me into a shell. I can even run Emacs! (Although it's pretty hard to read; I only know how to double the font size with `setfont -d` and that's still pretty small for my eyes.)
+
+  From another GUI-less terminal I tried logging in as root to see if `chpasswd` would work from there, but still it seems to hang. However, it still lets me type, and letters (not asterisks) appear on the screen when I do. Then, when I press enter, it reports "chpasswd: line 1: missing new passwd". If I try again it reports, "chpasswd: line 1: missing new passwd". It continues like that until I press Ctrl-C.
+
+
+  # dmesg and journalctl
+  I can't seem to access Github as root so I've put those on my Google Drive:
+
+  [dmesg.txt](https://drive.google.com/file/d/1pw4HzF_zSfygYNe3Kggk8sxTUidRZuGC/view?usp=sharing)
+  [journalctl.txt](https://drive.google.com/file/d/1FP5Ufp6BBt5a420zapofj-5M0sUv5foZ/view?usp=sharing)
+
+  The journalctl file is 302 MB.
+
+
+  # unset DISPLAY
+  In KDE as root, `unset DISPLAY` seems to have had no effect:
+
+  ```
+  [root@jbb-hp17:~/Downloads]# unset DISPLAY
+
+  [root@jbb-hp17:~/Downloads]# chpasswd j2
+  ^C
+
+  [root@jbb-hp17:~/Downloads]#
+  ```

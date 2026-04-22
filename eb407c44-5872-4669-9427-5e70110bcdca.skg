@@ -1,0 +1,4 @@
+title: Write to VCS.
+pid: eb407c44-5872-4669-9427-5e70110bcdca
+body: |2-
+  C-c  C-w  c

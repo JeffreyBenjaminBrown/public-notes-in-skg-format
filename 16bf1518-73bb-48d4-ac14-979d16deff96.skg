@@ -1,0 +1,13 @@
+title: Run `aconnect -i` to see available connections.
+pid: 16bf1518-73bb-48d4-ac14-979d16deff96
+body: |2-
+     Example:
+
+     [jeff@jbb-hp17:~]$ aconnect -i
+     client 0: 'System' [type=kernel]
+  0 'Timer           '
+  1 'Announce        '
+     client 14: 'Midi Through' [type=kernel]
+  0 'Midi Through Port-0'
+     client 20: 'Lumatone' [type=kernel,card=1]
+  0 'Lumatone MIDI 1 '

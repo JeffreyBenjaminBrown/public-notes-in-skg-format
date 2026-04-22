@@ -1,0 +1,10 @@
+title: counterexample
+pid: e75a4c26-b6a4-45d7-ab28-55b6e2c0c332
+body: |2-
+  #+begin_src rust
+  pub trait Summary {
+    fn summarize
+      (&self) // uses & because we should call summarize from a *reference to* the implementing type
+       -> String;
+  }
+  #+end_src

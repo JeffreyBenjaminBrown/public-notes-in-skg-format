@@ -1,0 +1,4 @@
+title: but note that
+pid: 6bca7e60-d315-451f-8446-a82a7ce64fd1
+body: |2-
+  "messages that at deactivation time already have entered the message queue will not be removed."

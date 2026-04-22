@@ -1,0 +1,4 @@
+title: 'Weird: admin page is top, but each app can have an admin.py file'
+pid: 387269f4-8729-4a43-8d92-6169db7cc183
+body: |2-
+  I guess that's because you administer all apps from the same page.

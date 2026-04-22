@@ -1,0 +1,7 @@
+title: functions of latest interest
+pid: fc703cc9-3328-411f-b9f4-f7d7a6e28e1d
+body: |2-
+  get-the-in-file-ancestor-path ()
+  disguise-org-headline ()
+  org-roam-db-query (query &rest args)
+  insert-graph-parents-as-subheadlines ()

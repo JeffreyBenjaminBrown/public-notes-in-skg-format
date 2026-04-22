@@ -1,0 +1,17 @@
+title: template
+pid: ad48f83c-0cf3-4c4d-8dfb-9c1bac4bb98a
+body: |2-
+     with TypeDB.core_client("localhost:1729") as client:
+       with client.session("mydb", SessionType.DATA) as session:
+  with session.transaction(TransactionType.WRITE) as write_transaction:
+           ## do something
+           write_transaction.commit()
+
+  with session.transaction(TransactionType.READ) as read_transaction:
+           ## do something
+
+           ## If not using a `with` statement
+           ## must always then close the read transaction, ala:
+           ## read_transaction.close()
+
+           pass

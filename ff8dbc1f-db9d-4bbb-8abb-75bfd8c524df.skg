@@ -1,0 +1,4 @@
+title: elaboration
+pid: ff8dbc1f-db9d-4bbb-8abb-75bfd8c524df
+body: |2-
+  The content of node N would be a property not of an ID, but an (ID of N, ID of container of N) pair. That is, the same node could have different content, depending on where it is.

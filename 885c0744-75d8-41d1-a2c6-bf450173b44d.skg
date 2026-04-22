@@ -1,0 +1,4 @@
+title: read from VCS
+pid: 885c0744-75d8-41d1-a2c6-bf450173b44d
+body: |2-
+  C-c  C-r  c

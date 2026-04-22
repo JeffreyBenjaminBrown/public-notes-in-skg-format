@@ -1,0 +1,15 @@
+title: A class cannot inherit from a class nested within it.
+pid: faa7053f-e63d-469e-8b4c-f94ebbcb63f9
+body: |2-
+      Example: This is not allowed.
+
+  Class A
+      Inherits B.C
+  End Class
+
+  Class B
+      Inherits A
+
+      Public Class C
+      End Class
+  End Class

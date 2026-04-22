@@ -1,0 +1,14 @@
+title: 80 4 11
+pid: 15eccdf8-637f-4c1a-94de-969fff35f833
+body: |2-
+  [ 80 steps = 2 % 1 : string 8 fret - 2
+  , 47 steps = 3 % 2 : string 5 fret - 2
+  , 26 steps = 5 % 4 : string 2 fret 1
+  , 65 steps = 7 % 4 : string 7 fret - 3
+  , 37 steps = 11 % 8 : string 3 fret 1
+  , 56 steps = 13 % 8 : string 4 fret 3
+  , 7 steps = 17 % 16 : string 1 fret - 1
+  , 20 steps = 19 % 16 : string 0 fret 5
+  , 42 steps = 23 % 16 : string 2 fret 5
+  , 69 steps = 29 % 16 : string 7 fret - 2
+  , 76 steps = 31 % 16 : string 4 fret 8

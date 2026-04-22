@@ -1,0 +1,5 @@
+title: five things
+pid: 53f0a3f1-7136-4afb-91c3-8802805b90f9
+body: |2-
+  (org-roam-db-query-to-buffer
+    [:select [id title file properties] :from nodes :limit 5])

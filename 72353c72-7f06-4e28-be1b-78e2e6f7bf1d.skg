@@ -1,0 +1,10 @@
+title: to check whether a computer uses UEFI
+pid: 72353c72-7f06-4e28-be1b-78e2e6f7bf1d
+body: |2-
+  If
+    /sys/firmware
+  contains something called
+    efi
+  then it does, otherwise it doesn't.
+misc:
+- Had_ID_Before_Import

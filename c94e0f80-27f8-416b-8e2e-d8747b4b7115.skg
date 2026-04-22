@@ -1,0 +1,7 @@
+title: Brave bookmarks can be transferred ex-post
+pid: c94e0f80-27f8-416b-8e2e-d8747b4b7115
+body: |2-
+  e.g. from this file:
+    ~/.config/BraveSoftware/Brave-Browser/Default/Bookmarks
+  PITFALL: After that, bookmarks still won't be visible,
+     until I ask for them to be.

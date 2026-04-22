@@ -1,0 +1,6 @@
+title: create pdf from markdown
+pid: b2ca000d-1438-4895-b13c-94d2c58cfa5b
+body: |2-
+  pandoc -o bugs.pdf bugs.md
+  To render beamer-style, add the option `-t beamer`.
+  PITFALL: New sections must be preceded by a blank line.

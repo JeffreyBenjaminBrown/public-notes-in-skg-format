@@ -1,0 +1,6 @@
+title: Relative imports break when __package__ is not defined.
+pid: 321cbfb0-cc1a-460f-b781-d2a5444d5079
+body: |2-
+  In this case, you get the following error:
+    ImportError: attempted relative import with no known parent package
+  You most commonly see it when you run a program with relative imports as a script. Since you specify which program to run with a filesystem path and not with a module name, and since Python needs a module name to calculate __package__, the code is executed in the __main__ module whose __package__ attribute is set to None.

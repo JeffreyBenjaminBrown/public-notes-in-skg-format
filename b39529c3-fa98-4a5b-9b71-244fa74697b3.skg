@@ -1,0 +1,6 @@
+title: fake signatures
+pid: b39529c3-fa98-4a5b-9b71-244fa74697b3
+body: |2-
+  foldOf
+   :: Monoid a => Fold s a -> s -> a
+  foldMapOf :: Monoid r => Fold s a -> (a -> r) -> s -> r

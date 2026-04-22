@@ -1,0 +1,6 @@
+title: the problem
+pid: 4fab96ce-115f-42ee-b966-c9942a564774
+body: |2-
+  If a node ID were duplicated enough times,
+  the menu of targets for a link with that ID
+  could become unreadable.

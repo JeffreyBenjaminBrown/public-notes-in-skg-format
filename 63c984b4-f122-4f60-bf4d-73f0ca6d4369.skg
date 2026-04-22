@@ -1,0 +1,7 @@
+title: order a note's targets
+pid: 63c984b4-f122-4f60-bf4d-73f0ca6d4369
+body: |2-
+  Create a lot of ternary "_ follows _ under _" relationships.
+  Then insert by simply editing two of them.
+contains:
+- 084e3426-2c71-4d2f-b865-6fd60f5b5f6e

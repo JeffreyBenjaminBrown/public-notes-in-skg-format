@@ -1,0 +1,5 @@
+title: common to all (I think)
+pid: 19aa3c64-eba5-4638-af19-8081291af192
+body: |2-
+  reso is in [0,1]
+  cutoff is in Hz

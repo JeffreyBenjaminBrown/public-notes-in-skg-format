@@ -1,0 +1,16 @@
+title: consider these functions
+pid: 660f676a-5330-4e2b-9d93-f61ed77983b9
+body: |2-
+  create :: IO (Socket Unbound)
+
+  connect :: Socket Unbound %1 ->
+             SocketAddress ->
+             IO (Socket Connected)
+
+  send :: Socket Connected %1 ->
+          ByteString ->
+          IO (Socket Connected, Ur Int)
+          -- will explain 'Ur' later
+
+  close :: forall s. Socket s ->
+           IO (Ur ())

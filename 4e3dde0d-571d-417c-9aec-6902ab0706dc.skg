@@ -1,0 +1,9 @@
+title: The org-roam URI scheme is quite robust.
+pid: 4e3dde0d-571d-417c-9aec-6902ab0706dc
+body: |2-
+  Each URI has 32 hex characters,
+  so 16^32 = 3.4e38 unique values.
+  If each of the 8e9 people on earth had 100,000 notes,
+  there would be 8e14 notes.
+  The probability (use the birthday formula) of a collision
+  would be about 1 in a billion.

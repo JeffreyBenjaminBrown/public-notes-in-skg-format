@@ -1,0 +1,4 @@
+title: for more wifi connections
+pid: e9f1b6f8-78fd-473a-9cc2-4a5ce49e5cd1
+body: |2-
+  see /etc/NetworkManager/system-connections

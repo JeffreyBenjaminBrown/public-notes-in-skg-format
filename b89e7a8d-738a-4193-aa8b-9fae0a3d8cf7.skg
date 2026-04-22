@@ -1,0 +1,18 @@
+title: this is its best
+pid: b89e7a8d-738a-4193-aa8b-9fae0a3d8cf7
+body: |2-
+  { tReport_edo = 80
+  , tReport_modulus = 4
+  , tReport_spacing = 17
+  , tReport_spacing12 = 2.55
+  , tReport_fretSpan = 10
+  , tReport_fretSpan12 = 6.0
+  , tReport_intervalReports =
+      [ 26 steps = 5 % 4: string 2 fret -2
+      , 37 steps = 11 % 8: string 1 fret 5
+      , 47 steps = 3 % 2: string 3 fret -1
+      , 56 steps = 13 % 8: string 4 fret -3
+      , 65 steps = 7 % 4: string 5 fret -5
+      , 80 steps = 2 % 1: string 4 fret 3
+      ]
+  }

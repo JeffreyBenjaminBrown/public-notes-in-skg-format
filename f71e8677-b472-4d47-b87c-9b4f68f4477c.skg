@@ -1,0 +1,10 @@
+title: 'PITFALL: One of these key sequences clobbers something.'
+pid: f71e8677-b472-4d47-b87c-9b4f68f4477c
+body: |2-
+  In Haskell-mode, C-c RET is already defined.
+  That is ordinarily bound to something that can't actually run,
+  unless there is a GHCI "session associated with this buffer",
+  which I never have.
+
+  So I have redefined it to insert a new heading,
+  like C-RET in org-mode.

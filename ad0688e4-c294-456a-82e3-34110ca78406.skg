@@ -1,0 +1,5 @@
+title: a plan
+pid: ad0688e4-c294-456a-82e3-34110ca78406
+body: |2-
+  Ideally, keep a list of addresses on screen, with a count next to each. If the count reaches 0, remove it from the list. If a new address is written, add it to the list. If the count is above 1, color it "duplicated".
+  When the list changes, compute its diff, and unless the change was a count-reduction or a deletion, rescan the buffer to recolor any address whose state in the list changed. Actually scanning the whole buffer is not always necessary. If a count initially > 1 rises, only recolor the line containing the address that was just written. And if count rises to 1, again, nothing to recolor. But if it rises from 1 to 2, then the earlier instance of that address must be found elsewhere in the buffer.

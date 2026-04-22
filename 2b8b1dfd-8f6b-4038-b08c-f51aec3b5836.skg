@@ -1,0 +1,6 @@
+title: 'C-M-b and C-M-f: back and forth, inclusive'
+pid: 2b8b1dfd-8f6b-4038-b08c-f51aec3b5836
+body: |2-
+  Within the current parenthetical,
+  move forward or backward across items,
+  be they parenthetical or atomic.

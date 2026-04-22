@@ -1,0 +1,6 @@
+title: interpreting JSON in Emacs
+pid: 31a73033-eb80-46d6-b8e6-9283baa11e6b
+body: |2-
+  The regular Emacs as packaged on Nix has no JSON support.
+  Does Doom Emacs?
+  https://github.com/doomemacs/doomemacs

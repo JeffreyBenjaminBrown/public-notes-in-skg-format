@@ -1,0 +1,5 @@
+title: 'ugly compromise: keep both instructions and maybe the data'
+pid: dd13b12e-83b9-4e72-aff7-03a770ff8350
+body: |2-
+  The data would still be evaluated in its entirely rather than as needed.
+  But once it is evaluated, it is kept.

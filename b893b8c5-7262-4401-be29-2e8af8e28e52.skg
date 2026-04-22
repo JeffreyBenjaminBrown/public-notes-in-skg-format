@@ -1,0 +1,4 @@
+title: 'example: sublist without bound errors'
+pid: b893b8c5-7262-4401-be29-2e8af8e28e52
+body: |2-
+  a sublist function that takes two numbers, and returns whatever is between those indexes in the list, if anything, cannot be given 'bad' indices.

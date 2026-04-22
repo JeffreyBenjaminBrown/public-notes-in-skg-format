@@ -1,0 +1,6 @@
+title: There should be only one '{'
+pid: 520f7afb-0ff6-43ba-8695-4a323d97e3d8
+body: |2-
+  With an integer befor eit, omitted if unity and present,
+  and an integer after it counting its contents, omitted if 0.
+  Only if both are absent is the '{' absent.

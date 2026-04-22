@@ -1,0 +1,9 @@
+title: automate the resolution of multiple containment
+pid: 82aaafc8-32a3-4c16-825f-b865e2817256
+body: |2-
+  The user can assign a new, unique ID
+  to any of those results, after which
+  they will not show up in that link's targets.
+  Its contents will still be duplicates -- that is,
+  contained in multiple places -- but can be deleted,
+  or themselves given unique IDs.

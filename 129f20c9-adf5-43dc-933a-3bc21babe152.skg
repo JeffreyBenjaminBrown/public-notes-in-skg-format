@@ -1,0 +1,15 @@
+title: Have Rust act on the s-exp from Emacs.
+pid: 129f20c9-adf5-43dc-933a-3bc21babe152
+body: |2-
+  OBSOLETE -- see TODO.org in the project for
+  plans that are more complete and concise.
+contains:
+- 4600d3a6-7748-4188-b9a9-43cc8a1acb4d
+- ef28e9f5-7660-443f-a5fe-d0c7add247ed
+- 3e0a0576-99e3-49a2-ad64-bf3cf63e14b0
+- cf41c63f-f874-4d10-a1b8-ca16edf7e427
+- f9df2418-0425-455a-a275-517a3557c539
+- 43b97adb-1505-4df2-b225-33e9b7177d2e
+- cf3502ad-9824-4991-8ed8-6f60aa5e17f1
+misc:
+- Had_ID_Before_Import

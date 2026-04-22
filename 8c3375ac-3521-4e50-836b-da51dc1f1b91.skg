@@ -1,0 +1,10 @@
+title: offload `start_link` to `gen_server`
+pid: 8c3375ac-3521-4e50-836b-da51dc1f1b91
+body: |2-
+  start_link () -> % returns {ok,Pid}
+    gen_server:start_link(
+      % optional fourth parameter in first (this) position:
+      % name to register server under
+      ?MODULE,  % where the callbacks are
+      [],       % parameters for init/1
+      []).    % debugging options

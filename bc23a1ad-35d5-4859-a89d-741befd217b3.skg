@@ -1,0 +1,8 @@
+title: Lumatone-feasible, sacrificing harmonics 9 and 11
+pid: bc23a1ad-35d5-4859-a89d-741befd217b3
+body: |2-
+  It's a strange map from strings-frets to the Lumatone axes:
+  Moving down-right crosses the strings,
+  and moving up crosses the frets.
+  Gives a beautiful 4:5:6:7:8,
+  and 13 is just on the other side of the 2:1 axis.

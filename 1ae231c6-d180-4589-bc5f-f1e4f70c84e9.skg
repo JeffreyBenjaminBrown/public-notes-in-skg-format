@@ -1,0 +1,4 @@
+title: 'complication: (ID, container''s ID) is ambiguous if the container contains two copies of the same node'
+pid: 1ae231c6-d180-4589-bc5f-f1e4f70c84e9
+body: |2-
+  This could be solved with a third identifier, that node's position relative to the copies of it among its container's contents.

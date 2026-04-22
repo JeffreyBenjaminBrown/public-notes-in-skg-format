@@ -1,0 +1,6 @@
+title: Seems to reuire almost no new syntax!
+pid: 21425af2-4e38-4b63-a909-11935deff5d9
+body: |2-
+  Just "when" and "then" (and some {}; symbols).
+  But I haven't read the TypeQL docs yet, just TypeDB's,
+  so I might be missing something.

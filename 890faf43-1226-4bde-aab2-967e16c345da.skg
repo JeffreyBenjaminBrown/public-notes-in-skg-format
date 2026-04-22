@@ -1,0 +1,5 @@
+title: why that's possible
+pid: 890faf43-1226-4bde-aab2-967e16c345da
+body: |2-
+  because variables can be declared without being defined:
+  var t *T // t is a *T despite pointing to nothing

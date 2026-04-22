@@ -1,0 +1,11 @@
+title: Consider the "bad character rule".
+pid: 08c5fe02-3112-4fe1-8862-e20c754d81c2
+body: |2-
+    T, the text:    GCTTCTCG...
+    P, the pattern: CCTTTTCG
+  Try the first alignment. The last three characters match (TCG).
+  The one before that doesn't -- there's a C in the text and a T in the pattern.
+  So move left to the closest C in the pattern.
+  Advance the pattern until either
+    the pattern matches at that place where it didn't before, or
+    the pattern is just past the place where it didn't before.

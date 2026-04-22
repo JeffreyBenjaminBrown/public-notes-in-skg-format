@@ -1,0 +1,5 @@
+title: Run "lost-nodes.sh"
+pid: 40ad4f58-4b77-44c5-b738-128fcac4cb74
+body: |2-
+  cd /home/jeff/Encfs/kb-no-encfs/vcs
+  bash ~/smsn+/git-smsn/lost-nodes.sh

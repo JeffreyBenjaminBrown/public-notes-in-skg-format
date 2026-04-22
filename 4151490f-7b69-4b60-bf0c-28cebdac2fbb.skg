@@ -1,0 +1,17 @@
+title: 'PITFALL: This layout includes manual mods.'
+pid: 4151490f-7b69-4b60-bf0c-28cebdac2fbb
+body: |2-
+  bestLayout' gives some very vertical positions.
+  I put flatter ones.
+   [ 0  steps; 1  % 1; string 0; fret  0
+   , 6  steps; 9  % 8; string 0; fret -2
+   , 11 steps; 5  % 4; string 1; fret -1
+   , 20 steps; 3  % 2; string 1; fret -4
+                       string 4; fret  4
+   , 16 steps; 11 % 8; string 2; fret  0
+   , 24 steps; 13 % 8; string 3; fret  0
+   , 27 steps; 7  % 4; string 3; fret -1
+   , 31 steps; 15 % 8; string 2; fret -5
+                       string 5; fret  3
+   , 34 steps; 2  % 1; string 2; fret -6
+                       string 5; fret  2

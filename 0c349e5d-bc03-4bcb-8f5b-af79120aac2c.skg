@@ -1,0 +1,7 @@
+title: the algorithm, from the top down
+pid: 0c349e5d-bc03-4bcb-8f5b-af79120aac2c
+body: |2-
+  It's probably easiest to do this on a forest
+  by making each root a child of the same parent.
+  This way there's no need to distinguish 'next sibling'
+  from 'next root'.

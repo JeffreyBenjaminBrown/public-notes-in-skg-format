@@ -1,0 +1,5 @@
+title: 'PITFALL: infinite loop footgun'
+pid: fb45e52f-b2ce-4297-9ec7-b83810ff4cd5
+body: |2-
+  https://typedb.com/docs/typeql/2.x/fundamentals
+  "It is possible to create a recursive logic in the line of n = n +1 by assigning attribute ownership with the value of a value variable. If triggered, such a rule can run indefinitely while the transaction lasts and can cause an out-of-memory error."

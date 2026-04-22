@@ -1,0 +1,4 @@
+title: to open a file
+pid: 48df18d4-d00d-496b-824a-9af3c6034f15
+body: |2-
+  With the cursor over it, evaluate `M-x neo-open`.

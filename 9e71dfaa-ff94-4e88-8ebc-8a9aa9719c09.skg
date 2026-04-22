@@ -1,0 +1,5 @@
+title: 'We can also use the symbol := instead of = to, among other things, avoid ambiguities with propositional equality:'
+pid: 9e71dfaa-ff94-4e88-8ebc-8a9aa9719c09
+body: |2-
+  Diag : a -> Type
+  Diag v = let ty : Type := v = v in ty

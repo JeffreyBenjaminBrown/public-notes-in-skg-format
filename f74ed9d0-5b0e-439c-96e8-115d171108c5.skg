@@ -1,0 +1,5 @@
+title: processes robust to receiving exit signals
+pid: f74ed9d0-5b0e-439c-96e8-115d171108c5
+contains:
+- 952d5e25-c64d-4f82-b304-9df7d8210ab0
+- 9c4f0274-494c-47bf-b91a-c49042e7a0ea

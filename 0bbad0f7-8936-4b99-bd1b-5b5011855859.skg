@@ -1,0 +1,7 @@
+title: usage
+pid: 0bbad0f7-8936-4b99-bd1b-5b5011855859
+body: |2-
+  A moment is specified with a list of integers.
+  The first is unrestricted.
+  The rest are constrained by the meter; they should range from 0 to n-1,
+  where n is the number of divisions at the corresponding level.

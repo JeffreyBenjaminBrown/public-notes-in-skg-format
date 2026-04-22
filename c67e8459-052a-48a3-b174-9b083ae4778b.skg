@@ -1,0 +1,5 @@
+title: fewer frets in 118
+pid: c67e8459-052a-48a3-b174-9b083ae4778b
+body: |2-
+  118 3 23 => only 39+1/3 frets, vs.
+  87 2 17 => 43.5 frets

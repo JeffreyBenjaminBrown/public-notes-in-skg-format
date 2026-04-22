@@ -1,0 +1,23 @@
+title: audio in NixOS
+aliases:
+- NixOS audio
+pid: f2f429b7-c918-4421-a186-b0ab272ca0e2
+body: |2-
+  PITFALL: Mostly written while ignorant.
+contains:
+- 172302f9-b859-49e8-8102-77f51514d536
+- 6b82e40e-8519-4f5b-946a-267266cc4d04
+- 141db0b6-f5db-4f65-9a02-e0fe396cd8be
+- e46af874-4a2b-421a-8b62-ceca550745f2
+- 98092626-a75f-40f8-b9e7-b6058928eada
+- b8af71da-8bf0-4f35-98df-97250589d15f
+- 7d46aa22-c643-4eab-a0ad-07658053380c
+- 224dcd55-7c00-4ea9-a795-72ab95b35474
+- 544af6f6-4006-4bfe-b4e2-e041c6729099
+- 1d83a28c-a87b-4223-9623-fa6eab2bbb33
+- 67e8f27a-308e-4f5e-8b88-e7e3293d5ded
+- cc828b55-e0db-4018-9320-0cc79530cc81
+- 507450fd-9957-4c4a-8a79-080bfc651ddb
+- fa9eeb30-13b1-4b2a-acb7-6d7e66e33749
+misc:
+- Had_ID_Before_Import

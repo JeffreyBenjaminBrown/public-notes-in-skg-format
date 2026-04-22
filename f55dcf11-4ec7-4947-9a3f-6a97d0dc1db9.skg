@@ -1,0 +1,4 @@
+title: St could be Eq and Ord
+pid: f55dcf11-4ec7-4947-9a3f-6a97d0dc1db9
+body: |2-
+  if I made (probably orphan) instances for Brick.Widgets.Edit.Editor

@@ -1,0 +1,9 @@
+title: 'to chmod back to 644 (normal): omit folders'
+pid: 4df5a7e5-31d2-4a36-87ef-544e89972e11
+body: |2-
+  Otherwise the folder contents cannot be read without sudo.
+  sudo find . -type f -print0 | xargs -0 chmod 644
+  sudo find . -type d -print0 | xargs -0 chmod 755
+
+  find . -type d -print0 | xargs -0 chown 1001
+  find . -type f -print0 | xargs -0 chown 1001

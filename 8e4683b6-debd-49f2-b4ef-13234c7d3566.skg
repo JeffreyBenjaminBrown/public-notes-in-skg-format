@@ -1,0 +1,4 @@
+title: A "dispatcher" can reasonably duplicate the signatures of its callees.
+pid: 8e4683b6-debd-49f2-b4ef-13234c7d3566
+body: |2-
+  e.g. if it chooses which callee to call based on which enum constructor it receives

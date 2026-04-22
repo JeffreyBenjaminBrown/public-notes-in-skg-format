@@ -1,0 +1,4 @@
+title: select
+pid: 5c9b7edc-e1c8-44bc-8226-969d41276b1b
+body: |2-
+  select * from table_name;

@@ -1,0 +1,4 @@
+title: how to decide whether to do it graphically or via the shell
+pid: f4d9fdb8-9bbf-4a49-9277-b06e56b8a69e
+body: |2-
+  [[id:b36f69f8-8830-45e5-a95e-7f7c2fb5f44a][If the keyboard shows up in the QJackCtl signal graph, it can be connected that way. Otherwise, connecting it requires `aconnect`.]]

@@ -1,0 +1,6 @@
+title: It's slow.
+pid: d1d108b8-0efa-4b34-ad0b-3dae32fb42d8
+body: |2-
+  Its speed is O(|P|*|T|).
+contains:
+- f5e0e40b-c205-43ca-a08e-5fe0d147885a

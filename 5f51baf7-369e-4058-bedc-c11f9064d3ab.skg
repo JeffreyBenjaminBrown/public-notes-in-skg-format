@@ -1,0 +1,5 @@
+title: TODO simplify result of nPExpr
+pid: 5f51baf7-369e-4058-bedc-c11f9064d3ab
+body: |2-
+  e.g. if q = "/trr 1 #< (/it= 0 | 2)", then
+  nPExpr q = Right ( PRel $ PNonRel $ ...

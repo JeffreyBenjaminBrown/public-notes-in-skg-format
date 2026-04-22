@@ -1,0 +1,2 @@
+title: 'Note: Because all of this async code runs in an async block in a trpl::run call, everything within it can avoid blocking. However, the code outside it will block on the run function returning. That’s the whole point of the trpl::run function: it lets you choose where to block on some set of async code, and thus where to transition between sync and async code. In most async runtimes, run is actually named block_on for exactly this reason.'
+pid: 45411f44-90d9-4f96-90a8-1caea846fca4

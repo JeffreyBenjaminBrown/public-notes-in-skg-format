@@ -1,0 +1,5 @@
+title: band pass filter
+pid: 435a803c-5e0c-4ec1-ad33-99e78d346068
+body: |2-
+  bandf / bpf : center frequency in hertz
+  bandq / bpq : resonance

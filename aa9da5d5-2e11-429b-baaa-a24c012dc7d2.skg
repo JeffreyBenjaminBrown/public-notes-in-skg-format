@@ -1,0 +1,5 @@
+title: converting to Floating types
+pid: aa9da5d5-2e11-429b-baaa-a24c012dc7d2
+body: |2-
+  GHC.Real.realToFrac :: (Real a, Fractional b) => a -> b
+  It's not part of any typeclass.

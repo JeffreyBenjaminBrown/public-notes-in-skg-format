@@ -1,0 +1,34 @@
+title: Create an IAM policy for total access to an S3 bucket.
+pid: a37f2ee7-8267-491b-9100-0848e03616ec
+body: |2-
+  This is JSON. It gives total access to a bucket called
+    whatdoineedtodotofindauniquename
+  {
+    "Version": "2012-10-17",
+    "Statement": [
+      {
+        "Effect": "Allow",
+        "Action": [
+          "s3:GetBucketLocation",
+          "s3:ListAllMyBuckets"
+        ],
+        "Resource": "*"
+      },
+      {
+        "Effect": "Allow",
+        "Action": ["s3:ListBucket"],
+        "Resource": ["arn:aws:s3:::whatdoineedtodotofindauniquename"]
+      },
+      {
+        "Effect": "Allow",
+        "Action": [
+          "s3:PutObject",
+          "s3:GetObject",
+          "s3:DeleteObject"
+        ],
+        "Resource": ["arn:aws:s3:::whatdoineedtodotofindauniquename/*"]
+      }
+    ]
+  }
+misc:
+- Had_ID_Before_Import

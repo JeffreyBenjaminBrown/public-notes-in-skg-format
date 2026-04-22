@@ -1,0 +1,6 @@
+title: Chords are sets of ratios.
+pid: 15a9c590-c26b-4ce6-9ae5-e010076f2203
+body: |2-
+  For instance:
+  - {400 hz, 500 hz, 600 hz} is a major chord.
+  - {400 hz, 480 hz, 600 hz} is a minor chord.

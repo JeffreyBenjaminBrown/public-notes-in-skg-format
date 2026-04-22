@@ -1,0 +1,4 @@
+title: the problem
+pid: 09e32cfc-9fbd-481d-bcbd-cfad7b766bc4
+body: |2-
+  Where the form data gets sent is encoded in the `action=` argument to the <form> element in the template. Trying to use the same template at two different URLs will mean the data from both URLs is sent to only one of them -- whichever one is encoded in the action= argument.

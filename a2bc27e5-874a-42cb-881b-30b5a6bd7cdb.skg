@@ -1,0 +1,8 @@
+title: why one cannot copy a headline with its ID
+pid: a2bc27e5-874a-42cb-881b-30b5a6bd7cdb
+body: |2-
+  Doing so would not make sense -- the ID corresponds
+  to a single unique place in the graph.
+  To have two copies of it would mean to have
+  the same node in two different relatinoship states --
+  states relative to the rest of the graph.

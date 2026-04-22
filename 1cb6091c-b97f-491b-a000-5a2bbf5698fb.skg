@@ -1,0 +1,8 @@
+title: Shyg at the scale of a single user
+pid: 1cb6091c-b97f-491b-a000-5a2bbf5698fb
+body: |2-
+  Shyg will permit users to traverse their data batter.
+
+  For instance, I have a note about traveling to a lower elevation as a strategy for temporarily enhancing one's immune system. I cannot search for "strategies for dealing with illnesses" and find it, because the note includes neither the word "illness" nor the word "strategy". Instead it includes "a way to fight infection". If it were indexed in Shyg, that search would work.
+
+  As another example, one could issue a query to "identify passages in the indexed documents that mention any chemical in the blood of any mammal". Shyg's [[id:0f4c43f7-2a52-4a2c-97b1-93a2cdf5e108][ontology]] will permit the user to sidestep the prohibitively tedious step of listing every chemical and every mammal.

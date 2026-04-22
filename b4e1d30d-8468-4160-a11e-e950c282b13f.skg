@@ -1,0 +1,18 @@
+title: Higher-order functions are syntactically noiseless.
+pid: b4e1d30d-8468-4160-a11e-e950c282b13f
+body: |2-
+  There's no "apply" nonsense, you just use it.
+  Example:
+
+  func compute
+       (fn func (float64, float64) float64)
+       float64 {
+    return fn (3, 4)
+  }
+  func main() {
+    hypot := func (x, y float64) float64 {
+      return math.Sqrt (x*x + y*y)
+    }
+    fmt.Println (compute (hypot) )
+    ...
+  }

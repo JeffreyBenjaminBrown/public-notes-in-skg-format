@@ -1,0 +1,6 @@
+title: 'fromMaybes :: [Maybe a] -> Pattern a, appending "fast"'
+pid: 2de2069d-810e-472e-844c-fc495ae1311b
+body: |2-
+  #+BEGIN_SRC haskell
+    d1 $ s "sn:1*2" |*| speed (fromMaybes [Just 1,Nothing,Just 3])
+  #+END_SRC

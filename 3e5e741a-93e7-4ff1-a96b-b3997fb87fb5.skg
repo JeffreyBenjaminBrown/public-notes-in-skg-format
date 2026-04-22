@@ -1,0 +1,5 @@
+title: TODO why ? if the fold returns multiple, it takes the first
+pid: 3e5e741a-93e7-4ff1-a96b-b3997fb87fb5
+body: |2-
+  >>> [1, 2, 3, 4] ^. pre (traversed . filtered even)
+  Just 2

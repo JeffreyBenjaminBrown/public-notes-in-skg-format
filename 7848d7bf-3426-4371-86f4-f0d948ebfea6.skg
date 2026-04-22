@@ -1,0 +1,31 @@
+title: layout
+pid: 7848d7bf-3426-4371-86f4-f0d948ebfea6
+body: |2-
+    MTV> myPrint $ map concat $ printLayout (primesOctave1 15) (show . numerator) 53 (17,3)
+
+    20 frets of a hypothetical 12-string guitar tuned this way:
+
+                      headstock
+                      this side
+           1  5  -  -  -  -  -  -  -  -  -  -
+           -  - 13  -  -  -  -  -  -  -  -  3
+           -  -  -  -  -  -  -  -  -  1  5  -
+           9  -  7  - 11  -  -  -  -  -  - 13
+           -  -  -  -  -  -  -  -  -  -  -  -
+           -  -  -  -  -  -  -  -  -  9  -  7
+           -  -  -  -  -  -  -  3 15  -  -  -
+  bass     -  -  -  -  -  1  5  -  -  -  -  - treble
+  strings 11  -  -  -  -  -  - 13  -  -  -  - strings
+  this     -  -  -  -  -  -  -  -  -  -  -  - this
+  side     -  -  -  -  -  9  -  7  - 11  -  - side
+           -  -  -  3 15  -  -  -  -  -  -  -
+           -  1  5  -  -  -  -  -  -  -  -  -
+           -  -  - 13  -  -  -  -  -  -  -  -
+           -  -  -  -  -  -  -  -  -  -  1  5
+           -  9  -  7  - 11  -  -  -  -  -  -
+          15  -  -  -  -  -  -  -  -  -  -  -
+           -  -  -  -  -  -  -  -  -  -  9  -
+           -  -  -  -  -  -  -  -  3 15  -  -
+           -  -  -  -  -  -  1  5  -  -  -  -
+misc:
+- Had_ID_Before_Import

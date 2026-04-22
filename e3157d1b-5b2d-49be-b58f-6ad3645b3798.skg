@@ -1,0 +1,4 @@
+title: '[[id:e117abe5-bc24-46ae-8c6e-cb33a9127df5][if nixos-rebuild isn''t building anything]]'
+pid: e3157d1b-5b2d-49be-b58f-6ad3645b3798
+body: |2-
+  it might be that the channel needs updating.

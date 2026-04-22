@@ -1,0 +1,6 @@
+title: ANY converts input data in weakly-typed tables.
+pid: 42221ef2-fabf-438d-a167-e13ea9cc82e0
+body: |2-
+  but it leaves the data unchanged in strict tables.
+  https://www.sqlite.org/stricttables.html
+  "In a STRICT table, a column of type ANY always preserves the data exactly as it is received. For an ordinary non-strict table, a column of type ANY will attempt to convert strings that look like numbers into a numeric value, and if successful will store the numeric value rather than the original string."

@@ -1,0 +1,31 @@
+title: experiments
+pid: b38a8246-7263-4310-8b94-2bf0daef770b
+body: |2-
+  #+BEGIN_SRC haskell
+  d1 $ slow 3 $ s "supergong" |*| n "-36 -24 -12 0 12 24 36"
+
+  d1 $ slow 3 $ s "supergong" |*| n "-36 -24 -12 0 12 24 36"
+    |*| sustain 0.25
+
+  d1 $ slow 3 $ s "supergong" |*| n "-36 -24 -12 0 12 24 36"
+    |*| sustain 4
+
+  d1 $ slow 3 $ s "supergong" |*| n "-36 -24 -12 0 12 24 36"
+    |*| sustain 4
+    |*| accelerate 1
+
+  d1 $ slow 3 $ s "supergong" |*| n "-36 -24 -12 0 12 24 36"
+    |*| sustain 2
+    |*| slow 3 (accelerate "-8 0 8")
+
+  d1 $ slow 3 $ s "supergong" |*| n "-36 -24 -12 0 12 24 36"
+    |*| slow 2 (decay "0.5 1.5")
+    |*| slow 4 (sustain "0.5 1.5")
+    |*| accelerate (-0.5)
+
+  d1 $ slow 2 $
+    s "supergong" |*| n "-36 -24 -12 0 12 24 36"
+    -- |*| sustain 2
+    -- |*| decay 2
+    |*| slow 5 (voice "-4 -1 0 1 4")
+  #+END_SRC

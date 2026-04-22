@@ -1,0 +1,5 @@
+title: Does clever caching to avoid re-rendering.
+pid: 790a5366-7925-4d88-aa91-d94635d71ba0
+body: |2-
+  Audio snippets are cached ala Nix.
+  GUI images are cached more simply.

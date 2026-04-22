@@ -1,0 +1,4 @@
+title: to rebuild but not switch
+pid: 095116d7-8c91-4588-adc0-5d1108bd8981
+body: |2-
+  sudo nixos-rebuild test

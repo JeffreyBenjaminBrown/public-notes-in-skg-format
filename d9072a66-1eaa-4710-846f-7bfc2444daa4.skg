@@ -1,0 +1,7 @@
+title: usage example
+pid: d9072a66-1eaa-4710-846f-7bfc2444daa4
+body: |2-
+  -- Modify the 6th integer from within nested lists:
+  >>> [[0, 1, 2], [3, 4], [5, 6, 7, 8]]
+  & elementOf (traversed . traversed) 6 *~ 100
+  [[0, 1, 2], [3, 4], [5, 600, 7, 8]]

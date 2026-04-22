@@ -1,0 +1,7 @@
+title: '{ set, [ list, both applicable to {the same,overlapping} collection'
+pid: e47430be-3e46-4193-820e-3de0cb642b56
+body: |2-
+  Associate a strength to each order.
+  The weaker, the more likely randomization.
+  Indicate with {[ and [{
+    Each symbol indicating which is shown (randomized of {) and the fact that at least one of the other kind of presentation exists. Could be {[2 if there are two lists and viewing the set, 1[2{ if viewing the first of two list orders.

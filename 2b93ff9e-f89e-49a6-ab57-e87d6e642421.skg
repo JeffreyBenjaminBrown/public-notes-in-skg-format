@@ -1,0 +1,5 @@
+title: ssh-add
+pid: 2b93ff9e-f89e-49a6-ab57-e87d6e642421
+body: |2-
+  ssh-agent bash
+  ssh-add

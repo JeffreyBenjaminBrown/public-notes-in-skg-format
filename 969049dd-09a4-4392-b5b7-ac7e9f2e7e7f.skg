@@ -1,0 +1,5 @@
+title: to type-check a file
+pid: 969049dd-09a4-4392-b5b7-ac7e9f2e7e7f
+body: |2-
+  # shell
+  idris2 --check minimal.idr

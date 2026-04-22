@@ -1,0 +1,7 @@
+title: response formats and "interpretation"
+pid: 009ca74a-4adb-492b-8978-89cf06b50c21
+body: |2-
+  https://typedb.com/docs/typedb/2.x/development/response
+  Depends on the client.
+  JSON would seem reasonable, but I skipped this section.
+  I'm not even sure what they mean by "interpretation".

@@ -1,0 +1,4 @@
+title: an incomplete method
+pid: 562aee76-cfb2-4440-a823-f5a45600dca2
+body: |2-
+  Keep a running count of which node the cursor was on. That can provide one dimension. But a node that is graph-close to another node in that list is only <some measure> farther from the user than the other node.

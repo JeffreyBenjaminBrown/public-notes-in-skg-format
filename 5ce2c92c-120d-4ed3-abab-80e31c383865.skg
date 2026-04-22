@@ -1,0 +1,9 @@
+title: How to create new behaviors.
+pid: 5ce2c92c-120d-4ed3-abab-80e31c383865
+body: |2-
+  -module(my_behaviour).
+  -export([behaviour_info/1]).
+
+  %% Here init/1, some_fun/0 and other/3 are callbacks that must be defined by any code that will use the behavior.
+  behaviour_info(callbacks) -> [{init,1}, {some_fun, 0}, {other, 3}];
+  behaviour_info(_) -> undefined.

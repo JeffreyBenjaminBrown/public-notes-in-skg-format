@@ -1,0 +1,15 @@
+title: 'PITFALL: Declaration via map literals'
+pid: d54f341f-024e-4d7d-bf53-d715b7da41c2
+body: |2-
+  They need a trailing comma,
+  and the type signature can be confusing.
+  See comments below:
+
+  var m = map [string] Vertex { // type = map string Vertex
+    "Bell Labs" : Vertex{
+            40.68433, -74.39967,
+    },
+    "Google" : Vertex{
+            37.42202, -122.08408,
+    },                          // trailing comma
+  }

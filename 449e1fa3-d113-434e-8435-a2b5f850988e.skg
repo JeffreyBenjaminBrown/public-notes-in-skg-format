@@ -1,0 +1,8 @@
+title: why
+pid: 449e1fa3-d113-434e-8435-a2b5f850988e
+body: |2-
+  Installing SC and SC3-plugins is not enough
+  to use the latter in the former.
+  That's because SC still doesn't *know* about SC3-plugins.
+  The non-NixOS remedy involves changing the installation.
+  NixOS requires something else.

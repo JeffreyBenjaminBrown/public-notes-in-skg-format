@@ -1,0 +1,4 @@
+title: grep for this
+pid: 64d43455-6ff6-42ec-9f24-e2e9d933d30c
+body: |2-
+  grep -E "a|b" -r .

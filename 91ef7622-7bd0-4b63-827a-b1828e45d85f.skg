@@ -1,0 +1,9 @@
+title: example
+pid: 91ef7622-7bd0-4b63-827a-b1828e45d85f
+body: |2-
+  ghci> [ z | y <- [[1,2],[3]], z <- y ]
+  [1,2,3]
+  ghci> [ z | z <- y, y <- [[1,2],[3]] ]
+
+  <interactive>:3:12: error: Variable not in scope: y :: [a]
+  ghci>

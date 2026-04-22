@@ -1,0 +1,9 @@
+title: the new type
+pid: 060efe30-5d1a-4211-8b4c-6de46b76efa9
+body: |2-
+  It can be like Data.Tree.Zipper, but using PointedLists (Plists).
+  The focus and its peers are represented as a PList of PTrees.
+  The ancestors are represented like in Data.Tree.Zipper:
+  each is a (reversed [PTree a]) a [PTree a].
+  Moving sideways is just a PList op.
+  Moving up or down requires converting one level between the PList and ancestor representations.

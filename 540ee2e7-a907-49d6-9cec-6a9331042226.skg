@@ -1,0 +1,4 @@
+title: options can be merged from multiple files
+pid: 540ee2e7-a907-49d6-9cec-6a9331042226
+body: |2-
+  when it makes sense -- e.g. lists, not strings

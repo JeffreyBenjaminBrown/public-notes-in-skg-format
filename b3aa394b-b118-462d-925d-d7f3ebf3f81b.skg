@@ -1,0 +1,4 @@
+title: TODO If there's a cycle, announce it everywhere
+pid: b3aa394b-b118-462d-925d-d7f3ebf3f81b
+body: |2-
+  at the top of every window except the Error window.

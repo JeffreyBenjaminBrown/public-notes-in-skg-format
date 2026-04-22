@@ -1,0 +1,5 @@
+title: I can    get the type of `ls`.
+pid: 0a53789f-cf1e-4387-a932-3efa34b0362d
+body: |2-
+  /home/jeff〉ls | describe                       10/19/2022 05:18:45 PM
+  table<name: string, type: string, size: filesize, modified: date>

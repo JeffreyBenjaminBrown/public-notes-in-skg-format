@@ -1,0 +1,10 @@
+title: what it does
+pid: df537614-3890-423c-9ae1-e349212dfd00
+body: |2-
+  It will install the contained packages (e.g. drumgizmo above)
+  normally, but also create a "metapackage"
+  containing each package listed in the `symlinkJoin` statement.
+  By listing this metapackage,
+  rather than the entire `/nix/store` path,
+  one can save software that searches for plugins (like Reaper)
+  a lot of time.

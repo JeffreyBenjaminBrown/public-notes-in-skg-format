@@ -1,0 +1,53 @@
+title: exploratory code
+pid: 711c15c3-6cd7-42e5-9285-89146d580285
+body: |2-
+   (low,high) = (333,444)
+  p1 name = mm 1 $ pre3 name [ (0, 1.5, m1 "freq" low) ]
+  p2 name = mm 1 $ pre3 name [ (0, 1.5, m1 "freq" high) ]
+
+  -- cat [p1,p2] should equal this
+  cat_p1_p2 = mm 2 $ pre3 "double" [ (0, 1, m1 "freq" low)
+                                   , (1, 2, m1 "freq" high)
+                                   ]
+
+  metronome = mm 2 $ pre3 "m" [ (0, 1, m1 "freq" 555)
+                              , (1, 2, m1 "on" 0) ]
+
+  chAll $ mfl [ ( -- Just to know what a unit of time is.
+                  "2", nBoop $ insertOns metronome
+                ) ]
+
+  chAll $ mfl [ ( -- As expected, plays two continuous notes.
+                  "1",
+                  nBoop $ insertOns $ cat [p1 "a", p2 "b"]
+                ) ]
+
+  chAll $ mfl [
+    -- Surprisingly, these are in phase: Voice 2 octave-doubles voice 1.
+    ( "1", nBoop $ insertOns $
+           cat [p1 "a", p2 "a"]
+    )
+    ,
+    ( "2", nBoop $ insertOns $
+           ops [("freq",(*2))] $ insertOns $ cat_p1_p2
+    )
+    ]
+
+  chAll $ mfl [
+    ( -- As expected, plays only one voice.
+      -- But in this:
+      --   Pr.pPrint $ insertOns $ cat [p1 "a", p2 "a"]
+      -- each note appears to last 5/2 units of time.
+      -- So how does Dispatch know to cut one off when the other starts?
+      -- And should that instead be the responsibility of `cat`,
+      -- not `dispatchLoop`?
+      "1",
+      nBoop $ insertOns $ cat [p1 "a", p2 "a"]
+    ) ]
+
+  x = nBoop $ insertOns $ cat [p1 "a", p2 "a"]
+  Pr.pPrint $ arc 0 1 0 2 x
+
+  Pr.pPrint $ arc 0 1 0 1 x
+  Pr.pPrint $ arc 0 1 0 1 $ nBoop $ insertOns cat_p1_p2
+  Pr.pPrint $ museqFrame 0 1 0 $ museq_NotesToScSends x

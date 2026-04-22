@@ -1,0 +1,13 @@
+title: garbage collection in NixOS
+aliases:
+- delete old NixOS configurations
+- NixOS / delete configs
+- NixOS / garbage collection
+- delete NixOS configs
+pid: 83b141c3-2ab2-41de-ac02-e1a0e995f574
+contains:
+- d014e570-e8da-4661-8111-01d19947e2b2
+- b3d670e9-e2ef-42ee-86aa-f1c7f49a27db
+- a3091598-a06b-4e91-9634-db16d7e53a7e
+misc:
+- Had_ID_Before_Import

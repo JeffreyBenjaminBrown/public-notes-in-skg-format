@@ -1,0 +1,2 @@
+title: When it crashed, I could not type anything into GDB. I had to run `pkill -f emacs`, whereupon GDB itself quit, so I could not ask for debugging information.
+pid: 69cbbf39-82ea-4b8c-a79b-3e4c807b5839

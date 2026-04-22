@@ -1,0 +1,14 @@
+title: example
+pid: c012c59c-f200-4756-8869-2645dc4b4882
+body: |2-
+  #+BEGIN_SRC rust
+  fn main() {
+      let args: Vec<String> = std::env::args().collect();
+
+      trpl::run(async {
+          let url = &args[1];
+          match page_title(url).await {
+              Some(title) => println!("The title for {url} was {title}"),
+              None => println!("{url} had no title"),
+          } } ) }
+  #+END_SRC

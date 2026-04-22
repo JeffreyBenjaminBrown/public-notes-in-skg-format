@@ -1,0 +1,8 @@
+title: append element(s) to a slice
+pid: dc0e36de-4f10-45dd-a15c-cb3d8a0e0be8
+body: |2-
+  func append(s []T, vs ...T) []T
+  Each v in vs is a T.
+  This can allocate a bigger array if needed.
+contains:
+- 09dcc90d-7f46-444a-90a1-dfce09c363cd

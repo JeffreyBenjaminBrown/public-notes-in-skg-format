@@ -1,0 +1,6 @@
+title: 'PITFALL: Path to the lock is distinct from path to the file it locks.'
+pid: 71d1c2c5-9154-4281-9b82-deffc6a03442
+body: |2-
+  That is, the lock is a file, separate from the file it locks.
+  The user can choose any name for it,
+  but it's probably a good idea to call it "<pack to file it locks>.lock".

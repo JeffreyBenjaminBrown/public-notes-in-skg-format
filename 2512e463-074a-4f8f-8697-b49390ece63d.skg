@@ -1,0 +1,12 @@
+title: '9\58 x 2\58: octave (6,2), 15-lim max stretch 7'
+pid: 2512e463-074a-4f8f-8697-b49390ece63d
+body: |2-
+  0  steps;  1 % 1; string 0; fret 0
+  58 steps;  2 % 1; string 6; fret 2
+  34 steps;  3 % 2; string 4; fret -1
+  19 steps;  5 % 4; string 1; fret 5
+  47 steps;  7 % 4; string 5; fret 1
+  10 steps;  9 % 8; string 0; fret 5
+  27 steps; 11 % 8; string 3; fret 0
+  41 steps; 13 % 8; string 5; fret -2
+  53 steps; 15 % 8; string 5; fret 4

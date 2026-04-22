@@ -1,0 +1,8 @@
+title: If a VS project "has no properties" to configure, "rebuild" it.
+pid: d2d04c3d-34d3-4264-b292-509cc2566810
+body: |2-
+  Even if the build fails,
+  it appears to first create a project properties (file?)
+  which can then be configured.
+misc:
+- Had_ID_Before_Import

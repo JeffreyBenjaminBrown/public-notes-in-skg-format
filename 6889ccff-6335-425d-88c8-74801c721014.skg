@@ -1,0 +1,4 @@
+title: List boot configs
+pid: 6889ccff-6335-425d-88c8-74801c721014
+body: |2-
+  ls /boot/loader/entries

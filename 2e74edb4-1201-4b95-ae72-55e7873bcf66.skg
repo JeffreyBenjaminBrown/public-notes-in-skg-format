@@ -1,0 +1,4 @@
+title: '"Nothing" looks like a train wreck.'
+pid: 2e74edb4-1201-4b95-ae72-55e7873bcf66
+body: |2-
+  "it does not have a type and is convertible to all types in the type system, including type parameters. When converted to a particular type, it is the equivalent of the default value of that type."

@@ -1,0 +1,14 @@
+title: example
+pid: fce4cb5f-efa3-4b90-88af-636933867d43
+body: |2-
+  def f():
+    x = 0
+    def g():
+      nonlocal x
+      print (x)
+      x = x+1
+    return g
+
+  g = f()
+  g() # prints 0, then modifies x
+  g() # prints 1, then modifies x

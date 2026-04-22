@@ -1,0 +1,4 @@
+title: 'ref : dependency tracking in Go, a terribly procedural explanation'
+pid: 61545d66-2397-4bfc-a7ab-ea10661cec2a
+body: |2-
+  https://golang.org/doc/tutorial/call-module-code

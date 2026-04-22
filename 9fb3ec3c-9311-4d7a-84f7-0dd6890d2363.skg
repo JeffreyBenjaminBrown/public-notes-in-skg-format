@@ -1,0 +1,7 @@
+title: creating an overriding subscriber
+pid: 9fb3ec3c-9311-4d7a-84f7-0dd6890d2363
+body: |2-
+  L begins with a subscription to F,
+  a list of content (which probably mostly duplicates F's),
+  and a list of 'hidden' nodes,
+  which begin as any content in F not in L.

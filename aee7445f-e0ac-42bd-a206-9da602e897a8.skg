@@ -1,0 +1,5 @@
+title: mute, solo, umute, unsolo
+pid: aee7445f-e0ac-42bd-a206-9da602e897a8
+body: |2-
+  `mute 1` mutes `d1` (which is a synonym for `p 1`).
+  `solo` is similar.

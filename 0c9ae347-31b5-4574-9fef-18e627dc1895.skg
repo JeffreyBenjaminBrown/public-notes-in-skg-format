@@ -1,0 +1,14 @@
+title: One can request a 'sourceward path view' at an orgnode.
+pid: 0c9ae347-31b5-4574-9fef-18e627dc1895
+body: |2-
+  This is similar to the containerward path view:
+  It inserts one new child into the node
+  for each link source that targets the node.
+  If there is only one such node,
+  it recurses by inserting a sourceward view for that node,
+  continuing until either it runs into:
+    - a cycle
+    - a 'fork': a node targeted by multiple nodes
+    - a node targeted by nothing
+  In the first two cases, the cycle or the fork is displayed
+  as the last element of the path.

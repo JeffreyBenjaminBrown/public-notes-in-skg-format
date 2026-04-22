@@ -1,0 +1,11 @@
+title: one argument
+pid: 389121fc-4fce-486c-ba5f-82eae1d509c9
+body: |2-
+  import sys
+
+  # Why these don't work as a (_ if _ else _) expression,
+  # I don't know.
+  if len (sys.argv) >= 2:
+    # Before this one is listed the program name.
+    filename = sys.argv[1]
+  else: filename = input ()

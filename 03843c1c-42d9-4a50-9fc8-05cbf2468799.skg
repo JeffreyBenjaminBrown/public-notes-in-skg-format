@@ -1,0 +1,4 @@
+title: can include a default
+pid: 03843c1c-42d9-4a50-9fc8-05cbf2468799
+body: |2-
+  ({ x = 1; y = 2; }.z or 3) == 4

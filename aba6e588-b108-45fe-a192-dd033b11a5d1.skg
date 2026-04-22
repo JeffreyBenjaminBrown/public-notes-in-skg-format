@@ -1,0 +1,5 @@
+title: Serving "standalone" static files requires an external server.
+pid: aba6e588-b108-45fe-a192-dd033b11a5d1
+contains:
+- f3304e10-8598-445d-b9bd-4bdead7e96b9
+- df1c9615-d3a3-494e-abe2-758273cd144f

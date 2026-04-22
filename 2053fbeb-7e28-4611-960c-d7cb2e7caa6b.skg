@@ -1,0 +1,13 @@
+title: This works.
+pid: 2053fbeb-7e28-4611-960c-d7cb2e7caa6b
+body: |2-
+  (defun get-parents (origin)
+    "In the table returned,
+  each row is something in the org-roam graph linking to `origin`."
+    (org-roam-db-query
+     [:select [source title]
+              :from links
+              :inner-join nodes :on (= source id)
+              :where (and (= type "id")
+                          (= dest $s1))] ;; PITFALL: mind the s in $s1
+     origin))

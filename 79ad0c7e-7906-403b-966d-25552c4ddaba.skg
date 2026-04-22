@@ -1,0 +1,6 @@
+title: '`assert` can bind variables and crash.'
+pid: 79ad0c7e-7906-403b-966d-25552c4ddaba
+body: |2-
+  assert Ok(i) = parse_int("123")
+  // If it matched, now `i` is 123.
+  // If it didn't, the assert has crashed.

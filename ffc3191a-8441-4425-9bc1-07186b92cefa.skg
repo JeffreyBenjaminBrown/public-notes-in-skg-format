@@ -1,0 +1,5 @@
+title: split
+pid: ffc3191a-8441-4425-9bc1-07186b92cefa
+body: |2-
+  In splitting a foreign node,
+  either or both results can subscribe to the original.

@@ -1,0 +1,7 @@
+title: Use my bare-.emacs file from nix/jbb-config.
+pid: 8bc938de-0eaa-41d7-a273-44e2b3697338
+body: |2-
+  Just hide the usual .emacs file and copy
+    ~/nix/jbb-config/bash/bare-.emacs
+  to ~/.emacs.
+  (Do that because there seems to be no way to load froma  different place, unless it's that of a different user, which (1) is too heavyweight a solution and (2) doesn't work when I try it.)

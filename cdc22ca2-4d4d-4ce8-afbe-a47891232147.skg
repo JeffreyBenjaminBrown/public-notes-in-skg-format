@@ -1,0 +1,5 @@
+title: recognize overlap, duplication automatically
+pid: cdc22ca2-4d4d-4ce8-afbe-a47891232147
+body: |2-
+  Don't permit duplication.
+  Report overlap.

@@ -1,0 +1,10 @@
+title: building strings
+pid: e6e9e33b-84b1-49ad-8996-ee84b1d9d462
+body: |2-
+  Make a formula using the fields and ordinary strings,
+  glued together with the + symbol, per the last line here:
+    cat ~/of/tax.co.web/paths.json | \
+      jq '.paths | to_entries | .[]
+                 | .key + "=\"" + .value + "\""'
+  (In that particular expression, the fields are called "key" and "value",
+  but surely arbitrary field names work.)

@@ -1,0 +1,6 @@
+title: TODO transpose {sustained, fingered, either keyboard}
+pid: 91897288-dd1f-43b9-bda4-0d73399b8bac
+body: |2-
+  A button to select whether keyboard transposes or not.
+  A button to select whether transposition modifies the chord
+  for the next time it is selected.

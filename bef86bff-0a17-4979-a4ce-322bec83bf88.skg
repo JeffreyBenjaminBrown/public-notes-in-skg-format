@@ -1,0 +1,23 @@
+title: experiments
+pid: bef86bff-0a17-4979-a4ce-322bec83bf88
+body: |2-
+  #+BEGIN_SRC haskell
+  setcps 0.4
+
+  d1 $ s "superpwm" |*| n "-36 -24 -12 0 12 24 36"
+
+  d1 $ slow 2 $
+    s "superpwm" |*| n "-36 -24 -12 0 12 24 36"
+    |*| voice 1
+
+  d1 $ slow 2 $
+    s "superpwm" |*| n "-36 -24 -12 0 12 24"
+    |*| semitone (-10.88)
+    -- |*| rate 33 |*| lfo 55 -- crunchy
+    |*| rate 3 |*| lfo 0.5 -- meow
+
+  d1 $ slow 2 $
+    s "superpwm" |*| n "-36 -24 -12 0 12 24"
+    |*| semitone (-10.88)
+    |*| resonance 0.9 -- bouncy, boioioioioing
+  #+END_SRC

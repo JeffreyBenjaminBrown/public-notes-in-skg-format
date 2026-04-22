@@ -1,0 +1,14 @@
+title: '51 8 3: needs a 7-string guitar but tight fret range'
+pid: 973b82c7-419e-4168-bfa2-0474c088df53
+body: |2-
+     , etrArea = 40
+     , etrLayout =
+  [ 0 steps; 1 % 1 ; string 0 ; fret 0
+  , 51 steps; 2 % 1 ; string 6 ; fret 1
+  , 30 steps; 3 % 2 ; string 3 ; fret 2
+  , 16 steps; 5 % 4 ; string 2 ; fret 0
+  , 41 steps; 7 % 4 ; string 4 ; fret 3
+  , 9 steps; 9 % 8 ; string 0 ; fret 3
+  , 23 steps; 11 % 8 ; string 1 ; fret 5
+  , 36 steps; 13 % 8 ; string 3 ; fret 4
+  , 46 steps; 15 % 8 ; string 5 ; fret 2

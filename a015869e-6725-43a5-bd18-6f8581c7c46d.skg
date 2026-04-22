@@ -1,0 +1,17 @@
+title: '`transitiveRels` resembles `HEval`'
+pid: a015869e-6725-43a5-bd18-6f8581c7c46d
+body: |2-
+  When running `transitiveRels`,
+  which fixes start and end Exprs,
+  you probably want one or the other --
+  show me each of these starts that can reach one of these ends,
+  or each end that can be reached from some start.
+  But you might want both.
+
+  It would therefore be natural to include a [Role] argument to HTrans.
+  Unlike HEval, which takes a [RolePath],
+  these "paths" are necessarily length 1,
+  and there are only two possibilities: RoleMember 1 and RoleMember 2.
+  Also, confusingly,
+  *they don't index into the members of a relationship in the graph*;
+  they index into a pair constructed by `transitiveRels`.

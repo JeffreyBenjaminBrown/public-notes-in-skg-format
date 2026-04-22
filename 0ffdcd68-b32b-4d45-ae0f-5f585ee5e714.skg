@@ -1,0 +1,5 @@
+title: (?~) can simplify insertions
+pid: 0ffdcd68-b32b-4d45-ae0f-5f585ee5e714
+body: |2-
+  It wraps the `b` in a `Just`.
+  (?~) :: Traversal s t a (Maybe b) -> b -> s -> t

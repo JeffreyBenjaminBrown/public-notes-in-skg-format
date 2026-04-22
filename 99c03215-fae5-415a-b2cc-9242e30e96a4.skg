@@ -1,0 +1,25 @@
+title: My cheesy solution,
+pid: 99c03215-fae5-415a-b2cc-9242e30e96a4
+body: |2-
+  -- | Demo: A random generation of a stream of floats.
+  random_stream_of_floats :: IO ()
+  random_stream_of_floats =
+    go $ random_sequence (0 :: Float, 1) where
+    go :: [Float] -> IO ()
+    go nums = let
+      ([randomNumber], rest) = splitAt 1 nums
+      in do putStrLn "Ready?"
+            _ <- getChar
+            putStrLn $ show randomNumber
+            go rest
+
+  random_sequence :: UniformRange a
+                  => (a, a) -> [a]
+  random_sequence (min, max) =
+    unfoldr (Just . uniformR (min, max)) myStdGen
+
+  myStdGen :: R.StdGen
+  myStdGen = mkStdGen random_seed
+
+  random_seed :: Int
+  random_seed = 7 -- Might want to change.

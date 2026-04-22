@@ -1,0 +1,4 @@
+title: 'enter the repl:'
+pid: 61267cdd-8cd4-4907-bd5b-314e4818164c
+body: |2-
+  python manage.py shell

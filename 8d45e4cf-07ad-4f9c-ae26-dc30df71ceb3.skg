@@ -1,0 +1,12 @@
+title: using "is an aspect of" and/or "[[id:7277993c-6202-4c73-b69a-56e18eb55a4e][illuminates]]" to cover a node's neighbors with a small set of relations
+pid: 8d45e4cf-07ad-4f9c-ae26-dc30df71ceb3
+body: |2-
+  I would use "[it] is an aspect of | illuminates [child]"
+  and then ask Skg to show coverings.
+  For instance, could use a small set of values
+  to cover (probably not necessarily) the other values.
+  'everything.org' does something like this already,
+  but it is a tree -- a certain small set of values
+  having been elevated (toward the root of the tree)
+  as more fundamental than those they lens onto,
+  when other sets could surely do likewise.

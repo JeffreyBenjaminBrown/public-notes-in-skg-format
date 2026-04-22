@@ -1,0 +1,5 @@
+title: 'PITFALL: it must have an associated .beam file first'
+pid: 3279adf6-dcf7-40f0-ad73-451940c0b712
+body: |2-
+  i.e. it needs to have been compiled already
+  (although not necessarily in this REPL session).

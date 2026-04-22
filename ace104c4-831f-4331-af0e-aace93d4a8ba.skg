@@ -1,0 +1,7 @@
+title: Their execution models vary.
+pid: ace104c4-831f-4331-af0e-aace93d4a8ba
+body: |2-
+  Some happen at runtime, others at compilation time,
+  and yet others work as standalone queries --
+  for instance,
+  "information about the columns in an index can be read using the index_info pragma as follows: PRAGMA index_info('idx52');"

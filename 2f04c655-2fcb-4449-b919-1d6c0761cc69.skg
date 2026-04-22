@@ -1,0 +1,4 @@
+title: in the console
+pid: 2f04c655-2fcb-4449-b919-1d6c0761cc69
+body: |2-
+  transaction typedb data read --infer true

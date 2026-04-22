@@ -1,0 +1,6 @@
+title: type def
+pid: ddc67abd-893d-4e54-874d-c58aff7f6f8c
+body: |2-
+  Fin : Nat -> Type where
+    FZ : Fin (S k)
+    FS : Fin k -> Fin (S k)

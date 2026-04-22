@@ -1,0 +1,10 @@
+title: to avoid the "detached head" status in a submodule
+pid: f3c45d73-30ab-47d3-b177-0779126de8fa
+body: |2-
+  https://stackoverflow.com/questions/18770545/why-is-my-git-submodule-head-detached-from-master/55570998#55570998
+  Add a "update = merge" line to the configuration of that submodule in `.gitmodules`.
+  This somehow overrides the default behavior of git submodules,
+  which is to be associated
+  (in the submodule, not just the supermodule)
+  with a commit rather than a branch.
+  (Another choice is "update = rebase", which sounds scary.)

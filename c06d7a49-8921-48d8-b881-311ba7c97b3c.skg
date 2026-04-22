@@ -1,0 +1,4 @@
+title: '[[id:da25bd69-a967-4393-bfa7-817f4c7eaa47][EC2]], esp. how to launch a virtual machine'
+pid: c06d7a49-8921-48d8-b881-311ba7c97b3c
+body: |2-
+  EC2 is the raw virtual machine system. One can use it alone, or via one of the higher-level systems it underpins, like Lightsail.

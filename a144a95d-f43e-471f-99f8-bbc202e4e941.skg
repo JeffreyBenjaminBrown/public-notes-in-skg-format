@@ -1,0 +1,4 @@
+title: 'PITFALL: don''t use a forward slash after the submodule name'
+pid: a144a95d-f43e-471f-99f8-bbc202e4e941
+body: |2-
+  when running "git add submodule"

@@ -1,0 +1,4 @@
+title: Each herald should have a color.
+pid: 69c7d738-aa14-4905-bc5d-a9711292048e
+body: |2-
+  Two of the same color, if adjacent, should be separated by space.

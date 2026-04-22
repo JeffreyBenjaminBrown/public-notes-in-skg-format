@@ -1,0 +1,6 @@
+title: It's useful from within shell apps.
+pid: 32376cab-7528-43eb-b800-64b49159390c
+body: |2-
+  e.g. if from tmux you enter a Bash shell in a Docker container,
+  the `tmux` commands will be meaningless to the Dockerized Bash,
+  but the tmux prompt will still work.

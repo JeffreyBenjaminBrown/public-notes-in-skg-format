@@ -1,0 +1,9 @@
+title: find-grep
+pid: 64e4a0e8-1cf3-4edc-9c51-237ad1a8efeb
+body: |2-
+  = Find files in a folder, grep for a term in them.
+contains:
+- fb67dabf-f729-467e-a331-21c36a3d8c2b
+- b0b16d1f-105b-4825-b020-d04cb24d3649
+misc:
+- Had_ID_Before_Import

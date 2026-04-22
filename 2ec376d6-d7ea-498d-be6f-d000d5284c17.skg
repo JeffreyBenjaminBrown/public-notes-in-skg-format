@@ -1,0 +1,8 @@
+title: example
+pid: 2ec376d6-d7ea-498d-be6f-d000d5284c17
+body: |2-
+  JBB_AWS_HOST=35.175.120.10
+  JBB_AWS_USER=ubuntu
+    (or ec2-user, if using Amazon Linux)
+  JBB_AWS_PEM=~/super/secret/path.pem
+  ssh -i $JBB_AWS_PEM $JBB_AWS_USER@$JBB_AWS_HOST

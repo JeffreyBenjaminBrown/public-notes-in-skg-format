@@ -1,0 +1,4 @@
+title: mount|unmount a drive via a GUI
+pid: 89478360-ad37-43c3-be0f-34955ee5d898
+body: |2-
+  Use [[id:c2532854-3f04-4267-91ba-062275b3c2ee][gnome-disk-utility]].

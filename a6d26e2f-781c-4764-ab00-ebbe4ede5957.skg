@@ -1,0 +1,25 @@
+title: some sample Haddock-commented Haskell
+pid: a6d26e2f-781c-4764-ab00-ebbe4ede5957
+body: |2-
+  -- Try folding and unfolding this stuff.
+
+  -- * 1
+  -- ** 11
+        a
+  -- ** 12
+  -- * 2
+       a
+  -- ** 21
+  -- *** 211
+         a
+  -- *** 212
+  -- ** 22
+        a
+  -- * 3
+       a
+  -- ** 31
+  -- *** 311
+         a
+  -- *** 312
+  -- ** 32
+        a

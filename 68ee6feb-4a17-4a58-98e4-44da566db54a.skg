@@ -1,0 +1,7 @@
+title: to activate it
+pid: 68ee6feb-4a17-4a58-98e4-44da566db54a
+body: |2-
+  nix-shell -p python3 --command "python -m venv .venv --copies"
+  PS1="[nix @ \W ] "   # Shorten the prompt
+  source .venv/bin/activate
+  pip3 install  --upgrade -r requirements.txt

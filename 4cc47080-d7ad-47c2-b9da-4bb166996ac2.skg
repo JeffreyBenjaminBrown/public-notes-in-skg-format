@@ -1,0 +1,10 @@
+title: +{+ could be abbreviated to +
+pid: 4cc47080-d7ad-47c2-b9da-4bb166996ac2
+body: |2-
+  Both would mean '
+  this node is new, just like its containment here'.
+  example:
+    * a
+    ** +{+ b
+  means the node 'b' is new,
+  and so is the fact that it is now a child of 'a'.

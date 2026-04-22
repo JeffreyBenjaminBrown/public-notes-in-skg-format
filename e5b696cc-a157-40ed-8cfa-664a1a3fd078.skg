@@ -1,0 +1,4 @@
+title: Whenever I quit, I get this error message.
+pid: e5b696cc-a157-40ed-8cfa-664a1a3fd078
+body: |2-
+  <interactive>: threadWait: invalid argument (Bad file descriptor)

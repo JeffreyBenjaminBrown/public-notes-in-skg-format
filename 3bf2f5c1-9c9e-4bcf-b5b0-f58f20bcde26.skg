@@ -1,0 +1,14 @@
+title: This module defines Foo.X.test and Foo.Y.test
+pid: 3bf2f5c1-9c9e-4bcf-b5b0-f58f20bcde26
+body: |2-
+  module Foo
+
+  namespace X
+    export
+    test : Int -> Int
+    test x = x * 2
+
+  namespace Y
+    export
+    test : String -> String
+    test x = x ++ x

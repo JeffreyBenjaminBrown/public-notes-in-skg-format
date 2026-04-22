@@ -1,0 +1,6 @@
+title: applies to coding
+pid: 5dbdbeba-e869-409f-a6d7-01475467c4d7
+body: |2-
+  For instance, in SKG there is a server and a client. I tried to make the API handle more complexity than necessary when receiving the document from Emacs -- it would convey the cursor position, the folded state, maybe other stuff. That was unnecessary, and made closing the cycle difficult.
+
+  More generally, ask what the bare minimum necessary would be to get the app's parts to work together. Find a way to make that *extensible* in the later directions I want, but don't actually extend in those directions before integrating. Even if the app would be absolute garbage without a given feature, if the feature is not necessary for integration, leave it out until after integration works.

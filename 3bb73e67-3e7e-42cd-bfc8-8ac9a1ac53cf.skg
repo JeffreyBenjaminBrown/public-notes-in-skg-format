@@ -1,0 +1,8 @@
+title: demo
+pid: 3bb73e67-3e7e-42cd-bfc8-8ac9a1ac53cf
+body: |2-
+  #+BEGIN_SRC haskell
+  d1 $ s "bd(3,8) drum*4"
+
+  xfadeIn 1 8 $ s "arpy*8" # n (run 8)
+  #+END_SRC

@@ -1,0 +1,5 @@
+title: Build a LAMP (linux, apache http, mysql, and a language) web app
+pid: a4dae741-3844-4711-868c-74b210f2165f
+body: |2-
+  https://aws.amazon.com/getting-started/projects/launch-lamp-web-app/
+  https://lightsail.aws.amazon.com/ls/docs/en_us/articles/amazon-lightsail-tutorial-launching-and-configuring-lamp

@@ -1,0 +1,4 @@
+title: to install everything in a program's import statements
+pid: 4c4cc321-804a-43e3-a41f-2cea5df9b4a2
+body: |2-
+  go mod tidy

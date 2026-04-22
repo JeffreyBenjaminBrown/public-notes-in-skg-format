@@ -1,0 +1,7 @@
+title: Many (most?) of my notes for this section are in the code
+pid: 54fcaf34-e691-4bc6-b301-b32a68fff3f0
+body: |2-
+  Specifically in
+    polls/urls.py
+    polls/views.py
+    polls/templates/polls/*.html

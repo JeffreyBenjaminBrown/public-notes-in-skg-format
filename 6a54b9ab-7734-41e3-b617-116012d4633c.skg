@@ -1,0 +1,2 @@
+title: 'PITFALL: Regular expression search is not per cell, but per newline-separated string within cell.'
+pid: 6a54b9ab-7734-41e3-b617-116012d4633c

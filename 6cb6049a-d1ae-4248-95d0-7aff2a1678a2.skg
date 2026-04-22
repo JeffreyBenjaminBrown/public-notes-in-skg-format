@@ -1,0 +1,5 @@
+title: 'PITFALL: By default this is always enabled for razor edits.'
+pid: 6cb6049a-d1ae-4248-95d0-7aff2a1678a2
+body: |2-
+  If that's not wanted, disable
+    Options / Always trim content behind razor edits

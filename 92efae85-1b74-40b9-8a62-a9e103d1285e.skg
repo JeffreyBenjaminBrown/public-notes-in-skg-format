@@ -1,0 +1,5 @@
+title: 'to handle events: gen_event:notify'
+pid: 92efae85-1b74-40b9-8a62-a9e103d1285e
+body: |2-
+  gen_event:notify( EventManager, Event )
+  It calls handle_event(Event, State) for each handler.

@@ -1,0 +1,7 @@
+title: Maybe don't start new roots.
+pid: 2332492e-df54-4ac9-99d2-591635826dc2
+body: |2-
+  Instead, start from inside a document,
+  and then maybe add contexts and separate it.
+contains:
+- 47002a77-51ac-4121-88ff-077aa3830b37

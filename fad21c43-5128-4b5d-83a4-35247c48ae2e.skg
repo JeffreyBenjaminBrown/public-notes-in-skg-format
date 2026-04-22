@@ -1,0 +1,7 @@
+title: filtered is unlawful
+pid: fad21c43-5128-4b5d-83a4-35247c48ae2e
+body: |2-
+  >>> 2 & filtered even %~ (+1) & filtered even %~ (*10)
+  3
+  >>> 2 & filtered even %~ (*10) . (+1)
+  30

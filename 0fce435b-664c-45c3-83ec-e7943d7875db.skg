@@ -1,0 +1,6 @@
+title: demo
+pid: 0fce435b-664c-45c3-83ec-e7943d7875db
+body: |2-
+  #+BEGIN_SRC haskell
+    d1 $ fast 4 $ trunc (1/2) $ s "bd sn"
+  #+END_SRC

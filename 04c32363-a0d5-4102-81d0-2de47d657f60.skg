@@ -1,0 +1,4 @@
+title: create a superuser (offline)
+pid: 04c32363-a0d5-4102-81d0-2de47d657f60
+body: |2-
+  python manage.py createsuperuser

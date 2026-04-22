@@ -1,0 +1,5 @@
+title: why I think it's curretly wasteful
+pid: 0e4d1564-ede0-46fe-abb5-9191ae852661
+body: |2-
+  See, e.g., this type signature:
+  boopMsg :: Msg -> [Msg' BoopParams]

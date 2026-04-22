@@ -1,0 +1,4 @@
+title: Configuring wsgi
+pid: 3d66be0c-e4b2-4d54-8fe3-1ca22a040a5a
+body: |2-
+  https://modwsgi.readthedocs.io/en/develop/user-guides/quick-configuration-guide.html#delegation-to-daemon-process

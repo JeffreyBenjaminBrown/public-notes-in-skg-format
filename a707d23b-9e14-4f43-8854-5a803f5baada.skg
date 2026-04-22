@@ -1,0 +1,4 @@
+title: '> sequenceAOf id        [ZipList [1, 2], ZipList [3, 4]]'
+pid: a707d23b-9e14-4f43-8854-5a803f5baada
+body: |2-
+  [ZipList {getZipList = [1,2]},ZipList {getZipList = [3,4]}]

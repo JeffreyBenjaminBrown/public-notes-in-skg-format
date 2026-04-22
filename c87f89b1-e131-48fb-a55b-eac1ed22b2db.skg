@@ -1,0 +1,6 @@
+title: Use JoinHandle.join() to ensure a thread finishes.
+pid: c87f89b1-e131-48fb-a55b-eac1ed22b2db
+contains:
+- 8e5e3fb5-826f-452a-94da-7400f34a8fc1
+- 3b6aedfa-33d2-4d9f-b02a-f6cfc84cd9ae
+- b23cf153-4b7e-418d-bd04-f0a4fe9b3e43

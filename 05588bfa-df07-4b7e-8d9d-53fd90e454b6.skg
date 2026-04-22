@@ -1,0 +1,5 @@
+title: works already in my config
+pid: 05588bfa-df07-4b7e-8d9d-53fd90e454b6
+body: |2-
+  mkdir iphone
+  ifuse iphone

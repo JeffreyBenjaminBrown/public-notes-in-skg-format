@@ -1,0 +1,4 @@
+title: return an HttpResponse
+pid: 55eca46a-038f-4a26-9d1b-19480c3cbf97
+body: |2-
+  which contains  the content for the requested page

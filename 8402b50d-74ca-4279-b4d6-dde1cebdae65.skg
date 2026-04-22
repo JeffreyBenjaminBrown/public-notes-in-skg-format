@@ -1,0 +1,7 @@
+title: run Emacs in terminal, without opening an X window
+pid: 8402b50d-74ca-4279-b4d6-dde1cebdae65
+body: |2-
+  emacs -nw
+  emacs -nw --no-init-file
+misc:
+- Had_ID_Before_Import

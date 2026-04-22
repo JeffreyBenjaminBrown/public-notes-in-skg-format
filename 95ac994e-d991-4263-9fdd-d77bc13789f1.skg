@@ -1,0 +1,8 @@
+title: 'PITFALL: I disabled baloo'
+pid: 95ac994e-d991-4263-9fdd-d77bc13789f1
+body: |2-
+  If the app runner stops working that might be why.
+  But then I installed an app (`cmatrix`) vis NixOS,
+  and it still worked.
+misc:
+- Had_ID_Before_Import

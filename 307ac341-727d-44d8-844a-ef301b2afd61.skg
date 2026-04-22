@@ -1,0 +1,5 @@
+title: 'PITFALL: Relative paths in strings are treated differently'
+pid: 307ac341-727d-44d8-844a-ef301b2afd61
+body: |2-
+  From a string, Nix will parse the path relative to the temp directory it makes for building.
+  Outside of a string, Nix parses it relative to the current directory.

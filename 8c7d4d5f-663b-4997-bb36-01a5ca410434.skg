@@ -1,0 +1,6 @@
+title: a function in a type signature
+pid: 8c7d4d5f-663b-4997-bb36-01a5ca410434
+body: |2-
+  mkSingle : (x : Bool) -> isSingleton x
+  mkSingle True = 0
+  mkSingle False = []

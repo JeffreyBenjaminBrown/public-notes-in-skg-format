@@ -1,0 +1,14 @@
+title: run Emacs under GDB
+aliases:
+- GDB, how to run Emacs under
+- Emacs & GDB
+- GDB & Emacs
+- emacs & gdb
+- gdb & emacs
+pid: b2f2afd9-4d20-454f-9c61-8974ef675c24
+contains:
+- 2ba3fb59-5e9a-4b24-b192-46565ad78c3d
+- e84dfe79-5005-4825-a385-eb81d5f873e8
+- 0476ecb1-1dd8-438f-9d3f-5b5cbb5156e0
+misc:
+- Had_ID_Before_Import

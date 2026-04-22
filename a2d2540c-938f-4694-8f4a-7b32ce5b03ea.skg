@@ -1,0 +1,6 @@
+title: how did you find this URL?
+pid: a2d2540c-938f-4694-8f4a-7b32ce5b03ea
+body: |2-
+  ```
+  nix-shell https://github.com/JeffreyBenjaminBrown/nixpkgs/archive/2bbd131811991bec9ae6b296b5cd1441640c306c.tar.gz -A serialosc --pure
+  ```

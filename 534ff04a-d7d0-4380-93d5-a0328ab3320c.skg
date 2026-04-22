@@ -1,0 +1,5 @@
+title: why it failed
+pid: 534ff04a-d7d0-4380-93d5-a0328ab3320c
+body: |2-
+  Juce is required by the source code itself --
+  it's included in the header for Main.h.

@@ -1,0 +1,5 @@
+title: 'PITFALL: not just for Emacs'
+pid: fb67dabf-f729-467e-a331-21c36a3d8c2b
+body: |2-
+  It is an Emacs command.
+  But [[id:b0b16d1f-105b-4825-b020-d04cb24d3649][the script it uses]] works in Bash.

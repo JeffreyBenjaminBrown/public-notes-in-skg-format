@@ -1,0 +1,4 @@
+title: whereis(Name)
+pid: 8c30ae69-934b-4f50-a51a-f54788c38cc7
+body: |2-
+  Returns the pid registered under Name, or undefined if the name is  not registered.

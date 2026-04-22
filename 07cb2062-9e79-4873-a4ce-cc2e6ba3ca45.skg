@@ -1,0 +1,7 @@
+title: if the `sc3-plugins` link(s) break(s)
+pid: 07cb2062-9e79-4873-a4ce-cc2e6ba3ca45
+body: |2-
+  That's never happened before.
+  But it probably happens if I rebuild sc3-plugins in a new place.
+  Find all the places called sc3-plugins,
+  and (probably) use the most recent.

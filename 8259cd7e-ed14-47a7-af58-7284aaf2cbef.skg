@@ -1,0 +1,5 @@
+title: '`let else` is shorthand for `match` that exits if no match'
+pid: 8259cd7e-ed14-47a7-af58-7284aaf2cbef
+contains:
+- 5e568396-706d-4937-a898-2ec7c5905f5e
+- c0bc0f91-d497-488d-8bd0-4d9263cb9d76

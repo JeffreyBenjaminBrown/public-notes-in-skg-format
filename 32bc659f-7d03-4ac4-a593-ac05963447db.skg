@@ -1,0 +1,7 @@
+title: Use `where` to clean up signatures with complex trait bounds.
+pid: 32bc659f-7d03-4ac4-a593-ac05963447db
+body: |2-
+  equivalent alternatives
+contains:
+- 8b339ea4-3c41-47e9-83ec-f46d3b6b1c7c
+- 2b2cdef7-48bb-4793-ac59-fc33a058affa

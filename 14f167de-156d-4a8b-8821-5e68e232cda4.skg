@@ -1,0 +1,4 @@
+title: '"If t is a record type with of t1..tn and v a record of terms v1..vn: ⋀ check(ti, vi)"'
+pid: 14f167de-156d-4a8b-8821-5e68e232cda4
+body: |2-
+  Does order matter?

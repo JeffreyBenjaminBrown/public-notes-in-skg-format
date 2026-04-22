@@ -1,0 +1,6 @@
+title: traversal optics generalize Traversable
+pid: 3ecaf513-c0df-40d9-88a4-c05a0366eed6
+body: |2-
+  "Traversals give us a way to sequence effects from ANY possible focus of a structure, not just those values focused by the Traversable instance!"
+contains:
+- fa1aec7e-2b06-4fa3-b34b-af69d4b6aec6

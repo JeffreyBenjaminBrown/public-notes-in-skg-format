@@ -1,0 +1,5 @@
+title: type alias
+pid: 5936bf23-6a57-482a-9556-0452ecfa84c1
+body: |2-
+  pub type Headers =
+    List(#(String, String))

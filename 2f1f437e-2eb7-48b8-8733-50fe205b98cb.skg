@@ -1,0 +1,4 @@
+title: type synonyms
+pid: 2f1f437e-2eb7-48b8-8733-50fe205b98cb
+body: |2-
+  Type synonyms in Idris are created by writing a function. When setting the visibility for a module, it is usually a good idea to public export all type synonyms if they are to be used outside the module. Otherwise, Idris won’t know what the synonym is a synonym for.

@@ -1,0 +1,7 @@
+title: '!-notation can be faster than do-notation.'
+pid: 1a6241d4-6bd1-49da-b17a-0ece3aa3113d
+body: |2-
+  And I don't get it.
+  https://idris2.readthedocs.io/en/latest/tutorial/interfaces.html#notation
+misc:
+- Had_ID_Before_Import

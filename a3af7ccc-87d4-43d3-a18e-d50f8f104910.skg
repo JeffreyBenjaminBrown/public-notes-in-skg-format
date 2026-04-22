@@ -1,0 +1,34 @@
+title: .claude/settings.json
+pid: a3af7ccc-87d4-43d3-a18e-d50f8f104910
+body: |2-
+     # See the line with "git-guard.sh"
+  {
+    "hooks": {
+      "Stop": [
+        {
+          "matcher": "",
+          "hooks": [
+            {
+              "type": "command",
+              "command": "/home/sound/play-beep.sh"
+            }
+          ]
+        }
+      ],
+      "PreToolUse": [
+        {
+          "matcher": "Bash",
+          "hooks": [
+            {
+              "type": "command",
+              "command": "/home/ubuntu/.claude/hooks/git-guard.sh"
+            }
+          ]
+        }
+      ]
+    },
+    "alwaysThinkingEnabled": true,
+    "enabledPlugins": {
+      "rust-analyzer-lsp@claude-plugins-official": true
+    }
+  }

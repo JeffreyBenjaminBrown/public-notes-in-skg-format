@@ -1,0 +1,17 @@
+title: the algorithm, from the bottom up
+pid: 0901776c-b42d-42b4-9edf-106a1b8fb60e
+body: |2-
+  If the node has a next sibling, that one.
+  Otherwise if there is a
+    parent with a
+    next sibling with a
+    child, return the first such child.
+  Else if there is a
+    grandparent with a
+    next sibling with a
+    child with a
+    child, the first such grandchild.
+  Etc. until exhausting the forest.
+  If no such node is found,
+    then go to the first node at the next depth,
+    starting from the root and traversing each first child.

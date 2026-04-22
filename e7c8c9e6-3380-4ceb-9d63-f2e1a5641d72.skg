@@ -1,0 +1,5 @@
+title: the goal
+pid: e7c8c9e6-3380-4ceb-9d63-f2e1a5641d72
+body: |2-
+  Don't use borg for .wav (and .mp3?) files from there.
+  Instead, rclone the whole thing into the SSD.

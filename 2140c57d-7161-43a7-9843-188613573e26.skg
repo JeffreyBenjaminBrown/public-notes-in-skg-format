@@ -1,0 +1,4 @@
+title: only if using UEFI
+pid: 2140c57d-7161-43a7-9843-188613573e26
+body: |2-
+  sudo mkfs.fat -F 32 -n boot /dev/sdap3

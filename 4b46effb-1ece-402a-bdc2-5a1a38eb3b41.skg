@@ -1,0 +1,9 @@
+title: My `~/ugh/une/code-ish/` might be confusing
+pid: 4b46effb-1ece-402a-bdc2-5a1a38eb3b41
+body: |2-
+  There are symlinks into that from, at least, these places:
+    ~/.ssh
+    ~/.aws
+    ~/code/web/aws/secret
+  I *think* restoring from Borg will handle those cases correctly,
+  but have not tested it.

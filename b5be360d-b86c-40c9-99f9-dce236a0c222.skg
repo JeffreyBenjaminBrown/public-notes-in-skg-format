@@ -1,0 +1,8 @@
+title: '[#A] I made *amazing* code for this.'
+pid: b5be360d-b86c-40c9-99f9-dce236a0c222
+body: |2-
+  jeff@jbb-hp17:gauge-freq$ pwd
+  /home/jeff/code/music/gauge-freq
+  jeff@jbb-hp17:gauge-freq$ git remote -v
+  origin  git@github.com:JeffreyBenjaminBrown/gauge-freq.git (fetch)
+  origin  git@github.com:JeffreyBenjaminBrown/gauge-freq.git (push)

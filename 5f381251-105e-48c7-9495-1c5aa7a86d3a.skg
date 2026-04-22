@@ -1,0 +1,7 @@
+title: two ways to normalize a selection of items at once
+pid: 5f381251-105e-48c7-9495-1c5aa7a86d3a
+body: |2-
+  One is to give them "common gain".
+  In this case, only the one with the loudest peak will reach maximum volume
+    (at some point).
+  The other is not to do that, in which case they all do (at some point).

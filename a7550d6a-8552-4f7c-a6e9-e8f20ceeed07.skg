@@ -1,0 +1,4 @@
+title: Each [] lasts as long as a single "event" in a pattern.
+pid: a7550d6a-8552-4f7c-a6e9-e8f20ceeed07
+body: |2-
+  So in "x [y z]" the x lasts as long as the [y z].

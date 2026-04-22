@@ -1,0 +1,12 @@
+title: 'NixOS packages: find, create, build, install, uninstall, publish'
+pid: 52b7a722-8591-4f9b-a290-cccd1639e565
+contains:
+- 8a75b45a-a5c9-47fb-8f44-6828b7cd484b
+- 6521ce78-b43a-4f78-9728-1e78bd5f6548
+- d21f958a-ec0e-4d6c-97e3-c8ace485cf88
+- 7025a8a8-18d0-4bc5-a23c-ab59affa32ca
+- df246602-962c-459c-ab95-fa13a370a50a
+- 70016728-4ffc-48a8-afa7-041d01601f15
+- 1b122f5c-0748-458e-b38b-54f4a0b3aeff
+misc:
+- Had_ID_Before_Import

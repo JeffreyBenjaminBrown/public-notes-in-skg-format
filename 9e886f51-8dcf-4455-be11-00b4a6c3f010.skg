@@ -1,0 +1,5 @@
+title: one for how to build each orgnode kind
+pid: 9e886f51-8dcf-4455-be11-00b4a6c3f010
+body: |2-
+  Functions rather than types seem sufficient here.
+  I don't think they ever need to know about orgnode neighbors.

@@ -1,0 +1,16 @@
+title: rendering
+pid: 218ff600-a5cb-496b-9527-1ea7c48333ce
+body: |2-
+  One can fetch the template explicitly or implicitly:
+
+    def index(request):
+      latest_question_list = Question.objects.order_by('-pub_date')[:5]
+      context = { 'latest_question_list': latest_question_list }
+
+      # fetch the template implicitly
+      return render(request, 'polls/index.html', context)
+
+      # equivalent: fetch and render from the template explicitly
+      template = loader.get_template('polls/index.html')
+      return HttpResponse(
+        template.render(context, request))

@@ -1,0 +1,7 @@
+title: The part about proxies might be important.
+pid: d7382165-779c-431a-a9cb-fdfa222c5a7b
+body: |2-
+  The guide recommends doing something like this:
+  httpc:set_options([{proxy, {{"www-proxy.mycompany.com", 8000},
+  ["localhost"]}}]).
+  I didn't. Maybe that's why I got authenticity warnings.

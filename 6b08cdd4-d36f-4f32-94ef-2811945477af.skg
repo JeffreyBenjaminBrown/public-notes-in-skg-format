@@ -1,0 +1,7 @@
+title: representation
+pid: 6b08cdd4-d36f-4f32-94ef-2811945477af
+body: |2-
+  [ (X, QFind <child of Zeus> )
+  , (Y, QFind <child of Hera> )
+  , (Z, QForSome [Y] $ QAnd [ QFind <child of Y>
+                            , QForAll [X] $ QTest <Y /= X> ] ) ]

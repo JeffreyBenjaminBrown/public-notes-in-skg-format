@@ -1,0 +1,7 @@
+title: I'd like indentation here* to be independent of sequence.
+pid: 1481b05a-dddd-412d-98e0-6d73510aee3c
+body: |2-
+  (*) [[id:de1ea80f-f8f5-4975-885d-d61c0cd218a7][here]]
+  Warning: Don't put that link in the title, for org-roam to work.
+misc:
+- Had_ID_Before_Import

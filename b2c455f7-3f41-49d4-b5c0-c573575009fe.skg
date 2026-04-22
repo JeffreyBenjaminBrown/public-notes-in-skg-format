@@ -1,0 +1,29 @@
+title: Which EDO to use is a judgment call.
+pid: b2c455f7-3f41-49d4-b5c0-c573575009fe
+body: |2-
+  When choosing an edo,
+  you must decide how closely you need to approximate each ratio.
+  (The answer might be not at all --
+  some musicians care more about other qualities
+  -- but if so this essay probably has little for you.)
+
+  You also need to decide how much you care about which primes.
+  (This is the "which limit to use" question mentioned earlier.)
+  Most musicians seem to care more about the lower primes.
+  This is probably because a given amount of error sounds 'worse'
+  when a lower harmonic is approximated with that much error.
+  For instance, being 20 cents off at the third harmonic sounds much worse
+  than being 20 cents off at the 13th harmonic.
+
+  11 and 13 sound *much* stranger than 3, 5 or even 7.
+  Familiar 12-tone music doesn't reach past prime 5
+  (and doesn't do a great job approximating 5).
+
+  Each new prime introduces new colors ... up to a point.
+  For me the novelty stops at 13.
+  17:16 sounds so much like 16:15 that
+  I'm happy to give it up in exchange for a simpler system.
+  19:16 sounds similar to but worse than 6:5.
+  23:16 is only ten cents from 10:7.
+  And harmonics higher than 23 I can't even hear,
+  let alone distinguish from simpler ratios.

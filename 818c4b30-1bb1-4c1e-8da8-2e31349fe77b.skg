@@ -1,0 +1,5 @@
+title: cast
+pid: 818c4b30-1bb1-4c1e-8da8-2e31349fe77b
+body: |2-
+  come from gen_statem:cast(ServerRef, Msg).
+  Msg becomes the event content.

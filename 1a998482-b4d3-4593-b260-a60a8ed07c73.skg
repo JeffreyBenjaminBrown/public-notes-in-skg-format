@@ -1,0 +1,11 @@
+title: If (<-c) is an argument to a function, the whole function evaluates.
+pid: 1a998482-b4d3-4593-b260-a60a8ed07c73
+body: |2-
+  Example: If main's last line is
+    ch <- "Bye!"
+  and that correspond's to some goroutine's
+    fmt.Printf ( <- ch )
+  then before main exits,
+  the goroutine will print "Bye!"
+misc:
+- Had_ID_Before_Import

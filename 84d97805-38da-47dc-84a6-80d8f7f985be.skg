@@ -1,0 +1,5 @@
+title: '"Pool MIDI source data when pasting or duplicating media items"'
+pid: 84d97805-38da-47dc-84a6-80d8f7f985be
+body: |2-
+  means that editing something will also edit clips duplicated from it,
+  and *defaults to enabled*.

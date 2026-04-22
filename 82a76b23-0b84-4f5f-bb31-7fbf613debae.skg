@@ -1,0 +1,5 @@
+title: Lots of hot-swappability.
+pid: 82a76b23-0b84-4f5f-bb31-7fbf613debae
+body: |2-
+  The definition of a class -- even its parent! -- can be changed while a program is running.
+  One instance of a class can be swapped for another, and all (references and?) back-references will change accordingly.

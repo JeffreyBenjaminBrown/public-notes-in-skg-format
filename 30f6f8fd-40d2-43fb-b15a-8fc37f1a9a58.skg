@@ -1,0 +1,4 @@
+title: How to strip null values from a file.
+pid: 30f6f8fd-40d2-43fb-b15a-8fc37f1a9a58
+body: |2-
+  tr < file-with-nulls -d '\000' > file-without-nulls

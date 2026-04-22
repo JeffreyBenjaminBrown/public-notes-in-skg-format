@@ -1,0 +1,7 @@
+title: 'basic syntax: create, send, receive'
+pid: f4525c4a-e302-44e3-8672-7ef9a5077b42
+body: |2-
+  ch := make(chan int) // Create a channel.
+  ch <- v              // Send v to channel ch.
+  v := <-ch            // Receive from ch, assign value to v.
+  x, y := <-c, <-c     // Receive from c twice, assign to two vars.

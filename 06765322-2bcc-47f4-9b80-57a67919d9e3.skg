@@ -1,0 +1,9 @@
+title: How many Spark Cards do I have?
+pid: 06765322-2bcc-47f4-9b80-57a67919d9e3
+body: |2-
+  lengthOf
+  ( folded -- Fold over each card
+  . aura
+   -- Select the 'aura'
+  . filtered (== Spark) ) -- Filter for only Spark auras
+  deck

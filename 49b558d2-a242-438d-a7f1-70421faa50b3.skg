@@ -1,0 +1,10 @@
+title: This does not need to mean they block the view of other rooty nodes backpathward from them.
+pid: 49b558d2-a242-438d-a7f1-70421faa50b3
+body: |2-
+  For instance, content C might be contained in root R,
+  and also at the end of a contentward path from root R'
+    (the path needn't end at a leaf)
+  such that a link to R appears along that path.
+  Thus looking containerward from C,
+    we see both R and R' in its ancestors,
+    even though R can be thought of as preceding R' in the ancestry.

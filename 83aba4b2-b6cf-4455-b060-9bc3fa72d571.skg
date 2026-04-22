@@ -1,0 +1,21 @@
+title: 31-lim layout
+pid: 83aba4b2-b6cf-4455-b060-9bc3fa72d571
+body: |2-
+  > Pr.pPrint $ bestLayout' 31 58 15 4
+  [ 0 steps; 1 % 1 ; string 0 ; fret 0
+  , 58 steps; 2 % 1 ; string 2 ; fret 7
+  , 34 steps; 3 % 2 ; string 2 ; fret 1
+  , 19 steps; 5 % 4 ; string 1 ; fret 1
+  , 47 steps; 7 % 4 ; string 1 ; fret 8
+  , 10 steps; 9 % 8 ; string - 2 ; fret 10
+  , 27 steps; 11 % 8 ; string 1 ; fret 3
+  , 41 steps; 13 % 8 ; string 3 ; fret - 1
+  , 53 steps; 15 % 8 ; string 3 ; fret 2
+  , 5 steps; 17 % 16 ; string - 1 ; fret 5
+  , 14 steps; 19 % 16 ; string - 2 ; fret 11
+  , 23 steps; 21 % 16 ; string 1 ; fret 2
+  , 30 steps; 23 % 16 ; string 2 ; fret 0
+  , 37 steps; 25 % 16 ; string 3 ; fret - 2
+  , 44 steps; 27 % 16 ; string 0 ; fret 11
+  , 50 steps; 29 % 16 ; string 2 ; fret 5
+  , 55 steps; 31 % 16 ; string 1 ; fret 10

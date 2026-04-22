@@ -1,0 +1,6 @@
+title: query
+pid: 21bf9faa-654c-461a-8814-bc5213e4a7b6
+body: |2-
+  X <- every child of Zeus
+  Y <- every child of Hera
+  Z <- every child of some Y s.t. for all X, X /= Y

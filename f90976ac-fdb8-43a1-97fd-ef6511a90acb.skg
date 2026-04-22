@@ -1,0 +1,5 @@
+title: TODO try movig /opt/typedb*
+pid: f90976ac-fdb8-43a1-97fd-ef6511a90acb
+body: |2-
+  See if moving /opt/typedb* to another folder
+  prevents it from persisting data.

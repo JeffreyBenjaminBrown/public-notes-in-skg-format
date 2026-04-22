@@ -1,0 +1,10 @@
+title: demo according to ChatGPT
+pid: ae261e09-b899-4009-806a-b535559da716
+body: |2-
+  (cl-defstruct person
+    name
+    age)
+
+  (setq john (make-person :name "John Doe" :age 30))
+  (person-name john) ; => "John Doe"
+  (person-age john)  ; => 30

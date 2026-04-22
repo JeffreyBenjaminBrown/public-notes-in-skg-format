@@ -1,0 +1,10 @@
+title: in general
+pid: 061b5208-0201-4827-8df3-25104d350b93
+body: |2-
+  Ad-hoc polymorphism introduces a footgun when refactoring.
+  Specifically, if a type `a` is replaced by a type `b a`
+  (that's a `b` "containing" an `a`),
+  and both `b` and `a` are members of class `C`,
+  then functions doing stuff to `a` that is possible due to `C`
+  are likely to silently fail,
+  doing that thing to the `b`, instead of to the `a` in the `b`.

@@ -1,0 +1,6 @@
+title: 'TODO ? BUG : when removing from an order, connect any gaps created'
+pid: c4ccc109-13ae-4df6-b172-d3897fce09bf
+body: |2-
+  (The relevant function is removeSelections_fromSortedRegion.)
+  So far it disconnects the to-be-removed from the still sorted,
+  and mutually disconnects everything in the to-be-removed.

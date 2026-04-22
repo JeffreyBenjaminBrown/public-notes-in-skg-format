@@ -1,0 +1,10 @@
+title: 3{ or 3{↻ as shape of containerward manifold
+pid: d3d4945c-3e28-474b-9b9b-87592b1d4b69
+body: |2-
+  A single scalar for
+        the maximum {length, number of forks} in the path
+    and whehther the path cycles.
+  If its container is its unique org-parent,
+    no glyph shown.
+misc:
+- Had_ID_Before_Import

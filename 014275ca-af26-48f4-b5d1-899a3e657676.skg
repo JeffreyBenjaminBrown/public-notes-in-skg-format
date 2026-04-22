@@ -1,0 +1,2 @@
+title: Fmap is like map plus a constructor. If I map a class and get back a tuple, use fmap instead.
+pid: 014275ca-af26-48f4-b5d1-899a3e657676

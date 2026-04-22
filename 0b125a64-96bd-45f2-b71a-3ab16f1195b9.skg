@@ -1,0 +1,6 @@
+title: query to find it
+pid: 0b125a64-96bd-45f2-b71a-3ab16f1195b9
+body: |2-
+  SELECT * FROM crime_scene_report
+  WHERE type = 'murder'
+  AND lower(city) = 'sql city';

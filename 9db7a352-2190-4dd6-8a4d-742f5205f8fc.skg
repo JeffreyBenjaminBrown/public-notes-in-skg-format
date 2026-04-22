@@ -1,0 +1,12 @@
+title: '9\50 x 4\50: 12.5-edo frets, octaves (6,-1) | (2,8), 15-lim 4x8 | 6x6'
+pid: 9db7a352-2190-4dd6-8a4d-742f5205f8fc
+body: |2-
+   0 steps;  1 % 1 ; string 0 ; fret 0
+  50 steps;  2 % 1 ; string 6 ; fret - 1 | string 2 fret 8
+  29 steps;  3 % 2 ; string 1 ; fret 5
+  16 steps;  5 % 4 ; string 0 ; fret 4
+  40 steps;  7 % 4 ; string 4 ; fret 1
+   8 steps;  9 % 8 ; string 0 ; fret 2
+  23 steps; 11 % 8 ; string 3 ; fret - 1 | string -1 fret 8
+  35 steps; 13 % 8 ; string 3 ; fret 2
+  45 steps; 15 % 8 ; string 5 ; fret 0

@@ -1,0 +1,4 @@
+title: 'PITFALL: Nil interface values are common.'
+pid: bfd31ec3-9e06-49b9-8c99-2ebff46c5ca8
+body: |2-
+  And it's common for Go methods to be written specifically to handle that case.

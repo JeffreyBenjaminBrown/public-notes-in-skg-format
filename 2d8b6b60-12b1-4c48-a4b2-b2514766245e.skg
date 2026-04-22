@@ -1,0 +1,5 @@
+title: some dot files will not be part of my backup
+pid: 2d8b6b60-12b1-4c48-a4b2-b2514766245e
+body: |2-
+      For instance, my ~/.stack/config.yaml file, because .stack/ is excluded from my backups.
+  [[id:ff81a54a-4488-4ce2-b5b2-e372482e6631][PITFALL: my config outside of .nix files]]

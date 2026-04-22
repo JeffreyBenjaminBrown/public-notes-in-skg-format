@@ -1,0 +1,4 @@
+title: by default the cursor goes to the end of a match
+pid: c8eecba3-075b-4e2a-8725-3fe2d12ea56b
+body: |2-
+  If ctrlf-go-to-end-of-match is nil, then the cursor will move to the beginning of the match instead of the end.

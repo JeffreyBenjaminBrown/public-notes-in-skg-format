@@ -1,0 +1,5 @@
+title: '[statement] is part of [statement]'
+pid: 8685fe14-95ee-4788-b244-5c5bfc3d3450
+body: |2-
+  "[_statement follows _statement] is part of [_statement]"
+  can be used to represent multi-step arguments, recipes, stories

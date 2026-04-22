@@ -1,0 +1,14 @@
+title: The definitions in a namespace can be defined in more than one place.
+pid: 8a68204f-249a-47bf-8378-21d5c6ae2a3a
+body: |2-
+  e.g. this defines Data.Customer and Data.Order
+
+  Namespace Data
+      Class Customer
+      End Class
+  End Namespace
+
+  Namespace Data
+      Class Order
+      End Class
+  End Namespace

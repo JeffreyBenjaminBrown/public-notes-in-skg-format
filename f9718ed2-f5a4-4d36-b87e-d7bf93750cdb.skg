@@ -1,0 +1,4 @@
+title: rebuild
+pid: f9718ed2-f5a4-4d36-b87e-d7bf93750cdb
+body: |2-
+  sudo nixos-rebuild --upgrade boot

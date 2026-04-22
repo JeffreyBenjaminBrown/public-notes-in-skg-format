@@ -1,0 +1,10 @@
+title: 'NUANCE: overflow'
+pid: 28cec831-4b8b-4c97-96c6-56ed69308bb8
+body: |2-
+  If a moment is encoded with a value greater than
+  M = the maximum allowed at that subdivision,
+  it should probably decrement itself by M
+  and increment its parent coordinate by 1.
+  If this bumps the moment into the next homogenous meter
+  in a compound meter, its interpretation changes,
+  but the algorithm can continue.

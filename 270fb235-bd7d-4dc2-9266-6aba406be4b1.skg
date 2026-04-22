@@ -1,0 +1,12 @@
+title: An octave fret will result without any tricky tinkering.
+pid: 270fb235-bd7d-4dc2-9266-6aba406be4b1
+body: |2-
+  Having an octave fret makes intonation adjustment easier.
+  Since 2 divides 58,
+  keeping only the even frets in the first octave
+  ensures there will be an octave fret.
+
+  (By contrast, on a 41-edo guitar,
+  keepign the odd frets means you get fret 40 and 42,
+  skipping the octave at 41.
+  I wish I had kept the odd frets instead.)

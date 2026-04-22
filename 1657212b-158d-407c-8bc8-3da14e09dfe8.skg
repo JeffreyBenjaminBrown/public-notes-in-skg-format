@@ -1,0 +1,14 @@
+title: '57 5 13: 15-lim 0-area 4x8, but 4x4 without 13%8'
+pid: 1657212b-158d-407c-8bc8-3da14e09dfe8
+body: |2-
+     57 = 3*19
+     , etrArea = 32
+  [ 0 steps; 1 % 1 ; string 0 ; fret 0
+  , 57 steps; 2 % 1 ; string 4 ; fret 1
+  , 33 steps; 3 % 2 ; string 1 ; fret 4
+  , 18 steps; 5 % 4 ; string 1 ; fret 1
+  , 46 steps; 7 % 4 ; string 2 ; fret 4
+  , 10 steps; 9 % 8 ; string 0 ; fret 2
+  , 26 steps; 11 % 8 ; string 2 ; fret 0
+  , 40 steps; 13 % 8 ; string 0 ; fret 8
+  , 52 steps; 15 % 8 ; string 4 ; fret 0

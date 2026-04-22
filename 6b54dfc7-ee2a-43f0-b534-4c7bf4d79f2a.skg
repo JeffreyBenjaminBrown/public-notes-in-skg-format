@@ -1,0 +1,5 @@
+title: merge
+pid: 6b54dfc7-ee2a-43f0-b534-4c7bf4d79f2a
+body: |2-
+  The result should subscribe to any foreign node
+  that was part of the merge. Maybe both were foreign.

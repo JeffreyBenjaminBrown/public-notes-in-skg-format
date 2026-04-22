@@ -1,0 +1,5 @@
+title: one to map each orgnode kind to skgnode changes
+pid: 4f9a0d25-5a4d-4524-aa2a-78aebbb343cf
+body: |2-
+  Keep a set of skgnodes.
+  Different orgnodes can affect the same skgnode.

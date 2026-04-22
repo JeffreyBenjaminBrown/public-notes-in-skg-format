@@ -1,0 +1,6 @@
+title: the safe way to do it
+pid: 5d5be850-9e13-4df7-9283-1fc5478c440f
+body: |2-
+  t, ok := i.(T)
+  If i holds a T, then t gets its value and ok is true.
+  Otherwise t is the zero value of type T and ok is false.

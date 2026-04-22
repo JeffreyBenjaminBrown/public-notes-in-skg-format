@@ -1,0 +1,9 @@
+title: evaluating fields of a product type
+pid: 779f3e03-fe1a-472a-93e2-083d596be376
+body: |2-
+  /home/jeff〉ls | each { |it| $"($it.name) is ($it.size)" }
+  ╭────┬─────────────────────────╮
+  │  0 │ Desktop is 4.0 KiB      │
+  │  1 │ Documents is 4.0 KiB    │
+  │  2 │ Downloads is 4.0 KiB    │
+  ...

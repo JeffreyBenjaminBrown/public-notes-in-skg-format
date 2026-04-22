@@ -1,0 +1,10 @@
+title: Are constraints types?
+pid: 674e0a7a-3333-4f14-93b8-800a839adf7c
+body: |2-
+  https://idris2.readthedocs.io/en/latest/tutorial/interfaces.html
+
+  Constraints are, like types, first class objects in the language. You can see this at the REPL:
+
+  Main> :t Ord
+  Prelude.Ord : Type -> Type
+  So, (Ord a, Show a) is an ordinary pair of Types, with two constraints as the first and second element of the pair.

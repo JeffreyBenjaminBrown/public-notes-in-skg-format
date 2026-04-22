@@ -1,0 +1,6 @@
+title: 'ExFAT: ???'
+pid: ebfff8c6-44a0-4369-a0d7-8d98e858d073
+body: |2-
+  Good for files up to (16 EiB – 1 KB) (insanely huge).
+  Works on Windows or Mac
+  Works on Linux but requires extra drivers.

@@ -1,0 +1,6 @@
+title: Maybe testing during a refactor should be greedy?
+pid: 3a76c47d-0077-4d48-9eca-9ac491b41694
+body: |2-
+  If an original function F needs a corresponding new function F'
+  during the refactor, as soon as F' comes into existence,
+  if there are tests that use F, perhaps rewrite them to use F'.

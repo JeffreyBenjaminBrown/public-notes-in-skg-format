@@ -1,0 +1,4 @@
+title: Preserve existing comments.
+pid: f7121d46-6c0a-4c52-ab06-0b99a42bd680
+body: |2-
+  If you rewrite a function that included a comment, do not remove the comment unless it no longer applies. (TODO items, for instance, might be rendered obsolete and deserve deletion.)

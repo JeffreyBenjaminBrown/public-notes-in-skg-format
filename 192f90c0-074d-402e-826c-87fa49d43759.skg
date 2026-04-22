@@ -1,0 +1,5 @@
+title: use GRUB and grub.device="/dev/sda"
+pid: 192f90c0-074d-402e-826c-87fa49d43759
+body: |2-
+  UEFI is preferred but my 2017 Dell didn't like it (November 2020).
+  Maybe I overwrote UEFI with GRUB earlier.

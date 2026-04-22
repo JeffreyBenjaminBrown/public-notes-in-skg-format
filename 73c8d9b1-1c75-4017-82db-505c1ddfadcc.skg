@@ -1,0 +1,20 @@
+title: find the derivation folder
+pid: 73c8d9b1-1c75-4017-82db-505c1ddfadcc
+body: |2-
+  Running
+    `stat /run/current-system`
+
+  printed (among others) this line:
+  ```
+    File: /run/current-system -> /nix/store/fyx0xdx1kakl2vd5jgc3rk8a7a0yq9qz-nixos-system-jbb-dell-20.09.3124.2118cf551b9
+  ```
+
+  There exists at least one file in (a subfolder of) `/nix/var/nix/profiles` that links to a folder with the same hash:
+
+  ```
+  [jeff@jbb-dell:/nix/var/nix/profiles]$ ls system-profiles/ -l
+  total 12
+  lrwxrwxrwx 1 root root 36 feb 15 16:57 no_intero_and_musnix_06eaf399 -> no_intero_and_musnix_06eaf399-1-link
+  lrwxrwxrwx 1 root root 88 feb 15 16:57 no_intero_and_musnix_06eaf399-1-link -> /nix/store/fyx0xdx1kakl2vd5jgc3rk8a7a0yq9qz-nixos-system-jbb-dell-20.09.3124.2118cf551b9
+  ...
+  ```

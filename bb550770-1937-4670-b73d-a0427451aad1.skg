@@ -1,0 +1,7 @@
+title: idea
+pid: bb550770-1937-4670-b73d-a0427451aad1
+body: |2-
+  Toggle the "mono the last voice" setting.
+  The first pitch played on (say) the right keyboard
+  becomes the reference pitch. It has no audible effect.
+  Every subsequent pitch on that keyboard transposes the other one.

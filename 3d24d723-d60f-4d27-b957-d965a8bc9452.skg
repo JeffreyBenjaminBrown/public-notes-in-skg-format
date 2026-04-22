@@ -1,0 +1,12 @@
+title: '7\46 x 6\46: tight, weird, crazy diagonal'
+pid: 3d24d723-d60f-4d27-b957-d965a8bc9452
+body: |2-
+  [ 0  steps; 1 % 1;  string 0; fret 0
+  , 8  steps; 9 % 8;  string 2; fret -1
+  , 32 steps; 13 % 8; string 2; fret 3
+  , 15 steps; 5 % 4;  string 3; fret -1
+  , 21 steps; 11 % 8; string 3; fret 0
+  , 27 steps; 3 % 2;  string 3; fret 1
+  , 46 steps; 2 % 1;  string 4; fret 3 -- octave here
+  , 42 steps; 15 % 8; string 6; fret 0
+  , 37 steps; 7 % 4;  string 7; fret -2

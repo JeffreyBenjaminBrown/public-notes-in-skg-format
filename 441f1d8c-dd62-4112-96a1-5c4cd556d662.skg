@@ -1,0 +1,6 @@
+title: TODO This looks like something wrong in the documentation.
+pid: 441f1d8c-dd62-4112-96a1-5c4cd556d662
+body: |2-
+  The documentation says "Paths are specified as drive:path".
+  But when I tried that it didn't work.
+  I had to use the name of my rclone ("repo"? "config"?), not "drive".

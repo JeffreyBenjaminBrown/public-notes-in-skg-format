@@ -1,0 +1,10 @@
+title: 'Spaced 4:3=19\46, skipping every other: max reach is 6.3\12'
+pid: 0786bdf3-f384-4653-86b7-ae3fe6127504
+body: |2-
+  max reach: 12\23, or in 12-edo, 6.260869565217392
+  15\87 = 5 % 4  = 1 strings - 2 frets
+  27\87 = 3 % 2  = 1 strings + 4 frets
+  21\87 = 11 % 8 = 1 strings + 1 frets
+  32\87 = 13 % 8 = 2 strings - 3 frets
+  37\87 = 7 % 4  = 1 strings + 9 frets
+  46\87 = 2 % 1  = 2 strings + 4 frets

@@ -1,0 +1,7 @@
+title: the mystery
+pid: 0548f067-16e4-47d2-b59a-da72b97d7f80
+body: |2-
+  Even after I hid ~/.cache/borg,
+  I still wasn't permitted to update the less up-to-date repo.
+misc:
+- Had_ID_Before_Import

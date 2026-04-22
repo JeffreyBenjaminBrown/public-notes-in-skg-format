@@ -1,0 +1,5 @@
+title: '? chord roots'
+pid: e25cf8a9-8a26-4886-a2d1-b686e7f68744
+body: |2-
+  The root is by default the first note in the chord played,
+  but the user can change that.

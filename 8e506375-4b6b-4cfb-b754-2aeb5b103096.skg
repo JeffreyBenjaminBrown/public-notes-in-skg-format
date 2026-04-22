@@ -1,0 +1,12 @@
+title: math
+pid: 8e506375-4b6b-4cfb-b754-2aeb5b103096
+body: |2-
+  exp $ (log $ f/400) * n
+
+  Input = f (in Hz).
+  "Middle pitch" = 400 (Hz).
+  "Elasticity" = n.
+
+  n = 0 => Ignoring f (elasticity 0)
+  n = 1 => Scaling by the change in f (elasticity 1)
+  n = 1/2 => Elasticity 1/2

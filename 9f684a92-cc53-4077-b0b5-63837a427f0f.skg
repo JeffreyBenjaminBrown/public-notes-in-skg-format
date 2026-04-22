@@ -1,0 +1,5 @@
+title: bucket <=> URL
+pid: 9f684a92-cc53-4077-b0b5-63837a427f0f
+body: |2-
+  Each (sub)domain needs its own bucket,
+  of the same name.

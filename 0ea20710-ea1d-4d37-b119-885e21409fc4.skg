@@ -1,0 +1,7 @@
+title: install the plugin in Wine
+pid: 0ea20710-ea1d-4d37-b119-885e21409fc4
+body: |2-
+  ChatGPT suggests running the following (from Bash?):
+    wine setup_vst.exe
+  Choose a target folder like
+    ~/.wine/drive_c/Program Files/VSTPlugins

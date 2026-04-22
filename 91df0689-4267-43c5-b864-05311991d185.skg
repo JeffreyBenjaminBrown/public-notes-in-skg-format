@@ -1,0 +1,44 @@
+title: some code that was helpful
+pid: 91df0689-4267-43c5-b864-05311991d185
+body: |2-
+  ls = bestEdoLayouts (primesOctave1 15) [100..140]
+
+  okayHarmony = not . flip elem [
+      40, 42, 45, 47, 52, 54, 59, 61, 66, 71
+    ] . (^. _1) . unTuning . etrTuning
+
+  lastVisited = last $ take 30 $ drop 30 $ filter okayHarmony $ drop 120 ls
+
+  Pr.pPrint ( take 30
+    $ zip [1..]
+    $ L.sortBy (comparing $ etrArea . snd)
+    $ reverse
+    $ L.sortBy (comparing $ etrEdo . snd)
+
+  Pr.pPrint ( take 30
+    $ zip [1..]
+    $ L.sortBy (comparing $ etrArea)
+    $ reverse
+    $ L.sortBy (comparing $ etrEdo)
+    $ filter okayHarmony ls )
+
+  Pr.pPrint $ bestLayout (94,23,7) (primesOctave1 31) & _2 %~ map LayoutRow'
+
+  -- A single tuning's layouts in some limit.
+  ( Pr.pPrint
+    $ reverse
+    $ take 10
+    $ map (_1 %~ Tuning')
+    $ map (_3 %~ map LayoutRow')
+    $ L.sortBy (comparing (^. _2) )
+    $ tuningAreaLayouts 58 (primesOctave1 13) )
+
+  -- *maybe* I read the first 120 of these
+  -- but I think I flubbed some of the last 60
+  -- by reversing halfway through.
+  -- For these ls was from 40 .. 210
+  Pr.pPrint ( take 30 $ drop 90
+    $ L.sortBy (comparing $ etrArea . snd)
+    $ reverse $ L.sortBy (comparing $ etrEdo . snd)
+    $ zip [1..]
+    $ filter okayHarmony ls )

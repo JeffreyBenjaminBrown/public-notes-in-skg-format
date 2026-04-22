@@ -1,0 +1,8 @@
+title: sed only in lines containing pattern
+pid: 60aea897-9405-4de9-8f1d-273458113f7b
+body: |2-
+  sed -i "/PATTERN/ s/before/after/g" filename.md
+contains:
+- 066061b6-bbbc-450e-8606-a12b24ab711b
+misc:
+- Had_ID_Before_Import

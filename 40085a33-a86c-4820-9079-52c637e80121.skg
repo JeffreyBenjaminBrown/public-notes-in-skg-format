@@ -1,0 +1,4 @@
+title: We can to an extent already do mind reading.
+pid: 40085a33-a86c-4820-9079-52c637e80121
+body: |2-
+  The researchers had people listen to stories — podcasts, actually; not this one, but other podcasts — and then they had them imagine stories. And they trained their classifier — which is like: here’s the brain image data, and here’s what the person was listening to — and then they took just brain image data and said, “Translate what this person is listening to or what they’re imagining.” And at a really high rate of accuracy — like 80%-plus — were able to decode whole paragraphs of what a person was imagining or thinking.

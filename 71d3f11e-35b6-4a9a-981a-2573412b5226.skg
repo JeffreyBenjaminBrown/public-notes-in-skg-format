@@ -1,0 +1,5 @@
+title: async is good for two independent processes
+pid: 71d3f11e-35b6-4a9a-981a-2573412b5226
+body: |2-
+  Both might ask the other something at the same time;
+  both should not get stuck waiting for a reply.

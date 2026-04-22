@@ -1,0 +1,6 @@
+title: 'It sucks to have to:'
+pid: 2be5dff9-8222-4842-aee8-88abab384227
+body: |2-
+  create a node "projects like hode",
+  and then redundantly populate every such project x with
+  "x #is-like hode" and "x #is-in projects like hode",

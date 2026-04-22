@@ -1,0 +1,8 @@
+title: send these commands to it
+pid: 7927c331-20d8-4ce2-a384-9a20298b424b
+body: |2-
+  cd /home/jeff/code/music/Tidal/tidal+epic
+    # or whatever the root of the Tidal project is
+  cabal repl
+  :s BootTidal.hs
+    -- I've modified this to import my own functions too

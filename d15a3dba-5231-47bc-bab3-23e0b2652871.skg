@@ -1,0 +1,7 @@
+title: 'conditions in pattern matches: use `if`'
+pid: d15a3dba-5231-47bc-bab3-23e0b2652871
+body: |2-
+  case xs {
+    [a, b, c] if a == b && b != c -> "ok"
+    _other -> "ko"
+  }

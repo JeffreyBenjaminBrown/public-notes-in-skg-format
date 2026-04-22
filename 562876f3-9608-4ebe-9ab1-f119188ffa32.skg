@@ -1,0 +1,14 @@
+title: Define relationships using ordinary org-roam syntax.
+pid: 562876f3-9608-4ebe-9ab1-f119188ffa32
+body: |2-
+  This seems hard, and these thoughts are incomplete.
+contains:
+- 8fac6f3f-0eea-4b62-8418-7ea14decbe5e
+- f7bfc2a7-336c-41c5-aa06-f48cce490236
+- dd7e14c4-07cb-40dd-bc9d-8257c6465558
+- 1b61e7ed-8594-4a32-98dd-82c426ba3041
+- 7a481c6b-09cf-4cb1-98ee-87e12346dfdd
+- bf81e12f-3704-4cc2-8e5b-6aafd0369aba
+- d2d322ac-2d3c-475c-a6ab-1f35460dc577
+misc:
+- Had_ID_Before_Import

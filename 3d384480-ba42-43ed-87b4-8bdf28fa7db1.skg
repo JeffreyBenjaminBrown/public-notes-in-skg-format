@@ -1,0 +1,14 @@
+title: 'mod 1 space 14: max reach 10, octave (6,0), terrible 2:3'
+pid: 3d384480-ba42-43ed-87b4-8bdf28fa7db1
+body: |2-
+   7 steps = 17 % 16: string 1 fret -7 | string 0 fret 7 | string -1 fret 21
+  21 steps = 19 % 16: string 2 fret -7 | string 1 fret 7 | string 0 fret 21
+  27 steps = 5 % 4:   string 2 fret -1
+  39 steps = 11 % 8:  string 3 fret -3
+  44 steps = 23 % 16: string 3 fret 2
+  49 steps = 3 % 2:   string 4 fret -7 | string 3 fret 7
+  59 steps = 13 % 8:  string 4 fret 3
+  68 steps = 7 % 4:   string 5 fret -2
+  72 steps = 29 % 16: string 5 fret 2
+  80 steps = 31 % 16: string 6 fret -4 | string 5 fret 10
+  84 steps = 2 % 1:   string 6 fret 0

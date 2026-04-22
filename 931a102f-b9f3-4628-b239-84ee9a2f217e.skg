@@ -1,0 +1,13 @@
+title: MIDI keyboard in Linux, how to use
+aliases:
+- Linux, MIDI keyboards in
+- aconnect
+pid: 931a102f-b9f3-4628-b239-84ee9a2f217e
+body: |2-
+  This might only apply to USB-connected MIDI keyboards.
+contains:
+- c7f4f2c2-d8c8-4f00-a29d-43754c60d964
+- bdef7ff5-b629-4979-a2f2-5e3d01195f96
+- a4a05fa5-f5be-48b8-a392-9266a996d1df
+misc:
+- Had_ID_Before_Import

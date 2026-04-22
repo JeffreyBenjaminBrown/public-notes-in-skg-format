@@ -1,0 +1,7 @@
+title: TODO choose sounds for 41-edo
+pid: e7ecc9cf-6ae0-463f-a936-07d3412d00a8
+body: |2-
+  The vowels for 0-9 and 3 consonants for 0-3 (no consonant = 0)
+  let me get all of [0,39].
+  I could either add a fourth consonant prefix to get 40,
+  or I could use one of the unusued vowels, probably ö.

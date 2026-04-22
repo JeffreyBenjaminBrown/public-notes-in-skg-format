@@ -1,0 +1,7 @@
+title: record updates
+pid: 664106dc-8f3f-4599-a58e-04fcb87320d9
+body: |2-
+  Use `..<name>` to duplicate unspecified records.
+  PITFALL: Records are immutable; "updates" actually create new data.
+contains:
+- 3b3b7a92-77bf-41ab-924d-a9f062fc8f22

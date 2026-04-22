@@ -1,0 +1,21 @@
+title: It's handy if your software lets you separate the fundamental frequency of a chord from its formula.
+pid: 488b74f0-95f6-40a5-9267-26167c2c85ab
+body: |2-
+  For instance, suppose you wanted to hear these three major chords:
+  - {40  hz, 50  hz, 60  hz},
+  - {80  hz, 100 hz, 120 hz}.
+  - {400 hz, 500 hz, 600  hz},
+
+  It's kind of a lot to write.
+
+  The aforementioned cheesy python synth lets you instead write:
+  ```
+  (  40, {1,5/4,3/2} )
+  (  80, {1,5/4,3/2} )
+  ( 400, {1,5/4,3/2} )
+  ```
+  Thus to try the same chord at a different frequency,
+  you only have to change one number,
+  and you don't have to multiply things in your head,
+  and it's obvious that the different expressions
+  represent the same kind of chord (major).

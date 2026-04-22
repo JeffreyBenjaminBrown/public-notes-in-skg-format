@@ -1,0 +1,7 @@
+title: the idea
+pid: ec313a7c-6512-40bf-a495-83d1bdd90324
+body: |2-
+  Currently there are both "amp" and "ampTo";
+  one takes a function, the other a value.
+  I could stick to the one that takes a function,
+  if it assumed the default value when that value is not present.

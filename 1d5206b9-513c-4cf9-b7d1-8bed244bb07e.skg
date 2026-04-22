@@ -1,0 +1,4 @@
+title: C-x C-s (transient-save)
+pid: 1d5206b9-513c-4cf9-b7d1-8bed244bb07e
+body: |2-
+  Save the value of the active transient persistently across Emacs sessions.

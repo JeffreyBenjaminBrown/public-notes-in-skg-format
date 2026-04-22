@@ -1,0 +1,16 @@
+title: 'PITFALL: scope, inheritance, shadowing'
+pid: ac54751b-fdb5-40a0-a87d-1648a231ae5e
+body: |2-
+  Here, the inner lambda inherits A from its parent's scope,
+  so the comparison A=2 always fails.
+  base() ->
+      A = 1,
+      (fun() -> A = 2 end)().
+
+  But here the outer A bound to 1 is shadowed,
+  by the A argument to the inner lambda,
+  so the result of base() is a function that can succeed for some inputs
+  (specifically the input 1).
+  base() ->
+      A = 1,
+      (fun(A) -> A = 2 end)(2).

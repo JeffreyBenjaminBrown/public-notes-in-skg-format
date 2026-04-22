@@ -1,0 +1,6 @@
+title: if a window spills off-screen and its title bar is unreachable
+pid: 3a789ae6-2cf5-44ce-a5b5-c7f6b0199d63
+body: |2-
+  use Windows-<direction> to squish it into one side of the screen.
+misc:
+- Had_ID_Before_Import

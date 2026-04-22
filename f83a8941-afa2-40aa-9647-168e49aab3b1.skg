@@ -1,0 +1,5 @@
+title: 'PITFALL: Don''t use the toy Django server'
+pid: f83a8941-afa2-40aa-9647-168e49aab3b1
+body: |2-
+  the one started with manage.py.
+  Instead start Apache and let it call Django.

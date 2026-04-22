@@ -1,0 +1,4 @@
+title: newlines in strings
+pid: 9ab8831d-8451-4b26-8928-7c152c38db45
+body: |2-
+  Type a literal newline (press enter) to get a newline.

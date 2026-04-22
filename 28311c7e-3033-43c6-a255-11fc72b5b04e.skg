@@ -1,0 +1,5 @@
+title: S3 cannot publish websites
+pid: 28311c7e-3033-43c6-a255-11fc72b5b04e
+body: |2-
+  Until publishing the bucket with Route 53,
+  those URLs *will not resolve* in a web browser.

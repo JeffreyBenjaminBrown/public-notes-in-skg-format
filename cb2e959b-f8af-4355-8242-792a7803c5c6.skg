@@ -1,0 +1,4 @@
+title: It seems to conflate "schema" and "type" a lot.
+pid: cb2e959b-f8af-4355-8242-792a7803c5c6
+body: |2-
+  This probably gave me the most difficulty of anything in the spec. Isn't a schema a collection of types? Isn't a schema what a graph has, while a type is what an element has? Sometimes the spec describes the third value in an element as a type, sometimes as a schema.

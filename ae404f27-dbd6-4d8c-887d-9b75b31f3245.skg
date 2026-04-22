@@ -1,0 +1,5 @@
+title: After moving a class function to open code, change the keyword "self".
+pid: ae404f27-dbd6-4d8c-887d-9b75b31f3245
+body: |2-
+  It will be allowed,
+  and it will do strange things.

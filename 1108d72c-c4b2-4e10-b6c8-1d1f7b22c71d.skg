@@ -1,0 +1,12 @@
+title: a minimal build
+pid: 1108d72c-c4b2-4e10-b6c8-1d1f7b22c71d
+body: |2-
+  Make a file called "builder.sh" containing
+    declare -xp
+      # lists exported variables.
+      # declare is a bash function, not a Nix one.
+    echo foo > $out
+  Then enter nix repl, and evaluate
+    :l <nixpkgs> # for access to bash
+    d = derivation { name = "foo"; builder = "${bash}/bin/bash"; args = [ ./builder.sh ]; system = builtins.currentSystem; }
+    :b d

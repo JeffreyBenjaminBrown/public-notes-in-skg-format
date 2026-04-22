@@ -1,0 +1,8 @@
+title: Determining parameters
+pid: ccb96d74-b212-411d-9ea7-d0c095559227
+body: |2-
+  Are like Haskell's functional dependencies.
+  I don't get it.
+  https://idris2.readthedocs.io/en/latest/tutorial/interfaces.html#determining-parameters
+misc:
+- Had_ID_Before_Import

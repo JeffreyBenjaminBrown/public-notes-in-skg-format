@@ -1,0 +1,6 @@
+title: the idea
+pid: b16449ec-d137-4b52-8197-48b8c84c588e
+body: |2-
+  Each extra dot tells Python to move one level up from __package__ . If __package__ is set to "a.b", then this statement:
+    from .. import d
+  works as if the dots were replaced with a.

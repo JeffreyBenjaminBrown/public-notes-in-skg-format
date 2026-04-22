@@ -1,0 +1,8 @@
+title: jagged pre-indendation
+pid: 4d4cb9fb-b4f4-4190-ac8a-c588c9e82293
+body: |2-
+    * 1
+      body
+    **** 2     # Too many stars! The extra is ignored.
+    *** 3
+    ** 4

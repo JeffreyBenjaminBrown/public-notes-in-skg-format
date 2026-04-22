@@ -1,0 +1,4 @@
+title: TODO I'm guessing `break` can be used to terminate a `select` case
+pid: be0ba2ad-78a0-434d-ae41-bb3eb92a4c45
+body: |2-
+  just like it can for `switch` cases.

@@ -1,0 +1,5 @@
+title: to re-import a modified module
+pid: 7e8b1ec3-587f-4372-8072-96ea9137a340
+body: |2-
+  from importlib import reload
+  reload(module)

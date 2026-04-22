@@ -1,0 +1,8 @@
+title: 'PITFALL: These state cycles must take their "structure" from another pattern.'
+pid: e1a3dfbb-21bc-48c5-888b-ec25c1e4c3a3
+body: |2-
+  For instance, in
+    sound "alphabet(5,8)" # nTake "bob" [0 .. 4]
+  the timing depends on "alphabet(5,8)".
+  At each new note from that pattern,
+  "bob" picks a new value from the cycle [0..4].

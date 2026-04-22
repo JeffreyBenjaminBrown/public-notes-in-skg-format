@@ -1,0 +1,5 @@
+title: The last "function clause" ends in a period.
+pid: b9e30be8-8ac5-4238-8596-97edf6dc21d8
+body: |2-
+  The others are terminated by commas.
+  A clause defines how to process an input pattern.

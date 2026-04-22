@@ -1,0 +1,16 @@
+title: the code
+pid: 98b5a345-32df-410d-9e69-fc841e5b8318
+body: |2-
+  -- | How far is x from low to high.
+  -- proportion 3 0 5 == 0.6
+  proportion x low high =
+    (x - low) / (high - low)
+
+  -- | What gauge corresponds to `f`,
+  -- where f1 and g1 are a frequency and gauge near but lower than f,
+  -- and f2 and g2 are a frequency and gauge near but higher than f.
+  -- (Actually, f can be out of bounds too.
+  -- In fact, if it's out of the sample's range, it has to be.)
+  gauge f f1 g1 f2 g2 =
+    let p = proportion f f1 f2
+    in ( (1 - p) * f1 * g1 + p * f2 * g2 ) / f

@@ -1,0 +1,8 @@
+title: Models are usually drawn from the db (to the template). Not so forms.
+pid: ef33162a-d89c-459c-8ee4-33d1907fe605
+body: |2-
+  """
+  when we handle a model instance in a view, we typically retrieve it from the
+  database. When we’re dealing with a form we typically instantiate it in the
+  view.
+  """

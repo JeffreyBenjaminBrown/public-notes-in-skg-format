@@ -1,0 +1,9 @@
+title: definition
+pid: a22a4de1-e814-40d4-b8cc-39bd01a8504c
+body: |2-
+  A melody is a piecewise constant map "m"
+  from time to [the integers + the empty set {}].
+  Where m t = {}, the melody is silent.
+  The melody should *probably* be defined with a pitch set ps in mind,
+  as two integers values in the range of m which are equal mod (len ps)
+  result in pitches that are equal modulo octave.

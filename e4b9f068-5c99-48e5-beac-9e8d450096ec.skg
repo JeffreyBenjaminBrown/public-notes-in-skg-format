@@ -1,0 +1,13 @@
+title: create an IAM Role
+pid: e4b9f068-5c99-48e5-beac-9e8d450096ec
+body: |2-
+  This role will permit an EC2 instance to access SSM (the S? Systems Manager),
+  so that the instance can be controlled by SSM.
+  IAM = Identity and access management
+contains:
+- 355eb015-e5c1-4dfb-89bd-a8b6c2cf8aff
+- 01955bdf-518e-47e8-9e56-49ccfee581bf
+- 280a5ca5-7bb4-47d1-928b-aea3ea4d99f6
+- 960dcf4f-4023-48de-9b55-f55808decc01
+- a12bc0cf-76ad-43ff-9226-c979981c8ccd
+- c87ef988-f155-417d-8b54-bb145bf8cb11

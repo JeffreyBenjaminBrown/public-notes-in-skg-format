@@ -1,0 +1,4 @@
+title: /home/sound/generate-beep.sh
+pid: 13fb4e73-e63a-4c25-8c59-73339fc6a480
+body: |2-
+  creates an audio file for Claude to play, in tmp/

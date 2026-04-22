@@ -1,0 +1,6 @@
+title: stack
+pid: 5715afa9-0d11-4f2f-95af-827219b3d8f3
+body: |2-
+  It griped that "/home/jeff/.local/bin" is not in my PATH.
+  .profile says it is, when it exists (it doesn't yet).
+  But maybe .bashrc is what matters.

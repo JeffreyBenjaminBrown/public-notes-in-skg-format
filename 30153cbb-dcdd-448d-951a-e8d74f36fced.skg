@@ -1,0 +1,13 @@
+title: elaboration
+pid: 30153cbb-dcdd-448d-951a-e8d74f36fced
+body: |2-
+  One could simply talk about the link source showing some of the link content.
+  This only becomes a ternary relationship when we consider that the link
+  is only meaningful in relation to its context A.
+  That ternary nature *does* need explicit representation in TypeDB
+  if the user wants the filter to depend on which of multiple containers
+  the link appears in. That's a violation of the expected use.
+  It's also unnecessary. Multiple nodes whose content is that link
+  can instead be made, and I think they probably should.
+  If viewing their distinct content at once is desired,
+  it's easy to collect all links with the same target in one view.

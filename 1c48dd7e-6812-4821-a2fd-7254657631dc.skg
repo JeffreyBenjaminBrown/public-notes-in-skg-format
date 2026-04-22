@@ -1,0 +1,7 @@
+title: 'PITFALL: Might need to specify PYTHONPATH'
+pid: 1c48dd7e-6812-4821-a2fd-7254657631dc
+body: |2-
+  i.e. run
+    PYTHONPATH=. pytest python/something.py
+  rather than the simpler
+    pytest python/something.py

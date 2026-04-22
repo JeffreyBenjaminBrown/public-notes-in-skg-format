@@ -1,0 +1,9 @@
+title: quoting https://docs.djangoproject.com/en/3.1/topics/forms/
+pid: 6532db94-327c-4f9d-bacf-c14f353af565
+body: |2-
+  """
+  Widgets should not be confused with the form fields. Form fields deal with the
+  logic of input validation and are used directly in templates. Widgets deal with
+  rendering of HTML form input elements on the web page and extraction of raw
+  submitted data. However, widgets do need to be assigned to form fields.
+  """

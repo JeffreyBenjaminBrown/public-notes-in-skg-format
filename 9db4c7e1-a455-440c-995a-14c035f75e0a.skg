@@ -1,0 +1,18 @@
+title: response 2
+pid: 9db4c7e1-a455-440c-995a-14c035f75e0a
+body: |2-
+  Thanks again, @TLATER!
+
+  # journalctl after failed login and (almost) nothing else
+
+  I tried and failed to login to X as my borked user "jeff", switched to a TTY, and did *almost* nothing but write the command you indicated to a file. I may have run pwd and some other simple commands; I can't remember if I did that before or after writing the file. Sorry about that. I put the result on pastebin like you suggested:
+
+  https://pastebin.com/Rw96jBaC
+
+  I named the paste wrong -- it should say `journalctl` where it says `dmesg`.
+
+  How can I learn whatever it is that you know that allows you to read that output?
+
+  # chpasswd v. passwd
+
+  You're right! I meant `passwd`.

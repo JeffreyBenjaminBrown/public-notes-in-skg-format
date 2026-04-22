@@ -1,0 +1,6 @@
+title: 'it : (-) is what I had, (+) is what they had'
+pid: 82eb1703-0777-4c62-bd9f-8d1d790ed26e
+body: |2-
+  - (org-roam-directory "~/org-roam") )
+  + (setq org-roam-db-location (file-truename "~"))
+  + (org-roam-directory (file-truename "~//org-roam/")))

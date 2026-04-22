@@ -1,0 +1,15 @@
+title: SciPy pitfalls
+aliases:
+- pitfalls in SciPy
+- scipy pitfalls
+- pitfalls in scipy
+pid: faf9d8f2-1d0e-464f-bf6c-811d796ee6b2
+contains:
+- 853a7784-1ee6-4578-bb74-0fae3b850c6a
+- 88bb6d6e-b171-412f-b070-c130014e43d3
+- 8205f7f3-747b-4335-9edd-df8fe1d1fa2a
+- 8427ed22-e2ac-47b8-b056-62159d26d64d
+- be14e571-f35e-4ddf-a706-6064e299de76
+- ee1b42aa-175c-4386-ab5b-031860ac66fe
+misc:
+- Had_ID_Before_Import

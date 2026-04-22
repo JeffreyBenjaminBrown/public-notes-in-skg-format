@@ -1,0 +1,9 @@
+title: Edo 130 ; StringGap 27 ; FretGap 22
+pid: efae61f5-b719-4b31-8eaf-be9313dbdaed
+body: |2-
+  [ 0 steps; 1 % 1 ; string 0 ; fret 0
+  , 130 steps; 2 % 1 ; string 4 ; fret 1
+  , 76 steps; 3 % 2 ; string 2 ; fret 1
+  , 42 steps; 5 % 4 ; string 4 ; fret - 3
+  , 105 steps; 7 % 4 ; string - 1 ; fret 6
+  , 22 steps; 9 % 8 ; string 0 ; fret 1

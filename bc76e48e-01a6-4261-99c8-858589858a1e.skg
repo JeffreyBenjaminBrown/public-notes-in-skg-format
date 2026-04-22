@@ -1,0 +1,10 @@
+title: what those links should look like
+pid: bc76e48e-01a6-4261-99c8-858589858a1e
+body: |2-
+  jeff@jbb-dell:Extensions$ pwd
+  /home/jeff/.local/share/SuperCollider/Extensions
+
+  jeff@jbb-dell:Extensions$ ls -l
+  builtin-plugins -> /nix/store/63zqdlvglxyadh7d4njrd2dbm19swfkj-supercollider-3.12.1/lib/SuperCollider
+  sc3-plugins     -> /nix/store/jfpar7cfahcc2464q3fs37pf5lmdk63n-sc3-plugins/share/SuperCollider/Extensions/SC3plugins
+  sc3-plugins-so  -> /nix/store/jfpar7cfahcc2464q3fs37pf5lmdk63n-sc3-plugins/lib/SuperCollider/plugins

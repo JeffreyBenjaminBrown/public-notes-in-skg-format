@@ -1,0 +1,10 @@
+title: So consider n = 2.
+pid: 2c20b214-0879-47a4-af12-0f536bfe0a78
+body: |2-
+  In this case FZ : (Fin 2 = Fin (S 1)),
+    so k = 1.
+  The next element is FS FZ, because
+    FS : Fin k -> Fin (S k)
+       = Fin 1 -> Fin 2
+  The next element cannot exist, because
+    FS (FS (FZ : Fin 1) : Fin 2) : Fin 3

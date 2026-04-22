@@ -1,0 +1,9 @@
+title: actions
+pid: a641e2b5-a46d-425d-a940-ce24042dab74
+body: |2-
+  toListOf (a.k.a. ^..) is one action. There are others.
+contains:
+- 445c2bb6-d76a-4db4-83c5-9ce7470287bc
+- 28ae0249-1f55-48dd-a8f1-81870ad3071d
+- 9be4f82c-e4b3-4be1-b98d-e47ea3459359
+- 2bc79efb-adf6-4511-886a-cb56a992099e

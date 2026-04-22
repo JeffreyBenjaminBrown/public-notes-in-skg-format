@@ -1,0 +1,6 @@
+title: Improve how society determines truth.
+pid: be5d76c8-5477-4d02-a72e-705f4b49d22a
+body: |2-
+  Shyg will be agnostic about which community is correct on which issue. It will simply index their work -- but all of it in the same way, permitting queries that traverse them all at once. Every epistemic community will become more trasnparent. To the extent that communities of "alternate facts" arise from a sense of alienation from traditional instutitions, this integration should help.
+
+  But beyond that, argument within and between the communities will become more effective. Queries like "what kinds of evidence has been provided for [statement]", together with [[id:e185e848-ea55-4eec-9dba-d0cf9d893731][ontology-enabled uniqueness constraints]], will reveal otherwise hopelessly extensive fronts of argument to consist of a small number of ideas. And with fallacies and distractions easier to filter out, their effectiveness will fall, and with it the incentive to use them.

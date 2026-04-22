@@ -1,0 +1,7 @@
+title: why
+pid: 116f9802-659f-4d70-973e-baf319024abc
+body: |2-
+  That's so the class can refer to itself
+  before it's completely defined.
+
+  from __future__ import annotations

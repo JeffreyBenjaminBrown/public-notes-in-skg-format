@@ -1,0 +1,5 @@
+title: run these to build the .prof file
+pid: fb8d6137-a56f-4c2c-ad8a-be56cc739feb
+body: |2-
+  stack run --profile -- montevideo-exe --ghci-options="-O"
+  stack exec -- montevideo-exe +RTS -p

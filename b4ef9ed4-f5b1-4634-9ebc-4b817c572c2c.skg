@@ -1,0 +1,7 @@
+title: 'l(ist) [first[, last]]: show code'
+pid: b4ef9ed4-f5b1-4634-9ebc-4b817c572c2c
+body: |2-
+  List source code for the current file.
+contains:
+- 579138f6-f4b0-46f4-91f1-d2de8703d122
+- 597107bd-d21d-4b66-a979-07d9590474d0

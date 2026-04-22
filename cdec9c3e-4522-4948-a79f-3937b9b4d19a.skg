@@ -1,0 +1,2 @@
+title: '> ps | where cpu > 0 | sort-by cpu | reverse'
+pid: cdec9c3e-4522-4948-a79f-3937b9b4d19a

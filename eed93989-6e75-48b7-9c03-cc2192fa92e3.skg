@@ -1,0 +1,11 @@
+title: On Lumatone, map horiz to horiz and vertical to vertical.
+pid: eed93989-6e75-48b7-9c03-cc2192fa92e3
+body: |2-
+  Ordinarily I map the horizontal axis
+  (the one that varies the "string")
+  to the nearly-horizontal Lumatone axis,
+  and the vertical axis (the one that varies the "fret")
+  to the 45-degree Lumatone axis.
+  But this layout is so short I could actually map it
+  to the nearly-vertical Lumatone axis.
+  Doing that makes the octaves a lot narrower.

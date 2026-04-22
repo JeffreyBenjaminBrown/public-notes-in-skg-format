@@ -1,0 +1,4 @@
+title: if a GD model overshoots
+pid: f8fa26e2-ef76-431e-86d8-6b0d6e3d0a0b
+body: |2-
+  try reducing the "learning rate" "by an order of magnitude"

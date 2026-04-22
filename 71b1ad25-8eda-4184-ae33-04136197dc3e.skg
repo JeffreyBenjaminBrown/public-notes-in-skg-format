@@ -1,0 +1,4 @@
+title: next to y.go, put y_test.go
+pid: 71b1ad25-8eda-4184-ae33-04136197dc3e
+body: |2-
+  The _test suffix to the basename lets Go know it's a test.

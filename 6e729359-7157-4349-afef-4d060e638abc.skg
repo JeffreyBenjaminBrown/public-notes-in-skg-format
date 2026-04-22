@@ -1,0 +1,7 @@
+title: Each app corresponds to a top-level subdomain of the project URL.
+pid: 6e729359-7157-4349-afef-4d060e638abc
+body: |2-
+  For instance, when I host my django project from
+  localhost:8000, since 'polls' is an app in it, the URL
+  localhost:8000/polls/ takes me to that app.
+  (The trailing / is optional, but I believe preferred.)

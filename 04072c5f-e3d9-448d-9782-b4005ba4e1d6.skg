@@ -1,0 +1,5 @@
+title: Tempo Maps can be detected automatically from transients.
+pid: 04072c5f-e3d9-448d-9782-b4005ba4e1d6
+body: |2-
+  This is useful for drawing a changing timebase
+  over material recorded without a click.

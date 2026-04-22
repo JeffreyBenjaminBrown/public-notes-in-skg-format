@@ -1,0 +1,4 @@
+title: Mutexes and condition variables
+pid: 48f5fbdc-e1c2-4631-b66b-f9855ebc11e7
+body: |2-
+  are alternative ways of coordinating threads

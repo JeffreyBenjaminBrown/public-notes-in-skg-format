@@ -1,0 +1,6 @@
+title: not even the path to the folder where it's installed worked!
+pid: 555e7e35-6875-44fb-aa50-2af2eac1592b
+body: |2-
+  something like C:/../Program Files/../IK Product Manager/downloads/
+  I created the last part of that path, the downloads/ folder.
+  And it had *disappeared* after I rebooted and reran Wine.

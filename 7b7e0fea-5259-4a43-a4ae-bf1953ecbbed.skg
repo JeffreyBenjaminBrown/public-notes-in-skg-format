@@ -1,0 +1,44 @@
+title: experiments
+pid: 7b7e0fea-5259-4a43-a4ae-bf1953ecbbed
+body: |2-
+  #+BEGIN_SRC haskell
+  setcps 0.4
+
+  d1 $ s "supertron" |*| n "-36 -24 -12 0 12 24 36"
+
+  d1 $ s "supertron"
+    |*| n "-36 -24 -12 0 12 24 36"
+    |*| detune (100)
+    |*| voice 10
+
+  d1 $ s "supertron" |*| n "-36 -24 -12 0 12 24 36"
+    |*| detune (-16.1)
+    |*| voice 4
+    |*| sustain 0.1
+
+  d1 $ stack
+    [  s "supertron" |*| gain 0.7
+       |+| slow 4 (n "0 [3 5] 10 [14 7]")
+       |+| fast 1 (n "[-12 0]*2 ~ 0 -12 ~ 0")
+       |*| fast (slow 3 "1 2 4") (gain "0.8 1")
+       |*| fast 4 (accelerate "-0.05 0.05")
+    , palindrome $ brak $ slow (slow 8 "1 2")
+      $ s "bd hc*2 sn hc*2" ]
+
+  d1 $ slow 2
+    $ s "supertron" |*| (let pat = n "0 1.4 3 7 8.4 10"
+  		 in stack [ fast 2 pat,
+  			    0.25 <~ (pat - 24) ] )
+
+  d1 $ s "supertron"
+    |*| fast 2 (n $ "0 3 7" )
+    |*| detune "[0.1,0.2,0.3]" -- parallel detunes sound nuts!
+
+  d1 $ s "supertron" -- Busy two-voice harmonies sound djent.
+    |*| fast 2 (let pat = "0 3 7"
+         in n $ stack [ slow (slow 4 "1 4") pat
+  		    , fast (slow 8 "1 2")
+  		      $ early 0.25 pat ] )
+    |+| n "[-24,-12,-5]"
+    |*| crush 0.3
+  #+END_SRC

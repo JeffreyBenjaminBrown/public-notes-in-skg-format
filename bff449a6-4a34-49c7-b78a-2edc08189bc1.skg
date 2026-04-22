@@ -1,0 +1,6 @@
+title: Share a theme, with per-instrument lensing.
+pid: bff449a6-4a34-49c7-b78a-2edc08189bc1
+body: |2-
+  The simplest lens would be octave transposition.
+  Will probably want to reuse lenses from melody to drums,
+  since they will be tedious to write.

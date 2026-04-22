@@ -1,0 +1,6 @@
+title: preceding conflicting edits
+pid: da50b62c-aeb1-4239-91cd-71bd16396f60
+body: |2-
+  This guards against the possibility
+  that the user saved some of this data differently elsewhere,
+  after this data was rendered.

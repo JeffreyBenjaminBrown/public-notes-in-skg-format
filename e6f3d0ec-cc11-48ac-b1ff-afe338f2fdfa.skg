@@ -1,0 +1,8 @@
+title: installing monome code on NixOS
+pid: e6f3d0ec-cc11-48ac-b1ff-afe338f2fdfa
+contains:
+- 475bbdf4-bd5b-4fd9-a713-441fd53ee746
+- 7ffde39c-8ee2-4a87-bd29-505a72a9ea4c
+- d461c0f3-cc1e-4522-a118-deb0f9b9749c
+misc:
+- Had_ID_Before_Import

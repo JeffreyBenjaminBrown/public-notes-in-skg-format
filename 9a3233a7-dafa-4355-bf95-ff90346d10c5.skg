@@ -1,0 +1,5 @@
+title: '"Implode Items To One Track"'
+pid: 9a3233a7-dafa-4355-bf95-ff90346d10c5
+body: |2-
+  collects an across-track selection of items to a single track,
+  preserving each one's positioning/timing.

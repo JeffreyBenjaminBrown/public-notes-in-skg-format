@@ -1,0 +1,12 @@
+title: how to sort branches in org-mode
+aliases:
+- sort in org-mode
+pid: d19c12c9-9fdf-4289-8330-6ff172972f3f
+body: |2-
+  Highlight the branches to sort.
+  Their subbranches will not be reordered.
+contains:
+- f2501f85-ede0-40fc-9174-8478c7e4e169
+- 361fb584-4c17-4c1c-b6db-2153489f70ad
+misc:
+- Had_ID_Before_Import

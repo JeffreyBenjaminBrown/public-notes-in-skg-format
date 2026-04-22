@@ -1,0 +1,4 @@
+title: 'stdenv.mkDerivation:'
+pid: 0de18a2e-92ae-4982-b1d8-6ffae70cd715
+body: |2-
+  https://nixos.org/nixos/nix-pills/fundamentals-of-stdenv.html

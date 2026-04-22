@@ -1,0 +1,5 @@
+title: if the first arg fails, it uses the second
+pid: f6f0f3db-2267-46c6-88f7-1f6061e279fd
+body: |2-
+  >>> M.fromList [('a', 1), ('b', 2)] ^? (ix 'z' `failing` ix 'b')
+  Just 2

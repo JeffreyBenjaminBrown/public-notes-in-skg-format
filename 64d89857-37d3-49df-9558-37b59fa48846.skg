@@ -1,0 +1,6 @@
+title: select attributes with (.)
+pid: 64d89857-37d3-49df-9558-37b59fa48846
+body: |2-
+  { x = 1; y = 2; }.x == 1
+contains:
+- 03843c1c-42d9-4a50-9fc8-05cbf2468799

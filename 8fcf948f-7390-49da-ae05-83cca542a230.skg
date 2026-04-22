@@ -1,0 +1,4 @@
+title: Declare and define at the same time.
+pid: 8fcf948f-7390-49da-ae05-83cca542a230
+body: |2-
+  var s []int = primes[1:4]

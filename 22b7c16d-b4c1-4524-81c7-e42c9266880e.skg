@@ -1,0 +1,7 @@
+title: BLOCKED libmemcached error when building natively
+pid: 22b7c16d-b4c1-4524-81c7-e42c9266880e
+body: |2-
+  Asking on Discourse:
+  https://discourse.nixos.org/t/gcc-not-finding-libmemcached-after-installing-both-via-nixos-rebuild/13681
+misc:
+- Had_ID_Before_Import

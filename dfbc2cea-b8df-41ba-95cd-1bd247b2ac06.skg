@@ -1,0 +1,14 @@
+title: '53 5 12: 0-area 4x8, or 4x4 without 13'
+pid: dfbc2cea-b8df-41ba-95cd-1bd247b2ac06
+body: |2-
+  , etrArea = 48
+  , etrLayout =
+      [ 0 steps; 1 % 1 ; string 0 ; fret 0
+      , 53 steps; 2 % 1 ; string 4 ; fret 1
+      , 31 steps; 3 % 2 ; string 3 ; fret - 1
+      , 17 steps; 5 % 4 ; string 1 ; fret 1
+      , 43 steps; 7 % 4 ; string 4 ; fret - 1
+      , 9 steps; 9 % 8 ; string 2 ; fret - 3
+      , 24 steps; 11 % 8 ; string 2 ; fret 0
+      , 37 steps; 13 % 8 ; string 1 ; fret 5
+      , 48 steps; 15 % 8 ; string 4 ; fret 0

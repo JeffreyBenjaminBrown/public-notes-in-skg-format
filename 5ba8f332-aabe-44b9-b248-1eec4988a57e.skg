@@ -1,0 +1,4 @@
+title: constants
+pid: 5ba8f332-aabe-44b9-b248-1eec4988a57e
+body: |2-
+  pub const numberOfDucks : Int = 100

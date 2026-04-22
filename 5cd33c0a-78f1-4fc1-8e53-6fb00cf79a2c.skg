@@ -1,0 +1,11 @@
+title: Testing in Django
+pid: 5cd33c0a-78f1-4fc1-8e53-6fb00cf79a2c
+body: |2-
+  see polls.tests in my sample project at
+    https://github.com/JeffreyBenjaminBrown/learning-aws.git
+contains:
+- 1cf3b3ff-055d-4067-8866-57b22d282786
+- 2d81fa9a-4890-4c57-91be-367a1bb24f5b
+- db0be851-e5b2-461a-8dd7-60b7f133fde6
+misc:
+- Had_ID_Before_Import

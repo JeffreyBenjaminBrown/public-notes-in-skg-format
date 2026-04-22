@@ -1,0 +1,4 @@
+title: use `awk` to extract each PID, then `xargs` each into `kill`
+pid: f58c74c4-8ea4-4b79-8541-a435181c8331
+body: |2-
+  ps -ef | grep -i emacs | awk '{print $2}' | xargs kill

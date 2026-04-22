@@ -1,0 +1,5 @@
+title: 'TRICKY: OS threads and Rust threads might correspond, or not.'
+pid: 43e7c080-5e6e-4642-ba88-cb57c866fd0c
+body: |2-
+  In the std lib, they correspond 1:1,
+  but other crates can use other models.

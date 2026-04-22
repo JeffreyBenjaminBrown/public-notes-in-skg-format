@@ -1,0 +1,10 @@
+title: the command
+pid: 52520cad-e6bc-41ef-b1b0-17bae7c0b4f8
+body: |2-
+  docker run               \
+    --name typedb          \
+    -d                     \
+    -v typedb-data:/opt/   \
+    -p 1729:1729           \
+    --platform linux/amd64 \
+    vaticle/typedb:latest

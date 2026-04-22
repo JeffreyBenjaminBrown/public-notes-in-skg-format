@@ -1,0 +1,9 @@
+title: example
+pid: 1db2a5e7-a116-40d2-b8b2-c16d62ede2e5
+body: |2-
+  define
+
+  name sub attribute, value string;
+
+  person sub entity,
+    owns name;

@@ -1,0 +1,22 @@
+title: 5\24 x 1\24
+pid: cf3abeba-2ae6-4b4a-a9cd-4e19aacc426a
+body: |2-
+  5\24 x 1\24 is also a great layout. It's very similar to Bosanquet, and with narrower octaves. (You can decide for yourself which axis to call "strings" and which to call "frets".)
+
+     0  steps;  1 % 1; string 0; fret 0
+     4  steps;  9 % 8; string 1; fret -1
+     8  steps;  5 % 4; string 2; fret -2
+     11 steps; 11 % 8; string 2; fret 1
+     14 steps;  3 % 2; string 3; fret -1
+     17 steps; 13 % 8; string 3; fret 2
+     19 steps;  7 % 4; string 4; fret -1
+     22 steps; 15 % 8; string 4; fret 2
+     24 steps;  2 % 1; string 5; fret -1
+
+  Notice in particular how natural the dominant 9th chord is in root position:
+
+     0  steps;  1 % 1; string 0; fret 0
+     8  steps;  5 % 4; string 2; fret -2
+     14 steps;  3 % 2; string 3; fret -1
+     19 steps;  7 % 4; string 4; fret -1
+     28 steps;  9 % 8; string 6; fret -2

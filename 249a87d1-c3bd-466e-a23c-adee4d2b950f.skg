@@ -1,0 +1,5 @@
+title: u, also nice-looking
+pid: 249a87d1-c3bd-466e-a23c-adee4d2b950f
+body: |2-
+  MTV> myPrint $ map concat $ printLayout (primesOctave1 23) (show . numerator) 41 (2,9)
+  MTV> myPrint $ map concat $ printLayout (primesOctave1 23) (show . numerator) 41 (6,-7)

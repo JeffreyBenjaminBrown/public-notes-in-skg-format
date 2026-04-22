@@ -1,0 +1,10 @@
+title: example
+pid: 05695eb1-ded4-4d2f-be1c-b8872a4d7961
+body: |2-
+  receive
+      Pattern1 -> Expression1;
+      ...
+      PatternN -> ExpressionN;
+      Unexpected ->
+        io:format("unexpected message ~p~n", [Unexpected])
+   end.

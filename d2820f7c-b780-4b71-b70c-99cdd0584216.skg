@@ -1,0 +1,5 @@
+title: gen_server:reply/2
+pid: d2820f7c-b780-4b71-b70c-99cdd0584216
+body: |2-
+  Useful when you'd like to [[id:26114ed6-ebd8-4ccd-a525-0d3fc7aba7da][handle the reply yourself]],
+  rather than using the server.

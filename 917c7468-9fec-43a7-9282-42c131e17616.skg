@@ -1,0 +1,6 @@
+title: are written thus
+pid: 917c7468-9fec-43a7-9282-42c131e17616
+body: |2-
+  `-export ( [ Function1/Arity,
+              ...,
+              FunctionN/Arity ] ).

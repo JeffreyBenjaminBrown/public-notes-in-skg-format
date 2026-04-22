@@ -1,0 +1,11 @@
+title: then install the meta packages
+pid: a7b01fd4-78c8-4c4e-9916-f5a0c8f1a5f7
+body: |2-
+  PITFALL: Play guitar or something while watching the screen,
+  because Microsoft will pause the process at some point to ask for consent.
+  sudo apt install -y \
+    kxstudio-meta-audio \
+    kxstudio-meta-graphics \
+    kxstudio-meta-video \
+    kxstudio-meta-restricted-extras \
+    kxstudio-meta-wine

@@ -1,0 +1,4 @@
+title: C-x s (transient-set)
+pid: 150c3bbb-a5c7-4bf5-8ccd-b386d39ce714
+body: |2-
+  This command saves the value of the active transient for this Emacs session.

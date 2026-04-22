@@ -1,0 +1,4 @@
+title: to remove encryption from a PDF
+pid: b1cade43-8bd1-4f2c-bfbe-c74037f2f062
+body: |2-
+  qpdf --password=YOURPASSWORD-HERE --decrypt input.pdf output.pdf

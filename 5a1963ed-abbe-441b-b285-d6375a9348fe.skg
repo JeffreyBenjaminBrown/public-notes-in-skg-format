@@ -1,0 +1,4 @@
+title: don't leave Spotify open (even if not playing) when turning Qjackctl
+pid: 5a1963ed-abbe-441b-b285-d6375a9348fe
+body: |2-
+  not sure but maybe bad

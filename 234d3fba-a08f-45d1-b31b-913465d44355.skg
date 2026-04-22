@@ -1,0 +1,6 @@
+title: solution
+pid: 234d3fba-a08f-45d1-b31b-913465d44355
+body: |2-
+  Run `M-x org-roam-update-org-id-locations`.
+  I ran it from where the link was pasted, not the file I was linking to.
+  But maybe it works from anywhere.

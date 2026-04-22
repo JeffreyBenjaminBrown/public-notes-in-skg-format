@@ -1,0 +1,5 @@
+title: capitalization is weird
+pid: 48170253-a2d7-442c-ae36-e737974e3476
+body: |2-
+  Public functions are capitalized.
+  Everything else (inc. private functions and types) is lowercase.

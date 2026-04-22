@@ -1,0 +1,4 @@
+title: (--) subtracts a prefix, is right-associative.
+pid: 99d3d6b4-1671-4e91-b585-c30902c4a84f
+body: |2-
+  Specifically, it finds the longest prefix of the first argument equal to a prefix of the second argument, and returns the remainder of the first argument.

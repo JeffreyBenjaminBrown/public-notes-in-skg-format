@@ -1,0 +1,5 @@
+title: syntax
+pid: 1a1b01e8-7ef0-4535-b0cf-24ac6352cc30
+body: |2-
+  partial fromMaybe : Maybe a -> a
+  fromMaybe (Just x) = x

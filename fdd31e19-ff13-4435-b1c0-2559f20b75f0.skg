@@ -1,0 +1,6 @@
+title: strategies that worked
+pid: fdd31e19-ff13-4435-b1c0-2559f20b75f0
+body: |2-
+  I tried replacing http: with https: in ubuntu.sources:
+
+   sed -i 's|: http://|: https://|g' ubuntu.sources

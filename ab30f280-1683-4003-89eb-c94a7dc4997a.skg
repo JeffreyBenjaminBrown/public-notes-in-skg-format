@@ -1,0 +1,7 @@
+title: can be emulated
+pid: ab30f280-1683-4003-89eb-c94a7dc4997a
+body: |2-
+  erlang:error(Reason)
+  erlang:error(Reason, Args)
+misc:
+- Had_ID_Before_Import

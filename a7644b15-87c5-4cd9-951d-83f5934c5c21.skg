@@ -1,0 +1,8 @@
+title: user-defined macros
+pid: a7644b15-87c5-4cd9-951d-83f5934c5c21
+body: |2-
+  A 'function' macro could be written as
+    -define(sub(X,Y), X-Y).
+  and used like
+    ?sub(23,47),
+  later replaced by 23-47 by the compiler.

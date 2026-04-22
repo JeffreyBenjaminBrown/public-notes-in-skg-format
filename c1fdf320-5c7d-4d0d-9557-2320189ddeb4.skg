@@ -1,0 +1,8 @@
+title: partition for UEFI
+pid: c1fdf320-5c7d-4d0d-9557-2320189ddeb4
+body: |2-
+  sudo parted /dev/sda -- mklabel gpt
+  sudo parted /dev/sda -- mkpart primary 512MiB -8GiB
+  sudo parted /dev/sda -- mkpart primary linux-swap -16GiB 100%
+  sudo parted /dev/sda -- mkpart ESP fat32 1MiB 512MiB
+  sudo parted /dev/sda -- set 3 esp on

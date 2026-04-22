@@ -1,0 +1,4 @@
+title: '? osc, sc backend'
+pid: 3885e2cb-a945-433d-9e54-f09f1394d946
+body: |2-
+  OSC has timestamps, so SC can do scheduling.

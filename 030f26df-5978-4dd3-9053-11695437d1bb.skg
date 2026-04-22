@@ -1,0 +1,9 @@
+title: code
+pid: 030f26df-5978-4dd3-9053-11695437d1bb
+body: |2-
+  CREATE TABLE files (
+    file UNIQUE PRIMARY KEY, -- a fully qualified path
+    title ,
+    hash NOT NULL,
+    atime NOT NULL, -- TODO what is `atime` for? ChatGPT guesses it is the access time, as would I, but who cares about that?
+    mtime NOT NULL);

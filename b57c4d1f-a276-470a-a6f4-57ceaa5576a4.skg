@@ -1,0 +1,8 @@
+title: '`select` lets a goroutine wait on multiple channels.'
+pid: b57c4d1f-a276-470a-a6f4-57ceaa5576a4
+contains:
+- d26b03c2-83f3-4d8b-829e-4f4f9bb3079b
+- f1ad48e5-f646-4ad4-98fd-40b2752633ad
+- 99ffd5dc-76e3-4d48-a714-fb876bd3fe97
+- 981bf8f6-dd16-45e4-8631-2d3788dff99a
+- 37a421d4-579a-4c3b-a942-058b815f6422

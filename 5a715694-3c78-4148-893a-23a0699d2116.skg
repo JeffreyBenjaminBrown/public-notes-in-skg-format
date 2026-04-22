@@ -1,0 +1,4 @@
+title: in WSL
+pid: 5a715694-3c78-4148-893a-23a0699d2116
+body: |2-
+  sudo service cntlm restart

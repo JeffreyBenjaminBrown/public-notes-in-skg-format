@@ -1,0 +1,16 @@
+title: '96 9 20: 15-lim 0-area 4x8, diag octave (3,4)'
+pid: c8fcda1b-0e51-4bf3-af02-aee358565aa7
+body: |2-
+     , etrTuning = Edo 96 ; StringGap 20 ; FretGap 9
+     , etrArea = 40
+     , etrLayout =
+  [ 0 steps; 1 % 1 ; string 0 ; fret 0
+  , 96 steps; 2 % 1 ; string 3 ; fret 4
+  , 56 steps; 3 % 2 ; string 1 ; fret 4
+  , 31 steps; 5 % 4 ; string 2 ; fret - 1
+  , 78 steps; 7 % 4 ; string 3 ; fret 2
+  , 16 steps; 9 % 8 ; string - 1 ; fret 4
+  , 44 steps; 11 % 8 ; string 4 ; fret - 4
+  , 67 steps; 13 % 8 ; string 2 ; fret 3
+  , 87 steps; 15 % 8 ; string 3 ; fret 3
+  ]

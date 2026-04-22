@@ -1,0 +1,13 @@
+title: elaboration
+pid: 7a9480c9-0939-4541-821c-5ff812ba56bb
+body: |2-
+  Suppose you have a guitar with a single fret at the octave.
+  Adjust the bridge saddles to get intonation perfect at the octave.
+  Now the saddles aren't in a line! This seems to imply,
+  I think, that the frets between the bridge and the octave fret
+  should interpolate based on where each string ends,
+  not on where they would have ended without the bridge adjustment.
+
+  The frets between the nut and the octave, though,
+  still seem like they should be (maybe fanned as a collection but)
+  individually straight.

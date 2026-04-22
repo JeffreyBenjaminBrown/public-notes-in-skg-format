@@ -1,0 +1,6 @@
+title: the trick
+pid: b854217b-a799-4110-8a36-5bbc86f8b4a0
+body: |2-
+  Subclass threading.Thread,
+  define "run()" in the class definition,
+  and then run its "start()" method (not, strangely, the "run()" method).

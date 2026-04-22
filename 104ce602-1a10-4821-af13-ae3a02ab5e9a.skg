@@ -1,0 +1,6 @@
+title: Alt-drag will stretch a selection of midi notes.
+pid: 104ce602-1a10-4821-af13-ae3a02ab5e9a
+body: |2-
+  Drag one side. The other side of the selection stays fixed.
+  Any notes whose start and endpoints are both strictly inside
+  the selection's boundaries will have both endpoints moved.

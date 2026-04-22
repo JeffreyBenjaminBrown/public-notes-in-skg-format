@@ -1,0 +1,4 @@
+title: but not across Docker instances
+pid: 9e8dbfe3-5887-4cd2-90d4-28f1573830bc
+body: |2-
+  Any database should need spinning up from the single source of truth, the user's files, each time the Docker container running the program is started.

@@ -1,0 +1,12 @@
+title: example
+pid: b9f9865c-b62f-40a8-9491-c7c9dbcbf27c
+body: |2-
+  fn main() {
+      let mut s = String::from("hello");
+
+      change(&mut s);
+  }
+
+  fn change(some_string: &mut String) {
+      some_string.push_str(", world");
+  }

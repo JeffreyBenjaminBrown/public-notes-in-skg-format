@@ -1,0 +1,8 @@
+title: One cannot move outside the top-level package.
+pid: a922314a-ab1c-4773-b3ed-dd78451156d8
+body: |2-
+  If you try this:
+    from ... import e
+  Python will throw an error:
+    ImportError: attempted relative import beyond top-level package
+  This is because Python does not move through the file system to resolve relative imports. It just takes the value of __package__, strips some suffix and appends a new one to get an absolute module name.

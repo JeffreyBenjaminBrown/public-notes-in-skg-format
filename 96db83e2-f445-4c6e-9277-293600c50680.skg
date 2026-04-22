@@ -1,0 +1,7 @@
+title: They are specified awkwardly.
+pid: 96db83e2-f445-4c6e-9277-293600c50680
+body: |2-
+  Precede higher-order arguments with the `fun` keyword.
+  hhfuns:add(
+    fun hof:one/0,
+    fun hof:two/0).

@@ -1,0 +1,10 @@
+title: Shortest Common Superstring Problem (bioinformatics)
+pid: f18d3823-02dd-4842-b8d5-4903b4889ca6
+body: |2-
+  a.k.a. SES problem
+  = Given a set S of strings, find SCS(S), the shortest string containing them.
+contains:
+- dc3f3683-c9e2-451a-9ea3-d408545410c5
+- 5d22e100-167d-447d-b729-9351cfa4a453
+misc:
+- Had_ID_Before_Import

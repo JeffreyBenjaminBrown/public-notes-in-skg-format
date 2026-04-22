@@ -1,0 +1,8 @@
+title: quote
+pid: e5d81575-9432-487e-a86a-bfed73506dd9
+body: |2-
+     Tip: The View, Piano Roll Timebase command includes the options source beats, project beats and project
+  time. MIDI data is always defined in beat-based terms, but in the time view mode the grid is adjusted to reflect
+  any tempo changes in the project. If there are no tempo changes, the beat and time views will be identical. You
+  also have the option to select Project synced. This synchronizes the timeline of the project and MIDI item
+  together. It also ensures that both windows are synchronized during such actions as zooming and scrolling.

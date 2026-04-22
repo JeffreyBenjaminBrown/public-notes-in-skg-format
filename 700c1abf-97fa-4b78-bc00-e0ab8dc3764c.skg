@@ -1,0 +1,7 @@
+title: 'FR3. If α and β are wffs, then so are these:'
+pid: 700c1abf-97fa-4b78-bc00-e0ab8dc3764c
+body: |2-
+  (α · β)
+  (α ∨ β)
+  (α ⊃ β)
+  (α ≡ β)

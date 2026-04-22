@@ -1,0 +1,12 @@
+title: relation nodes
+pid: 004bf7c4-efd0-4e28-a036-06edd1616050
+body: |2-
+  Alternating member descriptions,
+  and connecting words, where the connecting words alone
+  are enough to uniquely identify the template.
+  Each member description can be empty,
+  in which case it is a placeholder for a member.
+
+  After that, the relation node can have
+  any arbitrary set of content,
+  just like an ordinary node.

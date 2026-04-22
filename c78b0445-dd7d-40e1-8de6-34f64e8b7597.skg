@@ -1,0 +1,4 @@
+title: Can be thought of as inheriting from Model.
+pid: c78b0445-dd7d-40e1-8de6-34f64e8b7597
+body: |2-
+  In fact they both inherit from a hidden base type.

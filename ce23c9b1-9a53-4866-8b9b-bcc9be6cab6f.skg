@@ -1,0 +1,8 @@
+title: Modifications to a variable can trigger functions in Emacs.
+pid: ce23c9b1-9a53-4866-8b9b-bcc9be6cab6f
+body: |2-
+  https://www.gnu.org/software/emacs/manual/html_node/elisp/Watching-Variables.html
+
+  Use a "variable watchpoint".
+misc:
+- Had_ID_Before_Import

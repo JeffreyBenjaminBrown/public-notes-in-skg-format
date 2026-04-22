@@ -1,0 +1,6 @@
+title: How to interpret the matrix.
+pid: 76df839f-24d4-4934-84d5-dc89e13c3ca9
+body: |2-
+  Columns correspond to prefixes of one string,
+  rows corespond to prefixes of the other,
+  and "" is included as the "first prefix" of both strings.

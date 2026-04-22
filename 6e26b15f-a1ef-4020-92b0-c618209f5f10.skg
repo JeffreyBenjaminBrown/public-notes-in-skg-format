@@ -1,0 +1,4 @@
+title: 'to show an expression''s type: use "describe"'
+pid: 6e26b15f-a1ef-4020-92b0-c618209f5f10
+body: |2-
+  42 | describe

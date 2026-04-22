@@ -1,0 +1,10 @@
+title: tuned 19\87 apart
+pid: 4ec6fd63-2068-4f82-9877-e79f5c4983d7
+body: |2-
+  (*19) <$> [0..6] = [0,19,38,57,76,95,114]
+  5/4   = 28 \ 87 = 1 mod 3 = 1 string + 3 frets
+  11/8  = 40 \ 87 = 1 mod 3 = 1 string + 7 frets
+  3/2   = 51 \ 87 = 0 mod 3 = 3 strings - 2 frets
+  13/8  = 61 \ 87 = 1 mod 3 = 4 strings - 5 frets
+  7/4   = 70 \ 87 = 1 mod 3 = 4 strings - 2 frets
+  2/1   = 87 \ 87 = 0 mod 3 = 3 strings + 10 frets, or 6 strings - 9 frets

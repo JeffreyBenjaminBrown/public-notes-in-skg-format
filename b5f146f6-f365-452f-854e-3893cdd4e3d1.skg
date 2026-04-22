@@ -1,0 +1,6 @@
+title: This document explains
+pid: b5f146f6-f365-452f-854e-3893cdd4e3d1
+body: |2-
+  How to remotely run commands on an EC2 instance, via SSM.
+  From the tutorial here:
+  https://aws.amazon.com/getting-started/tutorials/remotely-run-commands-ec2-instance-systems-manager/

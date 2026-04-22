@@ -1,0 +1,4 @@
+title: '''truncated'': whether a node''s contents are among its children'
+pid: a86e0e16-4fd2-4d7a-83b1-773378a88218
+body: |2-
+  If a node is truncated, it should be indefinitive.

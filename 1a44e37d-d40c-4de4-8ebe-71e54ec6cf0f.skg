@@ -1,0 +1,8 @@
+title: what I mean by "scale family"
+pid: 1a44e37d-d40c-4de4-8ebe-71e54ec6cf0f
+body: |2-
+  A scale family is a set of scales equal modulo transposition.
+  For instance,
+  the major scale is equal to the minor scale modulo transposition,
+  because if you start on the 6th degree of the major scale,
+  you get a minor scale.

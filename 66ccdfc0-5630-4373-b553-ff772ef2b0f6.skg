@@ -1,0 +1,5 @@
+title: what I tried
+pid: 66ccdfc0-5630-4373-b553-ff772ef2b0f6
+body: |2-
+  (define-key org-mode-map [mouse-1]         'jbb-org-open-at-point)
+  (define-key org-mode-map (kbd "<mouse-1>") 'jbb-org-open-at-point)

@@ -1,0 +1,4 @@
+title: '? Viewnodes should have IDs.'
+pid: 8e4c361e-58a2-4b72-8e97-b0aef2f412e0
+body: |2-
+  That way different temp data could exist for different ones.

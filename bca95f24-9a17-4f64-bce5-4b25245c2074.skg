@@ -1,0 +1,6 @@
+title: definition
+pid: bca95f24-9a17-4f64-bce5-4b25245c2074
+body: |2-
+  Informal aspects of an interface
+  are things the user must know
+  that cannot be encoded in the programming language itself.

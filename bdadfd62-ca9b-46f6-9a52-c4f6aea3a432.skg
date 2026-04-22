@@ -1,0 +1,6 @@
+title: are these
+pid: bdadfd62-ca9b-46f6-9a52-c4f6aea3a432
+body: |2-
+  normal
+  shutdown
+  {shutdown, Term}

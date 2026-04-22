@@ -1,0 +1,7 @@
+title: review, the reverse of view, embeds a focus into a structure
+pid: 7dabca5d-5d98-4d06-bb42-f30bdbcc99bd
+body: |2-
+  review (or (#)) :: Prism s t a b -> b -> t
+contains:
+- 3d7bb5ac-0787-481f-8381-13c32ec87aa5
+- d730bcc9-4d19-4d77-b0dd-c4cb90c1a472

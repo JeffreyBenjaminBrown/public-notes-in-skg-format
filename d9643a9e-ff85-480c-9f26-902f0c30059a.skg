@@ -1,0 +1,9 @@
+title: USB
+aliases:
+- universal serial bus
+pid: d9643a9e-ff85-480c-9f26-902f0c30059a
+contains:
+- df128700-244b-4b82-8d39-dd725d846f94
+- 77bcd360-bd34-4c7f-9bca-0ffc1530721d
+misc:
+- Had_ID_Before_Import

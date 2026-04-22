@@ -1,0 +1,5 @@
+title: TODO How do capture patterns like <int:pk> work when the view the urls lead to is not a function but a View object?
+pid: 1c7be104-87b6-48d8-a0ea-ae423b1c0306
+contains:
+- ce2cf8f8-e37c-4576-9780-35d23f8038ad
+- 736af3b6-4f0b-4bf2-85d7-466016c68747

@@ -1,0 +1,2 @@
+title: title search over aliases should return id, title pairs, sort results on (id, title) in that order, and present both or group aliases as org-children of IDs so that it's visibly clear whether any two search results go to the same or different places
+pid: 6e641eea-2b6e-4bec-b703-95da585fa0ee

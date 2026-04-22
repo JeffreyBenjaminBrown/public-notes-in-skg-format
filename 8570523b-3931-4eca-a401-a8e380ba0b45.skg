@@ -1,0 +1,5 @@
+title: 'elemOf :: Eq a => Fold s a -> a -> s -> Bool'
+pid: 8570523b-3931-4eca-a401-a8e380ba0b45
+body: |2-
+  >>> elemOf folded 3 [1, 2, 3, 4]
+  True

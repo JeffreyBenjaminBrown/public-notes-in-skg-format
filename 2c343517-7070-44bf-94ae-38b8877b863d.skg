@@ -1,0 +1,6 @@
+title: undo-tree
+pid: 2c343517-7070-44bf-94ae-38b8877b863d
+body: |2-
+  undo-tree-visualize			-- first enable undo-tree-mode
+  undo-tree-diff			-- or 'd' from in it
+  undo-tree-visualizer-timestamps	-- or 't' from in it

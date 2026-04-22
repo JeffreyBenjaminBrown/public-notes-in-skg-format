@@ -1,0 +1,12 @@
+title: unittest.mock (Python library for testing with mocks)
+aliases:
+- mocks in Python
+pid: b279f98b-9c11-4671-9245-11cfa18ba756
+contains:
+- c7bce575-54c5-456f-bea2-882784ff198c
+- f5aab0bb-bf2f-44b3-9e4e-e651ba321db3
+- 6818e464-a92b-4496-bfcf-66795703c2c9
+- 667851c6-a28f-4727-928b-f1d6bad712ca
+- c18e1350-6091-4268-a482-8866d21c8afc
+misc:
+- Had_ID_Before_Import

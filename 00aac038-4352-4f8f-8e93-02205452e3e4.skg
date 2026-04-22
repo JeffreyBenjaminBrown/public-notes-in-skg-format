@@ -1,0 +1,5 @@
+title: 'list-ish traversals: _Cons (prism), _head, _tail'
+pid: 00aac038-4352-4f8f-8e93-02205452e3e4
+body: |2-
+  They work on Vector, Bytestring, more stuff.
+  The Cons class is user-extensible.

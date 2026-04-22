@@ -1,0 +1,6 @@
+title: renaming a type
+pid: 7d1f244b-60b4-4770-aa3a-79e768cbd245
+body: |2-
+  Depends on the client.
+contains:
+- dc69a2b7-7ca1-4aa8-950f-211ac3333e65

@@ -1,0 +1,9 @@
+title: organizing Tidal code hierarchically (within a file)
+pid: 1f80a0d2-fa15-4825-9234-33ec91bb9f8f
+body: |2-
+  Currently I prefer org-mode.
+contains:
+- 7d9fa0bd-ed5f-4f89-8e36-66d1bb38c73d
+- 370c9953-2120-4918-a8d5-39a6f88761ac
+misc:
+- Had_ID_Before_Import

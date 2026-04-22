@@ -1,0 +1,4 @@
+title: It's a multigraph,
+pid: 2d51b425-944b-479d-9be9-2faa43475321
+body: |2-
+  i.e. one where multiple edges can start and end in the same place.

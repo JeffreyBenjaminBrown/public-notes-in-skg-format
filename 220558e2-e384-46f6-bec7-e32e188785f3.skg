@@ -1,0 +1,9 @@
+title: some surprisingly (intentionally) impossible things
+pid: 220558e2-e384-46f6-bec7-e32e188785f3
+body: |2-
+  Make one identifying something other than the caller.
+  Deactivate an alias unless it identifies the caller.
+  Look up an alias.
+  Look up the process identified by an alias.
+  Check if an alias is active or not.
+  Check if a reference is an alias.

@@ -1,0 +1,4 @@
+title: to the same file
+pid: 24793dab-6b69-4aeb-9fbc-2983767e9395
+body: |2-
+  command >out 2>&1

@@ -1,0 +1,6 @@
+title: unmount
+pid: bacda67e-2469-4c78-b96a-ef35a87e5dfe
+body: |2-
+  umount /path/where/device/is/mounted
+  After this the device will still be visible in /dev,
+  but not manipulable at the above long path.

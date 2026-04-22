@@ -1,0 +1,4 @@
+title: Children are stopped in reverse order.
+pid: 8ee59c03-c664-42e6-becb-f1f599974321
+body: |2-
+  "The child processes are started in the order specified by [the "child specification"], and terminated in the reversed order."

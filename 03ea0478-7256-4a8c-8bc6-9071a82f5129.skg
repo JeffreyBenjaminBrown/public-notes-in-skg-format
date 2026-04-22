@@ -1,0 +1,4 @@
+title: this may have worked in the past
+pid: 03ea0478-7256-4a8c-8bc6-9071a82f5129
+body: |2-
+  pandoc input.md -o output.pdf --pdf-engine=pdfroff

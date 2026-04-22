@@ -1,0 +1,6 @@
+title: generalizes element
+pid: 9c885216-b0d0-42be-a739-b4f79fd5982f
+body: |2-
+  -- `element` is basically `elementOf traversed`
+  >>> [0, 1, 2, 3, 4] ^? elementOf traversed 2
+  Just 2

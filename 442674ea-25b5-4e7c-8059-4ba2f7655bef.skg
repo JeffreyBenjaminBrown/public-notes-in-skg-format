@@ -1,0 +1,6 @@
+title: COMMENT fancier
+pid: 442674ea-25b5-4e7c-8059-4ba2f7655bef
+body: |2-
+  #+BEGIN_SRC shell
+    find . -type f -name '*.py' | xargs etags_plus
+  #+END_SRC

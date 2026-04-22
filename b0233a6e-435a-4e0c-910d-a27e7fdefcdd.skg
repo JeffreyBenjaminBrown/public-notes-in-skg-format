@@ -1,0 +1,4 @@
+title: From Emacs, install use-package.
+pid: b0233a6e-435a-4e0c-910d-a27e7fdefcdd
+body: |2-
+  M-x package-install RET use-package RET

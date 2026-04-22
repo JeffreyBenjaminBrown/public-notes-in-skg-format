@@ -1,0 +1,4 @@
+title: this one has no data in server/data/, which is what I expected
+pid: 2705ad57-1efa-4097-a637-3ebb4f2706c4
+body: |2-
+  /var/lib/docker/overlay2/64b314c449c5dbe3461d2f898ba73aa783949c3b4d36c950ffefdca2c28dfd77/diff/opt/typedb-all-linux-x86_64/server/data

@@ -1,0 +1,7 @@
+title: naked returns
+pid: 7c23f414-c684-4928-b9c2-1a0e235c2990
+body: |2-
+  The type signature can optionally name the arguments to be returned, in which case the return statement does not have to.
+contains:
+- 5c81abd4-fdee-455a-ba13-0773dc80472e
+- 91560dc2-1251-40d6-a8d3-928498e6b0cd

@@ -1,0 +1,11 @@
+title: 'PITFALL: (<-) can subsume (=).'
+pid: c1995207-dd75-4d1b-a3a6-9b6d64a8502e
+body: |2-
+  x <- c // assigns the value in the channel c to x
+  f( <-c ) // Applies f to the value from channel c,
+           // without any kind of assignment.
+  The first would be more consistent with the second if written
+    x = (<-c)
+  or
+    x = <-c
+  and in fact those are also valid syntax.

@@ -1,0 +1,12 @@
+title: 'PITFALL: argument labels (optional) can differ from argument variable names'
+pid: 693730d6-4ac2-4221-96d3-56e240cd424f
+body: |2-
+  pub fn replace(
+    in string: String,
+    each pattern: String,
+    with replacement: String,
+  ) {
+    // The variables `string`, `pattern`, and `replacement` are in scope here
+  }
+
+  replace(in: "A,B,C", each: ",", with: " ")

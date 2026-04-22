@@ -1,0 +1,4 @@
+title: Separate the model from the controller.
+pid: 591bb759-60ad-402c-a182-fa22319de794
+body: |2-
+  Keep as much logic out of Emacs as possible.

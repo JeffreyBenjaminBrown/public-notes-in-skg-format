@@ -1,0 +1,7 @@
+title: TODO first survey how I use it
+pid: 3b8f2021-07ba-47c7-901e-0e67beba5a98
+body: |2-
+  It's only used in Hode.UI.
+  Potentially tricky:
+    building a tree from the top while knowing where the focus is.
+    Optics (refer to the PointedList implementation).

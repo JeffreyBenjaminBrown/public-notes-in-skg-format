@@ -1,0 +1,5 @@
+title: often `fromMaybe` and `preview` is enough
+pid: 01739c09-9164-4a58-8113-ebded0699f22
+body: |2-
+  >>> fromMaybe 'z' ("abc" ^? ix 10)
+  'z'

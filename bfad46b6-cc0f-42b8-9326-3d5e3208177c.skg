@@ -1,0 +1,7 @@
+title: the idea
+pid: bfad46b6-cc0f-42b8-9326-3d5e3208177c
+body: |2-
+  I copied some .psfu files from /nix/store to ~/fonts.
+  None of them were great.
+  The biggest was solar24x32.psfu,
+  but it's very thin, hard to read.

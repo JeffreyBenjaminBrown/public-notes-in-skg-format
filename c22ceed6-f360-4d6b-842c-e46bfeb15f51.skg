@@ -1,0 +1,5 @@
+title: 'PITFALL: The Qjackctl graph does not show the implicit connection from the "MIDI Through" to the "a2j".'
+pid: c22ceed6-f360-4d6b-842c-e46bfeb15f51
+body: |2-
+  The external MIDI devices connect to the MIDI Through,
+  and the a2j connects to the DAW.

@@ -1,0 +1,6 @@
+title: '`each` is like `both` but gets more than two things if needed'
+pid: 00f9b2d6-7cf5-4165-a3a3-f4a931005e0a
+body: |2-
+  each :: Each s t a b => Traversal s t a b
+  -- Simplified:
+  each :: Each s s a a => Fold s a

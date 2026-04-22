@@ -1,0 +1,8 @@
+title: annotation server
+pid: 2daed6f3-a2e8-4f95-905e-52ecb5e6e4ee
+body: |2-
+  These allow one website to comment on another,
+  such that subscribed readers
+  can see those annotations from their target.
+misc:
+- Had_ID_Before_Import

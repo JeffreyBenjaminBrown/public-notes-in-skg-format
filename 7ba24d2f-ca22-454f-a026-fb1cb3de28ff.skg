@@ -1,0 +1,4 @@
+title: two-sample two-stage least squares (2S2SLS)
+pid: 7ba24d2f-ca22-454f-a026-fb1cb3de28ff
+body: |2-
+  Whereas IV = 2SLS, 2SIV /= 2S2SLS.

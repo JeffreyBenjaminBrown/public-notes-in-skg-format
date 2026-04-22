@@ -1,0 +1,27 @@
+title: 'NOT IMPORTANT: elipsis at the start or end of a path'
+pid: c3afd545-b207-472a-9d86-6b1f05cbc22b
+body: |2-
+  It is valid for a path to start and / or end with an elipsis --
+  all that means is, respectively,
+  'the last node found has content / containers'.
+
+  In this case the number on the elipsis means 'min'
+  rather than 'max'. If there's no 'min',
+  then any nonzero number of hops is valid,
+  so ".." at either end of a path is equivalent to "1 ..".
+
+  If an ellipsis is last,
+  discard any matches to the last text target
+  that don't have at least that many layers of content.
+  (e.g. if the path were 'a / b / max 2 ..',
+  discard any match to 'b' that doesn't have
+  at least 2 generations of recursive content.
+  If there's no max on the ellipsis,
+  any number of generations counts,
+  so only discard matches with no content.)
+
+  If there's still an elipsis left
+  (because the path had an elipsis before any of the text argets),
+  be sure the surviving paths can be
+  extended in the containerward direction that many generations
+  (only 1 generation if the elipsis has no max).

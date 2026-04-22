@@ -1,0 +1,6 @@
+title: export rules are per namespace, not per file
+pid: b472f211-6991-4d7a-b842-3dc99971eafb
+body: |2-
+  so the two test definitions above need the export flag to be visible outside their own namespaces.
+misc:
+- Had_ID_Before_Import

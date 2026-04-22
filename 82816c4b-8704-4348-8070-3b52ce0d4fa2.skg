@@ -1,0 +1,4 @@
+title: to rebuild the cache
+pid: 82816c4b-8704-4348-8070-3b52ce0d4fa2
+body: |2-
+  M-x -db-s

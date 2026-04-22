@@ -1,0 +1,8 @@
+title: 'io:format/2: some instructive examples'
+pid: 2b1fa2c0-1671-40d5-bfbf-439cef87ccd9
+body: |2-
+  io:format("~s~n",[<<"Hello">>]),
+  io:format("~p~n",[<<"Hello">>]),
+  io:format("~~~n"),
+  io:format("~f~n", [4.0]),
+  io:format("~30f~n", [4.0]).

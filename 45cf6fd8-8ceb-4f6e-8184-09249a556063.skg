@@ -1,0 +1,17 @@
+title: '94 7 23: 15-lim 5x8, octave (5,-3), seems < 94 7 16'
+pid: 45cf6fd8-8ceb-4f6e-8184-09249a556063
+body: |2-
+  , etrTuning = Edo 94 ; StringGap 23 ; FretGap 7
+  , etrArea = 56
+  , etrLayout =
+      [ 0 steps; 1 % 1 ; string 0 ; fret 0
+      , 94 steps; 2 % 1 ; string 5 ; fret - 3
+      , 55 steps; 3 % 2 ; string 3 ; fret - 2
+      , 30 steps; 5 % 4 ; string 1 ; fret 1
+      , 76 steps; 7 % 4 ; string 3 ; fret 1
+      , 16 steps; 9 % 8 ; string 1 ; fret - 1
+      , 43 steps; 11 % 8 ; string 4 ; fret - 7
+      , 66 steps; 13 % 8 ; string 5 ; fret - 7
+      , 85 steps; 15 % 8 ; string 4 ; fret - 1
+misc:
+- Had_ID_Before_Import

@@ -1,0 +1,4 @@
+title: create, use a class to represent the upload form
+pid: 6b02a502-1abf-4521-8910-d0e73cce7ad8
+body: |2-
+  e.g. see `class UploadFileForm` in my file `polls/forms.py`

@@ -1,0 +1,5 @@
+title: 'step 1: register a domain'
+pid: dcc582f2-8fd1-4ebb-bdf9-6104da217e75
+body: |2-
+  Amazon lets you do that via "Route 53".
+  It might be possible to use someone else's (cheaper) service.

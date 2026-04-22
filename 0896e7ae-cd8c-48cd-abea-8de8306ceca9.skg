@@ -1,0 +1,6 @@
+title: Its second argument specifies columns.
+pid: 0896e7ae-cd8c-48cd-abea-8de8306ceca9
+body: |2-
+  It can be a column name or a list of columns.
+  I haven't checked whether it can be anything else --
+  a range, a colon, a boolean vector, etc.

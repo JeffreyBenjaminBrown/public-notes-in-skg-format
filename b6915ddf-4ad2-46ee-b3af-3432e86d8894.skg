@@ -1,0 +1,6 @@
+title: the idea
+pid: b6915ddf-4ad2-46ee-b3af-3432e86d8894
+body: |2-
+  `iter n` divides the pattern into `n` pieces,
+  and first plays them in order,
+  then in order but starting on the 2nd, etc.

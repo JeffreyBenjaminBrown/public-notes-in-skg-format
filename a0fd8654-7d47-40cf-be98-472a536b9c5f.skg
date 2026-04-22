@@ -1,0 +1,4 @@
+title: a simple group add
+pid: a0fd8654-7d47-40cf-be98-472a536b9c5f
+body: |2-
+  usermod -aG www-data appuser

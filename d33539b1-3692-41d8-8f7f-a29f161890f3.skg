@@ -1,0 +1,12 @@
+title: worded and lines
+pid: d33539b1-3692-41d8-8f7f-a29f161890f3
+body: |2-
+  PITFALL: These are not lawful. They can do weird stuff on unlucky strings,
+  e.g. strings with blank lines or consecutive newlines.
+
+  -- simplified
+  worded :: Traversal' String String
+  lined :: Traversal' String String
+  -- real types
+  worded :: Applicative f => IndexedLensLike' Int f String String
+  lined :: Applicative f => IndexedLensLike' Int f String String

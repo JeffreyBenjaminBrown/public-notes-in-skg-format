@@ -1,0 +1,4 @@
+title: 0, meaning that the variable is erased at run time
+pid: 52d4cc15-2e32-4bca-a9ed-511eb94cc51a
+body: |2-
+  ignoreN : (0 n : Nat) -> Vect n a -> Nat - this function cannot look at n at run time

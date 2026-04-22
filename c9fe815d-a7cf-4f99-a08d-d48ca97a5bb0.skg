@@ -1,0 +1,23 @@
+title: 80-edo
+pid: c9fe815d-a7cf-4f99-a08d-d48ca97a5bb0
+body: |2-
+  By hand, I searched every triple (80 [2-11] [11-29]).
+  Good harmonics for everything but 31/16
+    (it's 5c flat, whereas everything else is sharp by at most 6c).
+contains:
+- 6931dc93-e054-44d1-ba16-99e56f30d81d
+- 34b25bc1-cdfb-472d-ad1a-fac2fd07a832
+- 74829883-2703-40ef-bdf4-d4ccb1425ee4
+- d3754801-31d5-4879-867f-7bb36a30e6c4
+- 1192d8eb-1abb-4030-96bd-22adb8597978
+- f39cdf23-55ba-44e2-86fc-8160222670c9
+- 2746e161-aa93-4c0f-83b4-8ecd0271fa97
+- e7fbf3a6-215d-40b7-ae48-37b1135e7afc
+- 30c6ed4e-26b7-4d6f-8372-35c98aeb2d94
+- e30f2650-954b-4292-a382-f8fe9dfdb22a
+- 15eccdf8-637f-4c1a-94de-969fff35f833
+- ef3b40aa-657b-4c2e-89aa-c206c7cba951
+- 1846218f-8ad4-4923-8fa0-e1dc53d8ddf9
+- e7604aa0-cde7-4ddd-8067-c22998ca7bd3
+misc:
+- Had_ID_Before_Import

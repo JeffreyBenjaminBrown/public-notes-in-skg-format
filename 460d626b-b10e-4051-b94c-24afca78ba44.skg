@@ -1,0 +1,10 @@
+title: StateName/2-3
+pid: 460d626b-b10e-4051-b94c-24afca78ba44
+body: |2-
+  For each state defined in `init`,
+  there should be at least one function of the same name.
+  taking 2 arguments if async, 3 if sync.
+contains:
+- 2f509b6d-067e-40c0-9aad-3b1872425f1a
+- 4e82a684-74c9-42f8-aa62-8b261411ebfc
+- b8dc37b2-9e17-4978-8f30-a87f2264071a

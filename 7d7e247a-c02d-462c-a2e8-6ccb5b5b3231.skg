@@ -1,0 +1,10 @@
+title: his summary
+pid: 7d7e247a-c02d-462c-a2e8-6ccb5b5b3231
+body: |2-
+  method 1
+  - train small model M1 on dataset D
+
+  method 2 (distillation)
+  - train large model L on D
+  - train small model M2 to mimic output of L
+  - M2 will outperform M1

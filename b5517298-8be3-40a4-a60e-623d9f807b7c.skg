@@ -1,0 +1,5 @@
+title: example
+pid: b5517298-8be3-40a4-a60e-623d9f807b7c
+body: |2-
+  >>> "abcd" & failover (ix 6) toUpper :: Maybe String
+  Nothing

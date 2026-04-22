@@ -1,0 +1,4 @@
+title: depend on case and application
+pid: 7363d5db-e53a-4ce9-b368-568df24bf8a3
+body: |2-
+  "Any name beginning with a lower case letter which appears as a parameter or index in a type declaration, which is not applied to any arguments, will always be automatically bound as an implicit argument"

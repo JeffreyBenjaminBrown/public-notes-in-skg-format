@@ -1,0 +1,14 @@
+title: csrf_token
+pid: da117ad2-e805-4510-b511-d218e16f3da3
+body: |2-
+  Use these around to prevent "cross site request forgery" attacks.
+
+  "all POST forms that are targeted at
+   internal URLs should use the {% csrf_token %} template tag"
+
+  e.g.
+    <form action="..."
+          method="post">
+      {% csrf_token %}
+      ... do stuff ...
+    </form>

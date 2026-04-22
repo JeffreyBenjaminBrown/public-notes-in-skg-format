@@ -1,0 +1,5 @@
+title: It makes a lot of things fast.
+pid: 9fdc23d5-4b84-4b35-b86f-9ca001c90b46
+body: |2-
+  Renaming and moving code
+  cause neither recompilation nor the rerunning of tests.

@@ -1,0 +1,2 @@
+title: 'curried  :: Iso'' ((a, b) -> c)  (a -> b -> c)'
+pid: a6ff777e-ee6a-4e08-b84c-75196d52c6c3

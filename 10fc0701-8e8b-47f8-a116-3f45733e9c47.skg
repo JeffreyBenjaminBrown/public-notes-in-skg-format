@@ -1,0 +1,7 @@
+title: if let
+pid: 10fc0701-8e8b-47f8-a116-3f45733e9c47
+body: |2-
+  let config_max = Some(3u8);
+  if let Some(max) = config_max {
+      println!("The maximum is configured to be {max}");
+  }

@@ -1,0 +1,9 @@
+title: in short
+pid: 45234604-6c49-4fac-89b7-dc3b530b4015
+body: |2-
+  It seems to be:
+  The output from dmidecode shows the size of the installed RAM correctly.
+  But if a slot is empty, it shows it as DIMM when in fact it should be SODIMM.
+  To know for sure one ought to look at the motherboard schematics.
+  But I just gambled that they'd both be the same, SODIMM (the laptop size),
+  so I bought that, and it worked.

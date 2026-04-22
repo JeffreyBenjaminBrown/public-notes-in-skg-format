@@ -1,0 +1,5 @@
+title: trpl ("the rust programming language")
+pid: 0ee123e7-e842-4b99-b5a9-83b5e4df5052
+body: |2-
+  Educational.
+  Re-exports some things from futures and tokio.

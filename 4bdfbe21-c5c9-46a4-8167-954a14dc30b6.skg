@@ -1,0 +1,4 @@
+title: lxqt seems to be the lightest mainstream desktop environment.
+pid: 4bdfbe21-c5c9-46a4-8167-954a14dc30b6
+body: |2-
+  services.xserver.desktopManager.lxqt.enable

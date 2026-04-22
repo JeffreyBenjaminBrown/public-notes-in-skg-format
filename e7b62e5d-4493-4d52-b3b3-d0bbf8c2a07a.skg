@@ -1,0 +1,26 @@
+title: programs of type Nodes -> View
+pid: e7b62e5d-4493-4d52-b3b3-d0bbf8c2a07a
+body: |2-
+  its arguments are nodes, or sets of nodes, etc.
+  It says how to build a tree from a node
+  the label of which looks like a relationship:
+  links to nodes joined by plain text.
+
+  Let 'report' mean 'result of a read-only operation'.
+
+  To extend a view:
+  'to compute the layer-1 children from here,
+  do [graph read op = report about graph];
+  then to compute the layer-2 children of each of them,
+    do [report about graph and (extension so far,
+        which contains the first layer of descendents)];
+  then .. layer-3 ..
+    (extension so far now contains first two layers)
+  etc.'
+
+  Could even follow that, if necessary,
+    with a children-first recursive computation.
+
+  Could save the view at a node,
+  under a special kind of node called 'code for skg to run',
+  uses as a relationship label.

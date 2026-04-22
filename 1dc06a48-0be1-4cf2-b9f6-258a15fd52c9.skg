@@ -1,0 +1,4 @@
+title: '`and` and `or` are strict.'
+pid: 1dc06a48-0be1-4cf2-b9f6-258a15fd52c9
+body: |2-
+  `andalso` and `orelse` are lazy on the right side.

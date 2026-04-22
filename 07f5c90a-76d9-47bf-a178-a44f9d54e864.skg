@@ -1,0 +1,9 @@
+title: '`actNew reg (New _ name)`,'
+pid: 07f5c90a-76d9-47bf-a178-a44f9d54e864
+body: |2-
+  if it finds `name`, logs an error and returns the identity.
+  If it doesn't, it creates the synth (immediately -- no scheduling),
+    and returns how to insert it into synth reg.
+    The reg has a separate field for each different kind of synth.
+  In the special case of a sampler, it also looks up the buffer.
+    If founds, it uses the buffer as an argument to the sampler synth created.

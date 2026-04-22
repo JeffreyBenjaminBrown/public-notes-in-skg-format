@@ -1,0 +1,7 @@
+title: native ancestry in forward-view
+pid: c87b0ae0-d2a9-44d3-bcba-6d8799ed08a8
+body: |2-
+  Very similar to [[id:7d610433-1fb7-4a84-8903-1a7f9212a4a7][backlinks in forward-view]].
+  The only difference is that
+  those are paths in other files,
+  whereas this is in the current file.

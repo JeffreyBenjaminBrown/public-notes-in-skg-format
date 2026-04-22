@@ -1,0 +1,7 @@
+title: 'Easy: Warn user if content from the same file is in multiple buffers, or even twice in the same buffer.'
+pid: 5a749f75-cfab-4a80-9413-bd877e18f6bd
+body: |2-
+  Let them disable saving to one of those views of it,
+  while permitting edits to the rest of that buffer.
+misc:
+- Had_ID_Before_Import

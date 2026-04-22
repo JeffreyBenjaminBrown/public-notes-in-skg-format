@@ -1,0 +1,7 @@
+title: the mechanics
+pid: dc9d18bd-5b6d-4195-addb-62f3f7b5f9de
+body: |2-
+  If F contains C and L neither contains nor hides C,
+  then deleting C from
+    the unintegrated branch of L's subscription-view of F
+  creates an 'L hides C' relationship.

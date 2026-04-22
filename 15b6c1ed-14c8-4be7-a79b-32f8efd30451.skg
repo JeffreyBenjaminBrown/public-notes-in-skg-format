@@ -1,0 +1,7 @@
+title: Delete git merged branches
+pid: 15b6c1ed-14c8-4be7-a79b-32f8efd30451
+body: |2-
+  Warning: This command will hard delete the merged branches from your machine. You may want to check the branches selected for deletion by omitting the last git command.
+
+  > git branch --merged | lines | where ($it != "* master" && $it != "* main") | each {|br| git branch -D ($br | str trim) } | str trim
+  Output

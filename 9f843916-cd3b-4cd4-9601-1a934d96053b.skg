@@ -1,0 +1,4 @@
+title: within the lifetime of the program
+pid: 9f843916-cd3b-4cd4-9601-1a934d96053b
+body: |2-
+  While the Rust server is running, Tantivy and TypeDB should keep running too, and should only reread any file once it has changed.

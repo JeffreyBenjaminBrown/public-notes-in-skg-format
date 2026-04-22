@@ -1,0 +1,8 @@
+title: '`wait id dur pat` = go silent for dur cycles, then do pat'
+pid: db769ff8-a2a7-498c-a83d-13bc565d3c6a
+body: |2-
+  #+BEGIN_SRC haskell
+  d1 $ sound "[<bd hc>/2,hh*4]"
+
+  wait 1 2 $ sound "[bd,<hc hh>*8]"
+  #+END_SRC

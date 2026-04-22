@@ -1,0 +1,7 @@
+title: a(the?) case
+pid: 88d2541b-9c97-4bab-915c-0b552ea67799
+body: |2-
+  If a single child has many parents,
+  it would be duplicated under each coparent.
+  Better in that case to show the coparents as
+  view-children of the child.

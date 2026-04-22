@@ -1,0 +1,5 @@
+title: merge link-siblings
+pid: 5b6ddf94-72c1-45ae-a20d-1fdf3509b520
+body: |2-
+  From file F, if file G contains a link to F,
+  show the siblings of the node with that link.

@@ -1,0 +1,12 @@
+title: all the optics covered so far are LensLike
+pid: 0139db46-dae5-4886-b25b-e3b271f230e6
+body: |2-
+  PITFALL: Use RankNTypes enabled to write quantified type synonyms like this.
+
+  aLensLike :: (a -> f b) -> (s -> f t) -- LensLike f s t a b
+  type Lens s t a b = forall f. Functor f			 => LensLike f s t a b
+  type Traversal s t a b = forall f. Applicative f	 => LensLike f s t a b
+  type Fold s a=forall f. (Contravariant f, Applicative f) => LensLike f s t a b
+
+  "Most optics are really just traverse wearing different pants."
+  – Chris Penner on optics

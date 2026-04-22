@@ -1,0 +1,6 @@
+title: dynamic compression in the index
+pid: fca7010a-8c1b-4179-98e5-0bff41eafe55
+body: |2-
+  The ontology will permit compression in the index. For instance, if a collection of facts of the form "<instance of a primate> eats <instance of a species>" gets too big, the information could be (lossily) reduced to "the collection of species (known to the Shyg index) that primates eat conists of [set of species]". Should that still be too big, it could be further (lossily) by replacing the set of species with a covering set of genuses, or if that's still too big, families, etc.
+
+  This kind of compression will be necessary. Determining how much to compress which relationships will be another tricky governance question. Again, the solution will be easily expressible in the query language, but that does not imply it will be easy to find.

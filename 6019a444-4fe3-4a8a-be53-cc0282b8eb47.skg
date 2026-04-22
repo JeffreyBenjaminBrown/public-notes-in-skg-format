@@ -1,0 +1,9 @@
+title: looping with `range`
+pid: 6019a444-4fe3-4a8a-be53-cc0282b8eb47
+body: |2-
+  `range` returns two things: first the index (numeric),
+  then the value.
+  So to loop over the values in theList, do this:
+    for _, name := range theList { ... }
+  To loop over the indices, the second value can be omitted:
+    for idx := range theList { ... }

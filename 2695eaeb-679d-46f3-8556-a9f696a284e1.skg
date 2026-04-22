@@ -1,0 +1,4 @@
+title: As of <2025-06-12 Thu> the elements below are more than sufficient.
+pid: 2695eaeb-679d-46f3-8556-a9f696a284e1
+body: |2-
+  `cpufreq-set` is not necessary.

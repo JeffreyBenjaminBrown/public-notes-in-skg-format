@@ -1,0 +1,7 @@
+title: '`noreply` tells the server not to reply.'
+pid: 26114ed6-ebd8-4ccd-a525-0d3fc7aba7da
+body: |2-
+  "you're taking care of sending the reply back yourself."
+  Do so with gen_server:reply/2.
+misc:
+- Had_ID_Before_Import

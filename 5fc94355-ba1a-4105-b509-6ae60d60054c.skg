@@ -1,0 +1,7 @@
+title: Index length-k subsequences that aren't substrings.
+pid: 5fc94355-ba1a-4105-b509-6ae60d60054c
+body: |2-
+  To match a pattern P we just take any subsequence of the same shape in P.
+  If k didn't change, this does not change the size of the index,
+  but it can increase the specificity of a hit --
+  the likelihood that it leads to a match.

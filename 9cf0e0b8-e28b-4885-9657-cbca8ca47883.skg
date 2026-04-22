@@ -1,0 +1,6 @@
+title: Delete the spec for a stopped child.
+pid: 9cf0e0b8-e28b-4885-9657-cbca8ca47883
+body: |2-
+  supervisor:delete_child(Sup, Child_Id)
+contains:
+- a5d7892f-c030-4e5e-85f9-4d49dc6be86d

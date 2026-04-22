@@ -1,0 +1,39 @@
+title: how I pitched org-roam to a lawyer <2026-03-13 Fri>
+pid: 8bf54aba-9692-4c81-946b-4398e2c179c1
+body: |2-
+  I think current knowledge graph software is sufficient for your information tracking problem, given an adequate protocol. I could teach you how to do it in org-roam (free, open-source, simple, mature by softwrae standards), if you installed that.
+
+  It wouldn't automate anything, including the generation of reports, but it could provide a natural structure, one easier to browse and collect from.
+
+  It would beat a filesystem because you need links. A fact might be relevant to many people, so you'll want it to have an independent existence, and so you can link to it from each person's file (perhaps in some subsection -- the file's structure is free. "Any shape at all, as long as it's a tree!")
+
+  Each person's file might look, for example, like this:
+  ```
+    * joe
+    ** relevant laws
+    *** [link to law]
+    *** [link to another law]
+    ** facts already reported to Joe
+    *** [fact]
+    *** [fact]
+    ** facts to report to Joe
+    *** [fact]
+    *** [fact]
+    ** secrets
+    *** [link to fact]
+    *** [link to another fact]
+  ```
+
+  And then facts might be organized like:
+  ```
+    * privileged facts
+    ** [fact]
+    ** ...
+    * plebeian facts
+    ** [fact]
+    ** ...
+  ```
+
+  Making sure each person's file is complete and up to date will have to be done manually, as will compiling reports for them. But the information would be in a nice easily-traversed structure.
+misc:
+- Had_ID_Before_Import

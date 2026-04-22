@@ -1,0 +1,9 @@
+title: dependent pairs
+pid: e332a1b2-9272-4147-95fc-de70836799da
+body: |2-
+  data DPair : (a : Type) -> (p : a -> Type) -> Type where
+     MkDPair : {p : a -> Type} -> (x : a) -> p x -> DPair a p
+contains:
+- f20017e3-5a9a-4511-9a21-a7dcdccf420d
+- 0a140694-ce59-4cc2-b390-a89d7598aa73
+- 9168e5da-4dc6-42ab-8678-6fe78ad712a3

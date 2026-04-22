@@ -1,0 +1,6 @@
+title: Surprisingly, has a fret width of 6 for both axis mappings.
+pid: 57d913ad-a60b-4c3e-a9fd-d5e7a3de3534
+body: |2-
+  That is, 8\58 right X 5\58 downleft
+  and      8\58 right X 3\58 down
+  both have a "fret" (second axis) width of 6.

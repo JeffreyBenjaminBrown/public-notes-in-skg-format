@@ -1,0 +1,4 @@
+title: 'TODO copy to clipboard: buggy on Nix'
+pid: b3028d60-6aae-41b5-b083-eaa4652e2314
+body: |2-
+  On Nix it represents newlines the wrong way.

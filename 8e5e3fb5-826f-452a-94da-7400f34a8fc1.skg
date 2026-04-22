@@ -1,0 +1,2 @@
+title: thread::spawn returns a JoinHandle<T>.
+pid: 8e5e3fb5-826f-452a-94da-7400f34a8fc1

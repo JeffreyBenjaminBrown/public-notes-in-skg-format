@@ -1,0 +1,5 @@
+title: declare an empty one
+pid: 22825416-9465-40dd-ae86-50294d7063fc
+body: |2-
+  Dim dict As Dictionary ( Of String, String ) =
+    New Dictionary ( Of String, String )

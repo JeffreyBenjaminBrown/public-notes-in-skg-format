@@ -1,0 +1,7 @@
+title: Type definitions can need lifetime specifiers.
+pid: 066ae191-83d0-4515-84a3-bc2c77303708
+body: |2-
+  The type definition itself, not an instantiation of it.
+contains:
+- e7b8aa23-50b1-4e25-b63e-f5a8deb9589d
+- 16d74c16-b96b-45c6-b23c-5f8c2140620b

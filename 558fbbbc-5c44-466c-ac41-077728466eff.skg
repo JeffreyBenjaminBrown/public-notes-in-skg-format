@@ -1,0 +1,6 @@
+title: 'PITFALL: Variable assignment (=) is weird.'
+pid: 558fbbbc-5c44-466c-ac41-077728466eff
+body: |2-
+  `X = Y` will return the value if they are equal.
+  If they are not, it will raise an exception.
+  A value can be "reassigned" to a variable as long as it results in no change in the variable's value.

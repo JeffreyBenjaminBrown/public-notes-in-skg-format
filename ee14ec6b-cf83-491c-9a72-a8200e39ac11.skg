@@ -1,0 +1,5 @@
+title: via pattern matching
+pid: ee14ec6b-cf83-491c-9a72-a8200e39ac11
+body: |2-
+  len([]) -> 0;
+  len([_|T]) -> 1 + len(T).

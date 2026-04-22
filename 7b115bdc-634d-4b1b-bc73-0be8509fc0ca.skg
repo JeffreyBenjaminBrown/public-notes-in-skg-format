@@ -1,0 +1,5 @@
+title: 'PITFALL: to record video with camera and mic'
+pid: 7b115bdc-634d-4b1b-bc73-0be8509fc0ca
+body: |2-
+  I use a separate NixOS config,
+  which uses PulseAudio to feed the mic into [[id:0224f2ae-1ce8-4019-8ebf-240379a10fad][cheese]]

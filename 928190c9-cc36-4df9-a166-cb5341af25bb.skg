@@ -1,0 +1,8 @@
+title: The supervisor starts each child with `apply(M, F, A)`.
+pid: 928190c9-cc36-4df9-a166-cb5341af25bb
+body: |2-
+  It should result in a call to one of these, or something like it:
+    supervisor:start_link
+    gen_server:start_link
+    gen_statem:start_link
+    gen_event:start_link

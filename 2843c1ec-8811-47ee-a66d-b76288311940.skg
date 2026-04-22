@@ -1,0 +1,7 @@
+title: 3.5-friendly, 7-suppressing
+pid: 2843c1ec-8811-47ee-a66d-b76288311940
+body: |2-
+  3.5-gruop-friendly, and makes avoiding septimal intervals easy
+  It prioritizes harmonics near the root-octave axis well.
+  The most off-axis harmonic is 7,
+  and the least are in the 3.5.17 group.

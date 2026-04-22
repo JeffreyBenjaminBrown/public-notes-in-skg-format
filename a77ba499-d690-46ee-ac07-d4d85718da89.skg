@@ -1,0 +1,7 @@
+title: capture a screen video (with vocals)
+pid: a77ba499-d690-46ee-ac07-d4d85718da89
+body: |2-
+  I'm using SimpleScreenRecorder.
+  These settings work: ALSA, MP4, MP3.
+  Be sure to choose the input audio device,
+  which requires scrolling.

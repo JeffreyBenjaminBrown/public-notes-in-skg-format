@@ -1,0 +1,5 @@
+title: '"Chase MIDI note-ons in project playback" is nice.'
+pid: 9dc4bbd1-aef2-433f-9a95-6cb8cb6f4fc6
+body: |2-
+  With this on, MIDI notes will still be heard,
+  even if their note-on event is before the start of playback.

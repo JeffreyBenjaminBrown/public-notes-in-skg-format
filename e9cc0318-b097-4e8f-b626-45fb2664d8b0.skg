@@ -1,0 +1,9 @@
+title: Now, Sleep and time differences ("Sub")
+pid: e9cc0318-b097-4e8f-b626-45fb2664d8b0
+body: |2-
+  start := time.Now()
+  time.Sleep ( 1e9 ) // nanoseconds, so 1e9 means one second
+  later := time.Now()
+  fmt.Println(
+    later.Sub( // subtraction for times
+      now ) )

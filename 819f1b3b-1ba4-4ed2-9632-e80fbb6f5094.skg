@@ -1,0 +1,10 @@
+title: how Shyg will improve discoverability
+pid: 819f1b3b-1ba4-4ed2-9632-e80fbb6f5094
+body: |2-
+  It will be a long time, if ever, before Shyg has indexed as many sites as Google has. But over the portion of the internet that Shyg's users choose to index (see "[[id:b227c68b-cd5e-4f1e-a903-e1619ffafa63][determining what to index, and in how much detail]]", below), Shyg will be able to answer queries that no other search engine can. This is because both the hypergraph index and the language for querying it will be more expressive than anything that has come before.
+
+  Traditional indexes merely anticipate which terms a user will search for, and index those. They do not permit users to specify relationships between the terms when executing a search, because they cannot anticipate the combinatorial explosion of ways a user could relate search terms.
+
+  Shyg will not anticipate them either, but it will not feel that way. Because Shyg can represent arbitrarily higher-order data -- statements about statements about statements, as far as its users decide to climb -- it will be able to build up the response to unanticipated high-order queries from indexed primitives.
+misc:
+- Had_ID_Before_Import

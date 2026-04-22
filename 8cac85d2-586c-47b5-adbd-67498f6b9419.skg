@@ -1,0 +1,5 @@
+title: 'TODO 67 3 13: 2 at (4,5), span of 7 for everything in 31-limit -19'
+pid: 8cac85d2-586c-47b5-adbd-67498f6b9419
+body: |2-
+  The fret for every prime except 19 is in [0,7],
+  so like prime approximation errors, they cancel in fractions.

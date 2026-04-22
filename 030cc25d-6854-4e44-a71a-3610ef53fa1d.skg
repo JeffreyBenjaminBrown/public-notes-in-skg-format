@@ -1,0 +1,6 @@
+title: to fold/unfold all the backlinks in the org-roam buffer
+pid: 030cc25d-6854-4e44-a71a-3610ef53fa1d
+body: |2-
+  C-TAB
+  That's a standard magit-section command. The org-roam (backlink) buffer relies on magit-section.
+  I don't know why there are a few lines of whitespace under each backlink, but this makes them go away.

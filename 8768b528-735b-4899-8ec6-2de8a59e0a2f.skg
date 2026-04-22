@@ -1,0 +1,6 @@
+title: more
+pid: 8768b528-735b-4899-8ec6-2de8a59e0a2f
+body: |2-
+  sudo nixos-install
+  type_the_root_password
+  sudo reboot

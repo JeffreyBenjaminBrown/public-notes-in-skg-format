@@ -1,0 +1,2 @@
+title: '**Truth-Aware Context Selection (TACS)**: This project, hosted on GitHub, focuses on mitigating the hallucinations of large language models by selecting context based on its truthfulness. The tool performs truth detection on the context and constructs corresponding attention masks to filter out untruthful information. This project includes a GUI interface for easier interaction and evaluation of context truthfulness [[❞]](https://github.com/ictnlp/TACS).'
+pid: 88a7c19b-0df1-4375-b51b-2745637f3660

@@ -1,0 +1,10 @@
+title: 'disk drive formats: compatibility, capacity, maybe speed'
+pid: 8285b7f2-ce8d-4601-9f0a-5c95a11223e4
+body: |2-
+  ExFAT looks best.
+contains:
+- beb85c49-cb2a-49e0-b011-fd7dbd492bf6
+- 0070ebd9-19ac-44b6-923e-4c94ff956042
+- ebfff8c6-44a0-4369-a0d7-8d98e858d073
+misc:
+- Had_ID_Before_Import

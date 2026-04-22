@@ -1,0 +1,6 @@
+title: parameters
+pid: d0153fbc-96b8-4796-962a-310fae53d395
+body: |2-
+  dry       :: dry amount
+  room      :: room size
+  size / sz :: metaphor for depth

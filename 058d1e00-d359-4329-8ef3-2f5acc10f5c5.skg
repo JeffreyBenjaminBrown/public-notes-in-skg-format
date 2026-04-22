@@ -1,0 +1,7 @@
+title: 'PITFALL: use traversed, not id, to get the last one'
+pid: 058d1e00-d359-4329-8ef3-2f5acc10f5c5
+body: |2-
+  > lastOf id [1,2,3]
+  Just [1,2,3]
+  > lastOf traversed [1,2,3]
+  Just 3

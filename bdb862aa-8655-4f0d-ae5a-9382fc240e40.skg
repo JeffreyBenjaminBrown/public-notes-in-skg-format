@@ -1,0 +1,5 @@
+title: Ask for more time when an irreversible operation is about to happen.
+pid: bdb862aa-8655-4f0d-ae5a-9382fc240e40
+body: |2-
+  Then use that time to think about how to assure the outcome is okay,
+  or how to gracefully back out.

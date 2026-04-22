@@ -1,0 +1,7 @@
+title: 'randcat : like slowcat but random'
+pid: ef8776e0-5162-4105-ac67-6b2d3c30b3ec
+body: |2-
+  #+BEGIN_SRC haskell
+  d1 $ stack [ s "bd sn:1",
+               fast 2 $ randcat [ s "hh*4", s "hh*3" ] ]
+  #+END_SRC

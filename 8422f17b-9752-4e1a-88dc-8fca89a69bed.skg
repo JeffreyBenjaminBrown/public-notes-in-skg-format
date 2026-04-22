@@ -1,0 +1,5 @@
+title: lately
+pid: 8422f17b-9752-4e1a-88dc-8fca89a69bed
+body: |2-
+  scp -i $JBB_AWS_PEM \
+     /home/jeff/.ssh/id_rsa $JBB_AWS_USER@$JBB_AWS_HOST:~

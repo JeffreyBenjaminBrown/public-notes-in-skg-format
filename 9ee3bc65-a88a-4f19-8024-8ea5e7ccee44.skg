@@ -1,0 +1,4 @@
+title: Paste preserving position in measure
+pid: 9ee3bc65-a88a-4f19-8024-8ea5e7ccee44
+body: |2-
+  Pastes the selection to the next measure.

@@ -1,0 +1,16 @@
+title: example
+pid: c4d5d90b-0d15-4d31-b4f3-57cd9b4210b9
+body: |2-
+       Here the i in G refers to Test.i
+
+  Class Test
+      Private i As Integer = 0
+
+      Sub F()
+          Dim i As Integer = 1
+      End Sub
+
+      Sub G()
+          i = 1
+      End Sub
+  End Class

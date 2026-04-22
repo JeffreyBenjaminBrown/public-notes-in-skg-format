@@ -1,0 +1,4 @@
+title: use “fdisk -l”  to find the USB device
+pid: 913eeddd-44db-4318-bbda-02b4e80dd04a
+body: |2-
+  It will be /dev/something

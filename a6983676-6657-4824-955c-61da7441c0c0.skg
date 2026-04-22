@@ -1,0 +1,4 @@
+title: to pipe input to the clipboard
+pid: a6983676-6657-4824-955c-61da7441c0c0
+body: |2-
+  command | xsel --clipboard

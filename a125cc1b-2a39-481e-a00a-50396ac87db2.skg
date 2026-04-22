@@ -1,0 +1,22 @@
+title: layout
+pid: a125cc1b-2a39-481e-a00a-50396ac87db2
+body: |2-
+   , etrTuning = Edo 60 ; StringGap 19 ; FretGap 3
+   , etrArea = 40
+  0 steps; 1 % 1 ; string 0 ; fret 0
+  60 steps; 2 % 1 ; string 3 ; fret 1
+  35 steps; 3 % 2 ; string 2 ; fret - 1
+  19 steps; 5 % 4 ; string 1 ; fret 0
+  48 steps; 7 % 4 ; string 3 ; fret - 3
+  10 steps; 9 % 8 ; string 1 ; fret - 3
+  28 steps; 11 % 8 ; string 1 ; fret 3
+  42 steps; 13 % 8 ; string 3 ; fret - 5
+  54 steps; 15 % 8 ; string 3 ; fret - 1
+  5 steps; 17 % 16 ; string 2 ; fret - 11
+  15 steps; 19 % 16 ; string 0 ; fret 5
+  24 steps; 21 % 16 ; string 3 ; fret - 11
+  31 steps; 23 % 16 ; string 1 ; fret 4
+  39 steps; 25 % 16 ; string 3 ; fret - 6
+  45 steps; 27 % 16 ; string 3 ; fret - 4
+  51 steps; 29 % 16 ; string 3 ; fret - 2
+  57 steps; 31 % 16 ; string 3 ; fret 0

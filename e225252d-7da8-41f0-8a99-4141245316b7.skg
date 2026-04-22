@@ -1,0 +1,5 @@
+title: Relationships can be inlined.
+pid: e225252d-7da8-41f0-8a99-4141245316b7
+body: |2-
+  If they are nested, use brackets for clarity.
+  If one is given a title, that could take precedence over the automatically-generated inline representation.

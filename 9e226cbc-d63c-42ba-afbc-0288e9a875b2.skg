@@ -1,0 +1,4 @@
+title: 'PITFALL: Once the lock is used, an empty file at the path to the lock exists forever unless manually deleted.'
+pid: 9e226cbc-d63c-42ba-afbc-0288e9a875b2
+body: |2-
+  Its existence does not mean the file is locked.

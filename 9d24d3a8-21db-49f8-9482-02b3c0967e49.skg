@@ -1,0 +1,7 @@
+title: 'PITFALL: Requirements are indented *above* what requires them.'
+pid: 9d24d3a8-21db-49f8-9482-02b3c0967e49
+body: |2-
+  For instance, if b.txt depends on a.txt, the output might look like:
+
+   Must remake target 'a.txt'.
+  Must remake target 'b.txt'.

@@ -1,0 +1,5 @@
+title: the surprise answer, maybe
+pid: a46e58d5-6d39-4080-95a5-5c8f6fd33d5e
+body: |2-
+  The problem of being unable to run Apache as appuser seemed to go away under a certain Apache configuration.
+  I first got that working in commit 4cc0b7bc302b2b68aaf23bc09b3545156a5f883d of github.com/ofiscal/tax.co.web

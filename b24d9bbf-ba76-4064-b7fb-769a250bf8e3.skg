@@ -1,0 +1,4 @@
+title: Individual FX can be "bypassed" (C-b) or "offline"d (C-M-b).
+pid: b24d9bbf-ba76-4064-b7fb-769a250bf8e3
+body: |2-
+  Offline FX consume no CPU.

@@ -1,0 +1,5 @@
+title: DONE insert a branch from disk into a file, without re-rendering the entire file
+pid: bea2a2c7-2990-4e20-bae0-5ce5cf5575db
+body: |2-
+  for this the cursor position as an integer can be saved,
+  rather than associated to an id

@@ -1,0 +1,6 @@
+title: for full 15-limit
+pid: 831a799d-d362-4641-9567-fcf25fe9600e
+body: |2-
+  Map horizontal ("string" selector) to horizontal-ish.
+  Map vertical ("fret" selector) to the 45-degree axis.
+  To instead map vertical to vertical would make it too tall.

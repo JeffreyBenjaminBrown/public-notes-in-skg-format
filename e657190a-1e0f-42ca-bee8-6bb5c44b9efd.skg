@@ -1,0 +1,15 @@
+title: how to diagnose in future
+pid: e657190a-1e0f-42ca-bee8-6bb5c44b9efd
+body: |2-
+  If your laptop suddenly can’t load captive portal pages (even though you’re assigned a valid IP), and the IP range starts with 172.x.x.x, check if Docker is hijacking the route.
+
+  Run:
+    ip route
+
+  Look for a line like:
+    172.18.0.0/16 dev br-xxxxxxxx proto kernel scope link src 172.18.0.1
+
+  If that appears and overlaps with your real network, Docker is the problem. Either delete that route temporarily:
+    sudo ip route del 172.18.0.0/16 dev br-xxxxxxxx
+
+  Or fix the subnet assignment permanently (globally or per-project) as shown above.

@@ -1,0 +1,11 @@
+title: debug a call to subprocess.run \ Python
+aliases:
+- subprocess.run, debugging calls to \ Python
+pid: 5fc6d2b8-df62-4329-9dd1-54653dd0b76d
+body: |2-
+  do in serial
+contains:
+- 791ec115-c883-4ddf-897e-d105c88335a4
+- 4dcd21a2-a7bb-47d3-b3fd-74e668cf60ed
+misc:
+- Had_ID_Before_Import

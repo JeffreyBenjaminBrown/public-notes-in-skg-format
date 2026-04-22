@@ -1,0 +1,6 @@
+title: time.Tick
+pid: 44e07f86-b77d-48be-87c4-f2e45611a32d
+body: |2-
+  Creates a channel that sends a periodic "tick" signal.
+misc:
+- Had_ID_Before_Import

@@ -1,0 +1,4 @@
+title: Don't forget that the reads can come from either strand.
+pid: 6dc0c6b7-7dd1-4b2d-88aa-4da4bb893035
+body: |2-
+  For this reason, try matching against both the read and the read's complement.

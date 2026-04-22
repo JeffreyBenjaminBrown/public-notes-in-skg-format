@@ -1,0 +1,6 @@
+title: example problem
+pid: 21daff48-7a38-45f2-b815-2ebd0933a35c
+body: |2-
+  Sometimes  I get the error
+    "package ... is marked as broken, refusing to evaluate",
+  but my config doesn't mention that package.

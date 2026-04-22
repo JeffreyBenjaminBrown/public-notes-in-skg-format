@@ -1,0 +1,4 @@
+title: By default it is non-destructive.
+pid: baac956c-7cda-414b-ad28-4cd7f0099355
+body: |2-
+  But destructive is another kind available in (top-level) Options.

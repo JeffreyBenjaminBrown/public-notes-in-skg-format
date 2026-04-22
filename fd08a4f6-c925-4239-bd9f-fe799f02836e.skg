@@ -1,0 +1,7 @@
+title: more supposedly-good options
+pid: fd08a4f6-c925-4239-bd9f-fe799f02836e
+body: |2-
+  (according to http://www.fatvat.co.uk/2010/08/speeding-up-ants-program.html)
+  -prof - Enables profiling
+  -caf-all - Constant Applicative form for all top-level items (constant costs, one for each module.)
+  -auto-all - Cost-centre analysis for every top-level function

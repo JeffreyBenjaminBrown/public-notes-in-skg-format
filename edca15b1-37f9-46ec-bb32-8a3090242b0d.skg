@@ -1,0 +1,9 @@
+title: Use backlinks to define notes extrinsically.
+pid: edca15b1-37f9-46ec-bb32-8a3090242b0d
+body: |2-
+  even before a note has any intrinsic content,
+  it gives information by relating the things that link to it.
+contains:
+- 4ce3b7f7-3397-4236-be7f-1b9ce2aa0095
+misc:
+- Had_ID_Before_Import

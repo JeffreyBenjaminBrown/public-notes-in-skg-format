@@ -1,0 +1,8 @@
+title: Voice names can be dynamic and informative.
+pid: c48d4c7c-1d6e-43fd-8e07-a3f553984bae
+body: |2-
+  Rather than use the preassigned voice names like `d1`,
+  one can name patterns as in
+    p 1
+  or
+    p "juliet"

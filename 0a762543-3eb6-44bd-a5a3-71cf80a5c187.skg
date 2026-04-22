@@ -1,0 +1,5 @@
+title: commands I doubt I would use
+pid: 0a762543-3eb6-44bd-a5a3-71cf80a5c187
+body: |2-
+  outline-forward-same-level (C-c C-f)
+  outline-backward-same-level (C-c C-b)

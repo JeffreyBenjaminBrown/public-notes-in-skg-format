@@ -1,0 +1,9 @@
+title: TODO ? a function to "iron" an order into place
+pid: f0418ade-76e7-4c9c-8286-39b354fa478e
+body: |2-
+  A graph can in general have multiple ways to be topologically sorted.
+  Therefore, when the user sees a set of ordered expressions,
+  and A > B on screen,
+  it could be that A is not truly > B. (It can't, however, be that A < B.)
+  To "iron" a subset of an order would be to create a chain through them all,
+  such that the order in which they appear on screen is indeed the only reasonable order among them.

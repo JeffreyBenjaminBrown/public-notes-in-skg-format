@@ -1,0 +1,13 @@
+title: random branch sort
+pid: 361fb584-4c17-4c1c-b6db-2153489f70ad
+body: |2-
+  Define something like this:
+    (defun my-org-random-sort ()
+      (random 1000))
+  Highlight the branches to sort.
+  Then run:
+    C-c ^ f               ;; C-c ^ = org-sort
+    my-org-random-sort
+    RET
+misc:
+- Had_ID_Before_Import

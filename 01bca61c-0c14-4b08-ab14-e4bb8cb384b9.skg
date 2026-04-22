@@ -1,0 +1,6 @@
+title: Don't use the "axis = " keyword when applying to a Series.
+pid: 01bca61c-0c14-4b08-ab14-e4bb8cb384b9
+body: |2-
+  It only makes sense for DataFrames.
+misc:
+- Had_ID_Before_Import

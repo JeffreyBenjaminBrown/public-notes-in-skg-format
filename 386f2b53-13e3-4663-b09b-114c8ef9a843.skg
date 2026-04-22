@@ -1,0 +1,9 @@
+title: Can be used for type inspection.
+pid: 386f2b53-13e3-4663-b09b-114c8ef9a843
+body: |2-
+  fn main() {
+    my_complicated_function(
+      // What type does this function take again...?
+      todo
+    )
+  }

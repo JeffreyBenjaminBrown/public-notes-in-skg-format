@@ -1,0 +1,22 @@
+title: an overview
+pid: 990556ac-81bd-4d06-999a-1f741102f55a
+body: |2-
+  child_spec() =
+    #{ id :: term,             % mandatory
+       start :: { M :: module, % mandatory
+                  F :: atom,
+                  A :: [term]},
+       restart :: permanent  % *The default*. Always restarted.
+                | transient  % Never restarted.
+                | temporary, % Restarted only if terminated abnormally.
+       significant :: bool   % Not available for permanent children.
+       shutdown :: brutal_kill % Uses exit(Child, kill).
+                 | timeout, % Calls `exit(Child, shutdown).
+                            % Waits for a response.
+                            % After timeout, calls `exit(Child, kill)`.
+       % Defaults to 5s for workers,
+       %             infinity for supervisors.
+       type :: worker % *The default.*
+         % `infinity` shutdown time is dangerous in this case.
+             | supervisor % Shutdown timeout should then be `infinity`.
+       modules :: ?? }

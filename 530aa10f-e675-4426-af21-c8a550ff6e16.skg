@@ -1,0 +1,5 @@
+title: '''drop'' is called on it when a variable goes out of scope.'
+pid: 530aa10f-e675-4426-af21-c8a550ff6e16
+body: |2-
+  The `drop` implementation depends on the type
+  from which it is called.

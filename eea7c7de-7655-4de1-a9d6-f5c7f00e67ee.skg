@@ -1,0 +1,12 @@
+title: TODO 13\72s x 10\72f
+pid: eea7c7de-7655-4de1-a9d6-f5c7f00e67ee
+body: |2-
+  [ 0 steps; 1 % 1 ; string 0 ; fret 0
+  , 72 steps; 2 % 1 ; string 4 ; fret 2
+  , 42 steps; 3 % 2 ; string 4 ; fret - 1
+  , 23 steps; 5 % 4 ; string 1 ; fret 1
+  , 58 steps; 7 % 4 ; string 6 ; fret - 2
+                    = string 2 ; fret - 4
+      = string -2  fret - 6
+  , 12 steps; 9 % 8 ; string 4 ; fret - 4
+  , 33 steps; 11 % 8 ; string 1 ; fret 2

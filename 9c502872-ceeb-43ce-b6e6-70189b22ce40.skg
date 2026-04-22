@@ -1,0 +1,4 @@
+title: lambda expressions
+pid: 9c502872-ceeb-43ce-b6e6-70189b22ce40
+body: |2-
+  map (x: x.hostName) config.services.httpd.virtualHosts

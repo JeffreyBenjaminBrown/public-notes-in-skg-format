@@ -1,0 +1,6 @@
+title: Spaced 20\46 and keeping only every third note (!), it works for melody.
+pid: 75a70cc5-901c-445e-9552-735d309d013f
+body: |2-
+  max reach is 10 frets, or in 12-edo, 7.826086956521739
+  THis would be a 15.333333-edo guitar.
+  But the problem is the third and fifth are both on string 0.

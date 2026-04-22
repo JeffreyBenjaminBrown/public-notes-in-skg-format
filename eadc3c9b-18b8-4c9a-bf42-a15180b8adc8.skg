@@ -1,0 +1,6 @@
+title: The 'server'
+pid: eadc3c9b-18b8-4c9a-bf42-a15180b8adc8
+body: |2-
+  is an app that the user only controls through the client.
+  The server manipulates the graph,
+  and creates views of it (as plain text) for the client.

@@ -1,0 +1,10 @@
+title: the non-interpolating strategy
+pid: 677ecd0e-23ff-4cac-b455-8649d17c3a67
+body: |2-
+  Given frequency f, if a string has a frequency f1 very close to f,
+  interpolation can probably be eschewed,
+  and I can instead assume freq * gauge is equal for both strings
+  (the real one f1 with gague g1,
+  and the hypothetical one f with gauge g)
+  and compute:
+    g = f1 * g1 / f

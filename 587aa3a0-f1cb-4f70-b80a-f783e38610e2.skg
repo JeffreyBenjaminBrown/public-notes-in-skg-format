@@ -1,0 +1,6 @@
+title: Python environments in DataBricks include silent imports.
+pid: 587aa3a0-f1cb-4f70-b80a-f783e38610e2
+contains:
+- 0bd70b4d-baa0-49be-876b-6eadc7bb82aa
+misc:
+- Had_ID_Before_Import

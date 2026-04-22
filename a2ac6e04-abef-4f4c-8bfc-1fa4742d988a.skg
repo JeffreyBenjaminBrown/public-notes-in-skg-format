@@ -1,0 +1,6 @@
+title: Comprehensions apply to anything both Monad and Alternative.
+pid: a2ac6e04-abef-4f4c-8bfc-1fa4742d988a
+body: |2-
+  interface Applicative f => Alternative (0 f : Type -> Type) where
+    empty : f a
+    (<|>) : f a -> f a -> f a

@@ -1,0 +1,29 @@
+title: experiments
+pid: d5b9eefc-b93c-480a-b258-5ddd2a511439
+body: |2-
+  #+BEGIN_SRC haskell
+  setcps 0.4
+
+  d1 $ s "superchip" |*| n "-36 -24 -12 0 12 24 36"
+
+  d1 $ s "superchip" |*| n "-36 -24 -12 0 12 24 36"
+    |*| slide 0.2 |*| rate 4 -- these combine like vibrato
+
+  d1 $ s "superchip" |*| n "-36 -24 -12 0 12 24 36"
+    |*| slide 1 |*| rate 3 -- these combine like triplets
+
+  d1 $ s "superchip" |*| n "-36 -24 -12 0 12 24 36"
+    |*| sustain 0.5
+    |*| slide 10 |*| rate 3 -- these combine like triplets
+    |*| accelerate (-2) -- this fights the slides
+
+  d1 $ s "superchip" |*| n "-36 -24 -12 0 12 24 36"
+    |*| slide 0.1 |*| rate 3 -- these combine like triplets
+    |*| voice 1
+
+  d1 $ s "superchip" |*| fast 4 (n "0 3 <[5 <3 ~>] 7>")
+    |*  pitch2 (12/5 + 5 * slow 3 tri)
+    |*  pitch3 (3 + 10 * slow 5 tri)
+    |*  fast (5/4) (voice "0 0.6") -- above 0.5 kills pitch0
+    |*| slide (-0.03) |*| rate 4
+  #+END_SRC

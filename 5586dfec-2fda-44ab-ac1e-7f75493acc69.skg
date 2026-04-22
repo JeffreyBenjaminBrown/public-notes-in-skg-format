@@ -1,0 +1,5 @@
+title: Perhaps in one file (i.e. view from a topic) one should be able to link to a path descending in another file.
+pid: 5586dfec-2fda-44ab-ac1e-7f75493acc69
+body: |2-
+  e.g. under "humility", might link to "courage > thinigs that require it"
+  this link could be written "things that require courage", and indeed that could be the default name of the path "courage > things that require it". The link might appear from the view of the "humility" file as a single headline, but with some symbol indicating it is a path in another file, rather than a file itself

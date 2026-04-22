@@ -1,0 +1,13 @@
+title: precise definition -- at least of a special case
+pid: dfa3372a-3dea-4c26-8a12-31ffba86ab3c
+body: |2-
+  when a tree has
+    a node S (for source)
+      that has (maybe among other links)
+      a link L to node T (for target)
+        (T maybe needing to be part of a different tree),
+  and S contains S'
+  and T contains T'
+    such that S' links to T'
+misc:
+- Had_ID_Before_Import

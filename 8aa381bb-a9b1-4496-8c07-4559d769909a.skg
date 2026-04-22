@@ -1,0 +1,4 @@
+title: use `xev` to find the keycode a key emits
+pid: 8aa381bb-a9b1-4496-8c07-4559d769909a
+body: |2-
+  On NixOS that's installed via the `xorg.xev` package.

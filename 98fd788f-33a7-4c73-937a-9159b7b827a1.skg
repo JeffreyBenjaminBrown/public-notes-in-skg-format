@@ -1,0 +1,4 @@
+title: on wafHook
+pid: 98fd788f-33a7-4c73-937a-9159b7b827a1
+body: |2-
+  "The wafHook hook does not wrap Python anymore. Packages depending on wafHook need to include any Python into their nativeBuildInputs."

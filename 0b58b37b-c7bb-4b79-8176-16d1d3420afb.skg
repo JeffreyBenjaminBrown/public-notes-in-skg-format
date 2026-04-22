@@ -1,0 +1,8 @@
+title: search for them by any member
+pid: 0b58b37b-c7bb-4b79-8176-16d1d3420afb
+body: |2-
+  Permit searching for any collection,
+  rather than | in addition to
+  specifally list, set, etc.,
+  because you might not remember how
+  you saved the collection.

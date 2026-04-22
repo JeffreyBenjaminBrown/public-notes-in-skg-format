@@ -1,0 +1,8 @@
+title: quantize
+pid: 98f11784-a56c-4e84-86d0-bb6df61c6a9a
+body: |2-
+  User provides a total length L for the recording,
+  and a divisor D. The recording is quantized to L*D positions --
+  that is, each unit of time is divided into D pieces.
+  L must be rational.
+  D must be an integer.

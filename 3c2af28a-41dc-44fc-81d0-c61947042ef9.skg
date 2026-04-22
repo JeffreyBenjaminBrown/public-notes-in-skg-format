@@ -1,0 +1,6 @@
+title: simple example
+pid: 3c2af28a-41dc-44fc-81d0-c61947042ef9
+body: |2-
+    > [1, 2, 3, 4] ^.. taking 2 folded
+    [1,2]
+  "folded is modified so to only focus its first two elements"

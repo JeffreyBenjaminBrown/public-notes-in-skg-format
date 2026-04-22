@@ -1,0 +1,6 @@
+title: 'PITFALL: probably still need [[id:d7718be6-7488-4a0e-8592-61b0a69a98f8][to (install?) the app in the project]]'
+pid: 1a1ab96d-f8f6-4c9d-a9fb-5b36896c3ae1
+body: |2-
+  In this trivial case, the website actually already works.
+  But if I try to use the database,
+  it will complain that I haven't installed the app in anything.

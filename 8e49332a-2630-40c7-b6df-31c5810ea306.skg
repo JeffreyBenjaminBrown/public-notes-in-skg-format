@@ -1,0 +1,12 @@
+title: how not to repeat a context?
+pid: 8e49332a-2630-40c7-b6df-31c5810ea306
+body: |2-
+  My data currently includes (fake addresses):
+    @1: extend ##o columns #of hode
+    @2: #to @1 #do ...
+
+  As it stands that's fine,
+  but I would like to create a Hode to-do list:
+    @3: #for hode #do @1
+  i.e.
+    @3: #for hode #do (extend ##o columns #of hode)

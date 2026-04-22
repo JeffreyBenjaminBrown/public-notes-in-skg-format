@@ -1,0 +1,4 @@
+title: 'SOLUTION: for mutli-line input'
+pid: bacedaaa-8f9e-412b-bbb6-e583a8386c12
+body: |2-
+  from IPython import embed; embed()

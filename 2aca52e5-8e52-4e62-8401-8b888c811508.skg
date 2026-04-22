@@ -1,0 +1,7 @@
+title: 'SOLVED: If clicking on links is not working'
+pid: 2aca52e5-8e52-4e62-8401-8b888c811508
+body: |2-
+  make sure I am in "browse mode" (C-1)
+  or "text select mode" (C-4)
+  but not "highlighter mode",
+  which I might enter by mistake by clicking on it in the menu bar.

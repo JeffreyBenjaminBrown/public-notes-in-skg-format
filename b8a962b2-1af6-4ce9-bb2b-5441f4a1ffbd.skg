@@ -1,0 +1,4 @@
+title: 'gimp: works, but uses a lot of memory'
+pid: b8a962b2-1af6-4ce9-bb2b-5441f4a1ffbd
+body: |2-
+  image / mode / grayscale

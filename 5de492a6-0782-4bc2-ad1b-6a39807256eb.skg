@@ -1,0 +1,6 @@
+title: non-Copy variables can only be used once in a function!
+pid: 5de492a6-0782-4bc2-ad1b-6a39807256eb
+body: |2-
+  That's me talking; I might be wrong. But see this from the docs:
+contains:
+- 90bf5f65-c68b-4072-8975-832561f5edf9

@@ -1,0 +1,6 @@
+title: first check that it's where it should be
+pid: fec4b367-6e5d-497e-9f94-1bfe1deee646
+body: |2-
+  sudo nix-channel --list
+contains:
+- 97f528bb-5648-4b5a-98c4-b6d1cf485f7c

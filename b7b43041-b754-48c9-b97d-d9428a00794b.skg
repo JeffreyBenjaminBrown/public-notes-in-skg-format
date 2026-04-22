@@ -1,0 +1,6 @@
+title: an overrides cycle
+pid: b7b43041-b754-48c9-b97d-d9428a00794b
+body: |2-
+  Could make sense if the nodes were from distinct authors.
+  Should be detected (avoiding a forever loop)
+  and offered to the user to adjudicate.

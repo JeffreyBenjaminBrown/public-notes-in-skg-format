@@ -1,0 +1,4 @@
+title: '`kill`'
+pid: 40480c1e-c035-4bd8-8678-864afa327cfc
+body: |2-
+  taskkill /F /PID <process id number>

@@ -1,0 +1,11 @@
+title: and Ei30metry responded with a solution
+pid: 3fc1c535-daf1-4c97-9c5f-08900ff583d7
+body: |2-
+  You can make α an implicit parameter by wrapping it inside curly-braces instead of parenthesis.
+
+  ```
+  def myLength {α : Type} (xs : List α) :=
+    match xs with
+      | []      => 0
+      | _ :: ys => 1 + myLength ys
+  ```

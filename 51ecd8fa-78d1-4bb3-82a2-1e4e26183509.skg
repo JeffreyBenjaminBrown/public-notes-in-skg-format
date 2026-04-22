@@ -1,0 +1,13 @@
+title: test some URLs
+pid: 51ecd8fa-78d1-4bb3-82a2-1e4e26183509
+body: |2-
+  # This should fail, because there's nothing at '/'
+  response = client.get('/')
+  response.status_code
+
+  # This should succeed
+  from django.urls import reverse
+  response = client.get(reverse('polls:index'))
+  response.status_code
+  response.content
+  response.context['latest_question_list']

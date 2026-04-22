@@ -1,0 +1,5 @@
+title: how it naturally represents the current org-roam syntax
+pid: a8836bf8-f9cd-4ed9-a107-32b4e3691c25
+body: |2-
+  relation name : "",
+  relates [in order] : length 2 [node_id]

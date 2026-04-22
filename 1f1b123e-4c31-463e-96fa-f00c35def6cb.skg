@@ -1,0 +1,4 @@
+title: Arrange the cache as a |P| by |T| matrix.
+pid: 1f1b123e-4c31-463e-96fa-f00c35def6cb
+body: |2-
+  That is, the rows are long like T, the columns short like P.

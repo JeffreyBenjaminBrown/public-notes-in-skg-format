@@ -1,0 +1,32 @@
+title: 'Two concepts of ''different'' apply to chords: identity, and identity modulo inversion.'
+pid: d87bfa7d-594d-4e6e-8be2-ae2156519411
+body: |2-
+  (Modulo is just the word in math for 'ignoring'.
+  For instnace, modulo size and position, all circles are the same.)
+
+  Since we ignore fundamental frequency when analyzing a chord in isolation,
+  {1,5/4,3/2} and {4,5,6} represent *exactly* the same sound.
+  (Notice that the second chord is exactly four times the first.)
+  The general rule is, if S and T are chords (sets of ratios)
+  and there exists any number r (rational, irrational, whatever)
+  such that multiplying every note in S by r yields T,
+  then S and T are the same chord. They sound identical.
+
+  There is also a set of even broader equivalence classes,
+  which musicians call 'inversions'.
+  {3,4,5} and {4,5,6} both represent different inversions of the major chord.
+  That's because you can get from the first chord to the second
+  by multiplying the 3 in the first chord by 2
+  and leaving the other two notes unchanged.
+  They don't sound identical, but they differ only by octaves in certain notes.
+  (See 'octave equivalence is important', above.)
+  Inversions of the same chord can serve extremely similar functions.
+
+  Most authors, when writing about chords, do not specify
+  which kind of equivalence class they are using.
+  In some situations {3,4,5} and {4,5,6} are considered the same
+  (they are both major chords), and in others, different
+  (they are distinct inversions).
+
+  This guide uses the broader concept of equivalence.
+  That is, it will not distinguish between inversions of the same chord.

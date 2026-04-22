@@ -1,0 +1,4 @@
+title: find, show all file extensions in filetree
+pid: d03790f3-f7d5-4c1f-8f93-1c238b10f425
+body: |2-
+  find . -type f | sed 's/.*\.//' | grep -v "/" | sort | uniq -c

@@ -1,0 +1,9 @@
+title: views to navigate a diff of someone's graph
+pid: 561d16cd-6efc-4be9-815b-a92c0aa7655a
+body: |2-
+  at two different commits
+contains:
+- c1cabcfc-6040-4006-b0e7-e583f1f8fecd
+- 4b0b3b5c-567c-44f2-80a4-d901d5ff700f
+- 80dd3c39-92f6-45fc-9abb-9093eca8a39f
+- f9f8776b-5d3a-43a3-9c33-dbbe6130d9d2

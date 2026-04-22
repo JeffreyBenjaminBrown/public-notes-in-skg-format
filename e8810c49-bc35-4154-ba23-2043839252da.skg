@@ -1,0 +1,6 @@
+title: the definition
+pid: e8810c49-bc35-4154-ba23-2043839252da
+body: |2-
+  type error interface {
+    Error() string
+  }

@@ -1,0 +1,15 @@
+title: 'PITFALL : only extends the duration of the previous item *relative to others*.'
+pid: 7bb78017-ea41-44bd-917e-c636c4f9a321
+body: |2-
+  These two patterns sound the same:
+  p 1 $ stack [ "[hh*4]",
+                "[bd*4] _" ]
+  p 1 $ stack [ "[hh*4]",
+                "[bd*4]" ]
+  That is, extending the number of time slots occupied by the [bd*4] from 1 to 2 does nothing, because there was previously only one slot, and now there are two.
+
+  However, if there's something else for the bd*4 to vie for space with, then extending its length does have an effect -- hence the following are different.
+  p 1 $ stack [ "[hh*4]",
+                "~ [bd*4]" ]
+  p 1 $ stack [ "[hh*4]",
+                "~ [bd*4] _" ]

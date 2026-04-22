@@ -1,0 +1,6 @@
+title: 'C-M-p and C-M-n: back and forth, only parens'
+pid: f4fe3dad-7ad5-483e-b942-cf5ab7e988eb
+body: |2-
+  Within the current parenthetical,
+  move forward or backward across contained parentheticals.
+  This is like C-M-(b|f) but skipping all atoms.

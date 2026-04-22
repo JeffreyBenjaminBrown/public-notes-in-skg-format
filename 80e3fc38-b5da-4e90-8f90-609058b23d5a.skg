@@ -1,0 +1,9 @@
+title: example
+pid: 80e3fc38-b5da-4e90-8f90-609058b23d5a
+body: |2-
+  PS1="(.venv) \W\$ "
+  The \W stands for the basename of the current folder,
+  equivalent to $(basename $(pwd)) except that it updates.
+  There are many such symbols,
+  for time, user, system, etc;
+  [[id:6f394dbe-a908-4a3e-81ad-c527ce8cb109][a list can be found here]].

@@ -1,0 +1,4 @@
+title: '`binshift` (one parameter)'
+pid: eea9f9ad-5dc5-40a0-aee8-c9bcdab8df09
+body: |2-
+  "Shift and scale the position of the bins. Can be used as a very crude frequency shifter/scaler."

@@ -1,0 +1,4 @@
+title: They seem to be right-associative (like ($) in Haskell).
+pid: 6f0f10ee-d02f-4504-903e-71bca7f6ed3c
+body: |2-
+  For instance, "chan chan int" means "chan (chan int)".

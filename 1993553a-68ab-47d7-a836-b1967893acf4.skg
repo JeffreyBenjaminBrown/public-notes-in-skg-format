@@ -1,0 +1,10 @@
+title: The 6 parameters to the -affine option
+pid: 1993553a-68ab-47d7-a836-b1967893acf4
+body: |2-
+   are these:
+     sx,rx,ry,sy,tx,ty
+
+  What they mean:
+                                          | sx  rx  0 |
+        | x', y', 1 |  =  | x, y, 1 |  *  | ry  sy  0 |
+                                          | tx  ty  1 |

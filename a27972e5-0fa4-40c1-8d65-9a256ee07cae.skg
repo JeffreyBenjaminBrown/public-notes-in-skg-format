@@ -1,0 +1,15 @@
+title: content
+pid: a27972e5-0fa4-40c1-8d65-9a256ee07cae
+body: |2-
+  `cron` works for various simple jobs, including  Python scripts.
+
+  And my own Python script `main.py`[1] works, if I call it from the command line, via
+  ```
+  PYTHONPATH=/mnt/tax_co:$PYTHONPATH python3 python/requests/main.py config/config.json try-to-advance-queue
+  ```
+
+  But if I call it from `cron`, this happens:
+
+  Execution begins as normal. At some point, `main.py` is supposed use `subprocess.run()` to call another script called `run-makefile.py`. That second script appears to do nothing. Then the first script, `main.py`, resumes writing to the logs as if everything worked.
+
+  [1] https://github.com/ofiscal/tax.co/blob/cebb93dc90914e749aea0098f9c05232e150910c/python/requests/main.py

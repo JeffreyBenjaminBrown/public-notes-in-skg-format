@@ -1,0 +1,6 @@
+title: list all file extensions in folder and descendents
+pid: 0184832b-b8a4-4d8f-9efe-fd04c4c0683a
+body: |2-
+  find . -type f -name '*.*' | sed 's|.*\.||' | sort -u
+misc:
+- Had_ID_Before_Import

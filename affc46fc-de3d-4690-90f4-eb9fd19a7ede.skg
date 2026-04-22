@@ -1,0 +1,4 @@
+title: 'lspcu : get info about the CPU'
+pid: affc46fc-de3d-4690-90f4-eb9fd19a7ede
+body: |2-
+  chip model, ghz, etc.

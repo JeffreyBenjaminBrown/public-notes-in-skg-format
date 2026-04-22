@@ -1,0 +1,13 @@
+title: 17\88 x 3\88
+pid: c74b8bfe-976f-4782-984d-616694cc756e
+body: |2-
+  0 steps; 1 % 1 ; string 0 ; fret 0
+  , 88 steps; 2 % 1 ; string 5 ; fret 1
+  , 51 steps; 3 % 2 ; string 3 ; fret 0
+  , 28 steps; 5 % 4 ; string 2 ; fret - 2
+  , 71 steps; 7 % 4 ; string 4 ; fret 1
+  , 15 steps; 9 % 8 ; string 0 ; fret 5 -- the 2nd-best is more intuitive
+                                        -- and easier to reach
+  , 40 steps; 11 % 8 ; string 2 ; fret 2
+  , 62 steps; 13 % 8 ; string 4 ; fret - 2
+  , 80 steps; 15 % 8 ; string 4 ; fret 4

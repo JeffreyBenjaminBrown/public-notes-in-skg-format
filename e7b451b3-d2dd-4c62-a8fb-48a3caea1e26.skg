@@ -1,0 +1,6 @@
+title: 'gen_server:call :: Pid -> Message -> _ -> IO ()'
+pid: e7b451b3-d2dd-4c62-a8fb-48a3caea1e26
+body: |2-
+  The Pid is, I imagine, who sent the message.
+  The optional (i.e. can be missing entirely)
+  third argument is a timeout, defaulting to 5 seconds.

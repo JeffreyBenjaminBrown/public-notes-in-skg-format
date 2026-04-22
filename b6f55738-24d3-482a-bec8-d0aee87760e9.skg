@@ -1,0 +1,10 @@
+title: cast doubt on the seed instruction
+pid: b6f55738-24d3-482a-bec8-d0aee87760e9
+body: |2-
+  Can play with whether it is the sequence M,N,
+  or just the set, being rendered to time.
+  For instance, render the sequence M,N many times,
+  then swap them,
+  but a careful listener can discover
+  that the sequence plays out in order
+  in the history of those swaps.

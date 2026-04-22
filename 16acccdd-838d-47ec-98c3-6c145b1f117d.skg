@@ -1,0 +1,9 @@
+title: public export for functions
+pid: 16acccdd-838d-47ec-98c3-6c145b1f117d
+body: |2-
+  https://idris2.readthedocs.io/en/latest/tutorial/modules.html#meaning-for-functions
+contains:
+- 22f57413-d865-4b09-9ced-5960649d9cc9
+- d8734edd-b89d-4998-8ca4-7b7f06caece8
+misc:
+- Had_ID_Before_Import

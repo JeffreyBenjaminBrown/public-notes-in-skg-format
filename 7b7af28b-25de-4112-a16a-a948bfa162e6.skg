@@ -1,0 +1,6 @@
+title: '`defconst` : define not-really "constants"'
+pid: 7b7af28b-25de-4112-a16a-a948bfa162e6
+body: |2-
+  `defconst` informs human readers that you do not intend to change the value of a variable.
+  Emacs does not raise an error if you actually change it.
+  "The difference between defconst and defvar is mainly a matter of intent".

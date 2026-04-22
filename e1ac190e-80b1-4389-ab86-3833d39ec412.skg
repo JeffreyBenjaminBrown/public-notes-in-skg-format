@@ -1,0 +1,9 @@
+title: root x
+pid: e1ac190e-80b1-4389-ab86-3833d39ec412
+body: |2-
+  move the tonic within the scale,
+  without redefining the scale coordinates.
+
+  For instance, if in C dorian,
+  say "root 2" to now be in D phrygian,
+  and then say "root 0" to go back to C dorian.

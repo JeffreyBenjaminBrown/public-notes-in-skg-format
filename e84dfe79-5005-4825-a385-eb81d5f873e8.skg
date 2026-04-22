@@ -1,0 +1,7 @@
+title: how to do it
+pid: e84dfe79-5005-4825-a385-eb81d5f873e8
+body: |2-
+  In a shell, type
+    gdb emacs
+  Then in gdb, type
+    run

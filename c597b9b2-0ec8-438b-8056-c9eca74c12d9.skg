@@ -1,0 +1,12 @@
+title: '7\41 x 6\41: All but 3:2 and 15:8 close'
+pid: c597b9b2-0ec8-438b-8056-c9eca74c12d9
+body: |2-
+  0  steps;  1 % 1; string 0; fret 0
+  41 steps;  2 % 1; string 5; fret 1
+  24 steps;  3 % 2; string 0; fret 4
+  13 steps;  5 % 4; string 1; fret 1
+  33 steps;  7 % 4; string 3; fret 2
+  7  steps;  9 % 8; string 1; fret 0
+  19 steps; 11 % 8; string 1; fret 2
+  29 steps; 13 % 8; string 5; fret -1
+  37 steps; 15 % 8; string 1; fret 5

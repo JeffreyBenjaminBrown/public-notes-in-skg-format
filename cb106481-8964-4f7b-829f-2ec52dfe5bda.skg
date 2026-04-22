@@ -1,0 +1,7 @@
+title: query
+pid: cb106481-8964-4f7b-829f-2ec52dfe5bda
+body: |2-
+  select id, name, transcript from interview i
+    join person p
+      on i.person_id = p.id
+    where id = 14887 or id = 16371

@@ -1,0 +1,10 @@
+title: TODO Non-nil interfaces hodling nil values are weird.
+pid: b5b23820-92a3-4d79-b2b5-e33eb15632f2
+body: |2-
+  https://tour.golang.org/methods/12
+contains:
+- bfd31ec3-9e06-49b9-8c99-2ebff46c5ca8
+- 0dbf387c-9b0e-4786-91c0-b33ae0ce3361
+- 1a2fc64d-20eb-473e-8700-887592f94dad
+misc:
+- Had_ID_Before_Import

@@ -1,0 +1,7 @@
+title: 'example: harmonic 7/6 hard to play, but harmonic 7/3 super easy'
+pid: f7c8a400-d063-4a75-867f-093e44c9abf1
+body: |2-
+  7/6 requires a stretch of 10 frets = 679 cents
+
+  MTV> 10 * 12 / (53 / 3)
+  6.792452830188679

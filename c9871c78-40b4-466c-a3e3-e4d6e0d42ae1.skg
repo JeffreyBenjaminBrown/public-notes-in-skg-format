@@ -1,0 +1,6 @@
+title: how to use them
+pid: c9871c78-40b4-466c-a3e3-e4d6e0d42ae1
+body: |2-
+  In Reaper's MIDI Editor,
+  use the Named Notes (*not* the Piano Roll) layout,
+  and then load the note names from a file.

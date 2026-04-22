@@ -1,0 +1,7 @@
+title: full-screen tiling layout
+pid: 1338d846-dbeb-453e-95f7-4ef9e6bf9d2f
+body: |2-
+  Press M-SPC to cycle through the layouts.
+  Full-screen is one.
+misc:
+- Had_ID_Before_Import

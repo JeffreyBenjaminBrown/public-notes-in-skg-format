@@ -1,0 +1,5 @@
+title: n-tuples are just nested pairs
+pid: 9d93fbe2-d9b5-4f60-a64b-c2277b0d822c
+body: |2-
+  Main> (1,2,3) == (1,(2,3))
+  True

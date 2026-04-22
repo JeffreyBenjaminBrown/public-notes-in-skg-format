@@ -1,0 +1,13 @@
+title: '"/", "..", and ("ni" where the "i" is a running variable)'
+pid: 1c1ec7ce-6892-4295-8a4b-82b9b96d02da
+body: |2-
+  It owuld look like a mix of slash-separated "ni"s and ".."s,
+  such that in any sequence n1/n2   , n1 > n2
+  and       in any sequence n1/../n2, n1 > n2
+  i is usually greater than 0, so signifies predecessors;
+  negative i signify descendents.
+  If it starts with a / the entire predecessor chain is specified.
+    "ni" is the alternative way to start.
+    There is no reason to start or end with "..".
+  If it ends with a / the entire descendent chain is specified.
+    Not sure this is needed.

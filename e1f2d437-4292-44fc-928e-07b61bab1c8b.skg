@@ -1,0 +1,8 @@
+title: https://club.tidalcycles.org/t/slide-notes
+pid: e1f2d437-4292-44fc-928e-07b61bab1c8b
+body: |2-
+  Brian Gold (@bgold)'s solution is the most general,
+  but requires SC hacking.
+  "accelerate" manipulates sample pitch.
+  Something like "legato 1.1"
+  helps to fix the gaps between notes using "accelerate".

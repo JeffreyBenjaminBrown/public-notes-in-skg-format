@@ -1,0 +1,10 @@
+title: representation
+pid: e6bbf45d-12ef-4148-a3f2-fe0388138e53
+body: |2-
+  A link to a foreign node is a subscription.
+  If the subscriber changes their view
+  of the foreign node,
+  the subscriber's graph gains a "subscription" node,
+  which can reorder the foreign content.
+  The subscription node is just an ordinary node,
+  but it is created subscribing to the foreign node.

@@ -1,0 +1,10 @@
+title: 'PITFALL: Removing one is tricky.'
+pid: 9ed8dc83-1366-4282-aaba-b22fe47b32a5
+body: |2-
+  serial
+contains:
+- be623172-76e2-47c1-a331-ebc1a6c5f9e2
+- 3441f43b-45bd-44ed-850b-7fab222bf6c4
+- 327e3b46-8ded-480a-9635-7bafd0ba324c
+- a0f14e14-211c-45b9-ad12-9b8a3e1b8b87
+- b8e1a110-cf57-4a1c-870b-4cec7cdd2847

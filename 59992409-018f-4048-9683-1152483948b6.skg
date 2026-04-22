@@ -1,0 +1,14 @@
+title: 99 7 13
+pid: 59992409-018f-4048-9683-1152483948b6
+body: |2-
+  [ 99 steps = 2 % 1 : string 6 fret 3
+  , 58 steps = 3 % 2 : string 5 fret - 1
+  , 32 steps = 5 % 4 : string 3 fret - 1
+  , 80 steps = 7 % 4 : string 4 fret 4
+  , 45 steps = 11 % 8 : string 4 fret - 1
+  , 69 steps = 13 % 8 : string 1 fret 8
+  , 9 steps = 17 % 16 : string - 2 fret 5
+  , 25 steps = 19 % 16 : string 3 fret - 2
+  , 52 steps = 23 % 16 : string 4 fret 0
+  , 85 steps = 29 % 16 : string 6 fret 1
+  , 94 steps = 31 % 16 : string 4 fret 6

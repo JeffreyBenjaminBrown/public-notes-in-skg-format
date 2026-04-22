@@ -1,0 +1,4 @@
+title: using one
+pid: 6eb11198-86db-4216-951c-f9e06fcb2ca1
+body: |2-
+  The syntax compare @{myord} gives an explicit implementation to compare, otherwise it would use the default implementation for Nat.

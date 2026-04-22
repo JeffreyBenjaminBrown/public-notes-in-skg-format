@@ -1,0 +1,10 @@
+title: a method implementation for an instance of a generic type
+pid: 00a38433-3f6b-4fe7-82a7-6c6c98b23b3c
+body: |2-
+  #+begin_src rust
+  impl Point<f32> { // only for `Point` with type parameter `f32`
+      fn distance_from_origin(&self) -> f32 {
+          (self.x.powi(2) + self.y.powi(2)).sqrt()
+      }
+  }
+  #+end_src

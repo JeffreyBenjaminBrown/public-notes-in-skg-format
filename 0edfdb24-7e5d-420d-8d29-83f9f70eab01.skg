@@ -1,0 +1,5 @@
+title: Access fields of product types with (.).
+pid: 0edfdb24-7e5d-420d-8d29-83f9f70eab01
+body: |2-
+  let cat = Cat(name: "Nubi", cuteness: 2001)
+  cat.name // This returns "Nubi"

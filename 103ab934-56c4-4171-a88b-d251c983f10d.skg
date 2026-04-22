@@ -1,0 +1,5 @@
+title: how to check if the cron daemon is running
+pid: 103ab934-56c4-4171-a88b-d251c983f10d
+body: |2-
+  Look for `cron` in the output of
+    ps -ef

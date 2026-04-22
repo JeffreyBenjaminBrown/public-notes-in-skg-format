@@ -1,0 +1,8 @@
+title: type definitions
+pid: 64468ea5-4b10-4a27-99f3-facd9f428a23
+body: |2-
+  data Nat    = Z   | S Nat -- Natural numbers
+                            -- (zero and successor)
+  data Fin : Nat -> Type where
+     FZ : Fin (S k) -- the `S` ensures the `Nat` is > 0
+     FS : Fin k -> Fin (S k)

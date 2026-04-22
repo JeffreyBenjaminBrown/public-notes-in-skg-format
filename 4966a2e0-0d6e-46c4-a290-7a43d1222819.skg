@@ -1,0 +1,7 @@
+title: shell
+pid: 4966a2e0-0d6e-46c4-a290-7a43d1222819
+body: |2-
+  # for any values of the strings "input" and "output"
+  # (commonly they will be equal)
+  idris2 input.idr -o output
+  ./build/exec/output

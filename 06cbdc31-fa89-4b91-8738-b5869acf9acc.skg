@@ -1,0 +1,6 @@
+title: converting between notes and cents
+pid: 06cbdc31-fa89-4b91-8738-b5869acf9acc
+body: |2-
+  cents = (note/edo) * 1200
+contains:
+- 88b2c784-a031-40d8-a20d-581a975f3de9

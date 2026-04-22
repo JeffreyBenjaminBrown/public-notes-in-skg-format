@@ -1,0 +1,10 @@
+title: a / b / .. / d
+pid: eceaed3f-c287-4bb6-a05e-160d10a13a4f
+body: |2-
+  In Tantivy, find everything matching a, b and d.
+  In TypeDB, walk up containerward from each match to d
+  until finding a match to b.
+  Discard any d that don't reach a match to b.
+  For those that do, search containerward from each match of b
+  to see if any of those are contained by something matching a.
+  Return everything that does.

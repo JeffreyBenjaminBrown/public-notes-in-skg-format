@@ -1,0 +1,5 @@
+title: Waves of differing durations in a steady hat pulse.
+pid: c51655b4-906a-42d5-a27b-b324ccb48418
+body: |2-
+  s "hc*8" |*| slow 2 (amp "1 0.3")
+           |*| slow 4 (speed "1 1.3 1.5") ]

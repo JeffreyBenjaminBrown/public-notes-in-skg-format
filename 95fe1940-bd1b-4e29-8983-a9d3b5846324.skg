@@ -1,0 +1,5 @@
+title: can include guards ("when" clauses)
+pid: 95fe1940-bd1b-4e29-8983-a9d3b5846324
+body: |2-
+  case Temperature of
+    {celsius, N} when N >= 20, N =< 45 -> <result>;

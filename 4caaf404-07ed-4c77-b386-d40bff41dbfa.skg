@@ -1,0 +1,4 @@
+title: 'problem: HExpr finds Exprs; while transitive search finds pairs'
+pid: 4caaf404-07ed-4c77-b386-d40bff41dbfa
+body: |2-
+  Those pairs might be explicitly in the graph, but might not.

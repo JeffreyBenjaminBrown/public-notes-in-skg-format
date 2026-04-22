@@ -1,0 +1,7 @@
+title: 'why: Django is unwilling to do much serving of static files'
+pid: f3304e10-8598-445d-b9bd-4bdead7e96b9
+body: |2-
+  Static files can be part of a Django page (e.g. a stylesheet or image)
+  but e.g. to allow someone to download a file,
+  one needs another app.
+  Ngnix and Apache are the two major alternatives.

@@ -1,0 +1,9 @@
+title: terminated base (genetics)
+pid: 9648d682-4f6f-47f2-bd74-ed84f979d28c
+body: |2-
+  These are bases modified so that once the DNAP pairs them to a strand,
+  no more bases can be added.
+  They are also modified so that each of the four kinds (C,G,A,T)
+  glows a different color when illuminated.
+misc:
+- Had_ID_Before_Import

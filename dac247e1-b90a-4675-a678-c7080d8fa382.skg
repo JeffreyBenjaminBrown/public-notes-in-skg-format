@@ -1,0 +1,6 @@
+title: API authentication is best done in the request header
+pid: dac247e1-b90a-4675-a678-c7080d8fa382
+contains:
+- cc45d0a9-9e6e-43fd-9aab-9baea67ccdeb
+- c7591364-8e59-4782-8106-695f4cc78953
+- 75f7a98f-6002-47e4-b466-a8f9f57d9361

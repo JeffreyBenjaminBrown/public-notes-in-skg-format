@@ -1,0 +1,5 @@
+title: First deregister it.
+pid: 37a7d2c0-2b37-4425-be2d-ba5cd36e9e38
+body: |2-
+  From the EC2 console, find it under AMIs.
+  Make a note of it's ID before deregistering it.

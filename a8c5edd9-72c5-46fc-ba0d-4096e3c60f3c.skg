@@ -1,0 +1,9 @@
+title: 'PITFALL: Don''t specify a root folder.'
+pid: a8c5edd9-72c5-46fc-ba0d-4096e3c60f3c
+body: |2-
+  I don't know what it's for,
+  and when I tried it I got errors,
+  which I could not resolve by editing the remote.
+  (I tried replacing the root folder I had specified with "" and /,
+  neither of which worked).
+  I had to delete it and create a new one.

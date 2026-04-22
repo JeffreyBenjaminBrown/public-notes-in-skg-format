@@ -1,0 +1,6 @@
+title: the bash command
+pid: 6c01929b-f929-467e-87f6-93db5c6ad3d8
+body: |2-
+  zip -r to-ec2.zip              \
+    /home/jeff/ugh/une/org-roam/ \
+    /home/jeff/ugh/une/text-in-git/code-ish/ssh-dot/

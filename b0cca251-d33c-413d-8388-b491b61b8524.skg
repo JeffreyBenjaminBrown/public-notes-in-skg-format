@@ -1,0 +1,4 @@
+title: 'code: something like this'
+pid: b0cca251-d33c-413d-8388-b491b61b8524
+body: |2-
+  PS1="\W\$ "

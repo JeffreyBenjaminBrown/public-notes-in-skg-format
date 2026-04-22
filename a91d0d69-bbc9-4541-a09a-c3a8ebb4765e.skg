@@ -1,0 +1,5 @@
+title: the solution, I think
+pid: a91d0d69-bbc9-4541-a09a-c3a8ebb4765e
+body: |2-
+  is to create and use an "unsafeDelete" which does not check for membership in superexpressions.
+  I think this works because in the course of sorting we never need to find anything's subexpressions.

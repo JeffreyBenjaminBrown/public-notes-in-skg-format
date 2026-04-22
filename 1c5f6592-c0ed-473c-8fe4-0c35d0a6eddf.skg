@@ -1,0 +1,8 @@
+title: the code that used to do it
+pid: 1c5f6592-c0ed-473c-8fe4-0c35d0a6eddf
+body: |2-
+  # Below: Intended to make this `autoUpgrade` more polite.
+  # TODO: It's obsolete syntax; check out nix.daemonCPUSchedPolicy instead.
+  # Source: https://discourse.nixos.org/t/can-i-set-the-nice-level-for-nix-build-processes
+  # nix.daemonNiceLevel = 19;
+  # nix.daemonIONiceLevel = 19;

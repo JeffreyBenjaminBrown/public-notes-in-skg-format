@@ -1,0 +1,7 @@
+title: More things in Emacs I might want to configure
+pid: c85da415-82cd-46dc-8c4b-23d703a18147
+body: |2-
+  https://github.com/purescript-emacs/psc-ide-emacs
+  psc-ide-use-npm-bin
+  psc-ide-purs-executable
+    Mike S. suggests setting this within the Nix-shell to the special path to `purs` that `whereis` doesn't list outside of the Nix-shell.

@@ -1,0 +1,5 @@
+title: Not every headline should be searchable.
+pid: 2879d1a7-5eed-446a-a16b-b32d944945b4
+body: |2-
+  By default they should be,
+  but the user should be able to turn that off.

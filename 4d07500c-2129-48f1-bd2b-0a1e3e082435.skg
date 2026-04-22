@@ -1,0 +1,12 @@
+title: elevator pitch
+pid: 4d07500c-2129-48f1-bd2b-0a1e3e082435
+body: |2-
+  Even the elevator pitch for why it's valuable is kind of complicated, but here's that:
+
+  Numerous corporations, most notably Google, have made truckloads of money with knowledge graphs. But knowledge graphs leave the majority of knowledge on the table, because it's unrepresentable, because it's higher-order. In a graph, edges connect nodes. Nothing can connect edges.
+
+  Relationships in Hode can have any number of members (not just two, like in a graph) and those members can themselves be relationships. It can thus represent anything.
+
+  Examples of important and irreducibly higher-order relationships include:
+
+  [[id:fb83f180-cb75-4180-ab9c-eb555f8ecc1b][relationships for Hode]]

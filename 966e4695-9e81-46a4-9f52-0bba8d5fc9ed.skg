@@ -1,0 +1,4 @@
+title: Expresses IO purely, using linear types
+pid: 966e4695-9e81-46a4-9f52-0bba8d5fc9ed
+body: |2-
+  by threading a "world" value through the execution chain.

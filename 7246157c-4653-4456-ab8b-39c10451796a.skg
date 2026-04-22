@@ -1,0 +1,9 @@
+title: optional explicit imports for individual functions
+pid: 7246157c-4653-4456-ab8b-39c10451796a
+body: |2-
+  Deprecated, according to some guy on StackOverflow.
+
+  -import ( Module,
+           [ Function1/Arity,
+            ...,
+            FunctionN/Arity ] ).

@@ -1,0 +1,5 @@
+title: functions to retrieve a module's attributes
+pid: a34fdb4c-6531-40ca-b53b-1eb8abe82f58
+body: |2-
+  Use module_info/0 to get them all.
+  Use module_info/1 to get one of them.

@@ -1,0 +1,4 @@
+title: app
+pid: d7b43e93-486d-43dc-8e6b-196060512076
+body: |2-
+  a stateful OTP application with a supervision tree, as a single application project

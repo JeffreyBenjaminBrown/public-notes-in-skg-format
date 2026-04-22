@@ -1,0 +1,4 @@
+title: 'M-s _: ctrlf-forward-symbol'
+pid: c98aec44-5b19-4623-bb67-2abd787eb81b
+body: |2-
+  Does not match if the search string is part of a bigger symbol.

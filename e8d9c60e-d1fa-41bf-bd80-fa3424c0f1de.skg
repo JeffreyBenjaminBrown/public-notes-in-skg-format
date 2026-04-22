@@ -1,0 +1,13 @@
+title: how
+pid: e8d9c60e-d1fa-41bf-bd80-fa3424c0f1de
+body: |2-
+  See how Tidal does it:
+  modify
+    send :: Maybe O.UDP -> Cx -> (Double, Bool, O.Message) -> IO ()
+  in
+    ~/code/music/Tidal/tidal+epic/src/Sound/Tidal/Stream.hs
+  to print what it's doing as it does it,
+  and see what simple slow sequences do.
+  In particular, what happens if I change the sequence --
+  does it create new voices? Are voices created with each note?
+  Are "destroy" messages ever sent, or just "create"?

@@ -1,0 +1,4 @@
+title: '&& and // are lazy'
+pid: b9c8a60a-9d8c-4287-8e50-ca97bd5a3512
+body: |2-
+  unlike Erlang.

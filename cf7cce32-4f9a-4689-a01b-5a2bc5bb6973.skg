@@ -1,0 +1,5 @@
+title: +python -m ensurepip --upgrade
+pid: cf7cce32-4f9a-4689-a01b-5a2bc5bb6973
+body: |2-
+  Will this work if I use python3.8?
+  `ensurepip` is disabled in Debian's python

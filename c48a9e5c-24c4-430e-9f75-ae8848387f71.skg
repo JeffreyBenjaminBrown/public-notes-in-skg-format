@@ -1,0 +1,7 @@
+title: glyphs could be redundant to properties
+pid: c48a9e5c-24c4-430e-9f75-ae8848387f71
+body: |2-
+  Ideally the properties would *show* as those 1-character symbols,
+  without the 1-character symbols being a separate part of the text.
+misc:
+- Had_ID_Before_Import

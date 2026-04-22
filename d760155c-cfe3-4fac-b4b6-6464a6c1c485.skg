@@ -1,0 +1,7 @@
+title: given this interface
+pid: d760155c-cfe3-4fac-b4b6-6464a6c1c485
+body: |2-
+  type Abser interface {
+    Abs() float64
+    Nothing ()
+  }

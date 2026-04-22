@@ -1,0 +1,7 @@
+title: => They can be used to indicate holes or types in relations.
+pid: a4964598-238b-45f8-937f-244b5735ab09
+body: |2-
+  alternatives
+contains:
+- 700082ce-309e-4762-98e3-1df9f659cea0
+- 19fbf3cc-b44c-49f2-8b4a-0e889042bb4c

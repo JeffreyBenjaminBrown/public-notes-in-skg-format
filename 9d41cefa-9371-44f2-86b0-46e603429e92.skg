@@ -1,0 +1,7 @@
+title: TODO what does "stackable" mean?
+pid: 9d41cefa-9371-44f2-86b0-46e603429e92
+body: |2-
+  I suspect it means there can be more than one link from A to B.
+  But part of LYSE suggested it means that,
+  if A is linked to B which is linked to C,
+  unlinking A from B leaves the link from B to C intact.

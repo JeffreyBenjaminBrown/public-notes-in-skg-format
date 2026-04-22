@@ -1,0 +1,4 @@
+title: send_event/2
+pid: 78395d72-3768-4252-8303-e83f24ca063d
+body: |2-
+  Asynchronous events aimed at any StateName/2 function

@@ -1,0 +1,8 @@
+title: The problem
+pid: 1624af3c-207b-432b-be73-f3ab877fdfae
+body: |2-
+  X <- children of Thor
+  Y <- children of Malox
+  Z <- for some Y, Z knows Y
+       or for some X, Z knows X
+  These are every person who knows a child of Thor or a child of Malox. For some values of Z, Y is defined and X not; for other values of Z, X is defined and Y not.

@@ -1,0 +1,4 @@
+title: Each term in the matrix depends on its three upper-left neighbors
+pid: c1db637f-83d4-4438-a135-ef78e3357184
+body: |2-
+  assuming we put ("","") in the upper-left corner.

@@ -1,0 +1,6 @@
+title: 'PITFALL: I use a different NixOS config to use it'
+pid: 3eddc285-7a86-4adf-b012-30e565d3d3e8
+body: |2-
+  For my regular, non-pulseaudio build, these lines are commented out.
+contains:
+- 6458274f-5397-4ce0-ab86-fed60ac5b26f

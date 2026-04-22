@@ -1,0 +1,5 @@
+title: TODO I'm currently using two different methods.
+pid: c1f20126-ce96-4e58-a903-f7028e203e8d
+body: |2-
+  I swap ESC and CapsLock via KDE, hence only in KDE,
+  but I map the other should-be-Super key to Super via Xmodmap.

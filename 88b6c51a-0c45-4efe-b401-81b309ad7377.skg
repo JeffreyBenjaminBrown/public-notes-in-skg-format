@@ -1,0 +1,4 @@
+title: M-x flush-lines
+pid: 88b6c51a-0c45-4efe-b401-81b309ad7377
+body: |2-
+  Flushes anything matching a regex. Builtin.

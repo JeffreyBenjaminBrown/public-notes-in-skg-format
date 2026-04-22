@@ -1,0 +1,14 @@
+title: This guide somewhat ignores octave differences.
+pid: 43ea0cb2-65e2-471c-9e21-1d4728a05e41
+body: |2-
+  In what follows I might elide the difference between
+  a note and its octave equivalents.
+  For instance, I'll talk about how well some EDO approximates the third harmonic,
+  and then talk about 3:2 instead of 3:1.
+  That's because if an EDO approximates 3:2 well,
+  it approximates 3:1 equally well
+  (because it nails 2:1 -- there no approximation error).
+
+  The 3rd harmonic is 3:1,
+  but 3:2 is the same note in a different octave,
+  and it's easier to think about chords if every note is in the same octave.

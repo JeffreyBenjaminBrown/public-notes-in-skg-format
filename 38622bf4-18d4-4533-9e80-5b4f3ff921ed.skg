@@ -1,0 +1,4 @@
+title: models must be registered at site/settings.py
+pid: 38622bf4-18d4-4533-9e80-5b4f3ff921ed
+body: |2-
+  by changing the INSTALLED_APPS variable

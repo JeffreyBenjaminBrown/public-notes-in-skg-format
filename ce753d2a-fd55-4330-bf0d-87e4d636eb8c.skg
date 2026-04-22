@@ -1,0 +1,12 @@
+title: When notes lock in, slight perturbations to one usually sound better if they are accompanied by a compensating change in the other.
+pid: ce753d2a-fd55-4330-bf0d-87e4d636eb8c
+body: |2-
+  For instance, consider a 12-tone chord like {0,4,9,10}.
+  The {4,9} subset locks in. If the 9 is moved to the
+  'more perfect' 5th harmonic at 8.86,
+  the 4 should be adjusted to compensate --
+  perhaps to 3.86 to maintain its prior relationship to 9,
+  or perhaps to something else. But leaving it at 4 would cause it to be in
+  *almost* a 4/3 relationship to the 8.86, which sounds bad.
+
+  (Here as everywhere, when I say "bad" I don't really mean "bad", just "trickier to use, so you had better know what you're doing".)

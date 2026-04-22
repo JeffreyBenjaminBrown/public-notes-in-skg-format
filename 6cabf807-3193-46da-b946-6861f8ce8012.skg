@@ -1,0 +1,8 @@
+title: how I was doing it
+pid: 6cabf807-3193-46da-b946-6861f8ce8012
+body: |2-
+  Made a shell.nix file (at the top of the repo).
+  Ran nix-shell (from there).
+  Put the cmake file ChatGPT suggested.
+  mkdir build && cd build
+  make -j$(nproc)

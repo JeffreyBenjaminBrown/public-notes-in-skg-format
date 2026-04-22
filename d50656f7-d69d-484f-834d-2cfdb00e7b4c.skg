@@ -1,0 +1,4 @@
+title: '`break` terminates a loop'
+pid: d50656f7-d69d-484f-834d-2cfdb00e7b4c
+body: |2-
+  "When a break statement is encountered inside a loop, the loop is immediately terminated and the program control resumes at the next statement following the loop."

@@ -1,0 +1,4 @@
+title: have some Haskell code in a folder in `~/.emacs.d/` like this
+pid: 562dea21-19a5-46bd-8833-f2bf0401c286
+body: |2-
+  /home/foo/.emacs.d/haskell/Matrix.hs

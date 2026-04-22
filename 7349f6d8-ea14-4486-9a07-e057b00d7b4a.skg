@@ -1,0 +1,8 @@
+title: Consider the "good suffix rule".
+pid: 7349f6d8-ea14-4486-9a07-e057b00d7b4a
+body: |2-
+  Let t = the longest suffix of P matching T.
+  (So we can talk about "t in T" as well as "t in P".)
+  Advance P until either
+    (1) again it matches T over (t in T), or
+    (2) P is just past (t in T).

@@ -1,0 +1,8 @@
+title: 'TODO Bosanquet, s14 f5: great 29-limt -5 -15 -17'
+pid: d3754801-31d5-4879-867f-7bb36a30e6c4
+body: |2-
+  Pr.pPrint $ bestLayout' 23 80 14 5
+  Good layout for everything but 5:4, 15:8, 17:16.
+  The 17:16 in 80-edo is < 0.5c off, but plays horribly in this layout.
+misc:
+- Had_ID_Before_Import

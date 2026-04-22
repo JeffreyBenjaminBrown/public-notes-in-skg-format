@@ -1,0 +1,17 @@
+title: 89 mod 5
+pid: 62cc09e1-0e06-41d0-85fa-ee4c994c03ac
+body: |2-
+  estTunings 89
+  [ ThanosReport
+      { report_edo = 89
+      , report_modulus = 5
+      , report_spacing = 19
+      , report_fretSpan = 10
+      , report_intervalReports =
+          [ 29 steps = 5 % 4: string 1 fret 2
+          , 41 steps = 11 % 8: string 4 fret -7
+          , 52 steps = 3 % 2: string 3 fret -1
+          , 62 steps = 13 % 8: string 3 fret 1
+          , 72 steps = 7 % 4: string 3 fret 3
+          , 89 steps = 2 % 1: string 6 fret -5
+          ]

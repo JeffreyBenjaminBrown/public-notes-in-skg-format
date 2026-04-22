@@ -1,0 +1,4 @@
+title: 'interact: start an interpreter'
+pid: 887bd09c-6a04-4335-9717-b7f991800245
+body: |2-
+  Start an interactive interpreter (using the code module) whose global namespace contains all the (global and local) names found in the current scope.

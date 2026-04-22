@@ -1,0 +1,8 @@
+title: scheme
+pid: 79db984e-5933-4198-b7ea-014de810b884
+body: |2-
+  <label> sub (<abstract attribute type label>)
+  [(, abstract)]
+  , value <value type> [, regex "<regex-expression>"] # UNIQUE
+  [(, owns <attribute type label> [@annotation])...]
+  [(, plays <relation type label>:<role>)...];

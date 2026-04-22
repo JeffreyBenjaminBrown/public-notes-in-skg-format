@@ -1,0 +1,8 @@
+title: '`timecat`: like fastcat but with time arguments'
+pid: e78d1df2-da82-48b1-adca-c495dcd0692e
+body: |2-
+  #+BEGIN_SRC haskell
+    d1 $ stack [ s "bd sn:1" |*| amp 0.2,
+  	       slow 4 $ timecat [ (1, s "hh*4"),
+  				  (3, fast 3 $ s "hh*3") ] ]
+  #+END_SRC

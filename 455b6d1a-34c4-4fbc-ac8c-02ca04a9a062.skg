@@ -1,0 +1,5 @@
+title: remove_handler
+pid: 455b6d1a-34c4-4fbc-ac8c-02ca04a9a062
+body: |2-
+  "drops the handler from the manager"
+  Good for when the handler is finished.

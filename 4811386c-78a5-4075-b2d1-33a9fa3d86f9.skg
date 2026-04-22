@@ -1,0 +1,6 @@
+title: Delineate like this
+pid: 4811386c-78a5-4075-b2d1-33a9fa3d86f9
+body: |2-
+  #+BEGIN_SRC python
+    x = 3
+  #+END_SRC

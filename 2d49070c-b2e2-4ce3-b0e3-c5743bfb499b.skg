@@ -1,0 +1,14 @@
+title: '12\94 x 1\94: max span 9 frets, octave at (8,-2)'
+pid: 2d49070c-b2e2-4ce3-b0e3-c5743bfb499b
+body: |2-
+  8 steps = 17 % 16:  string 1 fret -4 | string 0 fret 8
+  23 steps = 19 % 16: string 2 fret -1
+  30 steps = 5 % 4:   string 3 fret -6
+  43 steps = 11 % 8:  string 4 fret -5
+  49 steps = 23 % 16: string 4 fret  1
+  55 steps = 3 % 2:   string 5 fret -5
+  66 steps = 13 % 8:  string 6 fret -6
+  76 steps = 7 % 4:   string 7 fret -8
+  81 steps = 29 % 16: string 7 fret -3 | string 6 fret  9
+  90 steps = 31 % 16: string 8 fret -6 | string 7 fret 6
+  94 steps = 2 % 1:   string 8 fret -2

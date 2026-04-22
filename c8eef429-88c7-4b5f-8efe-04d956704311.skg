@@ -1,0 +1,5 @@
+title: the 'repeated' warning should be in a system font
+pid: c8eef429-88c7-4b5f-8efe-04d956704311
+body: |2-
+  I might need Emacs to generate it.
+  Currently Rust sends it as body text.

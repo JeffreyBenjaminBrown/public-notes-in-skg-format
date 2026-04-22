@@ -1,0 +1,14 @@
+title: method
+pid: b515f742-95bb-4f00-ab9a-6dbeb0726c91
+body: |2-
+  Call each layer in each ViewTree a "spot".
+  Each is associated with some kind of Hash expression `h`.
+  Decompose `h` into its constituents, and save those at the spot.
+
+  When an Expr `a` is added, break that into its constituents too.
+  Then, for each spot, create a Rslt `r` consisting of
+  (1) the constituents of `e`, and
+  (2) the constituents of the hash expression associated with that spot.
+  Now search r for h,
+  and add (in the map-insertion sense)
+  anything found to the contents already at h.

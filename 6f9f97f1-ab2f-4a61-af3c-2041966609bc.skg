@@ -1,0 +1,5 @@
+title: give it ordinary user permissions
+pid: 6f9f97f1-ab2f-4a61-af3c-2041966609bc
+body: |2-
+  mount it, go to its parent folder, and run:
+  sudo chown -R jeff:users <disk_name>

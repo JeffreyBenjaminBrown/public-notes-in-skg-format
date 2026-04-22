@@ -1,0 +1,9 @@
+title: is a primitive but can be thought of like this
+pid: 68f0b671-d2ff-4061-9fd3-669384b92a72
+body: |2-
+  #+BEGIN_SRC idris
+  data Lazy : Type -> Type where
+    Delay : (val : a) -> Lazy a
+
+  Force : Lazy a -> a
+  #+END_SRC

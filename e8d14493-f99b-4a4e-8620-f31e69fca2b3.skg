@@ -1,0 +1,20 @@
+title: a template
+pid: e8d14493-f99b-4a4e-8620-f31e69fca2b3
+body: |2-
+  try
+      Expression,
+      ...
+      Expression
+  of
+      SuccessfulPattern1 [Guards] ->
+       Expression1;
+      SuccessfulPattern2 [Guards] ->
+       Expression2
+  catch
+      TypeOfError:ExceptionPattern1 ->
+       Expression3;
+      TypeOfError:ExceptionPattern2 ->
+       Expression4
+  after % Always gets executed. Can't return anything.
+       Expr3
+  end.

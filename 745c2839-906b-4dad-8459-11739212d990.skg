@@ -1,0 +1,5 @@
+title: Remote paths are specified as <name of remote>:<path in remote>.
+pid: 745c2839-906b-4dad-8459-11739212d990
+body: |2-
+  So, for me, they look like
+    gborg:path/to/something

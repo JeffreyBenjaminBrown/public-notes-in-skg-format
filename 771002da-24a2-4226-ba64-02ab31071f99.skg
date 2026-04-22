@@ -1,0 +1,9 @@
+title: Avoid complex data structures in Emacs.
+pid: 771002da-24a2-4226-ba64-02ab31071f99
+body: |2-
+  Emacs seems best for buffer text.
+  That text's properties can encode anything I need.
+  All other logic, including types, should be in Rust.
+  These allow one website to comment on another,
+    such that subscribed readers
+    can see those annotations from their target.

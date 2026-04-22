@@ -1,0 +1,8 @@
+title: enumerating the WFFs of PC
+pid: 5f274265-b73c-4a06-8382-6dbc6495b600
+body: |2-
+  Its WFFs are only what you can get to with these rules:
+contains:
+- 5939963d-c3c8-4b41-976d-1504ea57a3f8
+- 72e6a106-084e-4e33-90f8-006ef93dfbb7
+- 700c1abf-97fa-4b78-bc00-e0ab8dc3764c

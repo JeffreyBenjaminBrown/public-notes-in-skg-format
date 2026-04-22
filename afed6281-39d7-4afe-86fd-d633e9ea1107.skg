@@ -1,0 +1,12 @@
+title: definition
+pid: afed6281-39d7-4afe-86fd-d633e9ea1107
+body: |2-
+  #+BEGIN_SRC haskell
+    -- | Many transformations operate on a one-cycle object.
+    -- For instance, `palindrome` plays the pattern backward every other cycle.
+    -- `conjugate dur f p` transforms fso that it takes `dur` cycles of `p`,
+    -- rather than one.
+    conjugate :: Pattern p
+  	    => p Time -> (p x1 -> p x2) -> p x1 -> p x2
+    conjugate dur f = slow dur . f . fast dur
+  #+END_SRC

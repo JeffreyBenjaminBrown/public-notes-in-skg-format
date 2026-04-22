@@ -1,0 +1,6 @@
+title: template
+pid: 2670612f-5486-43cc-a5f7-b498a628e112
+body: |2-
+  pub type Cat {
+    Cat(name: String, cuteness: Int)
+  }

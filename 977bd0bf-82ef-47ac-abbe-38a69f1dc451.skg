@@ -1,0 +1,4 @@
+title: change the IPv4 address in Route53
+pid: 977bd0bf-82ef-47ac-abbe-38a69f1dc451
+body: |2-
+  Choose "Edit record", then see the sidebar.

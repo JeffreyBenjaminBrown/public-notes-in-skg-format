@@ -1,0 +1,8 @@
+title: a tuple of Monoids is a Monoid
+pid: e27f37e0-7267-4e9b-ab7b-8ed7c3b4fa9a
+body: |2-
+  >>> import Data.Monoid
+  >>> (Sum 1, Sum 32) <> (Sum 1, Sum 20)
+  ( Sum { getSum = 2 }
+  , Sum { getSum = 52 }
+  )

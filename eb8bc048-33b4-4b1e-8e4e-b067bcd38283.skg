@@ -1,0 +1,5 @@
+title: 'an easier solution: Don''t write "private" in my files.'
+pid: eb8bc048-33b4-4b1e-8e4e-b067bcd38283
+body: |2-
+  The filesystem and git already keeps track of that distinction.
+  Anyone reading my notes just won't see that stuff.

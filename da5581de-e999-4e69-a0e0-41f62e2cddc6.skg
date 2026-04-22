@@ -1,0 +1,4 @@
+title: Two solutions can overlap in some (but not all) variables.
+pid: da5581de-e999-4e69-a0e0-41f62e2cddc6
+body: |2-
+  "What if there is one person with the full-name attribute like that, but it has two email attributes? Then TypeDB will find two solutions/answers."

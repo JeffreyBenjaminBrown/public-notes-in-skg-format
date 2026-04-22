@@ -1,0 +1,7 @@
+title: Nickel (configuration language)
+pid: 7d6fb4d3-b3c4-4da3-9478-c8c711886710
+body: |2-
+  An evolution of [[id:8216a071-2341-4866-a716-54e77baa8f2f][Nix]].
+  Can compile to JSON, YAML, XML, Nix (experimental), others.
+misc:
+- Had_ID_Before_Import

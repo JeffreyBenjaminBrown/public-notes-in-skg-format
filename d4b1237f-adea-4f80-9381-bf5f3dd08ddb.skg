@@ -1,0 +1,6 @@
+title: where I got help packaging it for NixOS
+pid: d4b1237f-adea-4f80-9381-bf5f3dd08ddb
+body: |2-
+  https://discourse.nixos.org/t/trying-to-install-sc3-plugins-but-in-nixos-i-dont-understand-packaging-or-c/15433
+misc:
+- Had_ID_Before_Import

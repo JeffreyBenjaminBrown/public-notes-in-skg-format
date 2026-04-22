@@ -1,0 +1,8 @@
+title: 'PITFALL: sudo can cause cp (copying) to fail.'
+pid: f202975d-f1f0-4aa7-bcca-f9e6dd26230c
+body: |2-
+  Given certain permissions,
+  it can happen that the ordinary user has permission to view, copy, etc.,
+  while wheel does not!
+misc:
+- Had_ID_Before_Import

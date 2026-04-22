@@ -1,0 +1,4 @@
+title: 'PITFALL: decorator order'
+pid: 6818e464-a92b-4496-bfcf-66795703c2c9
+body: |2-
+  The test's arguments are in reverse order from the decorators.

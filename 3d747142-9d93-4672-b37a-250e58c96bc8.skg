@@ -1,0 +1,21 @@
+title: 'add type: Reif'
+pid: 3d747142-9d93-4672-b37a-250e58c96bc8
+body: |2-
+  RAtom = RScale [Number]
+        | RStr String
+        | RNum Number
+  RMuseq = RMScale (Museq String Scale)
+         | RMNum (Museq String Num)
+         | RMMsg (Museq String Msg)
+         | RMNote (Museq String Note)
+         | RMMeta (Museq String (Museq -> Museq))
+  RFunction = RNum2 (Number -> Number)
+            | RNum3 (Number -> Number -> Number)
+            | RScale2 ([Number] -> [Number])
+            | RTransform (Museq -> Museq)
+            | RJoin (Museq -> Museq -> Museq)
+  Reif = ReifAtom RAtom
+       | ReifFunc RFunction
+       | ReifParam String Number
+       | ReifAt Time Reif
+       | ReifToSynth SynthDefEnum (Museq String Msg)

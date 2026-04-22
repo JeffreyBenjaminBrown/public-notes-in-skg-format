@@ -1,0 +1,8 @@
+title: quote from the docs
+pid: a8a214cd-47fd-4930-8ff6-beb7313a8bee
+body: |2-
+  """
+    If, however, you have no option but to serve media files on the same Apache
+    VirtualHost as Django, you can set up Apache to serve some URLs as static
+    media, and others using the mod_wsgi interface to Django.
+  """

@@ -1,0 +1,8 @@
+title: then test as normal
+pid: 23b1fd13-9775-461a-8018-0fbf7a3bccf5
+body: |2-
+  i.e. run "bash$ pytest src/path/to/testfile.py"
+  on a function with tests that look like
+  def test_something():
+    # PITFALL: The function must start with "test".
+    assert True

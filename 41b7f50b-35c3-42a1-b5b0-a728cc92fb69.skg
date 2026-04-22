@@ -1,0 +1,8 @@
+title: nested example
+pid: 41b7f50b-35c3-42a1-b5b0-a728cc92fb69
+body: |2-
+  /home/jeff〉echo {name: {a:1,b:2}, rank: 10}      10/12/2022 09:48:08 PM
+  ╭──────┬───────────────────╮
+  │ name │ {record 2 fields} │
+  │ rank │ 10                │
+  ╰──────┴───────────────────╯

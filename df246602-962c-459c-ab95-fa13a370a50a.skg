@@ -1,0 +1,4 @@
+title: to uninstall a package installed via nix-env
+pid: df246602-962c-459c-ab95-fa13a370a50a
+body: |2-
+  nix-env -e <package names>

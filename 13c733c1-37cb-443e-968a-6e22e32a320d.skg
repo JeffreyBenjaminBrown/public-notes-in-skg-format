@@ -1,0 +1,12 @@
+title: this Makefile
+pid: 13c733c1-37cb-443e-968a-6e22e32a320d
+body: |2-
+  all: a b c
+  .INTERMEDIATE: d
+  a: d
+  b: d
+  c: d
+  d: i1 i2
+   cat i1 i2 > a
+   cat i1 i2 > b
+   cat i1 i2 > c

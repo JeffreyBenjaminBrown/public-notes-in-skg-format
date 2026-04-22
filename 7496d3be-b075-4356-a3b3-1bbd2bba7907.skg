@@ -1,0 +1,2 @@
+title: 'anyOf :: Fold s a -> (a -> Bool) -> s -> Bool'
+pid: 7496d3be-b075-4356-a3b3-1bbd2bba7907

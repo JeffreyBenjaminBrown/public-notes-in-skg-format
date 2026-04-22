@@ -1,0 +1,4 @@
+title: Each id value should belong to only one entity.
+pid: 5101a466-80e0-46ff-890a-bd3093ea0375
+body: |2-
+  where entity = node | extra_id

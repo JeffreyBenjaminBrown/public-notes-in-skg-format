@@ -1,0 +1,5 @@
+title: display the counts in "CSV" format
+pid: ef2f7c7d-5ef5-4784-88c6-a81b22ab06fc
+body: |2-
+  so if only the third is present,
+  the "three" numbers would read ",,x"

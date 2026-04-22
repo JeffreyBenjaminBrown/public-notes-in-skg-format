@@ -1,0 +1,4 @@
+title: map (.a.b.c) xs
+pid: 0a8794c6-94e6-4c2f-b215-73917a7c2d91
+body: |2-
+  For the dot notation, there must be no spaces after the dots but there may be spaces before the dots. The composite projection must be parenthesised, otherwise map .a.b.c xs would be understood as map.a.b.c xs.

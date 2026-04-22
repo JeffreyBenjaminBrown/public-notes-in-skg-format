@@ -1,0 +1,14 @@
+title: example
+pid: 3b3b7a92-77bf-41ab-924d-a9f062fc8f22
+body: |2-
+  pub type Person {
+    Person(
+      name: String,
+      age: Int,
+      is_happy: Bool,
+    )
+  }
+
+  pub fn have_birthday(person) {
+    Person(..person, age: person.age + 1, is_happy: true)
+    }

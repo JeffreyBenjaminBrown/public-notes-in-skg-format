@@ -1,0 +1,12 @@
+title: 'TODO 26\133 x 3\133: just like 87 (but dominated by it)'
+pid: 8a3fd51e-53cc-4e80-a0ca-4ff63a6d67c5
+body: |2-
+  [ 0 steps; 1 % 1 ; string 0 ; fret 0
+  , 133 steps; 2 % 1 ; string 5 ; fret 1
+  , 78 steps; 3 % 2 ; string 3 ; fret 0
+  , 43 steps; 5 % 4 ; string 2 ; fret - 3
+  , 107 steps; 7 % 4 ; string 4 ; fret 1
+  , 23 steps; 9 % 8 ; string 1 ; fret - 1
+  , 61 steps; 11 % 8 ; string 2 ; fret 3
+  , 93 steps; 13 % 8 ; string 3 ; fret 5
+  , 121 steps; 15 % 8 ; string 5 ; fret - 3

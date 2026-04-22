@@ -1,0 +1,6 @@
+title: nmcli connection up WIFI_MOVILES_MINCIT
+pid: 9c10f1f5-ca79-40ab-9fb0-852721434f33
+body: |2-
+  can ssh to github,
+  can't do cargo (rust)
+  can't do apt (ubuntu, debian)

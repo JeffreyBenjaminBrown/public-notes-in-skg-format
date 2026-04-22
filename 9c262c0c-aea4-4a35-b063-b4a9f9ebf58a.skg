@@ -1,0 +1,10 @@
+title: .schema citations
+pid: 9c262c0c-aea4-4a35-b063-b4a9f9ebf58a
+body: |2-
+  CREATE TABLE citations (
+    node_id NOT NULL,
+    cite_key NOT NULL,
+    pos NOT NULL,
+    properties,
+    FOREIGN KEY (node_id) REFERENCES nodes (id)
+      ON DELETE CASCADE);

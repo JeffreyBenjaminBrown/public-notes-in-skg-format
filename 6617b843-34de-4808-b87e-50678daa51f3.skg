@@ -1,0 +1,9 @@
+title: Enable USB booting.
+pid: 6617b843-34de-4808-b87e-50678daa51f3
+body: |2-
+  In ChromeOS, after enabling Developer Mode,
+  open crosh (the ChromeOS shell) with C-M-t.
+  It opens in the browser but that's okay.
+  Run "shell" to get a normal shell in it.
+  Run "sudo enable_dev_usb_boot".
+  It should say "successful" and explain how to boot from USB.

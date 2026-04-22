@@ -1,0 +1,7 @@
+title: trait methods and ownership
+pid: 3b77338d-4185-4963-8a54-1dbee0a59d33
+body: |2-
+  A trait method defined for `self` rather than `&self` will consume `self`.
+contains:
+- 935ef1e6-3e7f-4257-91bc-0947898ccc75
+- e75a4c26-b6a4-45d7-ab28-55b6e2c0c332

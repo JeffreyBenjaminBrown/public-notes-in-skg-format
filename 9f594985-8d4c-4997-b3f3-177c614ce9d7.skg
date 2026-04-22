@@ -1,0 +1,6 @@
+title: define it with callback_mode/0
+pid: 9f594985-8d4c-4997-b3f3-177c614ce9d7
+body: |2-
+  example:
+  callback_mode() ->
+    state_functions.

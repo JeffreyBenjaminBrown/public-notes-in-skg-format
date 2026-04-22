@@ -1,0 +1,5 @@
+title: Hode's data structure and query language are novel.
+pid: 70c9ab37-32d3-4403-af8a-ba9996290587
+body: |2-
+  The query language, as far as I know, is entirely novel. The hyperdata structure has found some use in biotech and finance, but so far not in social media, and certainly not in a user-facing way.
+  The hypergraph would allow people to easily record not just statements, but statements about statements, in a structure that permits queries more advanced than what search engines enable currently. For instance, "Show me statements made about topic X by authors X and Y that coincide -- that is, X and Y have both said the same thing about it."

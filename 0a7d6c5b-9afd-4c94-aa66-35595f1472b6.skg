@@ -1,0 +1,5 @@
+title: substitution into a string
+pid: 0a7d6c5b-9afd-4c94-aa66-35595f1472b6
+body: |2-
+  Console.WriteLine(
+    $"Hello, {name}, on {currentDate:d} at {currentDate:t}")

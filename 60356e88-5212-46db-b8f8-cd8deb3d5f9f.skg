@@ -1,0 +1,9 @@
+title: Trackpad can be disabled while typing.
+pid: 60356e88-5212-46db-b8f8-cd8deb3d5f9f
+body: |2-
+  KDE allows this, at least.
+  It's really nice. The mouse can still be moved,
+  but will not move the (text editing) cursor.
+  It prevents errors and doesn't slow me down.
+misc:
+- Had_ID_Before_Import

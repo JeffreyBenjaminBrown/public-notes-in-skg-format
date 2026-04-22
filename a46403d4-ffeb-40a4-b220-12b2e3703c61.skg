@@ -1,0 +1,10 @@
+title: '"insert" clause with preceding match'
+pid: a46403d4-ffeb-40a4-b220-12b2e3703c61
+body: |2-
+  Any variable referred to by the insert clause
+  must have been defined in the match clause.
+
+  match
+    $f isa file, has path "README.md";
+  insert
+    $f has size-kb 55;

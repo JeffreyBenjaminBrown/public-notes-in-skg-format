@@ -1,0 +1,12 @@
+title: example
+pid: 45de1978-5caf-456f-8868-47768338e5fc
+body: |2-
+  def print_shape(shape: Shape):
+    match shape:
+      case Point(x, y):
+        print(f"Point {x} {y}")
+      case _ as unreachable:
+        # mypy will throw a type checking error,
+        # because this *is* reachable,
+        # because Circle is not covered.
+        assert_never(unreachable)

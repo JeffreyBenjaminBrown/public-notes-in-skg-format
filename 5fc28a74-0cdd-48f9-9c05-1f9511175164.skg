@@ -1,0 +1,6 @@
+title: To show one column, SELECT the column's name.
+pid: 5fc28a74-0cdd-48f9-9c05-1f9511175164
+body: |2-
+  e.g. if there is a column called "type" in the db "crime_scene_report",
+
+  SELECT type FROM crime_scene_report;

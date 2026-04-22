@@ -1,0 +1,11 @@
+title: the idea
+pid: ccbc553a-fe17-45d3-9bef-d754f54b28ff
+body: |2-
+  These are equivalent:
+
+  iodata.to_string(iodata.reverse(iodata.new(string)))
+
+  string
+  |> iodata.new
+  |> iodata.reverse
+  |> iodata.to_string

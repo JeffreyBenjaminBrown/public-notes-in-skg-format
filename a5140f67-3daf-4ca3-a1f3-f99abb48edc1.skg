@@ -1,0 +1,7 @@
+title: '`impl <trait>` v. `trait bound` syntax in signatures'
+pid: a5140f67-3daf-4ca3-a1f3-f99abb48edc1
+body: |2-
+  These are equivalent.
+contains:
+- 1aecfd73-624e-45ef-95b6-59457b0a9d50
+- 71a2cbce-d2bf-47f7-aa70-5f5450a18abd

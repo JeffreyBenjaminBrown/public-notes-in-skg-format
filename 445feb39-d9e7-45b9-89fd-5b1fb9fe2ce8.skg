@@ -1,0 +1,5 @@
+title: Reverse the inner order.
+pid: 445feb39-d9e7-45b9-89fd-5b1fb9fe2ce8
+body: |2-
+  Try alignments left-to-right, but within each alignment,
+  try characters right-to-left.

@@ -1,0 +1,4 @@
+title: pip3 install each of the packages that fails
+pid: 1c922e63-70c1-4967-b942-f8bdc4a60d4c
+body: |2-
+  when installing requirements.txt into the venv

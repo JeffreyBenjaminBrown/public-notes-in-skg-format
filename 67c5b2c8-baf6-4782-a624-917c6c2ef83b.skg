@@ -1,0 +1,4 @@
+title: The time selection start and end are treated as floating markers.
+pid: 67c5b2c8-baf6-4782-a624-917c6c2ef83b
+body: |2-
+  so [ and ] include them as targets to jump to.

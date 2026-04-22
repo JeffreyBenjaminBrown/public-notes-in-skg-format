@@ -1,0 +1,12 @@
+title: defer execution
+pid: dd70e1e3-d673-4e20-8a3a-02e63392965e
+body: |2-
+  A "deferred call"'s arguments are evaluated immediately,
+  but the call is not evaluated until after the surrounding function.
+  Deferred calls are printed in LIFO order.
+
+  func main() {
+       defer fmt.Println("This prints third.")
+       defer fmt.Println("This prints second.")
+       fmt.Println("This prints first.")
+  }

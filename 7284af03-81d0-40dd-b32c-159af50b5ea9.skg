@@ -1,0 +1,7 @@
+title: mount
+pid: 7284af03-81d0-40dd-b32c-159af50b5ea9
+body: |2-
+  This mounts the device "sdb1",
+  making it available at the "media" folder.
+
+  sudo mount /dev/sdb1 /mnt/media

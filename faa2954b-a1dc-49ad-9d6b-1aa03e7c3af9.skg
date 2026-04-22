@@ -1,0 +1,11 @@
+title: has and isn't (and is)
+pid: faa2954b-a1dc-49ad-9d6b-1aa03e7c3af9
+body: |2-
+  has   :: Fold s a      -> s -> Bool
+  isn't :: Prism s t a b -> s -> Bool
+  "is" is obscure to avoid naming conflicts
+
+  >>> has _Right (Left "message")
+  False
+  >>> isn't _Right (Left "message")
+  True

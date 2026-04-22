@@ -1,0 +1,8 @@
+title: signatures
+pid: 9da517ee-01a1-428c-8c8e-410913d0a062
+body: |2-
+  -- Actual signature
+  failover :: Alternative m
+           => LensLike ((,) Any) s t a b -> (a -> b) -> s -> m t
+  -- Specialized
+  failover :: Traversal s t a b          -> (a -> b) -> s -> Maybe t

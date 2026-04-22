@@ -1,0 +1,5 @@
+title: Match on different kinds of errors using `error.kind()`.
+pid: 7a9ac8aa-3add-40e4-b020-2e2332ba1261
+contains:
+- eeb8614e-c6f5-415b-ae28-350aa20e7ed0
+- a0354dc5-abee-4a3d-9c38-4549d8b2c0e0

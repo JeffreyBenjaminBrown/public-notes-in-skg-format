@@ -1,0 +1,5 @@
+title: 'Better: Just show x & y, but make it clear when each subexpression exists.'
+pid: fbb9c8c4-1168-4d8b-b784-4bd7d8254f6c
+body: |2-
+  This should apply to any function (e.g. "x || y & z", and make visible all relationships involving those things. (This might be represented by connecting the set {x y z} automatically to each subset if that subset itself includes any relations*
+  (*) that have been written

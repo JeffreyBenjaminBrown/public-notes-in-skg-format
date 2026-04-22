@@ -1,0 +1,25 @@
+title: 'outside of the nix repl:'
+pid: 3a439e84-c17d-472d-b128-b0a5d3ad6473
+body: |2-
+  [jeff@jbb-dell:~/nix/temp]$ nix show-derivation /nix/store/7r40h4gj6rs
+  aw6xnsq7vj128dpiawa94-x.drv
+  {
+    "/nix/store/7r40h4gj6rsaw6xnsq7vj128dpiawa94-x.drv": {
+      "outputs": {
+        "out": {
+          "path": "/nix/store/f4z943mkd9zkhcjk2mwy3p9g14qf6wvb-x"
+        }
+      },
+      "inputSrcs": [],
+      "inputDrvs": {},
+      "platform": "x86_64-linux",
+      "builder": "y",
+      "args": [],
+      "env": {
+        "builder": "y",
+        "name": "x",
+        "out": "/nix/store/f4z943mkd9zkhcjk2mwy3p9g14qf6wvb-x",
+        "system": "x86_64-linux"
+      }
+    }
+  }

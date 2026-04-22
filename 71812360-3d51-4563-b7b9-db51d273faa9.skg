@@ -1,0 +1,39 @@
+title: the code, duplicated here
+pid: 71812360-3d51-4563-b7b9-db51d273faa9
+body: |2-
+   module Learning.Microspec where
+
+   import Test.Microspec
+   import Text.Pretty.Simple (pPrint)
+
+
+   data Tree a
+     = Leaf a
+     | Tree a (Tree a) (Tree a)
+     deriving (Show, Functor, Foldable, Traversable)
+   makeBaseFunctor ''Tree
+
+   instance Arbitrary a => Arbitrary (Tree a) where
+     -- PITFALL: Nothing forces these to be finite.
+     -- Should that prove to be a problem, use
+     -- Test.QuickCheck.Gen.sized.
+     arbitrary = do
+       a  :: a      <- arbitrary
+       c  :: Int    <- choose (0, 1) -- chooses an int in that range
+       s1 :: Tree a <- arbitrary
+       s2 :: Tree a <- arbitrary
+       return $ if c == 0
+  then Leaf a
+  else Tree a s1 s2
+
+   prop_OneMoreNodeThanEdges :: Tree Int -> Bool
+   prop_OneMoreNodeThanEdges tree =
+     nodes tree == edges tree + 1
+
+   printRandomTree :: IO ()
+   printRandomTree =
+     generate (arbitrary :: Gen (Tree Int) ) >>= pPrint
+
+   test :: IO ()
+   test = quickCheck $ do
+     prop_OneMoreNodeThanEdges

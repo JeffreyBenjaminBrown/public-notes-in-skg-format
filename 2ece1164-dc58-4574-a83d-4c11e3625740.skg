@@ -1,0 +1,8 @@
+title: Delete an expression.
+pid: 2ece1164-dc58-4574-a83d-4c11e3625740
+body: |2-
+  tdb.data_delete ( # TRICKY: Delete requires a seemingly-redundant second "isa" clause.
+    hd.DB_NAME,
+    " ".join ( [
+      "match $n isa note, has uid '_:i=,9aBa8C5jMmd';"
+      "delete $n isa note;" ] ) )

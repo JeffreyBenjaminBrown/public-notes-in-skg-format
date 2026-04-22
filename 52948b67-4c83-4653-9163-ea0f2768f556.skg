@@ -1,0 +1,6 @@
+title: 'PITFALL: Multiple timelines with different click functions.'
+pid: 52948b67-4c83-4653-9163-ea0f2768f556
+body: |2-
+  At least in the MIDI editor,
+  the time ruler (top) defines loops when click-dragged,
+  whereas the lower boundary defines time selections.

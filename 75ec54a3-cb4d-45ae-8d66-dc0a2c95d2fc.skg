@@ -1,0 +1,34 @@
+title: 'Asking: How to link to a headline'
+pid: 75ec54a3-cb4d-45ae-8d66-dc0a2c95d2fc
+body: |2-
+    https://org-roam.discourse.group/t/how-to-link-to-a-headline-in-v2/1778
+    I just upgraded to v2. Now I don't know how to link to headlines, just files. (Ironic, because I understand that the mechanism for doing both is the same now.)
+
+    The way I used to link to headlinles was with `org-store-link` and `org-insert-link`. I used to define them via `org-roam-mode-map`, but now that appears to have gone away, so instead I define global shortcuts:
+
+  ```
+  (global-set-key (kbd "C-c C-l")
+  		(lambda () (interactive)
+  		  (org-insert-link) ) )
+  (global-set-key (kbd "C-c n l")
+  		(lambda () (interactive)
+  		  (org-store-link) ) )
+  (global-set-key (kbd "C-c n f")
+  		(lambda () (interactive)
+  		  (org-roam-node-find) ) )
+  ```
+
+   `org-roam-node-find` and `org-insert-link` works as I had hoped. And `M-x org-store-link` does *something*, albeit not what I'd like. (I'd like it to insert PROPERTIES and an ID for the node, like it used to.) But when I run the shortcut for `org-store-link`, I get this error:
+
+  ```
+  Debugger entered--Lisp error: (wrong-number-of-arguments (1 . 2) 0)
+    org-store-link()
+    (lambda nil (interactive) (org-store-link))()
+    funcall-interactively((lambda nil (interactive) (org-store-link)))
+    call-interactively((lambda nil (interactive) (org-store-link)) nil nil)
+    command-execute((lambda nil (interactive) (org-store-link)))
+  ```
+
+   I can see that it wants more arguments, and I see in the documentation that the second argument indicates whether it was called interactively. but I can't find anywhere in the documentation what the meaning of the first argument is.
+
+   Am I on the right track, or are `org-store-link` and `org-insert-link` not even the functions to use any more?

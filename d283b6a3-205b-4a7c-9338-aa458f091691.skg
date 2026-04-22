@@ -1,0 +1,10 @@
+title: Use my "prefix-date-uri" script.
+pid: d283b6a3-205b-4a7c-9338-aa458f091691
+body: |2-
+  Prefix all non-org non-VC documents with that,
+  and never change their names
+  (or at least the prefix on those names),
+  so I can index to them in the graph in many places
+  and always search my disk for them.
+misc:
+- Had_ID_Before_Import

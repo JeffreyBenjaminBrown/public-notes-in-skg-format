@@ -1,0 +1,10 @@
+title: basic example
+pid: 8d73047b-e770-4734-8311-a882a0c8cdfe
+body: |2-
+  #+begin_src rust
+  let v1 = vec![1, 2, 3];
+  let v1_iter = v1.iter();
+  for val in v1_iter {
+    println!("Got: {val}");
+  }
+  #+end_src

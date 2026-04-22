@@ -1,0 +1,5 @@
+title: Bumped objects can be restored without scrolling the undo history.
+pid: 8c4a647e-ade8-48ba-a8a2-3cd6c3280b70
+contains:
+- 8bd37100-1b19-4340-8c2b-54da543c58a4
+- d57e2d0b-adcf-45d3-80cc-16caec2a71cf

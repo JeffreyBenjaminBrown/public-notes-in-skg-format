@@ -1,0 +1,14 @@
+title: '17\58 x 5\58: 17-lim minus 7'
+pid: 509b312d-d5f7-46af-b35b-3b3102961949
+body: |2-
+  dominated by 12\58 x 5\58 -- narrower spread
+  [  0 steps;  1 % 1  ; string 0 ; fret 0
+  , 58 steps;  2 % 1  ; string 4 ; fret - 2
+  , 34 steps;  3 % 2  ; string 2 ; fret 0
+  , 19 steps;  5 % 4  ; string 2 ; fret - 3
+  , 47 steps;  7 % 4  ; string 1 ; fret 6
+  , 10 steps;  9 % 8  ; string 0 ; fret 2
+  , 27 steps; 11 % 8  ; string 1 ; fret 2
+  , 41 steps; 13 % 8  ; string 3 ; fret - 2
+  , 53 steps; 15 % 8  ; string 4 ; fret - 3
+  ,  5 steps; 17 % 16 ; string 0 ; fret 1

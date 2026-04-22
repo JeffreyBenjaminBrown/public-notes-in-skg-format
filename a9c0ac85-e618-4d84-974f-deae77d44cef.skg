@@ -1,0 +1,7 @@
+title: Keep separate `lib`, `util` and `tests` files.
+pid: a9c0ac85-e618-4d84-974f-deae77d44cef
+body: |2-
+  Don't call lib main, just in case.
+  Keep util separate from tests so that
+  I can more easily interactively test in the REPL,
+  by copying nothing but import statements from the test suite.

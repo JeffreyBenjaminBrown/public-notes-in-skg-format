@@ -1,0 +1,6 @@
+title: then, .html files should then refer to the image just like a post-domain URL
+pid: 4f778982-5db8-4fe9-ae95-70003efc2b39
+body: |2-
+  e.g. for this example, I could visit the file at localhost/test.png,
+  so I should refer to the file as simply "/test.png".
+  PITFALL: The leading slash is important.

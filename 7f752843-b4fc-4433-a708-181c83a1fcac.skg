@@ -1,0 +1,5 @@
+title: Try LeakDC at the end of the signal chain
+pid: 7f752843-b4fc-4433-a708-181c83a1fcac
+body: |2-
+  I tried it before and after each filter (that's four leakDCs at once)
+  and it didn't make any perceptible change.

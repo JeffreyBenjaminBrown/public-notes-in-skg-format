@@ -1,0 +1,7 @@
+title: '? BUG ? wm (and maybe others) create special notes'
+pid: 0daf42f4-f60e-4c0f-bf13-e4bf53c2837a
+body: |2-
+  where there is almost no adudible modulation happening.
+  Adjacent pitches sound very chaotic by comparison.
+  It doesn't depend on wm-m, just wm-f.
+  I suspect it happens when the frequency of modulation is near the frequency of the pitch itself.

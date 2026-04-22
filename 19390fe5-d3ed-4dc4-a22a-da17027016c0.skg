@@ -1,0 +1,5 @@
+title: these won't work for holding a single widget
+pid: 19390fe5-d3ed-4dc4-a22a-da17027016c0
+body: |2-
+  editor
+  viewport -- would be infinite-sized, because nested

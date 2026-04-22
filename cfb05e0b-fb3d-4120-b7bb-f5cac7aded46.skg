@@ -1,0 +1,12 @@
+title: '7\46 x 2\46: tight but bad 5:4'
+pid: cfb05e0b-fb3d-4120-b7bb-f5cac7aded46
+body: |2-
+  [ 0  steps; 1 % 1;  string 0; fret 0
+  , 8  steps; 9 % 8;  string 0; fret 4
+  , 15 steps; 5 % 4;  string 1; fret 4
+  , 21 steps; 11 % 8; string 3; fret 0
+  , 27 steps; 3 % 2;  string 3; fret 3
+  , 32 steps; 13 % 8; string 4; fret 2
+  , 37 steps; 7 % 4;  string 5; fret 1
+  , 42 steps; 15 % 8; string 6; fret 0
+  , 46 steps; 2 % 1;  string 6; fret 2

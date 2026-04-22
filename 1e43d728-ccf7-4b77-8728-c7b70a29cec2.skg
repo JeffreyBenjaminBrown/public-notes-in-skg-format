@@ -1,0 +1,15 @@
+title: 'another way: run nix-hash, maybe pfaffing around with a change of base'
+pid: 1e43d728-ccf7-4b77-8728-c7b70a29cec2
+body: |2-
+  https://gist.github.com/boxofrox/d8a3080fbb03f84b7d7a31e102b35f09
+
+  12:31:57         boxofrox | I'm trying to calculate the sha256 for a package I'm making, but I can't figure out how to do it.  I've posted details at https://gist.github.com/boxofrox/d8a3080fbb03f84b7d7a31e102b35f09 , any help is appreciated.
+  12:33:08           clever | boxofrox: it changed the base for the hash
+  12:33:36          tilpner | boxofrox - nix-hash --to-base32 --type sha256 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+  12:33:58         boxofrox | oh, now that makes sense.
+  12:34:08                ↪ | thank you
+  12:34:10           clever | [root@amd-nixos:~]# nix-hash --to-base32 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b --type sha256
+  12:34:14                ↪ | 0sslrbd0b64gxxcc02afjv7fwkmn4i8w19win08yjvqbr0clgfh1
+  12:34:18           clever | boxofrox: this returns the 2nd hash in the error message
+  12:34:59         boxofrox | so I want the first hash then.  sweet
+  12:35:04           clever | yep

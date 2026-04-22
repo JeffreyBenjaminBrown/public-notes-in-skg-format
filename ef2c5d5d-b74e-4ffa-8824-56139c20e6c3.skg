@@ -1,0 +1,4 @@
+title: To activate it at run-time
+pid: ef2c5d5d-b74e-4ffa-8824-56139c20e6c3
+body: |2-
+  PRAGMA foreign_keys

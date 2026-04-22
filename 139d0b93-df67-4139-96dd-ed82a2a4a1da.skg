@@ -1,0 +1,11 @@
+title: what David Sinclair would have me monitor
+pid: 139d0b93-df67-4139-96dd-ed82a2a4a1da
+body: |2-
+  glucose
+  pulse/heart
+  inflamation (CRP molecule - c-reactive protein)
+  cortisol
+  lactate
+  blood oxygen
+misc:
+- Had_ID_Before_Import

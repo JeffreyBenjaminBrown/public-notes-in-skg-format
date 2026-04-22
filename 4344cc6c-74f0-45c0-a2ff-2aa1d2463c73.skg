@@ -1,0 +1,5 @@
+title: rainbow-delimiters
+pid: 4344cc6c-74f0-45c0-a2ff-2aa1d2463c73
+body: |2-
+  Installed via Melpa\Nix.
+  The only thing it defined is rainbow-delimiters-mode -- it didn't define rainbow-delimiters-faces or

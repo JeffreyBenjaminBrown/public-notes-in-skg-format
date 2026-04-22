@@ -1,0 +1,6 @@
+title: from within the IDE
+pid: 2d6f6847-021b-4bff-9451-b3a06c0b0827
+body: |2-
+  o=Server.local.options;
+  o.memSize;                // shows the actual memSize
+  o.memSize = o.memSize * 2 // doubles the memSize // hit the line above to see the result.

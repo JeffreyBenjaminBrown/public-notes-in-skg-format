@@ -1,0 +1,7 @@
+title: connect to the network
+pid: 87e0399d-8316-43a7-94c8-575b0ec4e803
+body: |2-
+  wpa_supplicant -B -i interface_name -c <(wpa_passphrase network_name passphrase)
+  I was unable, and gave up here.
+misc:
+- Had_ID_Before_Import

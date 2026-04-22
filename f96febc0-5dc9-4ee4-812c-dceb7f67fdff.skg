@@ -1,0 +1,7 @@
+title: map over Python dictionary values
+pid: f96febc0-5dc9-4ee4-812c-dceb7f67fdff
+body: |2-
+  Use a comprehension:
+  { k: f(v)
+    for k, v
+    in my_dictionary.items () }

@@ -1,0 +1,4 @@
+title: freq shift has absolute and proportional components
+pid: fd48baf2-0d64-480a-b84f-1c18007b1543
+body: |2-
+  var shift = freq * fshiftnote + fshift

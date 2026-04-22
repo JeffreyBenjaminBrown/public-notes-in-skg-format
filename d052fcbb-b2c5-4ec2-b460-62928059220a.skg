@@ -1,0 +1,9 @@
+title: '"Base Caller" Software'
+pid: d052fcbb-b2c5-4ec2-b460-62928059220a
+body: |2-
+  It "calls bases", like an umpire calls strikes, etc.
+contains:
+- d47eb8ac-63d8-47d6-9338-80255acb7a1f
+- 205dcc03-64e2-43e3-8098-db6c2a55a521
+misc:
+- Had_ID_Before_Import

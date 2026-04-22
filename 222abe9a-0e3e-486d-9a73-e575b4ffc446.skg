@@ -1,0 +1,6 @@
+title: Channels are typed.
+pid: 222abe9a-0e3e-486d-9a73-e575b4ffc446
+body: |2-
+  c := make (chan int)
+  func sum( s []int,
+            c chan int ) { ... }

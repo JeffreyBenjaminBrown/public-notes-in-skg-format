@@ -1,0 +1,6 @@
+title: constructors are defined via type signatures
+pid: 6b103c79-5c4f-4be2-8d05-d1e54a7e6bd0
+body: |2-
+  data Vect : Nat -> Type -> Type where
+     Nil  : Vect Z a
+     (::) : a -> Vect k a -> Vect (S k) a

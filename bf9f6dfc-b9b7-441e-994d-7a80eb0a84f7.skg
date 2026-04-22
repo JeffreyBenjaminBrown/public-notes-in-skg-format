@@ -1,0 +1,4 @@
+title: be sure `xmodmap` is installed
+pid: bf9f6dfc-b9b7-441e-994d-7a80eb0a84f7
+body: |2-
+  in NixOS, it's in the `xorg.xmodmap` package

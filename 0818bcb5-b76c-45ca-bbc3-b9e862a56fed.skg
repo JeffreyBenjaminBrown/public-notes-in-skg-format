@@ -1,0 +1,5 @@
+title: run tests
+pid: 0818bcb5-b76c-45ca-bbc3-b9e862a56fed
+body: |2-
+  from the folder containing them, with
+    go test

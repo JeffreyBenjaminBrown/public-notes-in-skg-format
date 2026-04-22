@@ -1,0 +1,5 @@
+title: '"voice" = pulse width.'
+pid: 72349c02-f13f-473e-978c-8b003a6fc552
+body: |2-
+  Useful range around [0.005, 0.5] (that's a half-open interval).
+  0.005 is very quiet.

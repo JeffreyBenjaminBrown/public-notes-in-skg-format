@@ -1,0 +1,12 @@
+title: '? can be chained'
+pid: b7115853-2d7e-4659-9ca9-3edb69ee412c
+body: |2-
+  #+begin_src rust
+  use std::fs::File;
+  use std::io::{self, Read};
+
+  fn read_username_from_file() -> Result<String, io::Error> {
+      let mut username = String::new();
+      File::open("hello.txt")?.read_to_string(&mut username)?; // here
+      Ok(username) }
+  #+end_src

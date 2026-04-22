@@ -1,0 +1,6 @@
+title: run a script that creates a db, name it, save it
+pid: 2ed7446e-5e04-406c-92d6-0dbfa204258a
+body: |2-
+  cat numismatist.sql | sqlite3 numismatist.db
+contains:
+- 24aea3ee-226c-49bd-8629-69904bbed8f3

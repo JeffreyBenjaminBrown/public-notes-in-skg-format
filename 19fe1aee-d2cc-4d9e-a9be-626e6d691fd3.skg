@@ -1,0 +1,15 @@
+title: an "application" that imports both
+pid: 19fe1aee-d2cc-4d9e-a9be-626e6d691fd3
+body: |2-
+  #+BEGIN_SRC haskell
+  module Application where
+
+  import Domain
+  import Implementation -- which in turn imports Foreign
+
+  applicationBar :: OurOwnFoo -> WhatBarReturns
+  applicationBar = ourOwnBar outOwnFooLibImplementation
+
+  applicationBaz :: OurOwnFoo -> WhatBazReturns
+  applicationBaz = ourOwnBaz outOwnFooLibImplementation
+  #+END_SRC

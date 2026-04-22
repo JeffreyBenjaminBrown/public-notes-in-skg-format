@@ -1,0 +1,6 @@
+title: Check the branch before each use of git.
+pid: 380d6262-78d1-4811-bc58-f5331c00c7ba
+body: |2-
+  At least. Maybe even before each operation.
+misc:
+- Had_ID_Before_Import

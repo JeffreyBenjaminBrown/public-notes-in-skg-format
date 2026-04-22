@@ -1,0 +1,12 @@
+title: to merge upstream changes into a fork
+pid: 48b72d5d-e9d4-4f9f-83f4-a23a1ff4af15
+body: |2-
+  git checkout master
+  git fetch upstream
+  git merge upstream/master
+    or
+      git merge remotes/upstream/master # PITFALL: Not sure
+        # why sometimes I need the `remote/` prefix.
+    or
+      git merge remotes/upstream/main
+    or something like that

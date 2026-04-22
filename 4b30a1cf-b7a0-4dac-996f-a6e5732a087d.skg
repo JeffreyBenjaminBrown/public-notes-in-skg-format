@@ -1,0 +1,9 @@
+title: 'PITFALL: if a parameter isn''t defined'
+pid: 4b30a1cf-b7a0-4dac-996f-a6e5732a087d
+body: |2-
+    it can be defined ad-hoc like this:
+  #+BEGIN_SRC haskell
+  -- define some parameters supervibe needs
+  modamp = pF "modamp"
+  modfreq = pF "modfreq"
+  #+END_SRC

@@ -1,0 +1,4 @@
+title: on stdenv.lib
+pid: 84f0b209-a06f-4b03-a2ff-611737dd9fd4
+body: |2-
+  "stdenv.lib has been deprecated and will break eval in 21.11. Please use pkgs.lib instead. See #108938 for details."

@@ -1,0 +1,5 @@
+title: '{call,From}'
+pid: 76bacca6-f189-4fd4-956b-aff77d8a382e
+body: |2-
+  come from gen_statem:call(ServerRef, Request).
+  Request becomes the event content.

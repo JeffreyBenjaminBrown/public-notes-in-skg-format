@@ -1,0 +1,4 @@
+title: on testing terms of unlike type for equality
+pid: 5a54b74e-31ed-4e29-a1c6-d3c7c8dbffc4
+body: |2-
+  Is such an extremely polymoprhic (==) : a -> b -> Bool  useful? If the type checker can typecheck an instance of (==), then it can figure out that the call will always fail whenever a /= b. Wouldn't you want it to tell you that at compile time (which it would do by failing to typecheck, if the signature were instead a -> a -> Bool).

@@ -1,0 +1,6 @@
+title: If I run them in the Dockerfile it doesn't build.
+pid: 11cb397a-a8b1-438e-97ad-86dbed6a4234
+body: |2-
+  I get this error:
+    groupadd: Permission denied.
+    groupadd: cannot lock /etc/group; try again later.

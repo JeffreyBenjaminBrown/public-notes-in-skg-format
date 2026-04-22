@@ -1,0 +1,7 @@
+title: 'In the Nix repl:'
+pid: 69fe53c6-2f26-47b5-a1cc-0fb694e71c59
+body: |2-
+  nix-repl> d = derivation { name = "x"; builder = "y"; system = builtins.currentSystem; }
+
+  nix-repl> d
+  «derivation /nix/store/7r40h4gj6rsaw6xnsq7vj128dpiawa94-x.drv»

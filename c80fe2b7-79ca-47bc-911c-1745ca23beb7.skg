@@ -1,0 +1,8 @@
+title: change temp/humidity slowly
+pid: c80fe2b7-79ca-47bc-911c-1745ca23beb7
+body: |2-
+  After taking it to a new environment,
+  leave it in the case, unlatched,
+  and give it hours to adjust to a new environment.
+misc:
+- Had_ID_Before_Import

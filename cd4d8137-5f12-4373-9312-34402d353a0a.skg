@@ -1,0 +1,4 @@
+title: Then delete its underlying snapshot.
+pid: cd4d8137-5f12-4373-9312-34402d353a0a
+body: |2-
+  From the EC2 console, find it under snapshots.

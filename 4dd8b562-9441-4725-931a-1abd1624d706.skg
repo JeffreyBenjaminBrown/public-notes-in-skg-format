@@ -1,0 +1,7 @@
+title: valid response formats
+pid: 4dd8b562-9441-4725-931a-1abd1624d706
+body: |2-
+  {noreply,NewState}
+  {noreply,NewState,Timeout}
+  {noreply,NewState,hibernate}
+  {stop,Reason,NewState}

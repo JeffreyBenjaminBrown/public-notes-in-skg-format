@@ -1,0 +1,6 @@
+title: I can run these as root, but they make no difference.
+pid: 43b3022c-2451-4f1b-b950-4cd055e69b35
+body: |2-
+  addgroup wheel
+  usermod -a -G wheel appuser
+  usermod -a -G sudo appuser

@@ -1,0 +1,5 @@
+title: Only common dependencies survive disjunction
+pid: ad06bc31-16db-44e0-a54d-e2cc4c95e085
+body: |2-
+  When taking the disjunction of two queries, retain any variable dependencies that are defined for every member of the disjunction.
+  So, for instance, if one query is dependent on nothing, then no variable dependencies will be recorded.

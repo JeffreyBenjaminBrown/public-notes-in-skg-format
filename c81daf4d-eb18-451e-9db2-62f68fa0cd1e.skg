@@ -1,0 +1,13 @@
+title: how
+pid: c81daf4d-eb18-451e-9db2-62f68fa0cd1e
+body: |2-
+  # PITFALL: The `prune` step is necessary.
+  # See its comment for why.
+
+  remote=origin               # or something
+  branch=tricky-feature       # or something
+  git push $remote -d $branch # deletes $branch on the remote
+  git branch       -d $branch
+  git remote prune $remote    # drops $branch from local record of remote
+contains:
+- c43f95a8-c6f1-446c-84e2-285baad1c0ff

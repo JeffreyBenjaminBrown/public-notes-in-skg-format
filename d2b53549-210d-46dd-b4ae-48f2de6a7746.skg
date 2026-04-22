@@ -1,0 +1,8 @@
+title: as math
+pid: d2b53549-210d-46dd-b4ae-48f2de6a7746
+body: |2-
+  ratio = 2**(note/edo)
+  <=> log ratio / log 2 = note/edo
+  <=> note = edo * (log ratio / log 2)
+
+  freq = k/length, for some k that depends on physics

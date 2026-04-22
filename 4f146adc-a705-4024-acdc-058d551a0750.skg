@@ -1,0 +1,5 @@
+title: edit cargo.toml
+pid: 4f146adc-a705-4024-acdc-058d551a0750
+body: |2-
+  [dependencies]
+  tantivy = "0.22"

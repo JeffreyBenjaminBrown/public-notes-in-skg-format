@@ -1,0 +1,4 @@
+title: k — persp-remove-buffer
+pid: 7a7678e2-b61a-4238-9c92-d176f8296f74
+body: |2-
+  Query a buffer to remove from current perspective

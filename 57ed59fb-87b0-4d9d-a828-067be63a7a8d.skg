@@ -1,0 +1,6 @@
+title: simplest demo
+pid: 57ed59fb-87b0-4d9d-a828-067be63a7a8d
+body: |2-
+  #+BEGIN_SRC haskell
+  d1 $ fast 2 $ sound "bev" # cut 1
+  #+end_src

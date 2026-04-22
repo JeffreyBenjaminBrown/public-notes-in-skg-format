@@ -1,0 +1,11 @@
+title: TODO ? find all 8-string-ish thanos tunings for an edo
+pid: 4d81b0ae-e9b2-4672-b125-fd0a3f906c03
+body: |2-
+  (That is, strings 0 through 7.)
+
+  Let s' = edo / 7 -- s' as in close to the spacing
+  Let s = a few integers on either side of s'.
+  Let o' = (s * 7). -- o' as in close to the octave
+  Compute m = edo - o'.
+  If m and s are relatively prime,
+    show at the thanos tuning for edo, modulus = m, spacing = s.

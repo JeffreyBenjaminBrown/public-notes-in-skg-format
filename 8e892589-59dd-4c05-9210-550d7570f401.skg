@@ -1,0 +1,4 @@
+title: 'Success: Make a type with _ and - in the name.'
+pid: 8e892589-59dd-4c05-9210-550d7570f401
+body: |2-
+  => I can use _s to indicate holes in a relation.

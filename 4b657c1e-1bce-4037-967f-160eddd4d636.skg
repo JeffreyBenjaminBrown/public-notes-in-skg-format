@@ -1,0 +1,5 @@
+title: '`init/1`'
+pid: 4b657c1e-1bce-4037-967f-160eddd4d636
+body: |2-
+  `gen_server:start_link` calls this.
+  It should return `{ok,State}` if it succeeds.

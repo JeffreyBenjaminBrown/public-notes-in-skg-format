@@ -1,0 +1,4 @@
+title: 'An example of pushing it down: device drivers.'
+pid: ff0f9625-108c-4f51-91c3-7495e337b772
+body: |2-
+  A filesystem must allow reads and writes. Their implementation depends on the details of the device being accessed. Those details can be pushed down into device-specific drivers, all of which provide the same (simple) interface for reads and writes.

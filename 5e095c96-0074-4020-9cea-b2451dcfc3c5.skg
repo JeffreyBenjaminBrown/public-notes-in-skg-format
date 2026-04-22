@@ -1,0 +1,9 @@
+title: 'find: exclude a type of file'
+pid: 5e095c96-0074-4020-9cea-b2451dcfc3c5
+body: |2-
+  use the ! symbol to negate the next option
+  for example, this:
+    find . -type d ! -name "__pycache__"
+  excludes anything called __pycache__
+contains:
+- c2e6a5f4-85c1-4402-bd06-3dd1058aca60

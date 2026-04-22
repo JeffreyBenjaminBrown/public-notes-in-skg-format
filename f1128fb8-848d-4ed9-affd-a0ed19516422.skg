@@ -1,0 +1,8 @@
+title: 'Sidenote: Shyg does not need scale in order to be useful.'
+pid: f1128fb8-848d-4ed9-affd-a0ed19516422
+body: |2-
+  Shyg does not need to be widely used, let alone to displace any of the above wildly-popular services, before it can be useful. Even a single user would benefit from being able to query a hypergraph index of their own data, if they want to make complex queries. A small team would derive greater benefit yet -- colleagues coworking, shareholders arguing, poets collaborating, or friends sharing ideas. Like many knowledge-curating applications, the value of Shyg will scale disproportionately with its user base, but it does not require network effects to be valuable.
+
+  In particular, Shyg does not require an enormous amount of content, along the lines of Facebook or X, in order to be useful. In fact Shyg will not host "content" per se at all, just an index of content. The index will refer to content hosted elsewhere. Thus rather than competing with them, Shyg will in fact benefit from the scale of already-established content hosts. (And, at least to the extent that Shyg makes their content more legible and discoverable, those hosts should benefit, too.)
+misc:
+- Had_ID_Before_Import

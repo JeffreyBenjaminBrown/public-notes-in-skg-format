@@ -1,0 +1,10 @@
+title: functions are Ixed
+pid: 0545c4d8-d046-4ee3-b1ba-5ef5dc1de534
+body: |2-
+  PITFALL: Possibly bad practice, but neat.
+  It overwrites the output associated with a given input.
+    >>> let specialReverse = reverse & ix "password" .~ "You found the secret!"
+    >>> specialReverse "art"
+    "tra"
+    >>> specialReverse "password"
+    "You found the secret!"

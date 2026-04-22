@@ -1,0 +1,7 @@
+title: A node can 'hide from subscriptions' something it contains.
+pid: 95ac9e93-083e-4f55-a065-434e887b9071
+body: |2-
+  'contains' should imply 'hides from subscriptions'.
+  (That is, the server should not display
+  in one of a node's subscriptions
+  something already shown in the node's content.)

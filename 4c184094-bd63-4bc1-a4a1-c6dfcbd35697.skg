@@ -1,0 +1,7 @@
+title: TODO "decay" near 0 is little effect, near 1 is very staccato
+pid: 4c184094-bd63-4bc1-a4a1-c6dfcbd35697
+body: |2-
+  Useful range [0,1].
+  Above 1 it seems to reflect -- 1.1 = 0.9, etc.
+misc:
+- Had_ID_Before_Import

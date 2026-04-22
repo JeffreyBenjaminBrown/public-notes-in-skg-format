@@ -1,0 +1,7 @@
+title: graphite, Graphalyze look good
+pid: 9ccda014-bfcb-4879-81b1-179d3795dc04
+body: |2-
+  *graphite* uses hash maps
+  *Data.Core.Graph* "is fast, efficient", uses IntMap
+  Data.Graph.Comfort uses Data.Map, but it's a one-page library
+  digraph - hashmaps, three modules

@@ -1,0 +1,4 @@
+title: If the keyboard shows up in the QJackCtl signal graph, it can be connected that way. Otherwise, connecting it requires `aconnect`.
+pid: b36f69f8-8830-45e5-a95e-7f7c2fb5f44a
+misc:
+- Had_ID_Before_Import

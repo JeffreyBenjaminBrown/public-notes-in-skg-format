@@ -1,0 +1,5 @@
+title: Add gleam_otp to the `deps` section of a project's rebar.config file.
+pid: a04740a1-a956-4201-bd63-b990a948e60e
+contains:
+- ad9ab44f-88f7-4b75-9104-f0cd0ebabc04
+- 0d8256fa-1371-4710-ab84-1bae489fe896

@@ -1,0 +1,13 @@
+title: 'some example code:'
+pid: b5c97b85-9e2b-4f24-b691-b8303b2e3d91
+body: |2-
+  import filelock
+
+  f_path = "myfile"
+  f_lock = filelock . FileLock ( f_path + ".lock" )
+
+  with f_lock:
+    with open( f_path, "a" ) as f:
+      f . write( "writing from window 1\n" )
+
+  # Note that `with lock` could be written more verbosely using `lock.acquire`, `lock.release`, `try` and `finally`.

@@ -1,0 +1,4 @@
+title: wrap lines at word boundaries
+pid: 02618eab-3681-4e04-9171-c34f300da81c
+body: |2-
+  M-x visual-line-mode

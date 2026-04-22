@@ -1,0 +1,6 @@
+title: some files
+pid: a98b379c-b096-47d3-ae77-5135565ed76a
+body: |2-
+  (org-roam-db-query-to-buffer
+    [:select [file title hash atime mtime]
+     :from files :limit 5])

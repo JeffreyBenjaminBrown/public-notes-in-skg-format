@@ -1,0 +1,4 @@
+title: delete
+pid: 8e398ac3-7bd3-476d-86d3-bf3bc538fcc2
+body: |2-
+  DELETE FROM employees WHERE hire_date < '1990-01-01';

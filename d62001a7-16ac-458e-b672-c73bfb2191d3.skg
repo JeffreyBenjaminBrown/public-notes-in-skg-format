@@ -1,0 +1,5 @@
+title: 'matching :: Prism s t a b -> s -> Either t a'
+pid: d62001a7-16ac-458e-b672-c73bfb2191d3
+body: |2-
+  If a prism was built using `prism`, this is the second argument to that.
+  The equivalent you might expect, "embed", is called "review" (or (#)).

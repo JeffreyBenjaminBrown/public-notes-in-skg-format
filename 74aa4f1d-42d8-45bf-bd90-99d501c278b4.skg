@@ -1,0 +1,8 @@
+title: Analysis
+pid: 74aa4f1d-42d8-45bf-bd90-99d501c278b4
+body: |2-
+  Y, W and V all quantify across some set of Xs.
+  Y quantifies existentially across all the Xs.
+    It draws those X values from the result of the X query.
+  W and V quantify across only those Xs associated with the Y in question.
+    They both draw X values the results of the Y query, not the X query.

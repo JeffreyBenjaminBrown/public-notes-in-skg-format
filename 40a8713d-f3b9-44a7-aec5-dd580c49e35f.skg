@@ -1,0 +1,5 @@
+title: nix concerns
+pid: 40a8713d-f3b9-44a7-aec5-dd580c49e35f
+body: |2-
+  `systemctl cat jackd` once running jack.
+  Find out where qjackctl gets jack from.

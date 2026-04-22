@@ -1,0 +1,6 @@
+title: 'PITFALL: tuples are subtypes of lists'
+pid: 41da0cf5-cb57-4feb-a9a2-79e40f0ac6e3
+body: |2-
+  e.g. [T, T] is a subtype of T[]
+misc:
+- Had_ID_Before_Import

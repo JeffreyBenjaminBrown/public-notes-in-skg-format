@@ -1,0 +1,9 @@
+title: use Linux-, not Windows-style, line terminators
+pid: 214c56b0-03f1-4709-9bc9-2ec6f742fa16
+body: |2-
+  Avoid that by specifying the terminator explicitly:
+  w = csv.writer( csvfile, delimiter=',', quotechar = '\"',
+                  lineterminator="\n",
+                  quoting = csv.QUOTE_MINIMAL)
+misc:
+- Had_ID_Before_Import

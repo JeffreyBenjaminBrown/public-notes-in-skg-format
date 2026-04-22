@@ -1,0 +1,6 @@
+title: from Museq, extract scale, and another Museq using scale degrees
+pid: 265f9e05-4ff5-4f01-bde8-ebdd8c209a6f
+body: |2-
+  That is, suppose the initial Museq is on frequencies.
+  The product of scaleMuseq_fromMuseq would be a map from Int to freq,
+  and a new Museq on those Int indices, rather than on frequencies.

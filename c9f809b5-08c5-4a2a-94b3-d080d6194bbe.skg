@@ -1,0 +1,6 @@
+title: 'From inside a Docker container, do this:'
+pid: c9f809b5-08c5-4a2a-94b3-d080d6194bbe
+body: |2-
+  python manage.py runserver 0.0.0.0:8000
+contains:
+- e0e0ded3-5c65-4a3e-89bf-3d1869bc1d44

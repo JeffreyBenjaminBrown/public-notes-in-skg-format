@@ -1,0 +1,5 @@
+title: FX might render as audio
+pid: 1b68788b-e232-4f7f-8926-fafe061964c8
+body: |2-
+  quote
+  Note 1: When MIDI items are glued, any item that includes take FX such as a VSTi synth is rendered as audio.

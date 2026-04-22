@@ -1,0 +1,6 @@
+title: 'latency: 13.750 ns'
+pid: b2cbae4a-3f3e-446c-b0ed-2469bf47e5b4
+body: |2-
+  $ sudo modprobe eeprom
+  $ decode-dimms
+  Minimum CAS Latency Time (tAA)                   13.750 ns

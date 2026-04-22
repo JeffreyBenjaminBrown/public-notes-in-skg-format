@@ -1,0 +1,6 @@
+title: new files
+pid: 250e3691-616a-45db-b1a4-8e6319678445
+body: |2-
+  If any heading was missing an ID, give it one.
+  Create it in the filetree.
+  Update its ID in the Vector<OrgBranch>.

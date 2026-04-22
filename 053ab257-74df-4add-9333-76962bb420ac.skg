@@ -1,0 +1,16 @@
+title: use std::sync::mpsc;
+pid: 053ab257-74df-4add-9333-76962bb420ac
+body: |2-
+  use std::thread;
+
+  fn main() {
+      let (tx, rx) = mpsc::channel();
+
+      thread::spawn(move || {
+          let val = String::from("hi");
+          tx.send(val).unwrap();
+      });
+
+      let received = rx.recv().unwrap();
+      println!("Got: {received}");
+  }

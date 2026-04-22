@@ -1,0 +1,14 @@
+title: TODO 94 9 16
+pid: b7b461f5-3a9f-4c12-83d0-bb8010c72825
+body: |2-
+  [ 94 steps = 2 % 1 : string 7 fret - 2
+  , 55 steps = 3 % 2 : string 4 fret - 1
+  , 30 steps = 5 % 4 : string 3 fret - 2
+  , 76 steps = 7 % 4 : string 7 fret - 4
+  , 43 steps = 11 % 8 : string 1 fret 3
+  , 66 steps = 13 % 8 : string 3 fret 2
+  , 8 steps = 17 % 16 : string - 13 fret 24
+  , 23 steps = 19 % 16 : string 2 fret - 1
+  , 49 steps = 23 % 16 : string - 2 fret 9
+  , 81 steps = 29 % 16 : string 0 fret 9
+  , 90 steps = 31 % 16 : string 0 fret 10

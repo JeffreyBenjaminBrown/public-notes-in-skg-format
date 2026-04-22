@@ -1,0 +1,10 @@
+title: If dependencies are missing from a project
+pid: 7e0316a7-7271-4068-aa29-49bc5dab4c9a
+body: |2-
+  then I may need to provide a
+  `shell.nix` file (at the project root),
+  and then run `nix-shell` (from the project root)
+  before compiling or opening a REPL.
+contains:
+- a5b155c1-d057-4510-92ef-125ad2ee4fd2
+- 82b04f18-c5a0-432d-ac36-25c237a28488

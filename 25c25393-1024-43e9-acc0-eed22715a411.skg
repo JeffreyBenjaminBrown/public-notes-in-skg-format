@@ -1,0 +1,9 @@
+title: moving notes
+pid: 25c25393-1024-43e9-acc0-eed22715a411
+body: |2-
+  PITFALL: These might only work with numpad arrows, not normal ones?
+  Or else the manual is wrong.
+  M-up   : Move selected note(s) up   one octave.
+  M-down : Move selected note(s) down one octave.
+  C-up   : Move selected note(s) up   one semitone.
+  C-down : Move selected note(s) down one semitone.

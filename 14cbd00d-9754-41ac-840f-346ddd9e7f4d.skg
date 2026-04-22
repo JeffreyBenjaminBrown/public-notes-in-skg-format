@@ -1,0 +1,8 @@
+title: how to generate that data from a track
+pid: 14cbd00d-9754-41ac-840f-346ddd9e7f4d
+body: |2-
+  Use the track of roots.
+  Translate each note to mod 12.
+  Find where those notes lie in the 12 rows.
+  Subtract the root from each of them, and then take mod 12 again, before writing it in that row.
+  In the offset put all 0s.

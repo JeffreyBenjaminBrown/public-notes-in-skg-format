@@ -1,0 +1,7 @@
+title: EC2 =
+pid: 5acb0ef4-8d04-41fb-a156-f4057a4e7e39
+body: |2-
+  EC2 is the raw virtual machine system for AWS.
+  One can use it alone,
+  or via one of the higher-level systems it underpins,
+  like Lightsail.

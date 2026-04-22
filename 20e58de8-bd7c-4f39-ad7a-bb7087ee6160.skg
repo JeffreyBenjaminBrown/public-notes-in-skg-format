@@ -1,0 +1,18 @@
+title: experiments
+pid: 20e58de8-bd7c-4f39-ad7a-bb7087ee6160
+body: |2-
+  #+BEGIN_SRC haskell
+  setcps 0.4
+
+  d1 $ s "supersaw" |*| n "-36 -24 -12 0 12 24 36"
+
+  -- My hearing is confused! That 36 sounds flat on its own.
+  d1 $ s "supersaw" |*| n "[0,24,36]"
+
+  d1 $ s "supersaw" |*| n "-36 -24 -12 0 12 24 36"
+    |*| voice (-12)
+
+  d1 $ s "supersaw" |*| n "-36 -24 -12 0 12 24 36"
+    |*| rate 32 |*| lfo 32 |*| resonance 0.9 -- farty
+    |*| semitone (15.86)
+  #+END_SRC

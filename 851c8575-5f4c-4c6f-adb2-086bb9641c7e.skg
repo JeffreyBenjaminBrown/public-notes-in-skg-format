@@ -1,0 +1,5 @@
+title: 'one way : delete H from the local overriding subscriber'
+pid: 851c8575-5f4c-4c6f-adb2-086bb9641c7e
+body: |2-
+  If L and F both contain H,
+  then deleting H from L creates an 'L hides H' relationship.

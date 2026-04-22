@@ -1,0 +1,7 @@
+title: matches are deduplicated
+pid: fa68423d-5390-42b3-a916-84a499bcec19
+body: |2-
+  If you ask for every name owned by any person,
+  the same name will not appear twice, even if two people have it.
+  If instead you ask for the person and their name,
+  then the name will appear for each such person.

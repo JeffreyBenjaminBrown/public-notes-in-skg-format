@@ -1,0 +1,28 @@
+title: I've tried the first (jack = ) or both (jack =  and pipewire =) of these passages.
+pid: e652e050-95ab-45eb-8c5e-b59273c7391f
+body: |2-
+  extraConfig = {
+    jack = {
+      "10-clock-rate" = {
+        "jack.properties" = {
+          "node.latency" = "64/48000";
+          "node.rate" = "1/48000";
+          "node.lock-quantum" = true;
+        };
+      };
+    };
+
+    pipewire = {
+      "10-clock-rate" = {
+        "context.properties" = {
+          "default.clock.rate" = 48000;
+          "default.clock.allowed-rates" = [
+            44100
+            48000
+          ];
+
+          "default.clock.quantum" = 256;
+          "default.clock.min-quantum" = 16;
+          "default.clock.max-quantum" = 8192;
+        };
+      };

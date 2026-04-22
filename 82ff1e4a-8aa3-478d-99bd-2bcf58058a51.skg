@@ -1,0 +1,2 @@
+title: 'uncurried :: Iso'' (a -> b -> c)  ((a, b) -> c)'
+pid: 82ff1e4a-8aa3-478d-99bd-2bcf58058a51

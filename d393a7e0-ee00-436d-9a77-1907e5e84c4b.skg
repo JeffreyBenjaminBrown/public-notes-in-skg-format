@@ -1,0 +1,22 @@
+title: TODO 17\90 x 5\90
+pid: d393a7e0-ee00-436d-9a77-1907e5e84c4b
+body: |2-
+  The major difficulty here is that 3:2 is extremely far from 4:3.
+  [ 0 steps; 1 % 1 ; string 0 ; fret 0
+  , 90 steps; 2 % 1 ; string 5 ; fret 1
+  , 53 steps; 3 % 2 ; string 4 ; fret - 3
+  , 29 steps; 5 % 4 ; string 2 ; fret - 1
+  , 73 steps; 7 % 4 ; string 4 ; fret 1
+  , 15 steps; 9 % 8 ; string 0 ; fret 3 -- NOTE: inconsistent.
+    -- This is easier than the sum of two 3:2 intervals.
+  , 41 steps; 11 % 8 ; string 3 ; fret - 2 -- halfway from 5:4 to 3:2
+  , 63 steps; 13 % 8 ; string 4 ; fret - 1
+  , 82 steps; 15 % 8 ; string 6 ; fret - 4
+  , 8 steps; 17 % 16 ; string - 1 ; fret 5
+  , 22 steps; 19 % 16 ; string 1 ; fret 1
+  , 35 steps; 21 % 16 ; string 0 ; fret 7
+  , 47 steps; 23 % 16 ; string 1 ; fret 6
+  , 58 steps; 25 % 16 ; string 4 ; fret - 2
+  , 68 steps; 27 % 16 ; string 4 ; fret 0
+  , 77 steps; 29 % 16 ; string 6 ; fret - 5
+  , 86 steps; 31 % 16 ; string 3 ; fret 7

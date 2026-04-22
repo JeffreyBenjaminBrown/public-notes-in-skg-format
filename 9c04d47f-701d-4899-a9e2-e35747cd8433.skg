@@ -1,0 +1,11 @@
+title: the idea
+pid: 9c04d47f-701d-4899-a9e2-e35747cd8433
+body: |2-
+  When Django receives a request for URL,
+  it crawls
+    <project-root>/<site-name>//urls.py
+  and then (probably)
+    <some app folder>/urls.py
+  to figure out what to do.
+contains:
+- a5bf4469-401f-4bcc-b123-6b05b428b5f4

@@ -1,0 +1,7 @@
+title: run `make:all([load])` from the repl
+pid: e8298fc5-84b1-46c8-9d78-32d30e6b9b8a
+body: |2-
+  will look for a file named 'Emakefile' in the current directory,
+  recompile it (if it changed) and load the new files.
+misc:
+- Had_ID_Before_Import

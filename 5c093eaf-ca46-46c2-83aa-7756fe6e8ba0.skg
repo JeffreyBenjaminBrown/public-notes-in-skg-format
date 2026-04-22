@@ -1,0 +1,5 @@
+title: bubble up from the bottom until indifferent
+pid: 5c093eaf-ca46-46c2-83aa-7756fe6e8ba0
+body: |2-
+  Add a new idea to the bottom of the list, then raise it,
+  until it's not obviously better than the thing above it.

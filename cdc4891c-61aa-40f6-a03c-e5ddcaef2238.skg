@@ -1,0 +1,6 @@
+title: stops execution in the host process
+pid: cdc4891c-61aa-40f6-a03c-e5ddcaef2238
+body: |2-
+  = "failure" | "termination" | "exit"
+contains:
+- 6671e98f-7ff1-4793-9c9f-378b6c4d1829

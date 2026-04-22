@@ -1,0 +1,6 @@
+title: the last four, BUT
+pid: 4c7f0880-cb81-47ec-afb0-59c14358078c
+body: |2-
+  I think three of those four could be written more simply,
+  as (p and q implies r) is equivalent to (P implies ( q implies r) ).
+  (The law of syllogism would stand apart from the other three in that sense.)

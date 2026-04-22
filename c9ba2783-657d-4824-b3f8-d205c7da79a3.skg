@@ -1,0 +1,6 @@
+title: '"Push complexity downward" if possible.'
+pid: c9ba2783-657d-4824-b3f8-d205c7da79a3
+body: |2-
+  "It is more important for a module to have a simple interface than a simple implementation."
+contains:
+- 12562c40-4a51-4c4a-98e6-f9f5a1bcb3cf

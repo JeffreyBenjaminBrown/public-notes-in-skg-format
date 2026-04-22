@@ -1,0 +1,7 @@
+title: install Emacs
+pid: de596fc0-120e-4f4f-ab89-efeb771c53a8
+body: |2-
+  alternatives
+contains:
+- ec0cd3fe-6bd0-4f71-b662-df7c12529a24
+- aeec434e-25b9-4a29-a94c-aabea5ddd514

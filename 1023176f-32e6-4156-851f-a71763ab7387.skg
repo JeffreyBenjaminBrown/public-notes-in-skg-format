@@ -1,0 +1,4 @@
+title: .open closes the current db and attaches a new one.
+pid: 1023176f-32e6-4156-851f-a71763ab7387
+body: |2-
+  Remember, [[id:15ef55e0-7152-4d5c-9b92-28c3d3720222][a database contains, in general, multiple tables.]]

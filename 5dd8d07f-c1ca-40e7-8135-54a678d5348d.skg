@@ -1,0 +1,10 @@
+title: scratch work
+pid: 5dd8d07f-c1ca-40e7-8135-54a678d5348d
+body: |2-
+  (org-roam-db-query (sql-vector-to-get-parents)
+    ;; a file
+    "66a0b19d-a524-4ad0-b920-65fc701f78c4")
+  (org-roam-db-query (sql-vector-to-get-parents)
+    ;; child of an interior node
+    "e16a716d-7359-4c7b-b04e-026e73f8d54d")
+  (get-parents-as-sql "66a0b19d-a524-4ad0-b920-65fc701f78c4")

@@ -1,0 +1,9 @@
+title: helpers
+pid: 3b35f90f-4473-453f-a760-e25f02c72916
+body: |2-
+  -- polymorphic:
+    prism  :: (b -> t) -> (s -> Either t a) -> Prism s t a b
+  -- not so:
+    prism' :: (b -> s) -> (s -> Maybe  a)   -> Prism s s a b
+  The first argument embeds; the second matches.
+  The match must return a t (which could be distinct from s) if it finds no matching focus.

@@ -1,0 +1,7 @@
+title: helm-swoop
+pid: 131cf68b-67fe-4dd1-acb9-80c0775651ae
+body: |2-
+  Split-pane text search.
+  Turns out I don't look at the pane of search results.
+contains:
+- 9f0abd7f-e548-4938-b87e-22bb02992e68

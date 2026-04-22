@@ -1,0 +1,4 @@
+title: session timeout
+pid: b171b55a-bc8a-42e4-9d2c-a80b0d46de06
+body: |2-
+  Servers that don't hear from the client for long enough (the timeout period, I think they called it) close automatically. Clients automatically, periodically ping the server in the background.

@@ -1,0 +1,7 @@
+title: '(buggy) : "show only channel" X = Shift + (X:int)'
+pid: e5f4458d-868c-4848-b838-1a40a476ce22
+body: |2-
+  By default only defined for ten of the 16 channels.
+  There's also "show all channels", which is the (~) character (i.e. S-`).
+contains:
+- 7b17d85e-5011-4df8-85aa-26df76f7d28b

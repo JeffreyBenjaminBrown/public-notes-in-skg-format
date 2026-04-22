@@ -1,0 +1,6 @@
+title: make its content a child of things, at different depths
+pid: 0981631f-2d32-4922-813a-88d663824da7
+body: |2-
+  - a node called 'maybe' contained in 'peace'
+  - work                              // depth 1
+  - consciousness                     // depth 1

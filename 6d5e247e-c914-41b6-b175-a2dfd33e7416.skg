@@ -1,0 +1,9 @@
+title: Some of the docs recommend including this
+pid: 6d5e247e-c914-41b6-b175-a2dfd33e7416
+body: |2-
+  in /etc/apache2/envvars:
+
+       # jbb-added, to ensure Unicode compatibility, per docs here:
+       #   https://docs.djangoproject.com/en/3.1/howto/deployment/wsgi/modwsgi/
+       export LANG='en_US.UTF-8'
+       export LC_ALL='en_US.UTF-8'

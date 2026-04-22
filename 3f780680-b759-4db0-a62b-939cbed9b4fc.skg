@@ -1,0 +1,14 @@
+title: Assembly Problem (bioinformatics)
+pid: 3f780680-b759-4db0-a62b-939cbed9b4fc
+body: |2-
+  = the problem of assembling a genome without a reference genome.
+contains:
+- 5107905c-2e8e-4b67-a52d-683525f377d1
+- 684cf71e-a598-424c-bd9c-fddc7dd66a96
+- f5fcb6e4-b972-4887-b7d5-1fff7bdb8d55
+- f962f16b-24d5-4843-963a-00238efd35bd
+- 8b6f5279-3b95-4b59-9ca4-153e2e51ce85
+- 4a913d61-4e46-40d0-88c6-f54840d439dd
+- dfb6538f-ec7b-4c29-b42f-5714d60f61b1
+misc:
+- Had_ID_Before_Import

@@ -1,0 +1,5 @@
+title: just building the binary
+pid: 5cd616f8-4e61-4948-a80a-9b4ca45a0e68
+body: |2-
+  Had to chmod +777 the downlaoded executable,
+  and run nix-build on the default.nix package I made.

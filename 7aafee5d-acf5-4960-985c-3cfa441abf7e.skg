@@ -1,0 +1,5 @@
+title: 'PITFALL: names matter'
+pid: 7aafee5d-acf5-4960-985c-3cfa441abf7e
+body: |2-
+  Test files and test methods must start with "test".
+  Not so, though, the classes which the tests are methods of.

@@ -1,0 +1,4 @@
+title: If x is small too, then t' = t.
+pid: f07f6a09-aecb-443e-ac9d-93a0aa0f40f2
+body: |2-
+  t' = gamma (t - vx / c^2) = 1 * (t - 0)

@@ -1,0 +1,4 @@
+title: init/1
+pid: 1c00a355-9d40-4575-8519-3c935c33f11b
+body: |2-
+  takes a list of arguments and returns {ok, State}.

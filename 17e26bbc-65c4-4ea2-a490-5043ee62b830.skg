@@ -1,0 +1,7 @@
+title: Relative imports like ".." work.
+pid: 17e26bbc-65c4-4ea2-a490-5043ee62b830
+contains:
+- b16449ec-d137-4b52-8197-48b8c84c588e
+- a922314a-ab1c-4773-b3ed-dd78451156d8
+- 321cbfb0-cc1a-460f-b781-d2a5444d5079
+- 4b64f73f-2ca0-4ca8-8bdb-45e7e6602ce3

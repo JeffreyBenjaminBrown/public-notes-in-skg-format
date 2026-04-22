@@ -1,0 +1,7 @@
+title: 8 strings => range 1 fret less than 1700 cents
+pid: a9c7380d-694e-4d8d-b881-e4642f87d1c3
+body: |2-
+  MTV> (8-1) * 9 * 12 / 46
+    16.434782608695652
+  MTV> mod ((8-1) * 9) 46
+    17

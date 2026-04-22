@@ -1,0 +1,10 @@
+title: the Ixed class
+pid: fd0c96e4-2a2d-4273-8f9d-ecd6224cb6c6
+body: |2-
+  class Ixed m where
+    ix :: Index m -> Traversal' m (IxValue m)
+contains:
+- 6f8ea7a9-a1e7-47ba-bfed-fe0bd8d30569
+- 857c167a-84e7-43cd-bd99-817fd7c9d505
+- a20144df-81d7-45a8-b8a8-9f6af204f4fa
+- b0cc3583-f87f-413f-83a4-ab687aaf8ec1

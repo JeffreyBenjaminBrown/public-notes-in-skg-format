@@ -1,0 +1,5 @@
+title: A
+pid: 736a6ebf-93b2-4c4e-918e-fb9e13036a0b
+body: |2-
+  To modify, keep a map (table) from commit ids to repos,
+  and add a "latest commit" column to the nodes table.

@@ -1,0 +1,6 @@
+title: 'example: letting ''undefine'' be a noop if a definition is absent'
+pid: 79a112f0-049c-403a-9561-a096de0e685d
+body: |2-
+  This is also an instance of declarative > imperative:
+  Don't think of it as 'make this definition go away',
+  but instead 'ensure this definition does not exist'.

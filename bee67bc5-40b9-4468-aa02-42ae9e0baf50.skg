@@ -1,0 +1,4 @@
+title: using Shyg to improve AI
+pid: bee67bc5-40b9-4468-aa02-42ae9e0baf50
+body: |2-
+  There are already efforts to incorporate structured data into AI, in the form of graph databases. Two goals of these efforts are to make AI reasoning more transparent and to make AI responses more verifiable. Shyg is unique among databases in that, were it legible to an AI, that AI would have access to information of arbitrarily high order.

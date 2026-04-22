@@ -1,0 +1,5 @@
+title: what it does
+pid: 1fa69cf0-5dc9-490d-bb5f-b17d5a411a9d
+body: |2-
+  vertigo lets you jump to lines marked by the sidebar.
+  It uses relative line numbering.

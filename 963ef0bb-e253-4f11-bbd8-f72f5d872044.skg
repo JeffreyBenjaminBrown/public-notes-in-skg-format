@@ -1,0 +1,4 @@
+title: Find details of all disks, mounted and unmounted.
+pid: 963ef0bb-e253-4f11-bbd8-f72f5d872044
+body: |2-
+  sudo fdisk -l

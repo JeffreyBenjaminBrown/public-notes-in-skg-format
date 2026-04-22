@@ -1,0 +1,7 @@
+title: Two chords can look different but sound the same.
+pid: 70b3da85-46d0-4dc7-816e-059f2cef5e4f
+body: |2-
+  For instance, here are two major chords:
+  - {200 hz, 250 hz, 300 hz}
+  - {300 hz, 450 hz, 600 hz}
+  One is higher than the other, but apart from that they sound identical.

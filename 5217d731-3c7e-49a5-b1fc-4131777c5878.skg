@@ -1,0 +1,4 @@
+title: interpreting the theorem for music
+pid: 5217d731-3c7e-49a5-b1fc-4131777c5878
+body: |2-
+  In this application a "coloring" is an assignment of 1s and 0s to the 12 tones such that 3 of them are 1 and the rest are 0. An "orbit" is a set of colorings that can be mapped to each other by one of the symmetries. The symmetries can be labeled +0 (the identity), +1, +2 ... +11.

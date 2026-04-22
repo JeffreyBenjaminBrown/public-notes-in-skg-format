@@ -1,0 +1,4 @@
+title: 'TODO new in GHC 8.10: :instances'
+pid: 2074fcc8-2036-4075-b46b-f8a7302e55d3
+body: |2-
+  Given a type, shows its classes.

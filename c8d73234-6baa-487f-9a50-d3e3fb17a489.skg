@@ -1,0 +1,5 @@
+title: 'easier: subclass any of Django''s *View classes'
+pid: c8d73234-6baa-487f-9a50-d3e3fb17a489
+body: |2-
+  (Described in a later section of the tutorial.)
+  Example: see the `index()` function for my "polls" app

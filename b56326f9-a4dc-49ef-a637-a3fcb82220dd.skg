@@ -1,0 +1,6 @@
+title: 'FAILED : Use pip to install NumPy for Python 3.7 too'
+pid: b56326f9-a4dc-49ef-a637-a3fcb82220dd
+body: |2-
+  It's already installed! So is pandas.
+  I can load it if I run python3.7 from the shell.
+  But I can't use it from Django/Apache.

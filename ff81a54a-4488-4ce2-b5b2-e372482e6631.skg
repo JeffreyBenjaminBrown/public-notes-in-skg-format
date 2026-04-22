@@ -1,0 +1,8 @@
+title: 'PITFALL: my config outside of .nix files'
+pid: ff81a54a-4488-4ce2-b5b2-e372482e6631
+body: |2-
+  ~/.emacs
+  /etc/tmux.conf
+  ~/.stack/config.yaml
+misc:
+- Had_ID_Before_Import

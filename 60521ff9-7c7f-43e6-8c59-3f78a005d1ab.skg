@@ -1,0 +1,4 @@
+title: install Wine, and maybe other things
+pid: 60521ff9-7c7f-43e6-8c59-3f78a005d1ab
+body: |2-
+  e.g. winetricks

@@ -1,0 +1,24 @@
+title: an example trait definition and implementation
+pid: ea9c1172-b277-401a-b5a9-56eaba82c9f6
+body: |2-
+  #+begin_src rust
+  pub trait Summary {
+    fn summarize(&self) // uses & because we should call summarize from a *reference to* the implementing type
+                 -> String;
+    // there can be more method signatures here
+  }
+
+  pub struct NewsArticle {
+    pub headline: String,
+    pub location: String,
+    pub author: String,
+    pub content: String,
+  }
+
+  impl Summary for NewsArticle {
+    fn summarize(&self) -> String {
+      format!("{}, by {} ({})",
+              self.headline, self.author, self.location) } }
+  #+end_src
+misc:
+- Had_ID_Before_Import

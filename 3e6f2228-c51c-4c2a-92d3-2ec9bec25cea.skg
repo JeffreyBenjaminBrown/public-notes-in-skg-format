@@ -1,0 +1,7 @@
+title: to resize the focused pane
+pid: 3e6f2228-c51c-4c2a-92d3-2ec9bec25cea
+body: |2-
+  [tmux] resize-pane -[DULR] [n]
+  where
+    D = down, U = up, etc.
+    n = number of cells, optional

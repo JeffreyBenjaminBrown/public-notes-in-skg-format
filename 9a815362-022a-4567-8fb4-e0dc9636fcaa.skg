@@ -1,0 +1,6 @@
+title: goal
+pid: 9a815362-022a-4567-8fb4-e0dc9636fcaa
+body: |2-
+  The search might be "reflexive" (<=) or not (<).
+  Given two sets X and Y, we search left from X, right from Y,
+  for a set P = {(x,y) : x (<=|<) y}.

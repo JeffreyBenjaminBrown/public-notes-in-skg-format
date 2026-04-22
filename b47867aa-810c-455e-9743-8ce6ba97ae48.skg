@@ -1,0 +1,15 @@
+title: 68 4 13
+pid: b47867aa-810c-455e-9743-8ce6ba97ae48
+body: |2-
+  68 steps = 2 % 1   : string 4 fret 4
+  40 steps = 3 % 2   : string 4 fret -3
+  22 steps = 5 % 4   : string 2 fret -1
+  55 steps = 7 % 4   : string 3 fret 4
+  12 steps = 9 % 8   : string 0 fret 3
+  31 steps = 11 % 8  : string 3 fret -2
+  48 steps = 13 % 8  : string 4 fret -1
+   6 steps = 17 % 16 : string 1 fret -5 "string -2 fret 8"
+  17 steps = 19 % 16 : string 1 fret 1
+  36 steps = 23 % 16 : string 4 fret -4 "string 0 fret 9"
+  58 steps = 29 % 16 : string 6 fret -5 "string 2 fret 8"
+  65 steps = 31 % 16 : string 5 fret 0

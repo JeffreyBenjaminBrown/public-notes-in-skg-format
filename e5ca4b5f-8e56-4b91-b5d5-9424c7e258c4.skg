@@ -1,0 +1,7 @@
+title: will not compile
+pid: e5ca4b5f-8e56-4b91-b5d5-9424c7e258c4
+body: |2-
+  enum List {
+    Cons(i32, List),
+    Nil,
+  }

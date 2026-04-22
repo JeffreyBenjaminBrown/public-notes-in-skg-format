@@ -1,0 +1,5 @@
+title: 'hunch: It''s because I build serialoscd and sc3-plugins the wrong way.'
+pid: 06aa5b52-3d1d-4fd9-bab3-504cea52b586
+body: |2-
+  It might be that every time I build them,
+  I lock in place everything they depend on.

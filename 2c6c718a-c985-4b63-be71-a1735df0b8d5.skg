@@ -1,0 +1,5 @@
+title: DONE install these
+pid: 2c6c718a-c985-4b63-be71-a1735df0b8d5
+body: |2-
+  pdftk, gs, gimp
+  and maybe install imagemagick

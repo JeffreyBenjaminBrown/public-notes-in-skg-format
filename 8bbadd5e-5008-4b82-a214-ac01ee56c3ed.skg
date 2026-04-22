@@ -1,0 +1,8 @@
+title: grammar, mostly the same as for any type
+pid: 8bbadd5e-5008-4b82-a214-ac01ee56c3ed
+body: |2-
+      <label> sub (<relation type label>)
+  [(, abstract)]
+  [(, owns <attribute type label> [@annotation])...]
+  (, relates <role label>) [(, relates <role label>)...] # UNIQUE
+  [(, plays <relation type label>:<role>)...];

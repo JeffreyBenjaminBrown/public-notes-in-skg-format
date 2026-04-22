@@ -1,0 +1,11 @@
+title: S3 websites are viewable to the owner in the browser
+pid: 16288341-a754-404d-834e-0b07bcc9ec19
+body: |2-
+  However,
+  each bucket *is* associated with an internal "endpoint" like
+    http://www.jefbrown.net.s3-website-us-east-1.amazonaws.com
+  which is available at least to the owner of the account.
+  Such an internal endpoint can be used to test the content.
+  If it works,
+  Route 53 can then be used to make the content available to the rest of the world,
+  from a domain you registered (e.g. "jefbrown.net").

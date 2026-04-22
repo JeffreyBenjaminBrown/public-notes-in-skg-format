@@ -1,0 +1,6 @@
+title: a function can compute a type
+pid: 4098be51-d15b-4681-96a4-c7842987417e
+body: |2-
+  isSingleton : Bool -> Type
+  isSingleton True = Nat
+  isSingleton False = List Nat

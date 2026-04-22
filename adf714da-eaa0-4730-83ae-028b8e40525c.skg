@@ -1,0 +1,8 @@
+title: replace v. require
+pid: adf714da-eaa0-4730-83ae-028b8e40525c
+body: |2-
+  `replace` is used to redirect to local modules.
+  For "published" ones,
+  a `require` statement is written instead to `go.mod`.
+  An example is
+    require example.com/greetings v1.1.0

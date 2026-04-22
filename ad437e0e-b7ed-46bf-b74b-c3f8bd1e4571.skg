@@ -1,0 +1,5 @@
+title: Activate it at compile-time
+pid: ad437e0e-b7ed-46bf-b74b-c3f8bd1e4571
+body: |2-
+  -DSQLITE_DEFAULT_FOREIGN_KEYS=1
+  (that's a "compile-time option")

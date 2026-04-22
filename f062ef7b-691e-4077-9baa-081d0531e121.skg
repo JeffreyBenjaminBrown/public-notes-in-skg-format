@@ -1,0 +1,9 @@
+title: They are called naturally.
+pid: f062ef7b-691e-4077-9baa-081d0531e121
+body: |2-
+  -module(hof).
+
+  one() -> 1.
+  two() -> 2.
+
+  add(X,Y) -> X() + Y().

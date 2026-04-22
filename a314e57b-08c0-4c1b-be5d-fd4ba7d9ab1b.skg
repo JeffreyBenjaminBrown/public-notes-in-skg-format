@@ -1,0 +1,6 @@
+title: Attach a "Ref", not just a Pid, to any message that requires a reply.
+pid: a314e57b-08c0-4c1b-be5d-fd4ba7d9ab1b
+body: |2-
+  That way, if A sends to B and receives a reply,
+  and B's reply includes the same Ref,
+  then A knows what B is talking about.

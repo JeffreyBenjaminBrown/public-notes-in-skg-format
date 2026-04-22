@@ -1,0 +1,15 @@
+title: scripting
+pid: f1f993be-0665-4b72-b8f9-56dfc5da496d
+body: |2-
+     borg_hdd=/home/jeff/borg-sandbox/borg-repo-hdd
+     export BORG_PASSPHRASE=[[Write password here.]]
+
+     for archive in $(borg list --short "$borg_hdd"); do
+       echo "Recreating $archive..."
+       borg recreate "$borg_hdd"::"$archive"                \
+  --exclude-from /home/jeff/bin/exclude-for-borg.txt \
+  --stats --verbose || break
+  # `|| break` stops the process if something fails
+     done
+     borg compact "$borg_hdd"
+     export BORG_PASSPHRASE=""

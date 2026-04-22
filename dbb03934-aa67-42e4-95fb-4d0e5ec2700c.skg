@@ -1,0 +1,4 @@
+title: 'let: : binds all variables without reference to the others'
+pid: dbb03934-aa67-42e4-95fb-4d0e5ec2700c
+body: |2-
+  If one seems to refer to another, it actually refers to whatever value that other will end up shadowing in the "let body".

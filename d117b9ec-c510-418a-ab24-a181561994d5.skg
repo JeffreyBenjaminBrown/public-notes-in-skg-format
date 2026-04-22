@@ -1,0 +1,9 @@
+title: why
+pid: d117b9ec-c510-418a-ab24-a181561994d5
+body: |2-
+  Copying the folder itself to Google Drive,
+  rather than a zip,
+  means you have to tap lots of individual files,
+  because Google Drive seems not to respect
+  the uploaded folder hierarchy --
+  it just dumps a flat list of files into the cloud.

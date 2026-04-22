@@ -1,0 +1,4 @@
+title: '''Exception masking'' is good.'
+pid: a7a0f28a-83d6-4696-b573-2169a52cba25
+body: |2-
+  It is when a caller function handles an exception from its callee.

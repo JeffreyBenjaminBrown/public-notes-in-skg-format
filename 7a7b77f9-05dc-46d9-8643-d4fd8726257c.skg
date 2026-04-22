@@ -1,0 +1,12 @@
+title: 'PITFALL: Similarly, the * can be omitted from value receivers created from pointers.'
+pid: 7a7b77f9-05dc-46d9-8643-d4fd8726257c
+body: |2-
+  That is, if the following type signatures apply:
+    func f (Vertex)
+    func (Vertex) m
+    var v Vertex
+  then
+    f(&v)    // does not work
+    f(v)     // works
+    (&v).m() // works, due to shorthand
+    v.m()    // works

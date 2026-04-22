@@ -1,0 +1,4 @@
+title: a language problem
+pid: b9c5ea7b-01a0-489a-9275-a17953ef4e0f
+body: |2-
+  What you hand Google is not exactly a bag of words, but it's close. You give them some terms, and they try to find articles "close" to those terms, in some space they have mapped. Certain queries are hopeless -- for instance, "Show me statements made by [author 1] and [author 2, who tends to disagree with author 1] regarding [issue] that agree."

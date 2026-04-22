@@ -1,0 +1,46 @@
+title: the diff
+pid: 2e93ddc3-1034-4173-ae41-ddb0af7aefde
+body: |2-
+  jeff 2025-04-18 12:03:14 ~/hodal/skg$ git --no-pager diff
+  diff --git a/schema.tql b/schema.tql
+  index f4eb5ed..66b043d 100644
+  --- a/schema.tql
+  +++ b/schema.tql
+  @@ -7,10 +7,10 @@ define
+       owns id @key,
+       owns path @unique,
+       plays contains:container,
+  -    plays contains:contained,
+  +    plays contains:contained @card(1..1),
+       plays links_to:source,
+       plays links_to:dest,
+  -    plays comments_on:commenter,
+  +    plays comments_on:commenter @card(1..1),
+       plays comments_on:commentee,
+       plays subscribes:subscriber,
+       plays subscribes:subscribee,
+  @@ -21,20 +21,20 @@ define
+     entity extra_id,
+       # A typical node only has one id, its primary key. But when nodes are merged, `extra_id` is used to associate more than one id with the merge result. The naming is a little awkward, because an `extra_id` is not itself an `id`; rather, it has an `id` field.
+       owns id @key,
+  -    plays has_extra_id:extra_id;
+  +    plays has_extra_id:extra_id @card(0..1);
+
+     relation has_extra_id,
+       relates node,
+  -    relates extra_id @card(1..1);
+  +    relates extra_id;
+
+     relation contains,
+       relates container,
+  -    relates contained @card(1..1);
+  +    relates contained;
+     relation links_to,
+       relates source,
+       relates dest;
+     relation comments_on,
+  -    relates commenter @card(1..1),
+  +    relates commenter,
+       relates commentee;
+     relation subscribes,
+       relates subscriber,

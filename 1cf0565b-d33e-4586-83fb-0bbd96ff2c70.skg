@@ -1,0 +1,8 @@
+title: '14\68s x 1\68f: 7-lim'
+pid: 1cf0565b-d33e-4586-83fb-0bbd96ff2c70
+body: |2-
+  [ 0 steps; 1 % 1 ; string 0 ; fret 0
+  , 68 steps; 2 % 1 ; string 5 ; fret - 2
+  , 40 steps; 3 % 2 ; string 3 ; fret - 2
+  , 22 steps; 5 % 4 ; string 2 ; fret - 6
+  , 55 steps; 7 % 4 ; string 4 ; fret - 1

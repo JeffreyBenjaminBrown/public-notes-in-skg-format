@@ -1,0 +1,5 @@
+title: to start it
+pid: 1eaac26f-ed69-4597-ac2e-7b637532a0c9
+body: |2-
+  From Termux, run ./start-andronix.sh.
+  "Start Ubuntu XFCE Modded OS by running ./start-andronix.sh."

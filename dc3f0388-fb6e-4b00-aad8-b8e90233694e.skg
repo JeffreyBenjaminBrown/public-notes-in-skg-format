@@ -1,0 +1,7 @@
+title: '"polymorphic" (as opposed to "simple") optics'
+pid: dc3f0388-fb6e-4b00-aad8-b8e90233694e
+body: |2-
+  <s>: structure before action
+  <t>: structure after action
+  <a>: focus before action
+  <b>: focus after action

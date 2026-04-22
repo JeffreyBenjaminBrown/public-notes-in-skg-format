@@ -1,0 +1,6 @@
+title: 'traversals are a generalization of travverse:'
+pid: d67baad9-fc69-41f5-b969-62afc7edbc35
+body: |2-
+  traverse   :: (Traversable g, Applicative f) => (a -> f b) -> (g a -> f (g b))
+  aTraversal ::                (Applicative f) => (a -> f b) -> (s -> f t)
+  with s = g a and t = g b

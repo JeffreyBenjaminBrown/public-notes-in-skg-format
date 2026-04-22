@@ -1,0 +1,7 @@
+title: the syntax
+pid: fc71635a-371d-4179-b53a-4e112ef061f3
+body: |2-
+  In general, a comprehension takes the form [ exp | qual1, qual2, …, qualn ] where quali can be one of:
+    A generator x <- e
+    A guard, which is an expression of type Bool
+    A let binding let x = e

@@ -1,0 +1,9 @@
+title: varying voice (phase width) quickly in a single pitch
+pid: 29480c45-3d45-41bb-a91c-e152a893d6ca
+body: |2-
+  #+BEGIN_SRC haskell
+  d1 $ s "supersquare" |*| n "-24"
+    |*| voice (fast 16 $ "0.01 0.1 0.5 0.2")
+  #+END_SRC
+misc:
+- Had_ID_Before_Import

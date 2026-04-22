@@ -1,0 +1,6 @@
+title: used infix, can be conveniently chained
+pid: 2c471006-4198-453f-aac8-cdbc76bc817d
+body: |2-
+  >>> M.fromList [("Bieber" :: String, "Believe"), ("Beyoncé", "Lemonade")]
+      ^? (ix "Swift" `failing` ix "Bieber" `failing` ix "Beyoncé")
+  Just "Believe"

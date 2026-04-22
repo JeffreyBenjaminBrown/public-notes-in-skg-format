@@ -1,0 +1,6 @@
+title: Some of the parents in the graph will not be listed.
+pid: 60595427-005c-499f-bc77-40c6f02ccba2
+body: |2-
+  There could be a single "unlisted parents" category,
+  mixed in with the parents in the stored on-node list of parents.
+  This would let the user decide where unlisted parents appear in the list of parents. (Their order within that category would be undefined.)

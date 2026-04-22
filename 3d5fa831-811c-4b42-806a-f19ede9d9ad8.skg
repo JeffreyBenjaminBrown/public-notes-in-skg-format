@@ -1,0 +1,33 @@
+title: example
+pid: 3d5fa831-811c-4b42-806a-f19ede9d9ad8
+body: |2-
+  from __future__ import annotations
+  from dataclasses import dataclass
+
+  @dataclass
+  class Branch:
+      value: int
+      left: Tree
+      right: Tree
+
+  Tree = Branch | None
+
+  def contains(tree: Tree, value: int):
+      match tree:
+          case None:
+              return False
+          case Branch(x, left, right):
+              return x == value or contains(left, value) or contains(right, value)
+
+  tree = Branch( 1,
+                 Branch ( 2,
+                          None,
+                          None ),
+                 Branch ( 3,
+                          None,
+                          None ) )
+
+  assert contains(tree, 1)
+  assert contains(tree, 2)
+  assert contains(tree, 3)
+  assert not contains(tree, 4)

@@ -1,0 +1,32 @@
+title: Equal division of the octave can be used to approximate ratios.
+pid: c9988a7a-b6e5-49b9-9a19-0aaf8c0c7e75
+body: |2-
+  An "equal division of the octave" (EDO) system uses a fundamental 'step size',
+  which is a ratio of frequencies 2**(1/k) for some value of k.
+
+  The EDO everyone is used to is 12.
+  Dividing the octave into 12 steps gives a step size of 2**(1/12) = about 1.06.
+  If you multiply this value by itself 12 times, you get exactly 2.
+  That's why when you walk up 12 halfsteps from C, you get to another C.
+
+  (That musicians call one step of 12-edo a "halfstep" is really unfortunate.
+  I will not do that. In this guide,
+  D is two 12-edo steps above C, F is one 12-edo step above E, etc.
+  More generally, for any k-edo system, I use the term "step"
+  to refer to the octave divided by k. It will make things clearer.)
+
+  Any EDO system lets us think of the ratios as differences.
+  They all approximate the ratio 2:1 perfectly,
+  and other ratios, well, approximately.
+  (Approximate is the best we can hope for[1].)
+  For instance, in 12-edo, the ratio 2:1 is represented as 12 steps.
+  If you rise by 12 steps you have doubled the frequency.
+  If you rise by 7 steps you have *almost exactly* raised the frequency by 50%.
+  If you rise by 4 steps, the frequency has risen by 26%,
+  which is almost the 25% our ears want in a major chord.
+  (The difference is audible, and once you notice it, kind of sucks,
+  but still the high note is clearly in an approximate 5:4
+  relationship with the low one.)
+
+  One advantage of an EDO is it lets you play the same thing in any key.
+  Why that's important is out of scope here, but damn, it's important.

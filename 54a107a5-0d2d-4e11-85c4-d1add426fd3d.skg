@@ -1,0 +1,21 @@
+title: 'TODO 17\80 x 4\80: 29-lim -11 -17 -19'
+pid: 54a107a5-0d2d-4e11-85c4-d1add426fd3d
+body: |2-
+  Stick mostly to the negative frets.
+  [  0 steps; 1  % 1 ;  string 0 ;   fret 0
+  , 80 steps; 2  % 1 ;  string 4 ;   fret 3
+  , 47 steps; 3  % 2 ;  string 3 ;   fret - 1
+  , 26 steps; 5  % 4 ;  string 2 ;   fret - 2
+  , 65 steps; 7  % 4 ;  string 5 ;   fret - 5
+  , 14 steps; 9  % 8 ;  string 2 ;   fret - 5
+  # 37 steps; 11 % 8 ;  string 1 ;   fret 5
+  , 56 steps; 13 % 8 ;  string 4 ;   fret - 3
+  , 73 steps; 15 % 8 ;  string 5 ;   fret - 3
+  #  7 steps; 17 % 16 ; string - 1 ; fret 6
+  # 20 steps; 19 % 16 ; string 0 ;   fret 5
+  , 31 steps; 21 % 16 ; string 3 ;   fret - 5
+  , 42 steps; 23 % 16 ; string 2 ;   fret 2
+  , 52 steps; 25 % 16 ; string 4 ;   fret - 4
+  , 60 steps; 27 % 16 ; string 4 ;   fret - 2
+  , 69 steps; 29 % 16 ; string 5 ;   fret - 4
+  , 76 steps; 31 % 16 ; string 4 ;   fret 2

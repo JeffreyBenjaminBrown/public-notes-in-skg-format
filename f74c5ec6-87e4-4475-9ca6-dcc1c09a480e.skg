@@ -1,0 +1,8 @@
+title: PITFALL w/r/t mypy
+pid: f74c5ec6-87e4-4475-9ca6-dcc1c09a480e
+body: |2-
+  If mypy doesn't believe `typing` exports `GenericAlias`,
+  the word `GenericAlias` can be omtted from the above
+  (and its accompanying punctuation)
+  and it will typecheck in mypy and continue to function,
+  although from a less beautiful representation.

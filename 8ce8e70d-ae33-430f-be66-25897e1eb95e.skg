@@ -1,0 +1,4 @@
+title: TODO a version that zips (map RTime [0..]) to a list of payloads
+pid: 8ce8e70d-ae33-430f-be66-25897e1eb95e
+body: |2-
+  and computes the duration automatically (as the length of the list)

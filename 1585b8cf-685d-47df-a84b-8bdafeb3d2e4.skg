@@ -1,0 +1,13 @@
+title: Spacing strings by 19\87 gives a maximum reach of 1.9\12.
+pid: 1585b8cf-685d-47df-a84b-8bdafeb3d2e4
+body: |2-
+  It'll take a full 6 strings to span one octave,
+  but it'll sound great and play easy.
+  The max 7-limit stretch is 5 frets; 11-limit, 6 frets; 13-limit, 7 frets.
+
+  28\87 = 5 % 4  = 2 strings - 5 frets
+  40\87 = 11 % 8 = 2 strings + 1 frets
+  51\87 = 3 % 2  = 3 strings - 3 frets
+  61\87 = 13 % 8 = 3 strings + 2 frets
+  70\87 = 7 % 4  = 4 strings - 3 frets
+  87\87 = 2 % 1  = 5 strings - 4 frets

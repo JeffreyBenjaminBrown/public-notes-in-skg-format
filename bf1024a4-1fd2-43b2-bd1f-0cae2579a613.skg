@@ -1,0 +1,8 @@
+title: convert list to dict
+pid: bf1024a4-1fd2-43b2-bd1f-0cae2579a613
+body: |2-
+  Use a dictionary comprehension:
+
+  >>> l = [(1,2),(3,4)]
+  >>> { a:b for (a,b) in l }
+  {1: 2, 3: 4}

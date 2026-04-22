@@ -1,0 +1,5 @@
+title: could be replaced with Data.Validation
+pid: 2b6a1326-e110-4a2e-b216-9875fada9a11
+body: |2-
+  which comes with toEither and fromEither
+  https://www.reddit.com/r/haskellquestions/comments/d4f6px/class_should_apply_to_a_functor_only_when_its/

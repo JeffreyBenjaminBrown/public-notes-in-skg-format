@@ -1,0 +1,8 @@
+title: nested (2d) slices
+pid: 106e131a-5e01-42c3-a571-96a3482252c2
+body: |2-
+  board := [] [] string {
+              [] string {1, 1, 1},
+              [] string {1, 1, 1},
+              [] string {1, 1, 1},
+  }

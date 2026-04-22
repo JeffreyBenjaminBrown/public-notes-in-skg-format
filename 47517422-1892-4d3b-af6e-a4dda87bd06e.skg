@@ -1,0 +1,5 @@
+title: On Github
+pid: 47517422-1892-4d3b-af6e-a4dda87bd06e
+body: |2-
+  https://github.com/vaticle/typedb-driver/tree/development/python
+  PITFALL: That's a subfolder of their general "drivers" repo.

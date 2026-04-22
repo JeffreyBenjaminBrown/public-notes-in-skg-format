@@ -1,0 +1,8 @@
+title: Delete the garbage profiles.
+pid: 187babbc-36da-4bb5-89af-5a696f15a304
+body: |2-
+  # PITFALL: This doesn't delete all profiles, which is good.
+  # Among maybe a few others,
+  # it leaves this important one untouched:
+  #   /nix/var/nix/profiles/system-profiles/system
+  sudo rm /nix/var/nix/profiles/system-profiles/*

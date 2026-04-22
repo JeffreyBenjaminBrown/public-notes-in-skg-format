@@ -1,0 +1,6 @@
+title: the idea
+pid: 5e568396-706d-4937-a898-2ec7c5905f5e
+body: |2-
+  is that the match persists throughout the body of the function,
+  without needing extra wrapping braces.
+  In some cases this improves readability.

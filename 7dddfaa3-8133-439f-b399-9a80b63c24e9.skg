@@ -1,0 +1,4 @@
+title: to execute a script in a running Docker container
+pid: 7dddfaa3-8133-439f-b399-9a80b63c24e9
+body: |2-
+  use [[id:e0b24368-4470-412b-b8f4-f5767d93c76a][docker exec]]

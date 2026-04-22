@@ -1,0 +1,8 @@
+title: '"Distributed Programming": processes across many CPUs'
+pid: 4bb2a068-90f3-468a-8cff-cd1a2200b3a9
+body: |2-
+  https://erlang.org/doc/getting_started/conc_prog.html
+contains:
+- dcf09453-b55a-4a81-bcc3-a06c93862565
+- a945a82e-0625-4545-8c03-a88a41f6febd
+- c83edf6f-6b85-4c3f-a0ed-b78e792e4cc0

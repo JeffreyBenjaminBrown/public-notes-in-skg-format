@@ -1,0 +1,10 @@
+title: Lazy lists can refer to as-yet unbound variables.
+pid: c6c5ea7b-72e9-494d-b39f-0018ca652ffc
+body: |2-
+  abcd = (| d(a), d(b), d(c) |)  # a, b, c, and d are not defined yet
+  def d(n) = n + 1
+
+  a = 1
+  abcd$[0]
+  b = 2
+  abcd$[1]

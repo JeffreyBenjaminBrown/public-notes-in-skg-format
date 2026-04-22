@@ -1,0 +1,4 @@
+title: Multiplicities can be made explicit.
+pid: f5862c5b-fb51-4e46-babc-72d8b63806fb
+body: |2-
+  ignoreN : (0 n : Nat) -> Vect n a -> Nat - this function cannot look at n at run time

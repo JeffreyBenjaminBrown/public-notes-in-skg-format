@@ -1,0 +1,7 @@
+title: one-dimensional real tattoo
+pid: 921a656b-b5ca-405b-bc14-2db67b5a43f4
+body: |2-
+  Like the integer tattoo,
+  most things are still ints,
+  but `dur` is a float (the cycle duration),
+  and `vs` is a list of floats in [0,dur).

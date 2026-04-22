@@ -1,0 +1,7 @@
+title: Traversals are Folds
+pid: b261de80-5678-495d-be7f-8bc786c0c5f9
+body: |2-
+  `both`, for instance, in fact has this type:
+    both :: Bitraversable r => Traversal (r a a) (r b b) a b
+  but we can think of it as this:
+    both :: Bitraversable r => Fold (r a a) a

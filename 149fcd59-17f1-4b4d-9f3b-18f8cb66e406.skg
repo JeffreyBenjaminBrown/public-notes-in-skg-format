@@ -1,0 +1,8 @@
+title: The syntax laid out for undefining rules makes it appear that the "sub" clause is mandatory, but it is not.
+pid: 149fcd59-17f1-4b4d-9f3b-18f8cb66e406
+body: |2-
+  https://typedb.com/docs/typedb/2.x/development/schema
+contains:
+- aa76de4e-f476-4f59-bbe8-da4d2cc3188b
+misc:
+- Had_ID_Before_Import

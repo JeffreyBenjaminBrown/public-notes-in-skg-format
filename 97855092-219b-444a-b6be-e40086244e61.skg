@@ -1,0 +1,7 @@
+title: declaration syntax
+pid: 97855092-219b-444a-b6be-e40086244e61
+body: |2-
+  record Person where
+    constructor MkPerson
+    firstName, middleName, lastName : String
+    age : Int

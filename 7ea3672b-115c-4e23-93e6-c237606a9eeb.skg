@@ -1,0 +1,8 @@
+title: Managing static files (e.g. images, JavaScript, CSS)
+pid: 7ea3672b-115c-4e23-93e6-c237606a9eeb
+body: |2-
+  https://docs.djangoproject.com/en/3.1/howto/static-files/
+contains:
+- b3399a10-39b4-4d72-973c-0aa334ea96d8
+- 4feb408f-8e0b-4561-8889-8f5a1be042aa
+- afb22ca4-ecaf-4ae9-b79d-f2c6c64bf7e0

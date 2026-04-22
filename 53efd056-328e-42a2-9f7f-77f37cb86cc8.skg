@@ -1,0 +1,16 @@
+title: 'PITFALL: Speed depends on the number of notes in the first pattern.'
+pid: 53efd056-328e-42a2-9f7f-77f37cb86cc8
+body: |2-
+  If the first pattern has more top-level events,
+  then all of them go faster.
+
+  That's because first pattern will take one cycle to repeat.
+  All the others depend on their relationship to it.
+  For instance, in this pattern:
+
+    do setcps 2
+       d1 $ stack
+         [ "{bd, sn:1 ~, ho ~ ~}"
+         , "bleep" ]
+
+  try changing the order of the {..} section.

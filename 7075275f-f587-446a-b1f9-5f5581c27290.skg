@@ -1,0 +1,4 @@
+title: Get public ip of this machine
+pid: 7075275f-f587-446a-b1f9-5f5581c27290
+body: |2-
+  curl ifconfig.me

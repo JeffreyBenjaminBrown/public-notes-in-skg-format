@@ -1,0 +1,5 @@
+title: 'PITFALL: bind after list construction'
+pid: c35c8a78-d9a6-4306-8de7-a91b65859ed2
+body: |2-
+  so, for instance, you'll need to wrap applied functions in parens if they are expressions in lists:
+    environment.systemPackages = [ (pkgs.emacs.override { gtk = pkgs.gtk3; }) ];

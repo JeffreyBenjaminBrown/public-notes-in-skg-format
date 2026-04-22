@@ -1,0 +1,8 @@
+title: 'PITFALL: access a struct field in a pointer'
+pid: dffeb3b2-61c5-4fdf-b6c3-fdab876088e2
+body: |2-
+  The natural way. would be
+    (*p).x
+  but Go also allows
+    p.x
+  making the dereference implicit.

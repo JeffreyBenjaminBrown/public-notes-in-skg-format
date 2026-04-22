@@ -1,0 +1,9 @@
+title: 'xfade : crossfade over 4* beats from one pattern to another'
+pid: b22af070-137e-42a5-a1f4-c2b87a19a8f7
+body: |2-
+    *The 4 is specified in BootTidal.hs.
+  #+BEGIN_SRC haskell
+  d1 $ s "bd(3,8) drum*4"
+
+  xfade 1 $ s "arpy*8" # n (run 8)
+  #+END_SRC

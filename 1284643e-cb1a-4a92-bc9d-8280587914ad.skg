@@ -1,0 +1,8 @@
+title: 'delete time : C-M-S-d'
+pid: 1284643e-cb1a-4a92-bc9d-8280587914ad
+body: |2-
+  That's "Time selection: delete contents of time selection (moving later items)"
+contains:
+- 32a53204-faf5-43cd-a579-1dac41ae64ab
+misc:
+- Had_ID_Before_Import

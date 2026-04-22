@@ -1,0 +1,4 @@
+title: to distinct files
+pid: 01ed03ac-7641-4a03-89cc-e13a69bcd3b0
+body: |2-
+  command >out.std 2>out.err

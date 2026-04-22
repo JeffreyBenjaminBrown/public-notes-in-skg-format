@@ -1,0 +1,7 @@
+title: _Show
+pid: 8ac62940-e839-44b2-a1e7-e3b16f857ea6
+body: |2-
+  can read or show.
+  >>> "It's True that I ate 3 apples and 5 oranges"
+      ^.. worded . _Show :: [Int]
+  [3 , 5]

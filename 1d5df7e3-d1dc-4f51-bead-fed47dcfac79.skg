@@ -1,0 +1,6 @@
+title: There can be multiple legitimate opening statements on a given parent line.
+pid: 1d5df7e3-d1dc-4f51-bead-fed47dcfac79
+body: |2-
+  tab works its way down,
+  has no effect on text in a legimate column
+    where legitimate depends on the row

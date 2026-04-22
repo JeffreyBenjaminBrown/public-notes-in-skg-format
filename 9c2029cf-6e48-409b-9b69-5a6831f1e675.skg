@@ -1,0 +1,8 @@
+title: the idea
+pid: 9c2029cf-6e48-409b-9b69-5a6831f1e675
+body: |2-
+  This is like creating a single-use relation type.
+  Just like relatinoships with permanent types,
+  this is useful because it automatically creates links
+  to the items referenced in the title,
+  rather than requiring the user to do that.

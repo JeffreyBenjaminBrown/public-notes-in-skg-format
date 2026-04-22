@@ -1,0 +1,6 @@
+title: describe all running instances
+pid: ce3a8d0b-7e44-4457-a7d6-23c33288f75c
+body: |2-
+  aws ec2 describe-instances --profile=ec2-root > all-running-instances.json
+misc:
+- Had_ID_Before_Import

@@ -1,0 +1,11 @@
+title: '`expect` is like `unwrap` stated positively.'
+pid: 5ebab330-e945-4c9a-b15b-41a132b3a141
+body: |2-
+  #+begin_src rust
+  use std::fs::File;
+
+  fn main() {
+      let greeting_file = File::open("hello.txt")
+          .expect("hello.txt should be included in this project");
+  }
+  #+end_src

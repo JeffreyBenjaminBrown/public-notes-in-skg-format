@@ -1,0 +1,7 @@
+title: '`actSend reg when (Send _ name msg)`,'
+pid: bc202f6c-0df9-4b88-8d7e-805dfc536e6e
+body: |2-
+  it doesn't find `name` in `reg`, logs an error.
+  Otherwise, it schedules an action to send everythingg in `msg` at `when`.
+  In the special case of a sampler receiving an "on" message,
+    it schedules an "off" message for shortly thereafter.

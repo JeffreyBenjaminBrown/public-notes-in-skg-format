@@ -1,0 +1,12 @@
+title: 'TODO 8\58 x 7\58: octave 9-2, max stretch 6, only 15 is off-axis'
+pid: 6824ac7b-57e3-4c9a-823e-47447c307ba1
+body: |2-
+  0 steps; 1 % 1; string 0; fret 0
+  58 steps; 2 % 1; string 9; fret -2
+  34 steps; 3 % 2; string 6; fret -2
+  19 steps; 5 % 4; string 5; fret -3
+  47 steps; 7 % 4; string 5; fret 1
+  10 steps; 9 % 8; string 3; fret -2
+  27 steps; 11 % 8; string 6; fret -3
+  41 steps; 13 % 8; string 6; fret -1
+  53 steps; 15 % 8; string 4; fret 3

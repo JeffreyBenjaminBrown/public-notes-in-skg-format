@@ -1,0 +1,7 @@
+title: Secure a connection to Github.
+pid: cf06136a-bbf3-46ea-9447-a6a96e99db8c
+body: |2-
+  for this I had to generate an ssh token
+  (called ~/.ssh/id_x for some value of x)
+  on the command line,
+  and upload the public side of that to my Github account.

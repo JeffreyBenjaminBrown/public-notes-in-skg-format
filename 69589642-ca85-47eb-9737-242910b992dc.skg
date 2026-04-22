@@ -1,0 +1,5 @@
+title: assertQuerysetEqual
+pid: 69589642-ca85-47eb-9737-242910b992dc
+body: |2-
+  Can treat the set as ordered or not.
+  TODO: Is this better than assertEqual?

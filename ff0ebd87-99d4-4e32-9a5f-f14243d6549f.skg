@@ -1,0 +1,19 @@
+title: let (tx, mut rx) = trpl::channel();
+pid: ff0ebd87-99d4-4e32-9a5f-f14243d6549f
+body: |2-
+
+  let vals = vec![
+      String::from("hi"),
+      String::from("from"),
+      String::from("the"),
+      String::from("future"),
+  ];
+
+  for val in vals {
+      tx.send(val).unwrap();
+      trpl::sleep(Duration::from_millis(500)).await;
+  }
+
+  while let Some(value) = rx.recv().await {
+      println!("received '{value}'");
+  }

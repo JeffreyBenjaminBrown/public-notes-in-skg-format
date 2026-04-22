@@ -1,0 +1,5 @@
+title: Prevent Edge tabs appearing individually when pressing Alt-Tab
+pid: 6e2c3644-b325-44ea-a79b-1317fc173759
+contains:
+- bb064311-b127-45c4-8ccb-426542bdb10d
+- b39f7a87-aa6e-4279-b60e-10a0c5ebb097

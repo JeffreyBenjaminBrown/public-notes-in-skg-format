@@ -1,0 +1,8 @@
+title: modify mysite/settings.py
+pid: 32c599e3-f54f-42a6-b2df-35c948b6afe2
+body: |2-
+     INSTALLED_APPS = [
+  +    'polls.apps.PollsConfig', # the new app
+       'django.contrib.admin',
+       'django.contrib.auth',
+      ...

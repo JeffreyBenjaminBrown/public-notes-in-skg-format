@@ -1,0 +1,5 @@
+title: After that it worked.
+pid: dc348451-e0fe-4e57-ab29-bbc615f2401c
+body: |2-
+  I could run, e.g.,
+    aws s3 ls s3://invisible-to-most/latest

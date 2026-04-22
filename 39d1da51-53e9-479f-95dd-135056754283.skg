@@ -1,0 +1,9 @@
+title: DONE before putting a SkgNode S through update_fs_and_dbs, compare it to what's on disk
+pid: 39d1da51-53e9-479f-95dd-135056754283
+body: |2-
+  If nothing is on disk, use it as is.
+  If something D with the same id is on disk,
+  then the Some fields in S should clobber those in D,
+  but the None fields should have no effect on D.
+  That is, use S / D, where the x/y operation
+  replaces only the some fields of y with those from x.

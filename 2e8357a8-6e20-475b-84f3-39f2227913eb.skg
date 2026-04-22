@@ -1,0 +1,4 @@
+title: '{ok, State, hibernate}'
+pid: 2e8357a8-6e20-475b-84f3-39f2227913eb
+body: |2-
+  "if you do expect the process to take a long time before getting a reply and are worried about memory, you can add the hibernate atom to the tuple. Hibernation basically reduces the size of the process' state until it gets a message, at the cost of some processing power. If you are in doubt about using hibernation, you probably don't need it."

@@ -1,0 +1,4 @@
+title: rebuild the ddatabase in TypeDB
+pid: 109f5337-f163-40c7-acb1-565faf1ad817
+body: |2-
+  The DB does not have to understand everything about the file.

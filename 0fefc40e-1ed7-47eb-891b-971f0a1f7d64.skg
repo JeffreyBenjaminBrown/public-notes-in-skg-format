@@ -1,0 +1,5 @@
+title: numeric types in patterns
+pid: 0fefc40e-1ed7-47eb-891b-971f0a1f7d64
+body: |2-
+  A pattern with type Fractional a => Pattern a
+  can be used both as floating point numbers or (rational) time values.

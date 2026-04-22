@@ -1,0 +1,9 @@
+title: edit an old association ("record") in Route53
+pid: a90d576f-b3c7-47ce-9dbe-36ba76ee19d8
+body: |2-
+  serial
+contains:
+- 87db4ff2-7c55-4a1b-9ed6-a6246eaf9fb2
+- 423d4c50-c6f6-4ede-9bbb-6eb259055b23
+- f053c815-c5a0-4c23-a996-43cb47144dd2
+- af92189e-e15e-42c9-8a91-af12886b88e5

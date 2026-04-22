@@ -1,0 +1,5 @@
+title: 'HARD: Avoid melodic collisions.'
+pid: ba2b528e-4cbe-4415-bb62-d0d7728cd4dc
+body: |2-
+  Playing the same note across two voices is actually okay,
+  but notes that differ by one scale step are often not.

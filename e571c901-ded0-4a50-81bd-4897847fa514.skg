@@ -1,0 +1,4 @@
+title: retrieve a field
+pid: e571c901-ded0-4a50-81bd-4897847fa514
+body: |2-
+  {a:1} | get a

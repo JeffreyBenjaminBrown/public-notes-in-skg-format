@@ -1,0 +1,4 @@
+title: Indicate over which branches some variable definitions apply to.
+pid: 6742b1bf-a8c3-4bbd-afd2-3483b47cb2fd
+body: |2-
+  e.g. definining the string X and then marking in which nodes X might be used to mean that. They don't have to be used in all the nodes so marked.

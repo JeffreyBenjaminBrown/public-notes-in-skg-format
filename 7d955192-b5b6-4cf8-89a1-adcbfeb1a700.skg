@@ -1,0 +1,4 @@
+title: 'fuzzy:        change " " to ".*"'
+pid: 7d955192-b5b6-4cf8-89a1-adcbfeb1a700
+body: |2-
+  Split the query string on spaces and search for an occurrence of all the sub-parts separated by arbitrary text. To include a literal space, or more than one, simply add an additional space. For example, foo $42 baz quux is turned into foo.*\$42.*baz quux.

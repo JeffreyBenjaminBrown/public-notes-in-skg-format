@@ -1,0 +1,8 @@
+title: example
+pid: bce270fd-481c-4f22-9f0d-e0e49a1cf2a2
+body: |2-
+  /home/jeff〉echo {name: sam, rank: 10}            10/12/2022 09:46:40 PM
+  ╭──────┬─────╮
+  │ name │ sam │
+  │ rank │ 10  │
+  ╰──────┴─────╯

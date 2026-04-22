@@ -1,0 +1,8 @@
+title: to run an interactive session
+pid: 7fc2a907-c3aa-4d63-b466-5749ed34983d
+body: |2-
+  typedb console \
+    --address http://localhost:1729 \
+    --username admin \
+    --password password \
+    --tls-disabled

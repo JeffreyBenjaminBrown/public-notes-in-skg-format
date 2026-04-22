@@ -1,0 +1,8 @@
+title: 'PITFALL: Channels might be better named "transceivers".'
+pid: 9ac5bf6a-64d8-4026-8361-504f8654ddd9
+body: |2-
+  There's no concept of "the sender" and "the receiver".
+  Rather, a channel is a thing that can receive values from processes,
+  and from which processes can receive values.
+  The channel can be given to any number of processes,
+  and each can put things into it or draw things out of it.

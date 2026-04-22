@@ -1,0 +1,5 @@
+title: winnow
+pid: 158f148b-6c25-476c-8616-c50d9613671c
+body: |2-
+  Lets you restrict the results from something like grep.
+  Must be somehow more powerful than flush-lines.

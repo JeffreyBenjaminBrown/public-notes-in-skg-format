@@ -1,0 +1,2 @@
+title: Change channels, then run `nixos-rebuild switch --upgrade`.
+pid: 5dde006a-73c4-40a3-9bbd-0b15879fd1ac

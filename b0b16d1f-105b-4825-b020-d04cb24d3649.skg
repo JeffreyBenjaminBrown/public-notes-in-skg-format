@@ -1,0 +1,9 @@
+title: find-grep for org-roam
+pid: b0b16d1f-105b-4825-b020-d04cb24d3649
+body: |2-
+  cd ~/org-roam-search
+  find -L . -name "*.org" -exec grep --color=auto -nH --null -e expr \{\} +
+contains:
+- 13fe3183-1239-4ec5-b872-65c16b034e3f
+misc:
+- Had_ID_Before_Import

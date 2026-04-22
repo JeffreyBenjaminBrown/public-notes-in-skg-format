@@ -1,0 +1,6 @@
+title: act conditional on a value existing
+pid: 48d85aa7-0687-4c5d-a1f8-fecc3f7ecd7d
+body: |2-
+  If values.TryGetValue("c", result ) Then
+    Console.WriteLine("RESULT: {0}", result)
+  End If

@@ -1,0 +1,8 @@
+title: the basic recipe
+pid: d2920f7b-815d-4b98-9e9a-0f8d526b5900
+body: |2-
+  """
+  On the server, run collectstatic to copy all the static files into STATIC_ROOT.
+  Configure your web server to serve the files in STATIC_ROOT under the URL
+   STATIC_URL. For example, here’s how to do this with Apache and mod_wsgi.
+  """

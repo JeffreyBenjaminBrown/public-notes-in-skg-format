@@ -1,0 +1,7 @@
+title: CONTEXT
+pid: 446182b6-ebc9-445c-9e26-7a41e480b9fe
+body: |2-
+  This regards installing from scratch, not upgrading.
+  Learned during the install process for NixOS 20.09.
+  Before I had it working I asked some questions here:
+  https://discourse.nixos.org/t/nixos-20-09-fresh-vanilla-install-this-gpt-partition-label-contains-no-bios-boot-partition/9903/6

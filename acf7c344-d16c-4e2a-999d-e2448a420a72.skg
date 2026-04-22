@@ -1,0 +1,8 @@
+title: incorporating money
+pid: acf7c344-d16c-4e2a-999d-e2448a420a72
+body: |2-
+  Incorporating money into Shyg might be helpful.
+
+  The two standard monetization strategies for online services would not work well in Shyg: A subscriber model would limit participation, and an ad-based model is infeasible because Shyg is an open protocol. That is, anyone could make a client that filters out ads.
+
+  But perhaps Shyg could be grafted onto a cryptocurrency. A uniform, fungible unit of account could make it easier to allocate the relevant resources (storage, bandwidth and compute), and perhaps even to reward creators. A blockchain could also facilitate immutable records, which would address the annoying problem of online content that vanishes after it becomes popular.

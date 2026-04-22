@@ -1,0 +1,11 @@
+title: code
+pid: 3c26f282-103c-4c90-aa2e-1988f7fca8f3
+body: |2-
+  :{
+  L.sort $
+  map (flip mod 58) $
+  filter (< (floor $ 2*58)) $
+    take 20 $ -- way more than enough
+    concat [ fmap (+x) $
+             [0,13] | x <- [0,27..] ]
+  :}

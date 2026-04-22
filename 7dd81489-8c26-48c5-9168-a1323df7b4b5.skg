@@ -1,0 +1,5 @@
+title: fn rerender_collateral_views
+pid: 7dd81489-8c26-48c5-9168-a1323df7b4b5
+body: |2-
+  If it fails, that should bubble up.
+  (Currently it just prints a warning.)

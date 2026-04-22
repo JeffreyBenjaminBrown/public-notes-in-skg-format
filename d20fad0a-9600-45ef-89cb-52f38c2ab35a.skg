@@ -1,0 +1,5 @@
+title: the two types can be equal
+pid: d20fad0a-9600-45ef-89cb-52f38c2ab35a
+body: |2-
+  reversed :: Iso' [a] [a]
+  reversed = iso reverse reverse

@@ -1,0 +1,9 @@
+title: Hamler is like Haskell in
+pid: 034deeb1-fb40-4bae-9488-1cc822411ccf
+body: |2-
+  ADT and Type Checking/Inference
+  Functions, higher-order functions
+  Currying and partial application
+  Pattern matching, and Guards
+  List comprehension
+  Applicative and Monad

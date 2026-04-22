@@ -1,0 +1,4 @@
+title: Add two base cases.
+pid: ca51f490-f3f2-4ece-9053-efb8c5bc9587
+body: |2-
+  If |x| = 0, then edist(x,y) = |y|, and vice versa.

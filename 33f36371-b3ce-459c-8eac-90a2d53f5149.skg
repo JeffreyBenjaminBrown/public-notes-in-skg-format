@@ -1,0 +1,6 @@
+title: transfer from from the old (20.03) configuration.nix
+pid: 33f36371-b3ce-459c-8eac-90a2d53f5149
+body: |2-
+  boot.extraModulePackages = [
+      config.boot.kernelPackages.exfat-nofuse ];
+  system.autoUpgrade.enable = true;

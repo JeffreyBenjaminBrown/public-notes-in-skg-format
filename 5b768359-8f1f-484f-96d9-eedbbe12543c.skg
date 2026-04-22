@@ -1,0 +1,10 @@
+title: How to assign concrete values to (into?) interface ones.
+pid: 5b768359-8f1f-484f-96d9-eedbbe12543c
+body: |2-
+  // declare and assign together
+  var i Stringish = MyString{"hello"}
+
+  // declare and assign separately
+  var i I  // i can be anything adhering to interface I
+  var t *T // t is a pointer to a T
+  i = t    // If T* adheres to I, then this is valid.

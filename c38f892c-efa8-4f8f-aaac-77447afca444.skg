@@ -1,0 +1,12 @@
+title: how it works
+pid: c38f892c-efa8-4f8f-aaac-77447afca444
+body: |2-
+  #+BEGIN_SRC haskell
+  -- compare:
+  p1 = sound "[feel*2 feel:3, hc:3 hc:2 hc:4 ho:1]"
+
+  d1 $        p1
+  d1 $ brak $ p1
+  d1 $ cat $ [ p1, -- another way to say `brak`
+               early (1/4) $ fastcat [silence, p1] ]
+  #+END_SRC

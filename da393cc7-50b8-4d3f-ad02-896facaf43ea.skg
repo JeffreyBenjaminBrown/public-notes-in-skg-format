@@ -1,0 +1,5 @@
+title: example
+pid: da393cc7-50b8-4d3f-ad02-896facaf43ea
+body: |2-
+  # Here `item` already exists.
+  define item owns size;

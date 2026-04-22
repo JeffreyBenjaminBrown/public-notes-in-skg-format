@@ -1,0 +1,2 @@
+title: TODO does this mean a monitor receives a "DOWN" message even if it's created after the process being watched goes down?
+pid: ec71f2d6-837b-4c27-aa26-58ee725d15df

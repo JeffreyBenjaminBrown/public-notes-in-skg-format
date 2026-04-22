@@ -1,0 +1,16 @@
+title: Restart Emacs with the following minimal config.
+pid: def660ea-b014-4edb-b300-336291651fb5
+body: |2-
+  (require 'use-package)
+  (package-initialize)
+  (setq package-archives
+        ;; copied from https://babbagefiles.xyz/org-roam-on-android/
+        '(("Org"          . "https://orgmode.org/elpa/")
+          ("Elpa"         . "https://elpa.gnu.org/packages/")
+          ("Melpa Stable" . "https://stable.melpa.org/packages/")
+          ("Melpa"        . "https://melpa.org/packages/")))
+  (setq package-archive-priorities
+        '(("Org"          . 20)
+          ("Melpa"        . 15)
+          ("Melpa Stable" . 10)
+          ("Elpa"         . 5)))

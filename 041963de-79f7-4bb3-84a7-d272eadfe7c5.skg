@@ -1,0 +1,13 @@
+title: 'PITFALL: Lots of query functions for different cases'
+pid: 041963de-79f7-4bb3-84a7-d272eadfe7c5
+body: |2-
+  match
+  match_aggregate
+  match_group
+  match_group_aggregate
+  insert
+  delete
+  update
+  explain
+  define
+  undefine

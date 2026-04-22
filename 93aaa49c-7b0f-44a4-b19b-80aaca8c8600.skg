@@ -1,0 +1,6 @@
+title: Snap offset
+pid: 93aaa49c-7b0f-44a4-b19b-80aaca8c8600
+body: |2-
+      quote:
+      Offset from the default
+  snap position if snapping is enabled.

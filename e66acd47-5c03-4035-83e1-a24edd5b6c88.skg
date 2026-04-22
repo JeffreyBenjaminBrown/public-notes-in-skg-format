@@ -1,0 +1,6 @@
+title: the idea
+pid: e66acd47-5c03-4035-83e1-a24edd5b6c88
+body: |2-
+  The trick is to impose a `max_retries` value on the request.
+  This requires using a different "adapter", as described here:
+  https://stackoverflow.com/questions/15431044/can-i-set-max-retries-for-requests-request

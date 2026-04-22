@@ -1,0 +1,10 @@
+title: Python global interpreter lock, to do if it acts up
+aliases:
+- Gil \ Python
+- GIL \ Python
+pid: c2cb0852-90d3-40b1-be38-96e66063ae9e
+contains:
+- 89739fee-7f94-4a6b-844b-e537a370273f
+- 33ffb337-84d6-43ef-a994-11d8b36f78ce
+misc:
+- Had_ID_Before_Import

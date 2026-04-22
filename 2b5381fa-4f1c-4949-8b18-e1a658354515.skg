@@ -1,0 +1,10 @@
+title: 'PITFALL: Reusing (bucket) names is dangerous.'
+pid: 2b5381fa-4f1c-4949-8b18-e1a658354515
+body: |2-
+  I made a public bucket.
+  Then I deleted it and made a, supposedly,
+  private one with the same name.
+  It was still public.
+  Then I made a new bucket with a distinct name,
+  and made it private.
+  It really was private.

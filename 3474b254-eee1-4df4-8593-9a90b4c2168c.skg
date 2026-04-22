@@ -1,0 +1,4 @@
+title: The standard idiom seems to be to include self() in every message.
+pid: 3474b254-eee1-4df4-8593-9a90b4c2168c
+body: |2-
+  Specifically, messages should be (sender's Pid, data) pairs.

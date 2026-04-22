@@ -1,0 +1,9 @@
+title: disjunctions can make a variable's dependencies on other variables depend on the first one's value
+pid: 63c82d1a-5948-4511-b041-a6c89e72ca48
+contains:
+- 1624af3c-207b-432b-be73-f3ab877fdfae
+- ef4b5fa2-33da-4115-9ce0-9e2e794755e4
+- 3a26a00b-02ea-4883-b955-256fd69551d0
+- 6d5ed847-37e5-4368-a7c3-f8714ccef543
+- ad06bc31-16db-44e0-a54d-e2cc4c95e085
+- 3a5eddd6-5182-46ef-891a-ec04a175bb38

@@ -1,0 +1,5 @@
+title: a way to extract a value from a GET or POST in Django
+pid: 62ca6fdf-cb58-461f-a55e-0a8db3fc45e9
+body: |2-
+  q = request.GET .get("key", <default value>)
+  q = request.POST.get("key", <default value>)

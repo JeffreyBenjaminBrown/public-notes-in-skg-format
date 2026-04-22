@@ -1,0 +1,21 @@
+title: determining what to index, and in how much detail
+pid: b227c68b-cd5e-4f1e-a903-e1619ffafa63
+body: |2-
+  This involves three choices: (1) which documents to parse, (2) which relationships from those scanned documents to record, and (3) the degree to which those relationships should be (lossily) compressed.
+
+  The data Shyg will collect is smaller than one might guess. This is because representing a statement in Shyg will use less space than representing it in natural language, for two reasons:
+
+  - Thanks to the ontology, the Shyg index will only record at most one member of every class of equivalent statements, and will record no statement that can be simply derived from ones already recorded. So, for instance, once the index has recorded that mammals breathe oxygen, it will not need to separately record that mice breathe oxygen.
+
+  - Elements of the graph -- be they atomic elements like "The Statue of Liberty", statements of fact like "oil and water do not mix at room temperature", or even higher-order relationships -- will be referred to by their address in the index, which will be terse. By contrast, in natural language an entity cannot be uniquely identified without either (usually) a lot of context or (rarely) a comically long-winded name. For instance, while "The Statue of Liberty sculpture that France gave the US in 1886" narrows it down to one candidate, "The Statue of Liberty" could refer to one of five albums or dozens of painting that Google turns up.
+
+  Still, the constraints of space, time and energy will prevent Shyg from recording everything users might want to record. Users will therefore have to prioritize certain kinds of relationships. I expect generating a consensus on which relationships to record, in how much detail, to be the hardest problem. (Fortunately, representing the categories of relationships will not be difficult -- the query language is ideally suited to that task.)
+
+  Regarding the choice of what to scan, users will probably want to include what they themselves read. Beyond that, it will be a community decision -- but much easier than specifying the relationships to collect when parsing those documents.
+
+  Since users can go offline, the index will need some redundancy. This introduces another prioritization question: How much to duplicate which content, and how to trade off redundancy (making more copies) against scope (collecting more data).
+contains:
+- d1ea3b59-326c-4c96-bed2-4cdf1047c3a9
+- fca7010a-8c1b-4179-98e5-0bff41eafe55
+misc:
+- Had_ID_Before_Import

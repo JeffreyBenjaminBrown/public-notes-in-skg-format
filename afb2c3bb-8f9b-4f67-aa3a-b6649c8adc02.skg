@@ -1,0 +1,4 @@
+title: arguments may be given explicit types
+pid: afb2c3bb-8f9b-4f67-aa3a-b6649c8adc02
+body: |2-
+  \x : Int => x * 2

@@ -1,0 +1,4 @@
+title: Message delivery is not automatically confirmed.
+pid: ec09931e-374d-4859-8345-8dc52057665c
+body: |2-
+  "If you need to have a confirmation of delivery, you have to send a second message as a reply to the original process."

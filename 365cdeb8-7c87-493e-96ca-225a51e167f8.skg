@@ -1,0 +1,7 @@
+title: '? these features'
+pid: 365cdeb8-7c87-493e-96ca-225a51e167f8
+body: |2-
+  are already in the interactive help
+  select ViewExpr (M-X)
+  nudging (M-E, M-D)
+  deleting buffers

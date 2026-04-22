@@ -1,0 +1,6 @@
+title: Keep a file with a list of all the IDs you have visited.
+pid: 2441af10-6406-4d69-be05-dd8355912dc5
+body: |2-
+  Call it 'claude-reading-TIMESTAMP'.
+  It should start empty.
+  Every time you read the content of an ID, mark it.

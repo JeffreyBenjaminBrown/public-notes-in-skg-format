@@ -1,0 +1,8 @@
+title: defining it
+pid: 35cf4c36-038a-4c17-8718-41e8a65850d0
+body: |2-
+  #+begin_src haskell
+    let hz :: Pattern p => p Note -> p ValueMap
+        hz hzPat = n $ fmap f hzPat where
+  	f freq = log freq / log 2 * 12
+  #+end_src

@@ -1,0 +1,6 @@
+title: step 6 - write "interpreters"
+pid: d8c03b05-b8e7-44fc-80c5-f0e3335ed833
+body: |2-
+  Translate the free monad into something more specific.
+contains:
+- 50faeed0-b515-495c-87a8-798abc9faffc

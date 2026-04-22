@@ -1,0 +1,6 @@
+title: '? find all things that return Ok when they should error'
+pid: c77265b2-6579-4551-a7d3-f678b54298d6
+body: |2-
+  e.g. if something isn't found
+contains:
+- 9dae7e53-70cf-496f-9c29-f2c9b42b9622

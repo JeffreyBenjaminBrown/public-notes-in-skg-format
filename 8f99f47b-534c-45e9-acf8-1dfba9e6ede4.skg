@@ -1,0 +1,6 @@
+title: 'modifications: assume the default if nothing found'
+pid: 8f99f47b-534c-45e9-acf8-1dfba9e6ede4
+body: |2-
+  >>> M.fromList [("Jim", 32), ("Dwight", 39)]
+      & at "Erin" . non 0 +~ 10
+  M.fromList [("Dwight",39),("Erin",10),("Jim",32)]

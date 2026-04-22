@@ -1,0 +1,8 @@
+title: 'FIRST: Evaluate this code.'
+pid: b761a605-7c37-41b8-8fcd-c15e766db3d2
+body: |2-
+  ;; This starts outline-minor-mode
+  ;; with a regex for Haddock-style headings.
+  (python-mode)
+  (outline-minor-mode)
+  (setq-local outline-regexp "## [*]+")

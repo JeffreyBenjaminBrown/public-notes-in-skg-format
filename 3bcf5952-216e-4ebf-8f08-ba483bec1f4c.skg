@@ -1,0 +1,5 @@
+title: the recommended way
+pid: 3bcf5952-216e-4ebf-8f08-ba483bec1f4c
+body: |2-
+  seems quite easy if everything is already packaged for Nix.
+  It's listed first in the wiki.

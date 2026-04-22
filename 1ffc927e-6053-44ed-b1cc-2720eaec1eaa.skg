@@ -1,0 +1,5 @@
+title: The trick!
+pid: 1ffc927e-6053-44ed-b1cc-2720eaec1eaa
+body: |2-
+  is that FS maps elements from a smaller set to to a larger one.
+  If FS x has type Fin 3, then x has type Fin 2.

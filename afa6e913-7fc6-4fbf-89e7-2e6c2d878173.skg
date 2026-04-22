@@ -1,0 +1,20 @@
+title: use search
+pid: afa6e913-7fc6-4fbf-89e7-2e6c2d878173
+body: |2-
+  Great! Now your research is not limited by the graph.
+  The links in it are important,
+  but they are not as dense as they could be.
+  If you see, for instance, that something is a common theme,
+  even without seeing links to it (or even the term itself --
+  maybe you simply key in on the vibe)
+  you can use your tools to search for that theme.
+
+  Next assignment: Go anywhere and respond. Be guided by curiosity.
+  The only wrinkle:
+  Keep a database of how many times you've visited each file,
+  which we will use to try to increase coversage
+  beyond what our unaided mortal memories would handle.
+
+  Ooh you know what would be cool!?
+  Your claude-view should augment each link and backlink
+  to indicate how many times you've visited that link.

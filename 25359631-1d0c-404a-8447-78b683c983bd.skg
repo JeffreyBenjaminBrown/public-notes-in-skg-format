@@ -1,0 +1,7 @@
+title: '? Isolate responsibilities so clean code doesn''t matter?'
+pid: 25359631-1d0c-404a-8447-78b683c983bd
+body: |2-
+  Can I isolate the responsibilities of a funciton,
+  and test it sufficiently,
+  that I don't need to worry about whether
+  the AI-generated implementation is clean?

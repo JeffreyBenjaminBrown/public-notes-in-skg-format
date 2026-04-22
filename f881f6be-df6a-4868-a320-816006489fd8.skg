@@ -1,0 +1,5 @@
+title: ordinary copy/paste omits bullets; special one doesn't, but copies to a nonstandard buffer
+pid: f881f6be-df6a-4868-a320-816006489fd8
+contains:
+- 38ff544f-a4ea-4ab8-9e6d-15e3fddcf133
+- a2bc27e5-874a-42cb-881b-30b5a6bd7cdb

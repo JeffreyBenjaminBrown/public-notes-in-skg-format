@@ -1,0 +1,6 @@
+title: You will need to study changes in order to learn how things work.
+pid: 66cbae13-1642-41cd-acfa-6bb4322d234e
+body: |2-
+  One of the best ways to onboard a new coder into a project is to show them a git commit that accomplishes (as every commit should) some well-defined task. Without version control, you won't be able to isolate the changes that accomplished something, and you won't easily be able to say what any change was for.
+
+  This is also useful for "onboarding" your future self, once you've forgotten how the code works -- which can take less than a month.

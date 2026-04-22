@@ -1,0 +1,5 @@
+title: '_stKeyboards: populate automatically'
+pid: f6e2de4b-77ed-42a8-b104-851a1c049de2
+body: |2-
+  It's inferrable from _stWindowLayers:
+  Every MonomeId for which one of the windows is a Keyboard.

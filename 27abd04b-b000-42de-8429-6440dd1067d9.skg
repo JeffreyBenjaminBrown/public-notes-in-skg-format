@@ -1,0 +1,12 @@
+title: some simplified types for it
+pid: 27abd04b-b000-42de-8429-6440dd1067d9
+body: |2-
+  beside :: Traversal s t a b
+         -> Traversal s' t' a b
+         -> Traversal (s,s') (t,t') a b
+  beside :: Lens s t a b
+         -> Lens s' t' a b
+         -> Traversal (s,s') (t,t') a b
+  beside :: Fold s a
+         -> Fold s' a
+  -> Fold (s,s') a

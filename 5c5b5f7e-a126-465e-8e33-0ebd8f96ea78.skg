@@ -1,0 +1,4 @@
+title: '`sustain` seems to determine the ceiling for `decay`'
+pid: 5c5b5f7e-a126-465e-8e33-0ebd8f96ea78
+body: |2-
+  If there's little sustain, a long decay won't do much.

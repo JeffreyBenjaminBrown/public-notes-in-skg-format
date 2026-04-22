@@ -1,0 +1,6 @@
+title: syntax
+pid: 8e5ff5f3-d7cf-4040-966a-7b086c2aa5d1
+body: |2-
+  tmux -L <server-name> send-keys             \
+    -t <session name>[:window][:pane number]  \
+    <text to send> Enter

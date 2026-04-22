@@ -1,0 +1,7 @@
+title: 'PRO: Makes diffs highly readable:'
+pid: 160a8c1f-391e-4004-85f9-64fcc6c1975f
+body: |2-
+  If a top-level headline is moved, its children stay fixed.
+  There is only a one-line insertion and a one-line deletion.
+  This is particularly important if users receive pull requests:
+  they won't want to read complex diffs.

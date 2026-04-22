@@ -1,0 +1,20 @@
+title: try-catch
+pid: 5234d060-e92d-4ccf-9f89-f658e488161e
+body: |2-
+  try:
+    print(x)
+  except NameError as e:
+    print(e)
+  except Exception:
+    # PITFALL: Anything inheriting from this must come earlier.
+    print("something else happened")
+  except: # This default clause cannot be reached,
+          # because every error inherits from Exception,
+          # but it is syntactically fine.
+    print("Something else went wrong")
+  else:
+    # *Only* executes if no Exception is found.
+    # TODO: I'm not actually sure this can be mixed with "finally".
+    print("No exception was found.")
+  finally: # executes whether or not an Exception arises.
+    print("The 'try except' is finished")

@@ -1,0 +1,4 @@
+title: This line can be included directly in the exclude file
+pid: 55bccf02-61df-46fc-a9f2-fb0e1047e6bc
+body: |2-
+  Not every line of that file need be preceded with `sh:`.

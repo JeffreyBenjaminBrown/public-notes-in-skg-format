@@ -1,0 +1,6 @@
+title: Communicate between Emacs and TypeDB.
+pid: 003fa88a-ff4b-411e-a2a2-20d51ae52240
+body: |2-
+  Maybe just write TypeDB shell scripts automatically in TypeDB,
+  run them in the Docker container, write to a file,
+  and read that file in Emacs.

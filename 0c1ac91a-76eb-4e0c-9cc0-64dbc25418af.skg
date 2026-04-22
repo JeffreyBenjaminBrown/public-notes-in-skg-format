@@ -1,0 +1,10 @@
+title: how to install it via npm globally, bypassing NixOS
+pid: 0c1ac91a-76eb-4e0c-9cc0-64dbc25418af
+body: |2-
+  mkdir -p ~/.npm-global
+  npm config set prefix ~/.npm-global
+  export PATH="$HOME/.npm-global/bin:$PATH"
+  echo 'export PATH="$HOME/.npm-global/bin:$PATH"' >> ~/.bashrc  # or .zshrc
+  npm install -g claude
+misc:
+- Had_ID_Before_Import

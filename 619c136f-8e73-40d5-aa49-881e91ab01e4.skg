@@ -1,0 +1,5 @@
+title: It does not use the global PATH.
+pid: 619c136f-8e73-40d5-aa49-881e91ab01e4
+body: |2-
+  Either modify the PATH variable defined in that file, or use the full path to the desired command, or both.
+  That's because the PATH defined in the file does not necessarily match the PATH defined in the shell.

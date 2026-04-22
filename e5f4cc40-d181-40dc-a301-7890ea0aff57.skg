@@ -1,0 +1,4 @@
+title: As code, (*) dereferences pointers.
+pid: e5f4cc40-d181-40dc-a301-7890ea0aff57
+body: |2-
+  *p = 21 // sets the variable p points to

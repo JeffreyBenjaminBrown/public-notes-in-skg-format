@@ -1,0 +1,8 @@
+title: manually switching between AC and battery
+pid: 35bc1753-5ad2-4e00-85f1-2e8cfa61ea8a
+body: |2-
+  These commands switch to battery or AC use:
+    tlp bat
+    tlp ac
+  They remain until the next reboot or until terminated with
+    tlp start

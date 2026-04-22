@@ -1,0 +1,6 @@
+title: TODO How do cloning and links interact?
+pid: 211f4447-1461-4aa8-8795-f6fcfefaa9ea
+body: |2-
+  If author A links in document D from N to M (also in D),
+  and author A' clones D to D',
+  should the clone M' of M link to N, or to its clone N'?

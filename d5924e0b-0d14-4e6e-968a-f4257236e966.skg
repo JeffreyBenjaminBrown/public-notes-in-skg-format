@@ -1,0 +1,6 @@
+title: elem and ok can be declared at the same time.
+pid: d5924e0b-0d14-4e6e-968a-f4257236e966
+body: |2-
+  elem, ok := m[key]
+contains:
+- 86dbb576-447f-4605-8d83-f3d36b857ef6

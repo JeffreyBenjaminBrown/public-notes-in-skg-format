@@ -1,0 +1,5 @@
+title: once, run `django-admin startproject ebdjango`
+pid: da624a25-54e1-4a8c-9b80-0ec54e606cee
+body: |2-
+  Like `stack new`, this writes a new project (filetree)
+  called ebdjango to the current folder.

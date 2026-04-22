@@ -1,0 +1,5 @@
+title: demo code
+pid: 98cb113f-af25-4aa5-92a9-82450806fe01
+body: |2-
+  users.groups.students.gid = 1000;  # TODO: Enable.
+                                     # for congruence with KUbuntu system

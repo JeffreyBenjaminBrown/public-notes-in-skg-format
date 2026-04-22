@@ -1,0 +1,20 @@
+title: How to do it
+pid: e86d1c7e-6503-4083-a432-5f7d47b7a361
+body: |2-
+  Run this:
+    git rebase -i <parent of the easliest commit to change>
+  That opens an editor with something that looks like a commit message.
+  It's actually a script.
+  It can't be edited normally; one has to use special key shortcuts.
+  The commits are listed in reverse, oldest first.
+  With the cursor over a commit, press `e`
+  to change `pick` to `edit`.
+  Then, with the cursor still there, press `x`
+  to insert [[id:d3cc91b1-bb52-49d9-b435-4cc835495270][a commit edit command]].
+
+  Once that script is edited, save it and exit the editor.
+  To do all those changes and no others, run
+    git rebase --continue
+  But sometimes it just happens without even doing that?
+  Seemed to happen to me once, anyway.
+  Read the feedback carefully.

@@ -1,0 +1,4 @@
+title: the problem
+pid: 581796fc-f290-4178-91ca-c29b42cee7d5
+body: |2-
+  Would not want this to slow down, say, the act of pasting in a lot of text. If at each inserted character a path backward from it had to be searched fresh, they could take a long time. Although maybe not because it won't usually take long to prove it's not matching the regex in question, since that regex is a random URI. But still that's like a function call and at least one list hop for each character inserted.

@@ -1,0 +1,5 @@
+title: git config
+pid: 09fc4cc2-c4f7-412c-b00e-58b77662c347
+body: |2-
+  git config --global user.email "jeffbrown.the@gmail.com"
+  git config --global user.name "JeffreyBenjaminBrown"

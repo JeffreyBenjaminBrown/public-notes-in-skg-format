@@ -1,0 +1,4 @@
+title: push
+pid: cb7cb764-2efc-4301-a770-b3ffa6b48591
+body: |2-
+  scp -i <keyfile> /local/path user@host:/remote-path

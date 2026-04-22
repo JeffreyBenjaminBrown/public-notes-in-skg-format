@@ -1,0 +1,7 @@
+title: use a simple config, or none
+pid: ea56d581-ba29-4ce4-92bd-12d573d31bae
+body: |2-
+  alternatives
+contains:
+- 8bc938de-0eaa-41d7-a273-44e2b3697338
+- 4040771f-b34d-41a5-be88-95153e6b0208

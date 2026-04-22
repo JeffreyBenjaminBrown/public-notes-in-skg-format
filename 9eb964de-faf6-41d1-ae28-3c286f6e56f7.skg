@@ -1,0 +1,6 @@
+title: which functions were slow when I profiled
+pid: 9eb964de-faf6-41d1-ae28-3c286f6e56f7
+body: |2-
+  (certainly before GHC 8.10, and I think before I had 8.8)
+  merge, meta, and subfunctions
+  see prof/ for details

@@ -1,0 +1,4 @@
+title: some data might not be saved
+pid: 171d990d-46dc-4665-8d4a-ec77d0ccb5ad
+body: |2-
+  "When you hibernate your instance, the data on any instance store volumes is lost. Learn more about Amazon EC2 instance store" at https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/InstanceStorage.html?icmpid=docs_ec2_console

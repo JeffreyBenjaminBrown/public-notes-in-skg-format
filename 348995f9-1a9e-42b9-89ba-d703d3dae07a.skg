@@ -1,0 +1,7 @@
+title: 'example code: How I''ve been doing it'
+pid: 348995f9-1a9e-42b9-89ba-d703d3dae07a
+body: |2-
+  In a folder called
+    hello/
+  I'll run
+    go mod init hello

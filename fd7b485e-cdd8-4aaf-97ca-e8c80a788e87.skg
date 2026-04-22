@@ -1,0 +1,2 @@
+title: Functions that expect an argument to be a position (an integer), but accept a marker as a substitute, normally ignore which buffer the marker points into; they convert the marker to an integer, and use that integer, exactly as if you had passed the integer as the argument, even if the marker points to the wrong buffer
+pid: fd7b485e-cdd8-4aaf-97ca-e8c80a788e87

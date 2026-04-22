@@ -1,0 +1,6 @@
+title: format is {Reason, Stack}
+pid: a8e07a8a-a5b5-4695-a750-88f11ffab91a
+body: |2-
+  There's a dictionary of `Reason`s here:
+  https://erlang.org/doc/reference_manual/errors.html
+  (Search text for "badarith" to find it.)

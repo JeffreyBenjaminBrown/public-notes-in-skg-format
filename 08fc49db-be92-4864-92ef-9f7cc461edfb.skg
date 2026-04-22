@@ -1,0 +1,5 @@
+title: but that only matters if their argument was already linear
+pid: 08fc49db-be92-4864-92ef-9f7cc461edfb
+body: |2-
+  "in a pattern match like case m of Just x -> ..., GHC will look at the type of Just, and ensure that if m was only allowed to be used once, then x shall also only be allowed to be used once"
+  https://tek.brick.do/EGnqyrBDQ5Gk

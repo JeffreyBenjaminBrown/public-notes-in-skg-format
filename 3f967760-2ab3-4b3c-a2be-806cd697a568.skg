@@ -1,0 +1,6 @@
+title: '"state functions": Define one callback for each state.'
+pid: 3f967760-2ab3-4b3c-a2be-806cd697a568
+body: |2-
+  The state is an atom.
+contains:
+- 1e62d7a7-284a-469e-b96e-7ad664e7da10

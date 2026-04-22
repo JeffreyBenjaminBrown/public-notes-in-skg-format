@@ -1,0 +1,4 @@
+title: 'rga: ripgrep, but it searches lots of formats at once'
+pid: 4fd919b3-5789-4401-840b-2bb40aa5357f
+body: |2-
+  https://github.com/phiresky/ripgrep-all

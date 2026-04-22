@@ -1,0 +1,5 @@
+title: Sometimes it's implicit
+pid: f00cca59-9bbf-4e9e-be00-3691c0d4441c
+body: |2-
+  In many contexts, e.g. a function body, it is implicit.
+  Otherwise it requires an explicit `progn`.

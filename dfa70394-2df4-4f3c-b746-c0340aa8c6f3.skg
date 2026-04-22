@@ -1,0 +1,18 @@
+title: example
+pid: dfa70394-2df4-4f3c-b746-c0340aa8c6f3
+body: |2-
+  https://learnyousomeerlang.com/designing-a-concurrent-application#understanding-the-problem
+  cancel(Pid) ->
+    %% Monitor in case the process is already dead
+    Ref = erlang:monitor(process, Pid),
+    Pid ! {self(), Ref, cancel}, % Tell it to stop.
+    receive
+      {Ref, ok} -> % It was already down.
+        erlang:demonitor(
+          Ref,
+          [flush]), % "purge the DOWN message if it was sent before
+                    %  we had the time to demonitor"
+        ok;
+      {'DOWN', Ref, process, Pid, _Reason} ->
+        ok
+    end.

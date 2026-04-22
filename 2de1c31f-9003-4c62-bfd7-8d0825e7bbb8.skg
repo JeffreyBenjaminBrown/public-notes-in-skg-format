@@ -1,0 +1,4 @@
+title: test each constraint of the schema
+pid: 2de1c31f-9003-4c62-bfd7-8d0825e7bbb8
+body: |2-
+  Some violations might not be representable in the .skg format.

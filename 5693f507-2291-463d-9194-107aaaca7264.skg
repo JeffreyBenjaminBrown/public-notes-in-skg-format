@@ -1,0 +1,13 @@
+title: 'PITFALL: Don''t let keys collide in a CondElts'
+pid: 5693f507-2291-463d-9194-107aaaca7264
+body: |2-
+  If a=1 or a=2 can both lead to b=1, it's tempting to write this:
+    (p :: Possible) =
+      M.fromList [ (a, ...)
+                 , (b, M.fromList [ (1, S.singleton $ M.singleton a 1)
+                                  , (1, S.singleton $ M.singleton a 2) ] ) ]
+  when it ought to be this:
+    (p :: Possible) =
+      M.fromList [ (a, ...)
+                 , (b, M.fromList [ (1, S.fromList [ M.singleton a 1
+                                                   , M.singleton a 2 ] ) ] ) ]

@@ -1,0 +1,6 @@
+title: I downloaded tidal.el to a new folder.
+pid: 17f57af5-f7ee-450d-8a45-f3955ea3c051
+body: |2-
+  mkdir ~/.emacs.d/elisp/tidal
+  cd    ~/.emacs.d/elisp/tidal
+  wget https://raw.githubusercontent.com/tidalcycles/Tidal/master/tidal.el

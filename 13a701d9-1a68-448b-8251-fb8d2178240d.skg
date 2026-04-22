@@ -1,0 +1,4 @@
+title: Create a [[id:a37f2ee7-8267-491b-9100-0848e03616ec][policy for total access to the bucket]].
+pid: 13a701d9-1a68-448b-8251-fb8d2178240d
+body: |2-
+  Either in S3 or in IAM.

@@ -1,0 +1,14 @@
+title: to *rename* a branch locally and remotely
+pid: 74ea4577-cb74-429c-9af7-1f6814067df9
+body: |2-
+  old_name=main # or something
+  new_name=kde  # or something
+  git push origin $new_name
+  DO MANUAL STUFF HERE
+    # Go to Github online, find the repo, go to Settings > Branches,
+    # and change the default branch.
+    # This is only possible when Github knows multiple branches,
+    # hence the earlier `push` command.
+  git branch -m $old_name $new_name
+  git push origin --delete $old_name
+    # where "origin" is the remote repo's local nickname

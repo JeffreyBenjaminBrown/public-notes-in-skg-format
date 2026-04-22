@@ -1,0 +1,7 @@
+title: '? needs a closure algorithm'
+pid: 59b0e99b-665c-4b7e-89ac-39fe3f644491
+body: |2-
+  Suppose [a,b,c] are to be shown, and a > b, and c > d.
+  None of them are isolated from the closure of (>),
+  but among [a,b,c], c is isolated.
+  It should be shown in the unsorted group.

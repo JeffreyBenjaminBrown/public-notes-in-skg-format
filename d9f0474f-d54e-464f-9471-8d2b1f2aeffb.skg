@@ -1,0 +1,11 @@
+title: Maybe and Either
+pid: d9f0474f-d54e-464f-9471-8d2b1f2aeffb
+body: |2-
+  > sequenceA [Just 1, Just 2, Just 3]
+  Just [1,2,3]
+  > sequenceA [Just 1, Nothing, Just 3]
+  Nothing
+  >  sequenceA $ Just (Left "Whoops!")
+  Left "Whoops!"
+  > sequenceA $ Just (Right "Ahh.")
+  Right (Just "Ahh.")

@@ -1,0 +1,12 @@
+title: '`arc` keeps everything it possibly reasonably could.'
+pid: bc653155-5e8f-4a9b-b082-d2332f55a35d
+body: |2-
+  running this:
+    x = nBoop $ insertOns $ cat [p1 "a", p2 "a"]
+    y = arc 0 1 0 2 x
+    Pr.pPrint y
+  we see that x includes 3 "a" events in [0,2].
+  The first is a holdover from the previous cycle.
+  The last is cut off at time 2.
+  The middle one overlaps both of the others,
+  despite the fact all of them have the same label.

@@ -1,0 +1,4 @@
+title: '"Dubious SQL Is Allowed Without Any Error Or Warning"'
+pid: 9392051e-eed2-471d-9507-4460cecd3a07
+body: |2-
+  https://www.sqlite.org/quirks.html

@@ -1,0 +1,7 @@
+title: 'PITFALL: the popular `delete` option is dangerous.'
+pid: 17d985d9-007a-43b7-90f4-a60f2aaeaf70
+body: |2-
+  It will delete anything in the destination not in the source.
+  If there are multiple sources I don't know what it does.
+misc:
+- Had_ID_Before_Import

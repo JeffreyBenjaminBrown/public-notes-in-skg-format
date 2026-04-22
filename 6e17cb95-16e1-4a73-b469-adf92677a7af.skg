@@ -1,0 +1,6 @@
+title: looping over one
+pid: 6e17cb95-16e1-4a73-b469-adf92677a7af
+body: |2-
+  For Each i In list
+    Console.Write(i)
+  Next

@@ -1,0 +1,6 @@
+title: minimal harmonic rectangles
+pid: 60e0f5ec-b635-43b3-9a67-d40d7cff8fc8
+body: |2-
+  23-lim minus 11,19 in 8x3
+  23-lim minus 19    in 8x4
+  29-lim minus 25    in 8x5

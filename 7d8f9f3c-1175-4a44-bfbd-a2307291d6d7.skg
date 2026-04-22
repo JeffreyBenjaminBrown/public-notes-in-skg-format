@@ -1,0 +1,9 @@
+title: A map.
+pid: 7d8f9f3c-1175-4a44-bfbd-a2307291d6d7
+body: |2-
+  The first element of each pair counts fifths, from D.
+  The second counts degrees of 46-edo, from D.
+contains:
+- 7b59cfc4-47de-4db3-90b4-f03d35bb6238
+- 54d2a3ea-0542-49d2-acf5-33266b296ca8
+- 73409222-0919-46fe-ad26-8760d9a529db

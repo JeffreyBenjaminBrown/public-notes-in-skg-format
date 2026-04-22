@@ -1,0 +1,5 @@
+title: TODO even functions can (and sometimes should) be marked Lazy
+pid: ebe9d2fc-8069-458c-bc4c-5608ab34f91c
+body: |2-
+  maybe : Lazy b -> Lazy (a -> b) -> Maybe a -> b
+                    ^^^^

@@ -1,0 +1,4 @@
+title: TODO make reloading work in `cabal repl`
+pid: a615ec03-6058-4708-9f8b-aa017d4f06c6
+body: |2-
+  https://stackoverflow.com/questions/63983850/how-can-i-have-ghci-reload-include-changes-in-the-local-dependent-library

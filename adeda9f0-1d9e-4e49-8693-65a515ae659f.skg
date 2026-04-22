@@ -1,0 +1,4 @@
+title: mod_wsgi is an Apache module
+pid: adeda9f0-1d9e-4e49-8693-65a515ae659f
+body: |2-
+  which can host any Python WSGI application, including Django.

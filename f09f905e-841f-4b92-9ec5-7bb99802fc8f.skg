@@ -1,0 +1,4 @@
+title: create tar.gz archive
+pid: f09f905e-841f-4b92-9ec5-7bb99802fc8f
+body: |2-
+  tar -czvf tarball-of-zipfiles.tar.gz individual-zipfiles/

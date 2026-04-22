@@ -1,0 +1,5 @@
+title: To initialize the submodules in a clone
+pid: 7ac697a7-8cce-4685-982d-38525d5f0682
+body: |2-
+  git submodule init
+  git submodule update

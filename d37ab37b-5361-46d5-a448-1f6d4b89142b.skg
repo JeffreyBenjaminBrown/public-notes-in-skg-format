@@ -1,0 +1,4 @@
+title: Keywords Can Often Be Used As Identifiers
+pid: d37ab37b-5361-46d5-a448-1f6d4b89142b
+body: |2-
+  In standard SQL they can't, unless enclosed in double-quotes.

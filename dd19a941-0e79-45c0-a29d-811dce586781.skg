@@ -1,0 +1,4 @@
+title: '"Conjoined methods" are a red flag.'
+pid: dd19a941-0e79-45c0-a29d-811dce586781
+body: |2-
+  'If you make a split of this form and then find yourself flipping back and forth between the parent and child to understand how they work together, that is a red flag (“Conjoined Methods”) indicating that the split was probably a bad idea.'

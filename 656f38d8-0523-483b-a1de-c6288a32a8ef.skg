@@ -1,0 +1,6 @@
+title: They all mutate, but it's not always marked.
+pid: 656f38d8-0523-483b-a1de-c6288a32a8ef
+body: |2-
+  For instance, when an iterator is passed to a for loop,
+  the for loop takes ownership, and makes its own mutable copy.
+  Therefore the original iterator need not be marked `mut`.

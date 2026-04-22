@@ -1,0 +1,4 @@
+title: To use non-Nu versions of functions, prefix a ^ character.
+pid: 23eaea5b-5289-40bf-80a9-0ab0443b4f3b
+body: |2-
+  sys | get host.sessions.name | each { |it| ^echo $it }

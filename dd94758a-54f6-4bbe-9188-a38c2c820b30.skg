@@ -1,0 +1,10 @@
+title: What they are.
+pid: dd94758a-54f6-4bbe-9188-a38c2c820b30
+body: |2-
+  These pre-process the (long) text,
+  rather than the (short) pattern(s) matched against it.
+  They are appropriate when the text is fixed --
+  e.g. the human reference genome --
+  and many patterns will be matched against it.
+  Such algorithms are called "offline".
+  Others are "online".

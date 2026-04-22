@@ -1,0 +1,7 @@
+title: why
+pid: 151a6519-a954-452e-8a62-a1a3eeb3f7a7
+body: |2-
+  Rather than writing a function that tests the major mode
+  and only works if it's equal to some value,
+  I can define that function globally,
+  and define a keyboard shortcut for it in that major mode.

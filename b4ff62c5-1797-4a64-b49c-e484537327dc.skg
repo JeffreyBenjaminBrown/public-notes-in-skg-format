@@ -1,0 +1,6 @@
+title: elaboration
+pid: b4ff62c5-1797-4a64-b49c-e484537327dc
+body: |2-
+  That is, the read-only property does not interfere
+  with the user's ability to fold/unfold org bullets.
+  See skg/src/read-only.el for making text read-only.

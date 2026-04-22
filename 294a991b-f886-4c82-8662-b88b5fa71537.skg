@@ -1,0 +1,10 @@
+title: composing it
+pid: 294a991b-f886-4c82-8662-b88b5fa71537
+body: |2-
+  >>> favouriteFoods =
+      M.fromList [("Garfield", "Lasagna"), ("Leslie", "Waffles")]
+  >>> favouriteFoods ^. at "Leslie" . non "Pizza"
+  "Waffles"
+  -- If we don't know someone's favourite food, the default is "Pizza"
+  >>> favouriteFoods ^. at "Leo" . non "Pizza"
+  "Pizza"

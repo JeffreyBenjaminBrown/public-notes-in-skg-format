@@ -1,0 +1,10 @@
+title: 'TODO Hash ops:'
+pid: 7e64f986-f3df-4072-bf76-684a6b602624
+body: |2-
+  Important because if set ops are introduced before /eval,
+  either it's confusing or they look useless.
+contains:
+- b510ecbe-dc73-40f2-8dc0-96de3707a206
+- d2359cdc-77fe-42a0-a7af-e2931ef31f94
+- 1203a76c-638e-4708-a92d-83054dda0717
+- 55e58d27-6e1a-4a75-8f0b-2c2d4730b61d

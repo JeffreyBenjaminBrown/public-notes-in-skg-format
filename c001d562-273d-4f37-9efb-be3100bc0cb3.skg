@@ -1,0 +1,13 @@
+title: an "improvement"
+pid: c001d562-273d-4f37-9efb-be3100bc0cb3
+body: |2-
+  is a change that reduces the value of
+    C_bar + k * J * I
+  where k is an arbitrary (tuned) constant,
+  and J (recall) is the number of jobs to do.
+  We scale by J because otherwise,
+  when there are more jobs to do,
+  the effective relative weight of inequality
+  in the optimization would fall.
+  (Ideally we would scale by the optimal minimum average cost,
+  but that cannot be known.)

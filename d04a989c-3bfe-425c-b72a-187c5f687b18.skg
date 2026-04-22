@@ -1,0 +1,5 @@
+title: Copy a commit to a different branch.
+pid: d04a989c-3bfe-425c-b72a-187c5f687b18
+body: |2-
+  git checkout <new branch where I want the same commit>
+  git cherry-pick <commit id>

@@ -1,0 +1,5 @@
+title: to reload Bash (and .bashrc, etc.) in a window
+pid: b5f00d01-3bc2-4377-901d-3c089f03d976
+body: |2-
+  run the following ordinary Bash command from that window
+    exec bash

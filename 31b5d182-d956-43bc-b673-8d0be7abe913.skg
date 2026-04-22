@@ -1,0 +1,10 @@
+title: Downsample jpegs *before* converting to pdf.
+pid: 31b5d182-d956-43bc-b673-8d0be7abe913
+body: |2-
+  This keeps the memory footprint small.
+  Converting afterward works much worse.
+  Convert with `convert` (imagemagick), but concat with `pdftk`.
+    Concatenating pdfs with `convert` seems to waste space.
+    (Using the same to concatenate non-pdfs into one pdf might be okay.)
+misc:
+- Had_ID_Before_Import

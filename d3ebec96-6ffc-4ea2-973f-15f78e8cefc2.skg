@@ -1,0 +1,4 @@
+title: 'findOf :: Fold s a -> (a -> Bool) -> s -> Maybe a'
+pid: d3ebec96-6ffc-4ea2-973f-15f78e8cefc2
+body: |2-
+  Gets the first one.

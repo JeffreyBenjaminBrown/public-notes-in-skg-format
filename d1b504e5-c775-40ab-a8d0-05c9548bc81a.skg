@@ -1,0 +1,8 @@
+title: Writing the test first seems great for AI.
+pid: d1b504e5-c775-40ab-a8d0-05c9548bc81a
+body: |2-
+  The few times I've tried it,
+  beginning the task by writing a failing test it can code against
+  caused it to code the solution surprisingly quickly.
+misc:
+- Had_ID_Before_Import

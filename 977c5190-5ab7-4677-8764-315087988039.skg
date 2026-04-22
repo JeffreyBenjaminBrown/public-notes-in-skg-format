@@ -1,0 +1,6 @@
+title: 'editing : How to inline monospaced ASCII'
+pid: 977c5190-5ab7-4677-8764-315087988039
+body: |2-
+  Indent each line of the entire picture by at least 4 spaces.
+  Each line can include a distinct amount of leading space
+  after those first 4 spaces.

@@ -1,0 +1,7 @@
+title: if grep exits abnormally, try ripgrep (rg)
+pid: 512902aa-4081-46d1-9146-5f361b201b67
+body: |2-
+  Someone on SO:
+    https://stackoverflow.com/q/45526670/916142
+  believes it can search in different formats
+  (UTF-8, UTF-16, Latin-1) simultaneously.

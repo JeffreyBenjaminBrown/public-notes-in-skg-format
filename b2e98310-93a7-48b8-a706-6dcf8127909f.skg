@@ -1,0 +1,9 @@
+title: can be input as a list titles plus a list of lists
+pid: b2e98310-93a7-48b8-a706-6dcf8127909f
+body: |2-
+  a list of column names + a list of rows (also lists).
+  The semicolon and brackets below are important,
+  but some of the whitespace could be a comma instead.
+
+  > echo [[name1 name2];
+          [1 2] [4 5]]

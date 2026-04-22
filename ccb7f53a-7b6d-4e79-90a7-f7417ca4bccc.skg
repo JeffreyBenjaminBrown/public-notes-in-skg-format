@@ -1,0 +1,7 @@
+title: 'PITFALL: (;) and (,) treat errors unlike `orelse` and `andalso`.'
+pid: ccb7f53a-7b6d-4e79-90a7-f7417ca4bccc
+body: |2-
+  https://learnyousomeerlang.com/syntax-in-functions
+  """ Note: I've compared , and ; in guards to the operators andalso and orelse. They're not exactly the same, though. The former pair will catch exceptions as they happen while the latter won't. What this means is that if there is an error thrown in the first part of the guard X >= N; N >= 0, the second part can still be evaluated and the guard might succeed; if an error was thrown in the first part of X >= N orelse N >= 0, the second part will also be skipped and the whole guard will fail.
+
+  However (there is always a 'however'), only andalso and orelse can be nested inside guards. This means (A orelse B) andalso C is a valid guard, while (A; B), C is not. Given their different use, the best strategy is often to mix them as necessary."""

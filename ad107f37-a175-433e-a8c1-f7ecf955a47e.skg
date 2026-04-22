@@ -1,0 +1,7 @@
+title: instantiate a relation among a node's contents
+pid: ad107f37-a175-433e-a8c1-f7ecf955a47e
+body: |2-
+  When a user instantiates a relationship, it is as a node. Its text includes placeholders for each member, which indicates the member's type if it was specified, and otherwise _.
+  The relationship can refer to its parent as [it], to all of its children as [these], and to other things via ordinary hyperlinks. It needn't refer to either [it] or [these].
+  Difficulty: If it refers to [these] should it create one relationship to the collection of them as a whole, or should it create a relationship to each of them individually? Maybe use {these} and [these] to distinguish.
+  The relation is ordered among its parents' contents wherever the writer puts it. It becomes unordered content (which appears like unsubscribed content) of the other members. The user can order it, and (again just like subscriptions) if moving it from unordered content to the ordered content empties an intermediating "unordered content" branch, then that "unordered content" branch disappears.

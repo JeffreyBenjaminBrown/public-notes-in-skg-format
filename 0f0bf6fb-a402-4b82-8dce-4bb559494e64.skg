@@ -1,0 +1,6 @@
+title: voice     = 0.5, useful around [0,64]
+pid: 0f0bf6fb-a402-4b82-8dce-4bb559494e64
+body: |2-
+  Low pitches seem unaffected.
+  Middle values add noise to middle and high ppitches.
+  High values have very strange effects at high pitches.

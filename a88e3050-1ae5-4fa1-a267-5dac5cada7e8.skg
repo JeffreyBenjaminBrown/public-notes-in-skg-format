@@ -1,0 +1,4 @@
+title: query the org-roam db with Rust
+pid: a88e3050-1ae5-4fa1-a267-5dac5cada7e8
+body: |2-
+  so that it becomes extensible to TypeDB

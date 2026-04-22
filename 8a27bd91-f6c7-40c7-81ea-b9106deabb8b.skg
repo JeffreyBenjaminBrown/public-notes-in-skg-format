@@ -1,0 +1,4 @@
+title: track the last-read commit
+pid: 8a27bd91-f6c7-40c7-81ea-b9106deabb8b
+body: |2-
+  When you read someone's note, you can tell your subscription "I am up to date on this", and it stores the commit that applied when you said that. The next time you look at it, if it has been updated, it uses the diff between the earlier version and the latest to show what's changed.

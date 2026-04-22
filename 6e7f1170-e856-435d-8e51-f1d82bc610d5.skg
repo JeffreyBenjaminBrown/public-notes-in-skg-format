@@ -1,0 +1,5 @@
+title: jq's purpose
+pid: 6e7f1170-e856-435d-8e51-f1d82bc610d5
+body: |2-
+   It lets you read a json file in which "paths" equals a JSON sub-dictionary of terms,
+  and turn each term into a shell variable.

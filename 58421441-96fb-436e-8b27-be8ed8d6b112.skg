@@ -1,0 +1,12 @@
+title: '7\46 x 9\46: too tall (6) and nuts'
+pid: 58421441-96fb-436e-8b27-be8ed8d6b112
+body: |2-
+  [ 0  steps; 1 % 1;  string 0; fret 0
+  , 27 steps; 3 % 2;  string 0; fret 3
+  , 32 steps; 13 % 8; string 2; fret 2
+  , 21 steps; 11 % 8; string 3; fret 0
+  , 37 steps; 7 % 4;  string 4; fret 1
+  , 46 steps; 2 % 1;  string 4; fret 2
+  , 8  steps; 9 % 8;  string 5; fret -3
+  , 15 steps; 5 % 4;  string 6; fret -3
+  , 42 steps; 15 % 8; string 6; fret 0

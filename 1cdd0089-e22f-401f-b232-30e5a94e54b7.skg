@@ -1,0 +1,9 @@
+title: uniform 11 & 15 h
+pid: 1cdd0089-e22f-401f-b232-30e5a94e54b7
+body: |2-
+  11th harmonic, 15th harmonic
+    13    14    13    13
+  0    13    27    40    53
+      11:8  ??    15:8
+contains:
+- 27830179-6736-48d7-a5b5-1aedd75677a6

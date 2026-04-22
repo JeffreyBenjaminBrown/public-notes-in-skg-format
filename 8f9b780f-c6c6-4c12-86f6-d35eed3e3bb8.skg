@@ -1,0 +1,6 @@
+title: making fields that are arrays
+pid: 8f9b780f-c6c6-4c12-86f6-d35eed3e3bb8
+body: |2-
+  If a key can have more than one value, all of the values can be accessed at once, as in the "parents" field here:
+    curl $site | jq '[.[] | {message: .commit.message, name: .commit.committer.name, parents: [.parents[].html_url]}]'
+  The bracket around the symbol ".parents" packs the results into a single array. The brackets [] abutting the symbol ".parents" on the right retrieve those results.

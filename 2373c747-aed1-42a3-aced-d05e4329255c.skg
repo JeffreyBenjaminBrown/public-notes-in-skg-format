@@ -1,0 +1,5 @@
+title: Slices can be extended forward, but not backward.
+pid: 2373c747-aed1-42a3-aced-d05e4329255c
+body: |2-
+  You can extend a slice's length by re-slicing it,
+  provided it has sufficient capacity.

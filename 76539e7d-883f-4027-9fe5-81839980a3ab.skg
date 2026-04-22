@@ -1,0 +1,4 @@
+title: Laziness, which is magic.
+pid: 76539e7d-883f-4027-9fe5-81839980a3ab
+body: |2-
+  Lazy languages only evaluate what they need. You can ask for computations that look like impossible monsters, and Haskell will respond faster than would seem physically possible. It's a little confusing at first but laziness, which ostensibly is just to save machine time, can actually save a ton of human time too, because you don't have to say "only evaluate this expression if it's necessary". You can just define the expression, and Haskell will only try to evaluate it if the name you gave it actually ends up being used.

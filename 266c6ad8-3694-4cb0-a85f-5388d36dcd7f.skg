@@ -1,0 +1,8 @@
+title: I coded a useful demo of hidden text in Emacs.
+pid: 266c6ad8-3694-4cb0-a85f-5388d36dcd7f
+body: |2-
+  git@github.com:JeffreyBenjaminBrown/hode6.git
+  commit d3642162abf6e4567808b3d743856c8b11180f03
+  src/demo/invis/
+misc:
+- Had_ID_Before_Import

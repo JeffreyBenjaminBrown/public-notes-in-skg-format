@@ -1,0 +1,4 @@
+title: to name the profile
+pid: d9035a28-1e67-44cd-a3bd-15136e2275c3
+body: |2-
+  sudo nixos-rebuild switch --profile-name SOME_NAME

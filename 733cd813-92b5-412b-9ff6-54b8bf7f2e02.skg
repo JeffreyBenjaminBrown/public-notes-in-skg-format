@@ -1,0 +1,8 @@
+title: in config, include for each repo
+pid: 733cd813-92b5-412b-9ff6-54b8bf7f2e02
+body: |2-
+  Path to repo.
+  Author-repo shorthand.
+  Owned by user (bool).
+contains:
+- 45e83062-327e-4fbc-b024-29baa6e8e464

@@ -1,0 +1,5 @@
+title: the sharing
+pid: 558973e3-bd93-4551-9d4f-10afed51aeb6
+body: |2-
+  Two of those kinds of platforms are really shades of the same thing:
+  Knowledge-sharing platforms like Wikipedia or Elsevier (a collection of academic journals) and content-sharing platforms like Twitter, Youtube or Soundcloud. They let people publish stuff that other people can view. A distributed service like Youtube is a nontrivial technical problem, because Youtube has a lot of capacity and bandwidth, and ordinary users don't. But Hode would not need to host video or audio. Its users only need to be able to share text, because the text can turn refer to audiovisual content hosted elsewhere. Established file-sharing protocols like bittorrent already share data like all of Game of Thrones in HD; tweets and papers would be nothing in comparison.

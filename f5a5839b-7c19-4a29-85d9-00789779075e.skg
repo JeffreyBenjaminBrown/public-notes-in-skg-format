@@ -1,0 +1,7 @@
+title: nmcli connection up MCIT-INVITADOS
+pid: f5a5839b-7c19-4a29-85d9-00789779075e
+body: |2-
+  can't do Git
+  can do apt
+  can do cargo (as of <2025-04-29 Tue>;
+                earlier it couldn't)

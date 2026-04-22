@@ -1,0 +1,6 @@
+title: focusPorestOnFocusedPTree
+pid: b71fad24-08e0-4e6c-a50c-19d9ea87d4ce
+body: |2-
+  A Porest is a list of PTrees.
+  Exactly one of those PTrees should have focus.
+  This function would move the focus of the Porest to align with the first PTree that has focus.

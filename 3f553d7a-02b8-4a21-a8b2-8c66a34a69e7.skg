@@ -1,0 +1,4 @@
+title: the command
+pid: 3f553d7a-02b8-4a21-a8b2-8c66a34a69e7
+body: |2-
+  git reset HEAD~

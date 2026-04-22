@@ -1,0 +1,4 @@
+title: 'realpath : get the absolute path to a file'
+pid: e77f24f5-79af-46ae-8556-050c40f8e407
+body: |2-
+  realpath <file>

@@ -1,0 +1,4 @@
+title: '{ok, State, TimeOut}'
+pid: 66a2634c-e904-4d65-926b-a2c26c1762cc
+body: |2-
+  "The TimeOut variable is meant to be added to the tuple whenever you need a deadline before which you expect the server to receive a message. If no message is received before the deadline, a special one (the atom timeout) is sent to the server, which should be handled with handle_info/2 (more on this later.)"

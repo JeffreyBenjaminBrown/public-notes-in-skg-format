@@ -1,0 +1,6 @@
+title: solution
+pid: e2e6c035-9447-46c4-b210-a43a83d4ef4e
+body: |2-
+  I was using the wrong remote name.
+  Use `rclone config` to (among other things)
+  list remote names.

@@ -1,0 +1,13 @@
+title: '8\78 x 7\78: 17-lim 9x5, octave 8-2'
+pid: 0fa6a460-1211-4577-a0f8-2a0c229ac769
+body: |2-
+  00 steps; 1  % 1;  string 0;  fret 0
+  07 steps; 17 % 16; string 0;  fret 1
+  13 steps; 9  % 8;  string -1; fret 3
+  25 steps; 5  % 4;  string 4;  fret -1
+  36 steps; 11 % 8;  string 1;  fret 4
+  46 steps; 3  % 2;  string 4;  fret 2
+  55 steps; 13 % 8;  string 6;  fret 1
+  63 steps; 7  % 4;  string 7;  fret 1
+  71 steps; 15 % 8;  string 8;  fret 1
+  78 steps; 2  % 1;  string 8;  fret 2

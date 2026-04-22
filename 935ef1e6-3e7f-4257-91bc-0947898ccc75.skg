@@ -1,0 +1,8 @@
+title: example
+pid: 935ef1e6-3e7f-4257-91bc-0947898ccc75
+body: |2-
+  #+begin_src rust
+  pub trait Into<T> {
+      fn into(self) -> T;  // Takes ownership, consumes self
+  }
+  #+end_src

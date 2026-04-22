@@ -1,0 +1,7 @@
+title: test a range of text
+pid: 4acf829d-a3f0-4d8a-a2d2-56f876d83c48
+body: |2-
+  these are in the wrong place: [[id:1df09291-386b-4cf9-bf4d-68768d2b31a2][search based on text properties]]
+contains:
+- dc0b3274-d91f-43e6-b404-d4df483f83f0
+- 106cf7f2-7adf-458d-b2fb-4ccf3eb2316f

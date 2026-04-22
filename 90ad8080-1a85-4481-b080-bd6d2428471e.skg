@@ -1,0 +1,5 @@
+title: 'OBSOLETE? : [[id:fff2c33f-2cb1-4c8a-897e-478e8048894e][transitions]]'
+pid: 90ad8080-1a85-4481-b080-bd6d2428471e
+body: |2-
+  The entire module is disabled in 1.9-dev.
+  At least some of it (xfade, xfadeIn) works in 1.8.2.

@@ -1,0 +1,6 @@
+title: borg init --encryption=repokey /path/to/repo
+pid: 044d890e-0f57-40b2-9eb1-5bbac7006c28
+body: |2-
+  That gives the simplest encryption option,
+  in which an attacker only needs your password.
+  In others, they'd need the password and the keyfile.

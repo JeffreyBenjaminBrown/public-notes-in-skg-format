@@ -1,0 +1,6 @@
+title: move everything critical to an available USB
+pid: dafd852a-7fa9-4063-b2c5-6bced176b206
+body: |2-
+  NixOS.org (this file)
+  installs/how-to-reinstall-linux.org
+  borg-backup*.sh

@@ -1,0 +1,5 @@
+title: features
+pid: a7ebffc1-36f7-4cad-81f1-76d27aa48427
+body: |2-
+  You can choose what to record:
+    r=read, w=write, x=execute, a=attribute change

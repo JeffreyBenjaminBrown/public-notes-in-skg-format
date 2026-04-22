@@ -1,0 +1,5 @@
+title: Use ReaTune to tune an instrument.
+pid: 5ec480db-a6a7-4d3d-94ba-bf1ea7f1a34a
+body: |2-
+  It lets you input a Hz value,
+  so its fixed assumption of 12-edo can be overridden.

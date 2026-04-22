@@ -1,0 +1,6 @@
+title: The problem
+pid: 202c7333-8307-487a-a2c3-6d33deb36a82
+body: |2-
+  Changes to ~/.config/konsolerc would be undone
+  each time I opened a new terminal.
+  I was trying to set the default profile.

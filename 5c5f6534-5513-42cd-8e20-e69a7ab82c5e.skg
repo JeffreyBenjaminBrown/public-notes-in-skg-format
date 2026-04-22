@@ -1,0 +1,5 @@
+title: 'To do so requires an explicit type declaration, as un Functor:'
+pid: 5c5f6534-5513-42cd-8e20-e69a7ab82c5e
+body: |2-
+  interface Functor (0 f : Type -> Type) where
+    map : (m : a -> b) -> f a -> f b

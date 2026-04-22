@@ -1,0 +1,4 @@
+title: to shear it
+pid: 45666784-6a27-4159-b435-f714f60bf1b0
+body: |2-
+  convert affine.png -affine 1,-0.5,0.5,4,0,0 -transform out.png

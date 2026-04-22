@@ -1,0 +1,8 @@
+title: create a view
+pid: 1ce84e21-46e4-466b-9f61-f81a98e5bd54
+body: |2-
+  Add some code to the app's views.py file.
+  Example: my file `python-web-app/polls/views.py`
+contains:
+- ed4f3b2a-13eb-451d-b277-1339e7368ab9
+- c8d73234-6baa-487f-9a50-d3e3fb17a489

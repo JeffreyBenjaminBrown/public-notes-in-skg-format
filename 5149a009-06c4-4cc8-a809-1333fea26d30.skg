@@ -1,0 +1,21 @@
+title: TODO 13\65 x 4\65
+pid: 5149a009-06c4-4cc8-a809-1333fea26d30
+body: |2-
+  3,5,11,19 and 23 are both easy and spot-on.
+  [ 0 steps; 1 % 1 ; string 0 ; fret 0
+  , 65 steps; 2 % 1 ; string 5 ; fret 0
+  , 38 steps; 3 % 2 ; string 2 ; fret 3
+  , 21 steps; 5 % 4 ; string 1 ; fret 2
+  , 52 steps; 7 % 4 ; string 4 ; fret 0
+  , 11 steps; 9 % 8 ; string - 1 ; fret 6
+  , 30 steps; 11 % 8 ; string 2 ; fret 1
+  , 46 steps; 13 % 8 ; string 2 ; fret 5
+  , 59 steps; 15 % 8 ; string 3 ; fret 5
+  , 6 steps; 17 % 16 ; string - 2 ; fret 8
+  , 16 steps; 19 % 16 ; string 0 ; fret 4
+  , 26 steps; 21 % 16 ; string 2 ; fret 0
+  , 34 steps; 23 % 16 ; string 2 ; fret 2
+  , 42 steps; 25 % 16 ; string 2 ; fret 4
+  , 49 steps; 27 % 16 ; string 1 ; fret 9
+  , 56 steps; 29 % 16 ; string 4 ; fret 1
+  , 62 steps; 31 % 16 ; string 2 ; fret 9

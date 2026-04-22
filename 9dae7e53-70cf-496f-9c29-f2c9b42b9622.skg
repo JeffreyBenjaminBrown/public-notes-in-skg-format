@@ -1,0 +1,10 @@
+title: this looks like it should error instead
+pid: 9dae7e53-70cf-496f-9c29-f2c9b42b9622
+body: |2-
+  let (pid_resolved, source) : (ID, SourceName) =
+    // Query TypeDB for PID and source
+    ( match pid_and_source_from_id(
+      &config.db_name, driver, &pid).await?
+      { Some(result) => result,
+        None => { // No such node in database. Return input unchanged.
+          return Ok(from_user); }} );

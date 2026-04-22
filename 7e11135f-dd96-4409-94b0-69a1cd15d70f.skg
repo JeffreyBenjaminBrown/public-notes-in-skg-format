@@ -1,0 +1,4 @@
+title: to switch between horizontal and vertical window-splitting
+pid: 7e11135f-dd96-4409-94b0-69a1cd15d70f
+body: |2-
+  M-j <SPC>

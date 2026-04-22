@@ -1,0 +1,7 @@
+title: '"Attach" the role to the instance from the EC2 WUI.'
+pid: 70b8c308-b1fd-4227-a1be-1a041afcb379
+contains:
+- 0158f077-372a-40a1-abbc-bcc2b67b72f9
+- 1d772a56-c3d7-490c-aea7-47e1948d59b4
+misc:
+- Had_ID_Before_Import

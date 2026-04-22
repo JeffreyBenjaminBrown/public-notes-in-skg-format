@@ -1,0 +1,4 @@
+title: in tax.co, my `readStage` utility accepts the same kind of argument
+pid: 08ceb385-3478-4803-8d4b-50a0f5d3e95e
+body: |2-
+  forwarding it on to pd.read_csv as part of **kwargs.

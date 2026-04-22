@@ -1,0 +1,5 @@
+title: sudo nix-channel --add <channel>
+pid: 42204524-66d2-4e6f-a786-0fb67d5c5c55
+body: |2-
+  for instance,
+    sudo nix-channel --add https://nixos.org/channels/nixos-21.05 nixos

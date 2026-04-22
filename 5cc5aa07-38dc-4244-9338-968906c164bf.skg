@@ -1,0 +1,6 @@
+title: some links
+pid: 5cc5aa07-38dc-4244-9338-968906c164bf
+body: |2-
+  (org-roam-db-query-to-buffer
+    [:select [pos source dest type properties]
+     :from links :limit 5])

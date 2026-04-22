@@ -1,0 +1,12 @@
+title: table
+pid: 49edb0d6-61f6-4b7b-96fb-972f41132ce3
+body: |2-
+  0  steps;  1 % 1; string 0; fret 0
+  9  steps;  5 % 4; string 0; fret 3
+  12 steps; 11 % 8; string 0; fret 4
+  5  steps;  9 % 8; string 1; fret -1
+  16 steps;  3 % 2; string 2; fret 0
+  19 steps; 13 % 8; string 2; fret 1
+  22 steps;  7 % 4; string 2; fret 2
+  24 steps; 15 % 8; string 3; fret 0
+  27 steps;  2 % 1; string 3; fret 1

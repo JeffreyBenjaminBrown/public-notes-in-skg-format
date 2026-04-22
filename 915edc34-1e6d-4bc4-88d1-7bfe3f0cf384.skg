@@ -1,0 +1,5 @@
+title: .read executes code in a (.sql, probably) file
+pid: 915edc34-1e6d-4bc4-88d1-7bfe3f0cf384
+body: |2-
+  The script file may contain dot-commands,
+  just like ordinary interactive input.

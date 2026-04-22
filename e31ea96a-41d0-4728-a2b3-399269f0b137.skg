@@ -1,0 +1,10 @@
+title: the three kinds
+pid: e31ea96a-41d0-4728-a2b3-399269f0b137
+body: |2-
+  Idris allows for functions, types, and interfaces to be marked as: private, export, or public export. Their general meaning is as follows:
+
+  private meaning that it is not exported at all. This is the default.
+
+  export meaning that its top level type is exported.
+
+  public export meaning that the entire definition is exported.

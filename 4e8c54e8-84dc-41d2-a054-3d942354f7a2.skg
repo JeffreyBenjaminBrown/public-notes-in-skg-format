@@ -1,0 +1,5 @@
+title: username depends on the AMI used
+pid: 4e8c54e8-84dc-41d2-a054-3d942354f7a2
+body: |2-
+  Amazon Linux => my name is "ec2-user"
+  Ubuntu => my name is "ubuntu"

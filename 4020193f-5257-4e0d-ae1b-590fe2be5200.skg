@@ -1,0 +1,5 @@
+title: strip other contexts
+pid: 4020193f-5257-4e0d-ae1b-590fe2be5200
+body: |2-
+  This content context might contain others.
+  They can be ignored while saving it.

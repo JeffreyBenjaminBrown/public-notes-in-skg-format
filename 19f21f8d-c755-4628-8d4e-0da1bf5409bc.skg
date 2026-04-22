@@ -1,0 +1,9 @@
+title: Prefix an argument that is not modified with &.
+pid: 19f21f8d-c755-4628-8d4e-0da1bf5409bc
+body: |2-
+  This means the function is passed a reference,
+  which is efficient,
+  and is not allowed to modify it,
+  which is safe.
+  Also, the caller can continue to use the argument,
+  whereas without the & it would be unable to.

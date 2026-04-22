@@ -1,0 +1,4 @@
+title: a solution
+pid: d23a3ec0-90b9-4cf5-bf02-5145a42d1acf
+body: |2-
+  The template could take the receiving URL as an argument from Django.

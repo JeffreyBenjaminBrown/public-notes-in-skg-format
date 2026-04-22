@@ -1,0 +1,15 @@
+title: interactions
+pid: 1f9bbf4e-f5ae-41ac-82b0-2ac893417600
+body: |2-
+  #+begin_src haskell
+    do setcps 1
+       d1 $ stack [
+         (1/3) <~ (slow 4 $ sound "pebbles ~" |* cut 1),
+         slow 2 $ sound "bev ~" # cut 1
+  	 |*| slow 4 (speed $ run 4 / 2 + 0.5),
+         ( slow 2 $ every 2 (fast 2 . (<~) (1/4)) $ fast 2 $
+  	 palindrome $ s "[bd bd*2]/2 sn:1*2" )
+         ]
+  #+end_src
+contains:
+- 32fc537d-41dd-43dd-adee-c1f659f5c726

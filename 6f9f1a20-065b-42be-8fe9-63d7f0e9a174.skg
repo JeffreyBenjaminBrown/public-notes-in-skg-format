@@ -1,0 +1,8 @@
+title: '"voice" : phase shift rate'
+pid: 6f9f1a20-065b-42be-8fe9-63d7f0e9a174
+body: |2-
+  Useful range maybe [0.1,50].
+    0 itself is quiet but otherwise not much different from 0.1.
+  Below 0.4, very pure.
+  Around 3, sounds detuned.
+  10 and above : alien, inharmonic.

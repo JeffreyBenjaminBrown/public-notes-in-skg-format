@@ -1,0 +1,6 @@
+title: Rearrange supercollider and play tidal realtime from MIDI input.
+pid: fe3446d1-cb5b-496a-aa4f-3d85fcac7f6b
+body: |2-
+  Others have already routed live midi into Tidal.
+misc:
+- Had_ID_Before_Import

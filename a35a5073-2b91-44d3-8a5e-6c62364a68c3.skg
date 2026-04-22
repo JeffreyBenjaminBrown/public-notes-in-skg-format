@@ -1,0 +1,7 @@
+title: if they choose to vet the vanishing of whole nodes
+pid: a35a5073-2b91-44d3-8a5e-6c62364a68c3
+body: |2-
+  rather than just accepting it, then
+  for a node that vanishes entirely,
+  it should be convenient to see nodes that had linked to it,
+  and to search for things it might have been replaced with.

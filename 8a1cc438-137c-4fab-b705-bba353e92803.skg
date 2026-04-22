@@ -1,0 +1,4 @@
+title: make a region read-only
+pid: 8a1cc438-137c-4fab-b705-bba353e92803
+body: |2-
+  (put-text-property start end 'read-only t))

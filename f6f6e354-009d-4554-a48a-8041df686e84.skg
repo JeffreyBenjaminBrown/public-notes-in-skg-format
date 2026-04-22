@@ -1,0 +1,4 @@
+title: Termination always sends an "exit reason".
+pid: f6f6e354-009d-4554-a48a-8041df686e84
+body: |2-
+  which can be any term

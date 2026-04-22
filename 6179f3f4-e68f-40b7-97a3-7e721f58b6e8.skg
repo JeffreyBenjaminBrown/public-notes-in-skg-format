@@ -1,0 +1,6 @@
+title: Configure git.
+pid: 6179f3f4-e68f-40b7-97a3-7e721f58b6e8
+body: |2-
+  git config --global core.editor "emacs -nw --no-init-file"
+  git config --global status.showUntrackedFiles all
+  git config --global init.defaultBranch main

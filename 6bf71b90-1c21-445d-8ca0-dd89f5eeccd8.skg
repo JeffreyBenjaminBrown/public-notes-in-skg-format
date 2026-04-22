@@ -1,0 +1,5 @@
+title: for speed
+pid: 6bf71b90-1c21-445d-8ca0-dd89f5eeccd8
+body: |2-
+  Maintain a map from IDs to kill-ring items.
+  This would prevent ever having to look through the entire ring.

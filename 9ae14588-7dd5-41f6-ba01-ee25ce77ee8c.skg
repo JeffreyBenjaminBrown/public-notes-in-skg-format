@@ -1,0 +1,5 @@
+title: eventually, don't use `hardware.pulseaudio.enable = true;`
+pid: 9ae14588-7dd5-41f6-ba01-ee25ce77ee8c
+body: |2-
+  It's good for a simple sound setup,
+  but the complex options I use for live-coding are not compatible with it.

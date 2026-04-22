@@ -1,0 +1,2 @@
+title: Trailing brackets should be on the last line of whatever they close, rather than the next line(s). (I do like a quiet diff, but more important than that is for the code itself to be readable.)
+pid: 83f5f65a-636c-45cd-90d6-510439a3f737

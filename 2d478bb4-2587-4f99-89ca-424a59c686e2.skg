@@ -1,0 +1,6 @@
+title: to hide sections
+pid: 2d478bb4-2587-4f99-89ca-424a59c686e2
+body: |2-
+  "It doesn't have a keybinding to hide a section like magit does, but I quickly tried enabling outline-minor-mode with pretty good results, see rg Issue #132."
+  the issue: https://github.com/dajva/rg.el/issues/132
+  who I'm quoting: https://www.reddit.com/r/emacs/comments/sv6pje/comment/hxg7gd9/?utm_source=reddit&utm_medium=web2x&context=3

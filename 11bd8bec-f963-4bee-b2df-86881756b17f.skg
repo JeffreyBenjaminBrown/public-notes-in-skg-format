@@ -1,0 +1,6 @@
+title: imagemagick can do [[id:81e38b09-22f1-4ad5-8e16-efad524284db][affine transformations]], e.g. "shear"
+pid: 11bd8bec-f963-4bee-b2df-86881756b17f
+body: |2-
+  https://legacy.imagemagick.org/Usage/distorts/affine/#affine_shear
+contains:
+- 202da9d0-9264-4324-b268-177dd5dba6cb

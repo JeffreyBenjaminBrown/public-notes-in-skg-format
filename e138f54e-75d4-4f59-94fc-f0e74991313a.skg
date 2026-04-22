@@ -1,0 +1,9 @@
+title: case switches can pattern match
+pid: e138f54e-75d4-4f59-94fc-f0e74991313a
+body: |2-
+  case x, y {
+    1, 1 -> "both are 1"
+    1, _ -> "x is 1"
+    _, 1 -> "y is 1"
+    _, _ -> "neither is 1"
+  }

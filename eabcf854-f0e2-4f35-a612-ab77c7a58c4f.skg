@@ -1,0 +1,11 @@
+title: Spaced 11\46, max reach is 4.2\12, or 2.6 in 7-limit.
+pid: eabcf854-f0e2-4f35-a612-ab77c7a58c4f
+body: |2-
+  The hardest intervals are also the least important -- 11/8 and 13/8.
+  11, max reach: 8\23, or in 12-edo, 4.173913043478261
+  15\87 = 5 % 4  = 1 strings + 2 frets
+  21\87 = 11 % 8 = 1 strings + 5 frets
+  27\87 = 3 % 2  = 3 strings - 3 frets
+  32\87 = 13 % 8 = 2 strings + 5 frets
+  37\87 = 7 % 4  = 3 strings + 2 frets
+  46\87 = 2 % 1  = 4 strings + 1 frets

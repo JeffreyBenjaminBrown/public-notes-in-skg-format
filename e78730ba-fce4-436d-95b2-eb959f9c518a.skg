@@ -1,0 +1,6 @@
+title: '`init` functions'
+pid: e78730ba-fce4-436d-95b2-eb959f9c518a
+body: |2-
+  In *any* module, not just the top of the hierarchy,
+  an `init` function can be defined,
+  which executes "after global variables have been initialized".

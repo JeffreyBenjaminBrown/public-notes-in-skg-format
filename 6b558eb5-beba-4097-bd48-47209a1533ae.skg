@@ -1,0 +1,5 @@
+title: for jumping around the view
+pid: 6b558eb5-beba-4097-bd48-47209a1533ae
+body: |2-
+  Could include in the St a map from Addr to Path, so that a user can ask to jump straight to the View corresponding to a given Addr.
+  (If it's in the buffer multiple times, cycle between them.)

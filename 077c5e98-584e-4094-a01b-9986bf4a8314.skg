@@ -1,0 +1,8 @@
+title: some git diff view code I was uncertain about
+pid: 077c5e98-584e-4094-a01b-9986bf4a8314
+body: |2-
+    server/git_ops/diff.rs
+    server/to_org/expand/definitive.rs
+    server/to_org/render/diff.rs
+  reading:
+    server/serve/handlers/single_root_view.rs

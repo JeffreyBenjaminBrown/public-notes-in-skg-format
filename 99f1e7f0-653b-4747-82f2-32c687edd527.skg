@@ -1,0 +1,5 @@
+title: Drop elements unless they're even
+pid: 99f1e7f0-653b-4747-82f2-32c687edd527
+body: |2-
+  >>> [1, 2, 3, 4] ^.. folded . filtered even
+  [2,4]

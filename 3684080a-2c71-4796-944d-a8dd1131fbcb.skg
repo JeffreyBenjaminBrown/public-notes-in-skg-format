@@ -1,0 +1,12 @@
+title: TODO ? eventually, may need to test PRels for specificity too
+pid: 3684080a-2c71-4796-944d-a8dd1131fbcb
+body: |2-
+  The assumption is that a `PRel`
+  always refers to something reasonably specific,
+  because at the very least the template is determined.
+  But with more language features it might not be.
+  (And actually restricting to a certain member will in many cases yield fewer matches than restricting to a certain template.)
+
+   Currently there exists `pExprIsSpecific`, but no `pRelIsSpecific`.
+     (`pExprToHExpr` calls `pExprIsSpecific` to find whether conversion is possible.)
+     (`pRelToHExpr` calls `pExprIsSpecific` to find which branches to convert.)

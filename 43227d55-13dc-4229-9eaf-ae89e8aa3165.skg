@@ -1,0 +1,10 @@
+title: Where it is governed
+pid: 43227d55-13dc-4229-9eaf-ae89e8aa3165
+body: |2-
+  """
+  Django’s STATICFILES_FINDERS setting contains a list of finders that know how
+  to discover static files from various sources. One of the defaults is
+  AppDirectoriesFinder which looks for a “static” subdirectory in each of the
+  INSTALLED_APPS, like the one in polls we just created. The admin site uses the
+  same directory structure for its static files.
+  """

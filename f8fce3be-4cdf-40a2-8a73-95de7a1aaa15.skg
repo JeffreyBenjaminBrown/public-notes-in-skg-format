@@ -1,0 +1,18 @@
+title: the big idea
+pid: f8fce3be-4cdf-40a2-8a73-95de7a1aaa15
+body: |2-
+  Currently we only search for nodes by their own text.
+  But because the data is a graph,
+  we can use the text of related nodes
+  to help find nodes.
+
+  There are surely many ways to do this.
+  This proposal describes a simple one:
+  A syntax and procedures to search for "containment paths".
+
+  a / b / .. / d
+  would find a path such that a contains b,
+  and b either contains d directly,
+  or b contains something that contains d,
+  or b contains something that contains something that contains d,
+  etc.

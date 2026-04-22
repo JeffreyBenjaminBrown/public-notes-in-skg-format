@@ -1,0 +1,4 @@
+title: The receiver must be a pointer if a method is to modify its "caller".
+pid: b7a36954-3544-4be2-a51b-dd890bcf353c
+body: |2-
+  This is equally true for ordinary (non-method) functions.

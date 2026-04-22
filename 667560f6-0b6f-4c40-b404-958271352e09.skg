@@ -1,0 +1,4 @@
+title: trying yet again, <2023-02-20 Mon>
+pid: 667560f6-0b6f-4c40-b404-958271352e09
+body: |2-
+  convert affine.png -affine 1.0,-0.37,-0.3,1,0,0 -transform out.png

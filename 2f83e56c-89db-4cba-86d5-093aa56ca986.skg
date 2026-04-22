@@ -1,0 +1,4 @@
+title: 'PITFALL: Don''t generate too many (e.g. random) atoms.'
+pid: 2f83e56c-89db-4cba-86d5-093aa56ca986
+body: |2-
+  They are not garbage-collected.

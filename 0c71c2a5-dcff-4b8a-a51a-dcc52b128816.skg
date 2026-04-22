@@ -1,0 +1,5 @@
+title: 'kind of: to :: (s -> a) -> Getter s a'
+pid: 0c71c2a5-dcff-4b8a-a51a-dcc52b128816
+body: |2-
+  in truth,
+    to :: (Profunctor p, Contravariant f) => (s -> a) -> Optic' p f s a

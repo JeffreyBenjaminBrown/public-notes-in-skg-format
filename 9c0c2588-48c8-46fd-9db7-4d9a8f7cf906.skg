@@ -1,0 +1,6 @@
+title: next define "compound meter"
+pid: 9c0c2588-48c8-46fd-9db7-4d9a8f7cf906
+body: |2-
+  A compound meter is a list of pairs (ti :: Real, hm :: Homog Meter),
+  where the first ti is 0, each subsequent ti is greater than the previous,
+  all are less than 1.

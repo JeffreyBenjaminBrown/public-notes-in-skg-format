@@ -1,0 +1,6 @@
+title: ring mod has a mysterious "slide" parameter
+pid: 8620f01b-49b3-4c1f-bd7e-12723beccb68
+body: |2-
+  ring: modulation amount
+  ringf: modulation frequency
+  ringdf: slide in modulation frequency

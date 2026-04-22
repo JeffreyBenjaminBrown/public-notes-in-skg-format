@@ -1,0 +1,6 @@
+title: overlay grid (as part of image)
+pid: 781b83a2-fe6a-4a0a-9460-e0cf5c6d5161
+body: |2-
+  Filters / Render / Pattern / Grid
+  spacing 60 x 60, line width 2 x 2
+  (there's another grid option that's not part of the image)

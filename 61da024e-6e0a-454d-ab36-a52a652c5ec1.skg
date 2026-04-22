@@ -1,0 +1,4 @@
+title: to concatenate pdfs with pdftk
+pid: 61da024e-6e0a-454d-ab36-a52a652c5ec1
+body: |2-
+  pdftk file1.pdf file2.pdf file3.pdf cat output newfile.pdf

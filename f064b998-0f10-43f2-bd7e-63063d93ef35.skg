@@ -1,0 +1,15 @@
+title: TODO tuned 14\87 apart
+pid: f064b998-0f10-43f2-bd7e-63063d93ef35
+body: |2-
+  (*14) <$> [0..6] = [0,14,28,42,56,70,84]
+  5/4   = 28 \ 87 = 1 mod 3 = 2 strings
+  11/8  = 40 \ 87 = 1 mod 3 = 2 strings + 4 frets
+  3/2   = 51 \ 87 = 0 mod 3 = 3 strings + 3 frets
+  13/8  = 61 \ 87 = 1 mod 3 = 5 strings - 3 frets
+  7/4   = 70 \ 87 = 1 mod 3 = 5 strings
+  2/1   = 87 \ 87 = 0 mod 3 = 6 strings + 1 fret
+
+  16/15 = 8  \ 87 = 2 mod 3 = 1 string - 2 frets
+  8/7   = 17 \ 87 = 2 mod 3 = 1 string + 1 fret
+  7/6   = 19 \ 87 = 1 mod 3 = 2 strings - 3 frets
+  6/5   = 23 \ 87 = 2 mod 3 = 1 string + 3 frets

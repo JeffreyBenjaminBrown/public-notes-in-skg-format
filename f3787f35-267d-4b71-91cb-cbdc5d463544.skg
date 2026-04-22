@@ -1,0 +1,6 @@
+title: Tweak configuration .nix file(s)
+pid: f3787f35-267d-4b71-91cb-cbdc5d463544
+body: |2-
+  per the release notes for the latest NixOS version.
+contains:
+- fc89d4aa-0827-47ab-b715-4fc2fe7ffa66

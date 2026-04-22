@@ -1,0 +1,28 @@
+title: using it for a trai implementations
+pid: 38cc65e9-611f-405e-a3c4-f8c5a894a69f
+body: |2-
+  #+begin_src rust
+  #[derive(Debug)]
+  struct Rectangle {
+      width: u32,
+      height: u32,
+  }
+
+  impl Rectangle {
+      fn area(&self) -> u32 {
+          self.width * self.height
+      }
+  }
+
+  fn main() {
+      let rect1 = Rectangle {
+          width: 30,
+          height: 50,
+      };
+
+      println!(
+          "The area of the rectangle is {} square pixels.",
+          rect1.area()
+      );
+  }
+  #+end_src

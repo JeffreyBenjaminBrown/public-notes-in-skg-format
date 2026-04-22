@@ -1,0 +1,13 @@
+title: Leaving out factors of 3, 37-edo will give me all the intervals I want, in exactly one form
+pid: ca84a0f6-e8b4-4ebf-a23b-c0fd40ab4113
+body: |2-
+  wide min 2nd (14:13)
+  neutral 2nd (11:10)
+  wide maj 2nd (8:7)
+  min 3rd (13:11)
+  neutral 3rd (16:13)
+  the familiar major third (5:4)
+  wide major third (14:11)
+  super-narrow fourth (13:10, 454 cents)
+  super-wide fourth (11:8)
+  the familiar septimal tritone (7:5)

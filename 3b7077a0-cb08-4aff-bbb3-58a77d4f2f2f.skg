@@ -1,0 +1,10 @@
+title: json.loads() turns a JSON string into data
+pid: 3b7077a0-cb08-4aff-bbb3-58a77d4f2f2f
+body: |2-
+  >>> x # from earlier
+  '{"a": [1, 2, 3], "b": {"c": 5, "d": [6, 7]}}'
+  >>> y = json.loads(x)
+  >>> type(y)
+  <class 'dict'>
+  >>> type ( y["a"] )
+  <class 'list'>

@@ -1,0 +1,4 @@
+title: Processes can be linked to the repl.
+pid: a22d1dc1-d44a-42d2-9f85-82035f7536e8
+body: |2-
+  This is one way to see it when they crash.

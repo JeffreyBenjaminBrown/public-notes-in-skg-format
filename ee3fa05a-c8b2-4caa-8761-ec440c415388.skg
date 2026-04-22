@@ -1,0 +1,5 @@
+title: cond and pcase
+pid: ee3fa05a-c8b2-4caa-8761-ec440c415388
+body: |2-
+  `cond` is for case statements.
+  `pcase` generalizes `cond` with pattern-matching.

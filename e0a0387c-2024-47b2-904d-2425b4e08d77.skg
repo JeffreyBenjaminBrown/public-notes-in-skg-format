@@ -1,0 +1,6 @@
+title: Substitutions are 3 times more likely than other edits in humans.
+pid: e0a0387c-2024-47b2-904d-2425b4e08d77
+body: |2-
+  "Other edits" includes insertions and deletions.
+  The "in-del rate" is about 1/3000.
+  The "substitution rate" is about 1/1000.

@@ -1,0 +1,10 @@
+title: looks somethign* like this
+pid: 88f921c0-29f2-4a22-b51d-3abe9c5b82e6
+body: |2-
+  import Control.Monad.Free
+
+  initState :: Free (DcNodeOperator state error) ()
+  initState = Free (InitServer state error (Pure ()))
+
+  getState :: Free (DcNodeOperator state error) state
+  getState = Free (GetState state error) id

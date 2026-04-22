@@ -1,0 +1,5 @@
+title: cut
+pid: 896a86ff-7bb3-4d38-b076-46fbe7bceddb
+body: |2-
+  Assings the voice to a cut group.
+  It will end as soon as anything else in the same cut group starts.

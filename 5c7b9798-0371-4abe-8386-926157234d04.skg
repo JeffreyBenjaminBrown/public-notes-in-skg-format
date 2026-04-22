@@ -1,0 +1,7 @@
+title: TODO permit line continuations within strings
+pid: 5c7b9798-0371-4abe-8386-926157234d04
+body: |2-
+  This would be an Emacs fix,
+  not a Haskell fix.
+contains:
+- 8d66ce77-3983-414e-97aa-32c2c59f9202

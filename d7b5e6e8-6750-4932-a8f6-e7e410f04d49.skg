@@ -1,0 +1,8 @@
+title: what does this notation mean? why did you skip it?
+pid: d7b5e6e8-6750-4932-a8f6-e7e410f04d49
+body: |2-
+  When I run `type genericBuild`, I see this list of phases:
+  ```
+           phases="${prePhases:-} unpackPhase patchPhase ${preConfigurePhases:-}             configurePhase ${preBuildPhases:-} buildPhase checkPhase             ${preInstallPhases:-} installPhase ${preFixupPhases:-} fixupPhase installCheckPhase             ${preDistPhases:-} distPhase ${postPhases:-}";
+  ```
+  In your response you list the phases, but you omit the bracketed expressions. Why? And what do they mean?

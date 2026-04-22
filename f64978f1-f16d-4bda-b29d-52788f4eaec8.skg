@@ -1,0 +1,7 @@
+title: Why
+pid: f64978f1-f16d-4bda-b29d-52788f4eaec8
+body: |2-
+  The `receive` clause will still be handled first.
+  If there are messages in the mailbox, it will try to match them.
+  If none of them match, it will immediately advance to the `after` clause,
+  rather than waiting for something that does.

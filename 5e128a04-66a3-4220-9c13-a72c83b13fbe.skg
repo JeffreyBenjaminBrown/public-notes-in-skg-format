@@ -1,0 +1,5 @@
+title: make ignores symlinks!
+pid: 5e128a04-66a3-4220-9c13-a72c83b13fbe
+body: |2-
+  It will treat a target as unbuilt, and thus try to build it,
+  if it is a symlink.

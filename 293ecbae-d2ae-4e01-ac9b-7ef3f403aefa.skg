@@ -1,0 +1,8 @@
+title: 'a solution: Always use (a copy of) the latest data.'
+pid: 293ecbae-d2ae-4e01-ac9b-7ef3f403aefa
+body: |2-
+  When I copied the more up-to-date borg repo from the USB
+  back to the hard drive,
+  and tried to update that repo, it worked fine.
+  I did not even have to touch ~/.cache/borg.
+  (Note that this leaves [[id:0548f067-16e4-47d2-b59a-da72b97d7f80][the mystery]] above unsolved.)

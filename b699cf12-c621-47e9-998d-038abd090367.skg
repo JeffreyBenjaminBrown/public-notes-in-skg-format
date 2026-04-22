@@ -1,0 +1,4 @@
+title: start the GUI if needed
+pid: b699cf12-c621-47e9-998d-038abd090367
+body: |2-
+  systemctl start display-manager

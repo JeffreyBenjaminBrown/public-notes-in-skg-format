@@ -1,0 +1,5 @@
+title: another, also best-of-both-worlds, solution
+pid: 938d4964-7418-4169-89a5-f942f301ecc3
+body: |2-
+  Use timeToFinish,
+  but then rewrite the result more concisely if possible.

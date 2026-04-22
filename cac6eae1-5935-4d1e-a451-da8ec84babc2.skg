@@ -1,0 +1,4 @@
+title: To kill one
+pid: cac6eae1-5935-4d1e-a451-da8ec84babc2
+body: |2-
+  tmux -L sys kill-server

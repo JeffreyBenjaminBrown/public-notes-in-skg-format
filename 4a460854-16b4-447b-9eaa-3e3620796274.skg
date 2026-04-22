@@ -1,0 +1,4 @@
+title: import <file>
+pid: 4a460854-16b4-447b-9eaa-3e3620796274
+body: |2-
+  "Load and return Nix expression in given file"

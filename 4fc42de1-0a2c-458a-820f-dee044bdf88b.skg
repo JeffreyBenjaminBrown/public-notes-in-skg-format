@@ -1,0 +1,5 @@
+title: why
+pid: 4fc42de1-0a2c-458a-820f-dee044bdf88b
+body: |2-
+  Creates a buffer with the markdown content.
+  Handy because I'm likely to want to edit it to delete the TOC.

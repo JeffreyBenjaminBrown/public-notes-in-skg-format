@@ -1,0 +1,4 @@
+title: Use the QJackCtl signal graph to connect the a2j MIDI Through to its destination.
+pid: 78eb355a-b08a-4afe-bcdf-5218afc50d64
+body: |2-
+  For example, to a DAW.

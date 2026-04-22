@@ -1,0 +1,7 @@
+title: TODO potential permanent solutions
+pid: bc945e07-9548-4486-bbaf-9793fac60766
+body: |2-
+  https://discourse.nixos.org/t/system-autoupgrade-nearly-halts-my-system-even-though-nixos-rebuild-doesnt/23820/4?u=jeffreybenjaminbrown
+  nix.daemonCPUSchedPolicy
+  nix.daemonIOSchedClass
+  nix.daemonIOSchedPriority

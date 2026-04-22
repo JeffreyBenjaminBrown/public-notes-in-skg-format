@@ -1,0 +1,16 @@
+title: '4\46 x 5x46: wide, tight, strange, hard 5-lim triads'
+pid: 98bbb313-52b5-4353-b56c-a78c6ac131c9
+body: |2-
+  Wide as a bosanquet tenth.
+  Weird clumping of harmonics on string 8.
+  [ 0  steps; 1 % 1;  string 0; fret 0
+  , 15 steps; 5 % 4;  string 0; fret 3
+  , 8  steps; 9 % 8;  string 2; fret 0
+  , 27 steps; 3 % 2;  string 3; fret 3
+  , 21 steps; 11 % 8; string 4; fret 1
+  , 32 steps; 13 % 8; string 8; fret 0
+  , 37 steps; 7 % 4;  string 8; fret 1
+  , 42 steps; 15 % 8; string 8; fret 2
+  , 46 steps; 2 % 1;  string 9; fret 2
+misc:
+- Had_ID_Before_Import

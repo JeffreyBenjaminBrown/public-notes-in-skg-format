@@ -1,0 +1,12 @@
+title: they focus on one thing that might not be there
+pid: 7a29dd7e-8267-44dd-a80f-bf94f04230a9
+body: |2-
+  >  Right "howdy" & _Right %~ reverse
+  Right "ydwoh"
+  > Left "howdy" & _Right %~ reverse
+  Left "howdy"
+
+  >>> Nothing ^? _Nothing
+  Just ()
+  >>> Nothing ^? _Just
+  Nothing

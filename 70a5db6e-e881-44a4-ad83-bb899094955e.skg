@@ -1,0 +1,4 @@
+title: '"Mock instance methods" with'
+pid: 70a5db6e-e881-44a4-ad83-bb899094955e
+body: |2-
+  @mock.patch.object( class_name, method_name )

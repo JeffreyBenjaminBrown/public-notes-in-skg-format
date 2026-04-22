@@ -1,0 +1,7 @@
+title: 'linger : like trunc, but stretches the chosen head to fill the cycle'
+pid: 43f7fef1-62ba-4e14-8d52-4c0965ce7f99
+body: |2-
+  #+BEGIN_SRC haskell
+    d1 $ linger (7/8)
+      $ s "bd@4 sn:1@2 hh bleep*2"
+  #+END_SRC

@@ -1,0 +1,4 @@
+title: instead of .bashrc or .profile
+pid: e03c3142-d7e1-4c41-8300-8c3e627c56c2
+body: |2-
+  use environment.variables to define variables

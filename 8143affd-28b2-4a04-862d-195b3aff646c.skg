@@ -1,0 +1,4 @@
+title: A form class’s fields map to HTML form <input> elements.
+pid: 8143affd-28b2-4a04-862d-195b3aff646c
+body: |2-
+  Similar to how a model class’s fields map to database fields.

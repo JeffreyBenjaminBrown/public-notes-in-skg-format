@@ -1,0 +1,5 @@
+title: sequenceAOf (traversed . _2) [('a', ZipList [1,2]), ('b', ZipList [3,4])]
+pid: 202cb9f0-6267-4dfb-bf15-d9ed5e9e71ec
+body: |2-
+  ZipList {getZipList = [[('a',1),('b',3)]
+                        ,[('a',2),('b',4)]]}

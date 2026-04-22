@@ -1,0 +1,4 @@
+title: 'PITFALL: `nil` exists and inhabits every type'
+pid: dcc7cfef-e2cb-43f7-9ba2-9e1f67396e7d
+body: |2-
+  or so it appears.

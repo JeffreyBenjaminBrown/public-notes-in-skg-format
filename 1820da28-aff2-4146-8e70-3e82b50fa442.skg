@@ -1,0 +1,6 @@
+title: if permissions get weird
+pid: 1820da28-aff2-4146-8e70-3e82b50fa442
+body: |2-
+  Include this line in the `docker run` command:
+    -u $(id -u):$(id -g)
+  That way the Docker container will have the same permissions, user and group as the user who launches it.

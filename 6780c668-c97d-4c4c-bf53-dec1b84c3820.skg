@@ -1,0 +1,7 @@
+title: If (t,x) = (1,0), v/c is substantial, and gamma therefore big.
+pid: 6780c668-c97d-4c4c-bf53-dec1b84c3820
+body: |2-
+  After an unprimed second, the unprimed origin is at (t,x) = (1,0).
+  t' = gamma * t >> t. That is, what feels like it takes a second in the unprimed system takes much longer in the primed system.
+  x' = gamma * (-v) << (-v). That is, after an unprimed second the primed system sees the unprimed origin as having got much farther than v away.
+  These feel like they might be two sides to the same coin. If the primed system sees time moving much slower in the unprimed system than the unprimed system does, then after a second in the unprimed system, much more than a second has gone by in the primed system, so the unprimed system should feel to the primed system to be much farther than v away.

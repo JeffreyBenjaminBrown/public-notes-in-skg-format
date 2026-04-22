@@ -1,0 +1,4 @@
+title: use LIMIT to take the first N results
+pid: 0b94ace2-fae6-4795-a72e-68eb7c345e62
+body: |2-
+  SELECT * FROM person LIMIT 10;

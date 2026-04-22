@@ -1,0 +1,7 @@
+title: 'COOL: A variable can appear more than once in a pattern.'
+pid: 697550f6-b629-44e0-803c-6296e9aea454
+body: |2-
+  same(X,X) ->
+    true;
+  same(_,_) ->
+    false.

@@ -1,0 +1,4 @@
+title: mc/edit-(ends-of)-lines
+pid: 6141c8db-5fef-412e-aa88-751a14c3cc97
+body: |2-
+  Add a cursor at the start (end) of each line of selection.

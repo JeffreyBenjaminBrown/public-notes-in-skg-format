@@ -1,0 +1,4 @@
+title: the viewing and editing
+pid: f12ecab1-8daa-4539-96c3-6ddbefdf7834
+body: |2-
+  The configurable editor and data exploration platforms are also different shades of the same thing: An app that lets you view and edit data. An editor (which is also a viewer) for Hode does not have to be built from scratch; there exist a number of fantastic extensible open-source editors.

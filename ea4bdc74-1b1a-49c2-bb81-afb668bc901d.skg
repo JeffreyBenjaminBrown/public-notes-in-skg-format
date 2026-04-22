@@ -1,0 +1,4 @@
+title: interpretation
+pid: ea4bdc74-1b1a-49c2-bb81-afb668bc901d
+body: |2-
+  This annotation means an instance of ImportantExcerpt can’t outlive the reference it holds in its part field.

@@ -1,0 +1,4 @@
+title: respect purity
+pid: e7a7c71d-9d37-4580-9d30-0ddf62db4d8d
+body: |2-
+  traverseOf aLawfulTraversal pure x == pure x

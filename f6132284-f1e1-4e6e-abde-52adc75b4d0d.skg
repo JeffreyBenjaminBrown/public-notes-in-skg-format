@@ -1,0 +1,9 @@
+title: record a sample
+pid: f6132284-f1e1-4e6e-abde-52adc75b4d0d
+body: |2-
+  arecord -f S16_LE -c 1 -d 4 -r 44100 --device="hw:1,0" /tmp/test-mic.wav
+  -f = dunno
+  -c = number of channels.
+    (My current builtin mic has 2; my current USB mic has 1.)
+  -d = duration (seconds)
+  -r = sample rate

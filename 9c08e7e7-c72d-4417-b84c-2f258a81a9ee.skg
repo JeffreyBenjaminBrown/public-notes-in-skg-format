@@ -1,0 +1,4 @@
+title: Initialize the matrix differently.
+pid: 9c08e7e7-c72d-4417-b84c-2f258a81a9ee
+body: |2-
+  Initialize the first pattern-length column as before, but initialize the first text-length row to all 0s.

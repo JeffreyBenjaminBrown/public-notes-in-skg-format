@@ -1,0 +1,16 @@
+title: '76 8 15: flat system'
+pid: 815b7aa9-1bf0-49a2-9a09-2ff24df7cb50
+body: |2-
+  In theory more compact than my usual 41 or 46.
+      , etrTuning = Edo 76 ; StringGap 15 ; FretGap 8
+      , etrArea = 56
+      , etrLayout =
+          [ 0 steps; 1 % 1 ; string 0 ; fret 0
+          , 76 steps; 2 % 1 ; string 4 ; fret 2
+          , 44 steps; 3 % 2 ; string 4 ; fret - 2
+          , 24 steps; 5 % 4 ; string 0 ; fret 3
+          , 61 steps; 7 % 4 ; string 3 ; fret 2
+          , 13 steps; 9 % 8 ; string 3 ; fret - 4
+          , 35 steps; 11 % 8 ; string 5 ; fret - 5
+          , 53 steps; 13 % 8 ; string 3 ; fret 1
+          , 69 steps; 15 % 8 ; string 3 ; fret 3

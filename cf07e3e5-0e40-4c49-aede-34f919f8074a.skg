@@ -1,0 +1,6 @@
+title: '*LIES*: according to part 2 of the tutorial it''s nearly an ordinary python REPL'
+pid: cf07e3e5-0e40-4c49-aede-34f919f8074a
+body: |2-
+   https://docs.djangoproject.com/en/3.0/intro/
+  "manage.py sets the DJANGO_SETTINGS_MODULE environment variable,
+  which gives Django the Python import path to your mysite/settings.py file."

@@ -1,0 +1,4 @@
+title: how
+pid: 414a2853-e926-44a9-9578-b5a3119a487e
+body: |2-
+  (define-key org-mode-map (kbd "C-c C-o") 'jbb-org-open-at-point)

@@ -1,0 +1,7 @@
+title: example
+pid: a5343047-8bf4-4c8c-ad07-17807cc313e7
+body: |2-
+  These are equivalent:
+    index : Fin n -> Vect n a -> a
+    index : forall a, n . Fin n -> Vect n a -> a
+  The a and n are implicit.

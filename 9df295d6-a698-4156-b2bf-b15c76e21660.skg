@@ -1,0 +1,4 @@
+title: extend noneclobber_skgnode
+pid: 9df295d6-a698-4156-b2bf-b15c76e21660
+body: |2-
+  to handle the sharing relations in schema.tql.

@@ -1,0 +1,6 @@
+title: List future features to verify extensibility.
+pid: 243897c5-d9a0-408c-a69a-6d7486d2b817
+body: |2-
+  Before implementing a feature F,
+  verify that for every future feature G,
+  the path from F to G is clear.

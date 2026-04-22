@@ -1,0 +1,6 @@
+title: Type names in TypeDB can include both - and _.
+pid: 20a6738c-2ac1-4264-989a-dc082a1c4d13
+contains:
+- a4964598-238b-45f8-937f-244b5735ab09
+misc:
+- Had_ID_Before_Import

@@ -1,0 +1,6 @@
+title: true signatures
+pid: 7983802d-666d-4145-a954-b5945b0022d9
+body: |2-
+  foldOf
+   :: Getting a s a -> s -> a
+  foldMapOf :: Getting r s a -> (a -> r) -> s -> r

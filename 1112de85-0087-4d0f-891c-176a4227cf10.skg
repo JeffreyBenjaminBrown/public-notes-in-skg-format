@@ -1,0 +1,5 @@
+title: sourceward view ? ugly
+pid: 1112de85-0087-4d0f-891c-176a4227cf10
+body: |2-
+  Rather than being top-level children,
+  maybe they should be under a 'these link to it' scaffold.

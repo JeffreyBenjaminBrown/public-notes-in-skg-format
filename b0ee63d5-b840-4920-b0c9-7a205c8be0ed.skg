@@ -1,0 +1,11 @@
+title: query
+pid: b0ee63d5-b840-4920-b0c9-7a205c8be0ed
+body: |2-
+  select p.id, p.name from person p
+  join drivers_license l
+    on p.license_id = l.id
+  where l.height < 68 and
+        l.height > 64 and
+        l.hair_color = "red" and
+        l.car_make = "Tesla" and
+        l.car_model = "Model S"

@@ -1,0 +1,21 @@
+title: '63 3 10: 31-lim 6x8, or -21.27 6x6, octave (6,1)'
+pid: 67b8f9d2-1ddd-4dff-b513-b384f32dd435
+body: |2-
+  Hard to play (try a dom 7 in one hand).
+  [  0 steps; 1 % 1 ; string 0 ; fret 0
+  , 63 steps; 2 % 1 ; string 6 ; fret 1
+  , 37 steps; 3 % 2 ; string 4 ; fret - 1
+  , 20 steps; 5 % 4 ; string 2 ; fret 0
+  , 51 steps; 7 % 4 ; string 6 ; fret - 3
+  , 11 steps; 9 % 8 ; string 2 ; fret - 3
+  , 29 steps; 11 % 8 ; string 2 ; fret 3
+  , 44 steps; 13 % 8 ; string 5 ; fret - 2
+  , 57 steps; 15 % 8 ; string 6 ; fret - 1
+  , 6 steps; 17 % 16 ; string 0 ; fret 2
+  , 16 steps; 19 % 16 ; string 1 ; fret 2
+  , 25 steps; 21 % 16 ; string 4 ; fret - 5
+  , 33 steps; 23 % 16 ; string 3 ; fret 1
+  , 41 steps; 25 % 16 ; string 5 ; fret - 3
+  , 48 steps; 27 % 16 ; string 6 ; fret - 4
+  , 54 steps; 29 % 16 ; string 6 ; fret - 2
+  , 60 steps; 31 % 16 ; string 6 ; fret 0

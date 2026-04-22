@@ -1,0 +1,5 @@
+title: since it's a traversal, `ix` cannot add a nonexistent focus
+pid: b0cc3583-f87f-413f-83a4-ab687aaf8ec1
+body: |2-
+  > M.fromList [(1,2),(3,4)] & ix 5 .~ 5
+  fromList [(1,2),(3,4)]

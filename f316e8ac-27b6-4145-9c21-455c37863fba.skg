@@ -1,0 +1,18 @@
+title: '13\82 x 4\82: 29-limit -11 -17 -19'
+pid: f316e8ac-27b6-4145-9c21-455c37863fba
+body: |2-
+  [ 0 steps; 1 % 1 ; string 0 ; fret 0
+  , 82 steps; 2 % 1 ; string 6 ; fret 1
+  , 48 steps; 3 % 2 ; string 4 ; fret - 1
+  , 26 steps; 5 % 4 ; string 2 ; fret 0
+  , 66 steps; 7 % 4 ; string 6 ; fret - 3
+  , 14 steps; 9 % 8 ; string 2 ; fret - 3
+  , 57 steps; 13 % 8 ; string 5 ; fret - 2
+  , 74 steps; 15 % 8 ; string 6 ; fret - 1
+  , 7 steps; 17 % 16 ; string 3 ; fret - 8
+  , 20 steps; 19 % 16 ; string 4 ; fret - 8
+  , 32 steps; 21 % 16 ; string 4 ; fret - 5
+  , 43 steps; 23 % 16 ; string 3 ; fret 1
+  , 53 steps; 25 % 16 ; string 5 ; fret - 3
+  , 62 steps; 27 % 16 ; string 6 ; fret - 4
+  , 70 steps; 29 % 16 ; string 6 ; fret - 2

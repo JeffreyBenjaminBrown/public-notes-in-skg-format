@@ -1,0 +1,7 @@
+title: cloning involves recursive subscription
+pid: 81e02908-c814-43ca-9d2f-3d1cac4e6d15
+body: |2-
+  One can clone someone else's docuemnt, or part of it.
+  Suppose one clones D.
+  This creates a node D' in one's graph, subscribed to D,
+  whose initial contents are clones of the contents of D.

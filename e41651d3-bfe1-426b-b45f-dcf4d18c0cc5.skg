@@ -1,0 +1,4 @@
+title: the "do operator" is one where someone forces one of the variables
+pid: e41651d3-bfe1-426b-b45f-dcf4d18c0cc5
+body: |2-
+  For instance, you could (stupidly) force a barometer measurement by moving the needle. To understand that that would have no effect on pressure, which is correlated with the barometer reading, you would have to understand that pressure causes the reading, not vice-versa.

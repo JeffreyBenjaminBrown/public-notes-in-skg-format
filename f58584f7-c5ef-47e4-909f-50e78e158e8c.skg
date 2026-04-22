@@ -1,0 +1,8 @@
+title: gen_server:call( Server_name, message ).
+pid: f58584f7-c5ef-47e4-909f-50e78e158e8c
+body: |2-
+  Sends `message` to the server.
+  Server_name must be what was used in start_link.
+  Triggers [[id:1a46e14d-895c-4845-aef9-53241179fe0e][`handle_call`]] in the server.
+  The client blocks (I believe)
+  until it gets the server's response.

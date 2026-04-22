@@ -1,0 +1,13 @@
+title: pure types in Python
+aliases:
+- dataclasses in Python
+pid: 526b3876-94eb-42dd-a618-bd817311bbd8
+body: |2-
+  from dataclasses import dataclass
+
+  @dataclass
+  class Point:
+    x: float
+    y: float
+misc:
+- Had_ID_Before_Import

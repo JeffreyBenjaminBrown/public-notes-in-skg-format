@@ -1,0 +1,10 @@
+title: the "traversal tree"
+pid: 5e6b4667-7d02-4e61-993c-7c01b6aa26c4
+body: |2-
+  > :{
+  | traverseOf
+  | (both . traversed)
+  | (\c -> [toLower c, toUpper c])
+  | ("ab", "cd")
+  | :}
+  [("ab","cd"),("ab","cD"),("ab","Cd"),("ab","CD"),("aB","cd"),("aB","cD"),("aB","Cd"),("aB","CD"),("Ab","cd"),("Ab","cD"),("Ab","Cd"),("Ab","CD"),("AB","cd"),("AB","cD"),("AB","Cd"),("AB","CD")]x

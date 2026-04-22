@@ -1,0 +1,11 @@
+title: example
+pid: 9d19a35c-3e10-4fe3-afc6-61021e2c2654
+body: |2-
+    1> erlang:element(2, {a,b,c}).
+    b
+    2> element(2, {a,b,c}).
+    b
+    3> lists:seq(1,4).
+    [1,2,3,4]
+    4> seq(1,4).
+    ** exception error: undefined shell command seq/2

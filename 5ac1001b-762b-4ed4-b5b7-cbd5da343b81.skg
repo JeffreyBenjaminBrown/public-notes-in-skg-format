@@ -1,0 +1,5 @@
+title: thread on NixOS Discourse
+pid: 5ac1001b-762b-4ed4-b5b7-cbd5da343b81
+body: |2-
+  "Can I set the nice level for Nix build processes?"
+  https://discourse.nixos.org/t/can-i-set-the-nice-level-for-nix-build-processes/10596

@@ -1,0 +1,4 @@
+title: Given a kmer index, can look up any kmer from P in it,
+pid: f7f5436c-3beb-4d6e-9298-0cfe85e693c8
+body: |2-
+  and then do "verification" to see if the rest of P also matches at any of the "index hits" produced by the initial lookup.

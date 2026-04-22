@@ -1,0 +1,5 @@
+title: a recent reference
+pid: 6e045194-3a7c-4cec-acf4-54d38d03536a
+body: |2-
+  Tom Murphy wrote, May 19, 2020, 4:55 PM:
+  """ If you want to do the literal version of the above (separate synths, with their output fed into an audio effect), the term you're looking for is audio buses. I can whip up a quick example later, but the functions you need are "synthBefore" (to make sure the execution order is right) and aIn. You then send your signals to an audio bus instead of to bus 0 with "out." """

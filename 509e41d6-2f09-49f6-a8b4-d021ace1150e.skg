@@ -1,0 +1,4 @@
+title: 'example: enable inference'
+pid: 509e41d6-2f09-49f6-a8b4-d021ace1150e
+body: |2-
+  transaction typedb data read --infer true

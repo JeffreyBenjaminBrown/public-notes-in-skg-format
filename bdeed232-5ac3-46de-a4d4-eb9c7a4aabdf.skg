@@ -1,0 +1,8 @@
+title: '"get" methods encode the submission as plain text'
+pid: bdeed232-5ac3-46de-a4d4-eb9c7a4aabdf
+body: |2-
+  """
+  GET is suitable for things like a web search form, because
+  the URLs that represent a GET request can easily be bookmarked, shared, or
+  resubmitted.
+  """

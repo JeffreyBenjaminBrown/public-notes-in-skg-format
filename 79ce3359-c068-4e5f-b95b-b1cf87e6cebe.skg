@@ -1,0 +1,9 @@
+title: syntax & evaluation strategy
+pid: 79ce3359-c068-4e5f-b95b-b1cf87e6cebe
+body: |2-
+  Each line is evaluated,
+  and the result of its last expression is displayed.
+  Semicolons divide expressions on the same line.
+  [[id:e7ff348a-2c91-4be3-9ce2-c663091995f7][Pipes bind more tightly than semicolons.]]
+misc:
+- Had_ID_Before_Import

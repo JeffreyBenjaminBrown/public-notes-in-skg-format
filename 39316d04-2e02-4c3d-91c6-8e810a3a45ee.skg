@@ -1,0 +1,5 @@
+title: store position in register
+pid: 39316d04-2e02-4c3d-91c6-8e810a3a45ee
+body: |2-
+  Place cursor somewhere and run C-x r <SPC> <name>,
+  where <name> is a character.

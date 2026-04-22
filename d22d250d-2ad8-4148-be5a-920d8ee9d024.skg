@@ -1,0 +1,7 @@
+title: prevent popups
+pid: d22d250d-2ad8-4148-be5a-920d8ee9d024
+body: |2-
+  Under Tools / Options,
+  search for "auto list members"
+  and disable it.
+  C-space will bring them up when needed.

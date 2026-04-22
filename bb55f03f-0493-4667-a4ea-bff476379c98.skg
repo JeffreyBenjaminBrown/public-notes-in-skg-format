@@ -1,0 +1,4 @@
+title: '`gen_server:start_link` calls the `init` callback'
+pid: bb55f03f-0493-4667-a4ea-bff476379c98
+body: |2-
+  if name registration succeeds first.

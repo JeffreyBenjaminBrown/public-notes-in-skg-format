@@ -1,0 +1,6 @@
+title: quote
+pid: 2568aaca-5d19-4916-9e99-c3523a5bde54
+body: |2-
+     The Actions List (chapter 15) include actions to move or copy the contents of a time selection to the
+  cursor position. These are Time selection: move contents of time selection to edit cursor (moving later
+  items) and Time selection: copy contents of time selection to edit cursor (moving later items).

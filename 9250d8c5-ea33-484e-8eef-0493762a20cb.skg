@@ -1,0 +1,6 @@
+title: the transformation rules
+pid: 9250d8c5-ea33-484e-8eef-0493762a20cb
+body: |2-
+  x <- v; e becomes v >>= (\x => e)
+  v; e becomes v >> e
+  let x = v; e becomes let x = v in e

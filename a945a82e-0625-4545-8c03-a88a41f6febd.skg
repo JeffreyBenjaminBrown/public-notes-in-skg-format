@@ -1,0 +1,4 @@
+title: Each Erlang instance must have a name
+pid: a945a82e-0625-4545-8c03-a88a41f6febd
+body: |2-
+  $ erl -sname my_name

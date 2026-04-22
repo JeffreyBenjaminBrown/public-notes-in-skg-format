@@ -1,0 +1,17 @@
+title: 72 4 15
+pid: 893e44dd-136a-4bb9-8b44-eedc47042b27
+body: |2-
+     { etrEdo = 72
+     , etrTuning = Edo 72 ; StringGap 15 ; FretGap 4
+     , etrArea = 40
+     , etrLayout =
+  [ 0 steps; 1 % 1 ; string 0 ; fret 0
+  , 72 steps; 2 % 1 ; string 4 ; fret 3
+  , 42 steps; 3 % 2 ; string 2 ; fret 3
+  , 23 steps; 5 % 4 ; string 1 ; fret 2
+  , 58 steps; 7 % 4 ; string 2 ; fret 7
+  , 12 steps; 9 % 8 ; string 0 ; fret 3
+  , 33 steps; 11 % 8 ; string 3 ; fret - 3
+  , 50 steps; 13 % 8 ; string 2 ; fret 5
+  , 65 steps; 15 % 8 ; string 3 ; fret 5
+  ]

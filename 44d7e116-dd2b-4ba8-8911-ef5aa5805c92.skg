@@ -1,0 +1,4 @@
+title: if x is /any but y is specific (or vice-versa)
+pid: 44d7e116-dd2b-4ba8-8911-ef5aa5805c92
+body: |2-
+  Compute `Data.Graph.reachable y` for every value of y.

@@ -1,0 +1,7 @@
+title: It can be solved by rewriting the query
+pid: ef4b5fa2-33da-4115-9ce0-9e2e794755e4
+body: |2-
+  X <- children of Thor
+  Y <- children of Malox
+  W <- X or Y
+  Z <- for some W, Z knows W

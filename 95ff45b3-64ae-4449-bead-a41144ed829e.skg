@@ -1,0 +1,12 @@
+title: '63 3 10: straight, 0-idx 6 strings by 6 frets'
+pid: 95ff45b3-64ae-4449-bead-a41144ed829e
+body: |2-
+  ( Edo 63 ; StringGap 10 ; FretGap 3
+      [ 0 steps; 1 % 1 ; string 0 ; fret 0
+      , 63 steps; 2 % 1 ; string 6 ; fret 1
+      , 37 steps; 3 % 2 ; string 4 ; fret - 1
+      , 20 steps; 5 % 4 ; string 2 ; fret 0
+      , 51 steps; 7 % 4 ; string 6 ; fret - 3
+      , 11 steps; 9 % 8 ; string 2 ; fret - 3
+      , 29 steps; 11 % 8 ; string 2 ; fret 3
+      , 44 steps; 13 % 8 ; string 5 ; fret - 2

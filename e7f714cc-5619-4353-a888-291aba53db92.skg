@@ -1,0 +1,6 @@
+title: some context
+pid: e7f714cc-5619-4353-a888-291aba53db92
+body: |2-
+  I wrote these while building the UI for tax.co.web,
+  when Apache and/or Conda and/or Django was
+  using the wrong version of some Python library and/or Python itself.

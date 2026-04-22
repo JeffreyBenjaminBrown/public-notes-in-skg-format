@@ -1,0 +1,12 @@
+title: File Uploads in Django
+pid: ae710ad7-8b82-459d-a8e8-d8b67ccc4cce
+body: |2-
+  Search for the word "upload" in polls/views.py and polls/forms.
+contains:
+- 2ac7e81f-aa63-4765-a20a-829aa201b6a1
+- 6ea967d3-c6b6-4b3a-a21d-4881a7170285
+- d23898c5-eb78-4445-87c8-7949fa515327
+- 421d67ad-8c44-4da6-84ec-0b39fb363fe4
+- c26b8bbf-50d8-405e-b016-b3aee576f0a0
+misc:
+- Had_ID_Before_Import

@@ -1,0 +1,5 @@
+title: 'PITFALL: docs are redundant; I''m not sure which of these is better'
+pid: dd4b2e13-877f-4fb1-a72a-c52a1771b48c
+body: |2-
+  https://typedb.com/docs/typedb/2.x/fundamentals/queries
+  https://typedb.com/docs/typeql/2.x/data/get

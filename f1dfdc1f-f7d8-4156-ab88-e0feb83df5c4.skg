@@ -1,0 +1,7 @@
+title: create a module which exports a larger API from other sub-modules
+pid: f1dfdc1f-f7d8-4156-ab88-e0feb83df5c4
+body: |2-
+  module                          Books
+
+  import public Books.Hardback as Books
+  import public Books.Comic    as Books

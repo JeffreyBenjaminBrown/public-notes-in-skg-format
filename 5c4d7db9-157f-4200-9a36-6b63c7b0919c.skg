@@ -1,0 +1,11 @@
+title: parameters
+pid: 5c4d7db9-157f-4200-9a36-6b63c7b0919c
+body: |2-
+  ordered (I think) from most to least generic
+
+  voice=0,   -- tone
+  sustain=1, -- not clear how this differs from decay
+  decay=1,   -- not clear how this differs from sustain
+  accelerate,
+  freq,
+  pan,

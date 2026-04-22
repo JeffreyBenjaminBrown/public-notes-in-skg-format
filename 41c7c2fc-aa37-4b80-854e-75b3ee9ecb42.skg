@@ -1,0 +1,9 @@
+title: These are all equivalent
+pid: 41c7c2fc-aa37-4b80-854e-75b3ee9ecb42
+body: |2-
+  quickCheck $ do
+    prop_1
+    prop_2
+  quickCheck $ do
+    describe "Walks like a duck"  prop_1
+    describe "Quacks like a duck" prop_2

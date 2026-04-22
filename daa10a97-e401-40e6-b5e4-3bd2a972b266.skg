@@ -1,0 +1,9 @@
+title: 'partsOf :: Traversal'' s a -> Lens'' s [a]'
+pid: daa10a97-e401-40e6-b5e4-3bd2a972b266
+body: |2-
+  Converts a traversal into a lens over a list of its elements.
+contains:
+- a67ac1f2-29f8-4ba7-a367-f3dcbe502533
+- 1283148c-24d1-4201-9bbe-7506d1eb3352
+- 5a925690-9d3b-4bc7-ab0c-0c630feb518f
+- cc2e85e2-3a0b-486e-b67d-992bd72be5a1

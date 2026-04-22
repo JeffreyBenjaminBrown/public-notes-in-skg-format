@@ -1,0 +1,4 @@
+title: Modify a rule by simply redefining it.
+pid: 883f7260-ede2-48d1-84b4-92883c5dda3c
+body: |2-
+  That overwrites the earlier rule upon commit.

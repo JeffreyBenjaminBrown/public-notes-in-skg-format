@@ -1,0 +1,4 @@
+title: 'start Tidal: C-c C-s'
+pid: 4fc65b4a-ef56-4c14-b97a-6623f7aacc64
+body: |2-
+  This will work, at least, from a file ending in .tidal.

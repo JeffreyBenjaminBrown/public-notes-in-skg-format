@@ -1,0 +1,6 @@
+title: allow publishing online
+pid: a4f3d1cb-d06b-4807-a8d7-adfa3ab9368e
+body: |2-
+  Make a page for each node.
+  For each uncontained node, the page should be saved in text from a recursive traversal, with anchors to anything that needs it. (My org-roam publishing code makes github-style anchors.)
+  Generate for each node an initial "nodes linking here" branch, and a second "nodes subscribing here" branch. Private nodes should be excluded from this public view of the public notes. (They could be included in a private view of the public notes.)

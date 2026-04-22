@@ -1,0 +1,8 @@
+title: 'PITFALL: the word "form" is a minefield'
+pid: 7d7260e9-5dbc-4f28-a63c-1a146076c1e6
+body: |2-
+  """
+  In the context of a Web application, ‘form’ might refer to that HTML <form>, or
+  to the Django Form that produces it, or to the structured data returned when
+  it is submitted, or to the end-to-end working collection of these parts.
+  """

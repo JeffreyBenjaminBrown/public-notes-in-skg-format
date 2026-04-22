@@ -1,0 +1,4 @@
+title: '`any` is not really a type.'
+pid: 35531286-fd7d-4001-9b24-ea2f1f470589
+body: |2-
+  It just turns off the typechecker.

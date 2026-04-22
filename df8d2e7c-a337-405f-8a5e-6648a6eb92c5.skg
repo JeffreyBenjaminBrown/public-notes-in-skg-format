@@ -1,0 +1,6 @@
+title: N should hide H from its subscriptions only if N subscribes to something that contains H.
+pid: df8d2e7c-a337-405f-8a5e-6648a6eb92c5
+contains:
+- 83f8392d-3b5c-4230-90d4-84494a491bff
+- 4ab533ab-8d6a-412e-9f1f-6384fc53814d
+- 401a1519-90f9-4e8d-a5a2-7ff084a57d46

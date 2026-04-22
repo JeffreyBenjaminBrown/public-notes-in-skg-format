@@ -1,0 +1,4 @@
+title: why I thought that
+pid: 00e47f61-782c-463e-a0da-6c47943222ab
+body: |2-
+  Somewhere in the docs it seemed to indicate that if you want to indicate that an entity can, for a certain kind of role, play that role in only one relationship, you attach that information to the entity definition, not the relationship definition. (But I haven't thought of anything else that one could possibly mean by attaching it to the relationship definition, if not to apply that rule to all entities that can play the role.)

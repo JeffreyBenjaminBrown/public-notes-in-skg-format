@@ -1,0 +1,8 @@
+title: 'PITFALL: Django recommend separate Apache instances'
+pid: 51fd4ee4-f21d-4479-9868-1343babd7564
+body: |2-
+  for Django and other work, if I need Apache outside of the Django context too
+  (because I'm hosting multiple sites in the same domain).
+contains:
+- a8a214cd-47fd-4930-8ff6-beb7313a8bee
+- 547ad754-f9ea-4e7d-8d90-4e83d16ad6c1

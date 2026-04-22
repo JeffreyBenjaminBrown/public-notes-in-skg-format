@@ -1,0 +1,5 @@
+title: strings can be delimited by 4 ' symbols
+pid: a8083f82-0aff-4cf7-9087-1c6817027e47
+body: |2-
+  "a" is the same as ''a''.
+  Useful if a string includes the " symbol.

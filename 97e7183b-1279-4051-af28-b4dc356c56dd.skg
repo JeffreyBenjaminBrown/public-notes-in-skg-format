@@ -1,0 +1,6 @@
+title: example
+pid: 97e7183b-1279-4051-af28-b4dc356c56dd
+body: |2-
+  For instance, the display of this (at address 153 in jbb/)
+     ###re ##solve tmux #has-problem sometimes the status bar is cluttered ##by keep only window names ###note-that status-right #can put any label at the right of the status bar, e.g. the current time.
+  includes a 121-character-long line.

@@ -1,0 +1,10 @@
+title: 'explicitdef detail(request, question_id):'
+pid: cf812b54-14bb-46dc-946f-2736a8500856
+body: |2-
+  try:
+    question = Question.objects.get( pk=question_id )
+  except Question.DoesNotExist:
+    raise Http404( "Question does not exist" )
+  return render( request,
+                 'polls/detail.html',
+                 {'question': question} )

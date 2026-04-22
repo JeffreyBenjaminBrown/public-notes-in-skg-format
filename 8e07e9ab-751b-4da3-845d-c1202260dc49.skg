@@ -1,0 +1,4 @@
+title: 'TODO PITFALL: must first procedurally uninstall org-roam'
+pid: 8e07e9ab-751b-4da3-845d-c1202260dc49
+body: |2-
+  and whatever dependencies were installed as a result (e.g. emacssql-sqlite3).

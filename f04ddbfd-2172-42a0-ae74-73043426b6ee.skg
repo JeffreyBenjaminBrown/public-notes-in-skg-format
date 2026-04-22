@@ -1,0 +1,6 @@
+title: '"Do notation" is just syntactic sugar for (>>=) and (>>).'
+pid: f04ddbfd-2172-42a0-ae74-73043426b6ee
+contains:
+- 9250d8c5-ea33-484e-8eef-0493762a20cb
+- 81dc74be-50d0-49bd-a701-0e730e755233
+- 82652a37-1769-48c5-b876-7e16d0a0eb46

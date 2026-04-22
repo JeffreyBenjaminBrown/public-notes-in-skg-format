@@ -1,0 +1,9 @@
+title: '"query parameters" in URLs'
+pid: 3b573192-daa3-48f5-81fc-9f0b97100d78
+body: |2-
+  are the key-value pairs, separated by `&`, that appear after the `?`
+contains:
+- c9e8f911-2c0f-4c05-8d5e-3a462257a2ce
+- 96d8ab17-1992-4719-8f26-14ffac6763e3
+misc:
+- Had_ID_Before_Import

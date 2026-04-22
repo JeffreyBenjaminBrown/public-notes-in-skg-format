@@ -1,0 +1,11 @@
+title: it
+pid: 1255b02e-8eb0-4610-bd6d-647e1535caff
+body: |2-
+     define
+
+     rule <rule-label>:
+     when {
+  ## the conditions
+     } then {
+  ## the conclusion
+     };

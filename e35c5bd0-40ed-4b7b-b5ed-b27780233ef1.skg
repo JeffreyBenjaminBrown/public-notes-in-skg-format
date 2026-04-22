@@ -1,0 +1,5 @@
+title: This defines anything to be installed via virtualenv.
+pid: e35c5bd0-40ed-4b7b-b5ed-b27780233ef1
+body: |2-
+  If installing it via virtualenv doesn't work,
+  try putting it instead in `pip-shell.nix`.

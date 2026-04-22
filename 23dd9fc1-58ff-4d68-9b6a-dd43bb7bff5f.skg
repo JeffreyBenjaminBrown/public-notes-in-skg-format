@@ -1,0 +1,5 @@
+title: They are effectively* lightweight threads
+pid: 23dd9fc1-58ff-4d68-9b6a-dd43bb7bff5f
+body: |2-
+  *but not literally --
+  many goroutines get chunked into a single OS thread.

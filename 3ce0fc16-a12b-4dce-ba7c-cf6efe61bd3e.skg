@@ -1,0 +1,13 @@
+title: an example
+pid: 3ce0fc16-a12b-4dce-ba7c-cf6efe61bd3e
+body: |2-
+  define
+
+  abstract-person sub entity, abstract, plays friendship:friend; #abstract
+  friendship sub relation, relates friend;  #non-abstract
+
+  rule concrete-relation-over-abstract-players:
+  when {
+     $x isa abstract-person;
+  } then {
+     (friend: $x) isa friendship;};

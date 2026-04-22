@@ -1,0 +1,23 @@
+title: If caller has a nonempty mailbox, a `receive` in a subfunction will immediately read it.
+pid: a5d0a81c-0856-420a-8d53-23753348d99c
+body: |2-
+  For instance, try running test_inner_receiver().
+
+  receiver_nest() ->
+      timer:sleep(1000),
+      inner_receiver().
+
+  inner_receiver() ->
+      receive X ->
+         io:format("You said ~s~n",[X]),
+         inner_receiver()
+      after 0 ->
+         done
+      end.
+
+  test_inner_receiver() ->
+      Rn = spawn( ?MODULE, receiver_nest, [] ),
+      Rn ! "Hi!",
+      Rn ! "Bye!".
+misc:
+- Had_ID_Before_Import

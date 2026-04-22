@@ -1,0 +1,7 @@
+title: has this effect
+pid: 1b41b4c7-432e-4090-8651-38b8a83b9ae2
+body: |2-
+  It runs the recipe for d if any of a, b or c
+  is stale (older than either of i1 or i2).
+  And, critically, it does *not* run that recipe more than once
+  when more than one of a, b and c are stale.

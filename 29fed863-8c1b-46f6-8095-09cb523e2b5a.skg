@@ -1,0 +1,5 @@
+title: convert time to timedelta from start of 2020, then call totalseconds
+pid: 29fed863-8c1b-46f6-8095-09cb523e2b5a
+body: |2-
+  Note that the default np.float type is float64,
+  what some other languages call double.

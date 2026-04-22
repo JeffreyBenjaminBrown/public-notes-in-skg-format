@@ -1,0 +1,19 @@
+title: Avoid name collisions by not qualifying imports to the master test.
+pid: ae2e5781-7188-4c3d-8571-c53ca3b5f2aa
+body: |2-
+    For instance:
+
+  module Montevideo.Test where
+
+  import Test.HUnit
+
+  import Montevideo.JI.Thanos.Test
+  import Montevideo.Monome.Test.EdoMath
+  ...
+
+  allTests :: IO Counts
+  allTests = runTestTT $ TestList
+    [ Montevideo.JI.Thanos.Test.tests
+    , Montevideo.Monome.Test.EdoMath.tests
+    ...
+    ]

@@ -1,0 +1,6 @@
+title: Functions accordion the stack.
+pid: d93008d7-0351-4d2e-958b-cc09b99335af
+body: |2-
+  Each function call pushes variables to the stack --
+    local ones, and arguments.
+  When it returns, what it pushed pops off.

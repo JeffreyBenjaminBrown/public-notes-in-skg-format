@@ -1,0 +1,6 @@
+title: Whether to move the edit cursor during actions
+pid: e42ccc25-7123-469a-ba1b-e12709b7820a
+body: |2-
+  like changing time selection or inserting media.
+contains:
+- 980f2e2a-10cb-4fb2-aaee-3847be608b1a

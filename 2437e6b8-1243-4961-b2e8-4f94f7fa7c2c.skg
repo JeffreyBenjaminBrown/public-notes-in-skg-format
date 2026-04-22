@@ -1,0 +1,5 @@
+title: quote from Turing.com
+pid: 2437e6b8-1243-4961-b2e8-4f94f7fa7c2c
+body: |2-
+  https://www.turing.com/interview-questions/python
+  "Lists have to be dynamically typed which means that every data element type must be checked by Python, every time it is typed. As compared to lists, data structures in NumPy occupy less space, are faster, and have built-in optimized structures like linear algebra."

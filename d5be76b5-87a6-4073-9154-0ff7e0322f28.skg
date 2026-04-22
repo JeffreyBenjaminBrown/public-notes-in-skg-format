@@ -1,0 +1,5 @@
+title: the script (one line)
+pid: d5be76b5-87a6-4073-9154-0ff7e0322f28
+body: |2-
+  # the sed "script" `1,4d` deletes lines 1 through 4
+  sed -e "1,4d" ~/org-roam/tech/emacs/emacs_on_termux_a_config_el_file_for.org > ~/.emacs

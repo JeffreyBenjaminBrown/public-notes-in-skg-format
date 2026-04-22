@@ -1,0 +1,10 @@
+title: Rust
+pid: 0e69566c-d6d8-4fd3-b055-6fbaecb6761a
+body: |2-
+  17k jobs on Linkedin
+  Generics
+  Sum types
+  Iterators (appear equivalent to comprehensions)
+  HKTs
+  Monads
+  Software Transactional Memory

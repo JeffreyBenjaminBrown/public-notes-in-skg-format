@@ -1,0 +1,7 @@
+title: 'PITFALL: On NixOS, using SC with plugins requires some configuration.'
+pid: b45a1d6d-3cef-472e-9c4f-44b8296bd17e
+contains:
+- 449e1fa3-d113-434e-8435-a2b5f850988e
+- b87d32a5-6a2f-471e-b6cd-51099f6e8b33
+misc:
+- Had_ID_Before_Import

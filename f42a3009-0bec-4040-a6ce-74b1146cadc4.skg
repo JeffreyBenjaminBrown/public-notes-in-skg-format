@@ -1,0 +1,6 @@
+title: '"EnumerationType: shorthand for a union of units"'
+pid: f42a3009-0bec-4040-a6ce-74b1146cadc4
+body: |2-
+  An Enumeration is, more specifically,
+  a *finite* union of elements,
+  which a user must explicitly list, yes?

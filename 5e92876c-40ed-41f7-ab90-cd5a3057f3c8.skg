@@ -1,0 +1,7 @@
+title: '{swap_handler, Args1, NewState, NewHandler, Args2}'
+pid: 5e92876c-40ed-41f7-ab90-cd5a3057f3c8
+body: |2-
+  Rarely used.
+  Calls these in serial:
+    CurrentHandler:terminate(Args1, NewState)
+    NewHandler:init(Args2, ResultFromTerminate)

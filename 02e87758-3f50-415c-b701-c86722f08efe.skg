@@ -1,0 +1,4 @@
+title: Single-line tail Comments are different in ordinary SQL.
+pid: 02e87758-3f50-415c-b701-c86722f08efe
+body: |2-
+  In ordinary SQL they use -- rather than #.

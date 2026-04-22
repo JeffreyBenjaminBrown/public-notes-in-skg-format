@@ -1,0 +1,4 @@
+title: text-property-any start end prop value
+pid: dc0b3274-d91f-43e6-b404-d4df483f83f0
+body: |2-
+  returns non-nil if at least one character between start and end has a property prop whose value is value

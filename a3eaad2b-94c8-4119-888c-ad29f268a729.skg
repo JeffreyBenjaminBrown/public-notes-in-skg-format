@@ -1,0 +1,4 @@
+title: 'to cast: use "into"'
+pid: a3eaad2b-94c8-4119-888c-ad29f268a729
+body: |2-
+  "-5" | into int

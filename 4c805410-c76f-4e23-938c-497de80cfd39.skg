@@ -1,0 +1,4 @@
+title: Methods and their receiver types must be declared in the same package.
+pid: 4c805410-c76f-4e23-938c-497de80cfd39
+body: |2-
+  Potentially useful: [[id:513632ba-83db-4367-a764-8b45f15db3b4][type synonyms]].

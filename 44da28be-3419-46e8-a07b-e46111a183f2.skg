@@ -1,0 +1,8 @@
+title: AWS Lightsail
+pid: 44da28be-3419-46e8-a07b-e46111a183f2
+body: |2-
+  A higher-level interface to [[id:da25bd69-a967-4393-bfa7-817f4c7eaa47][AWS EC2]].
+  Hides many configuration details, e.g. security.
+  Has been accused of burying errors in logs and being harder to manipulate outside of its default parameters.
+misc:
+- Had_ID_Before_Import

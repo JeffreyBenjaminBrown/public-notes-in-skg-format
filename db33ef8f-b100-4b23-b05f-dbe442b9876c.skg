@@ -1,0 +1,18 @@
+title: for more speed, while still pretty simple
+pid: db33ef8f-b100-4b23-b05f-dbe442b9876c
+body: |2-
+  (*much* simpler than the input-output-matching varPossibilities strategy I was working on)
+
+  Track inputs and outputs.
+  Then, to cut down on the number of varPossibilities tried, allow the user to ask for one flavor (variable name) of input or output to one found Query result.
+  Any additional input-output-matching criteria are imposed via VarTest.
+
+  How inputs are tracked (already true):
+    Look up a result Var in the Possible.
+    In the resulting CondElts, look up a value for the same Var.
+    This produces all the possible Substs that could lead there.
+  How outputs could be tracked:
+    Look up an input Var in the Possible.
+    In the resulting [?], Look up a value of that Var.
+    In the resulting [?], look up the output Var.
+    This produces all the possible values that input value could cause in the output.

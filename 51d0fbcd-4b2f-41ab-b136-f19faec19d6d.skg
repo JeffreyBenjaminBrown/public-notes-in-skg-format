@@ -1,0 +1,5 @@
+title: Modifying the DP algorithm to for this is easy.
+pid: 51d0fbcd-4b2f-41ab-b136-f19faec19d6d
+body: |2-
+  Rather than adding 1 for each edit,
+  add something pulled from the penalty matrix.

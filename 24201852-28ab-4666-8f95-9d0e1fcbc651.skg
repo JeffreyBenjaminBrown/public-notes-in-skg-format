@@ -1,0 +1,7 @@
+title: TODO maybe add more frets near nut
+pid: 24201852-28ab-4666-8f95-9d0e1fcbc651
+body: |2-
+  Don't forget to make it 34-edo near the nut,
+  for an odd number of frets
+  (11 would be appealingly symmetric, given the tuning)
+  so that the octave fret is present.

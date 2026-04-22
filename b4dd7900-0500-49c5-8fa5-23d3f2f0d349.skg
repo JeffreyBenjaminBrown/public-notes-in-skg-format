@@ -1,0 +1,11 @@
+title: 'KEY: Project the velocity forward in time.'
+pid: b4dd7900-0500-49c5-8fa5-23d3f2f0d349
+body: |2-
+  Use SC's "lag" filter.
+  When button 2 (of say 16) in the gliss row is triggered,
+  compute the difference between the time that one was triggered
+  and the time the first one was.
+  Double that time and add it to the time the first was triggered.
+  That's the time the third should be reached if speed is constant.
+  Send that instruction.
+  Keep doing that for each new button.

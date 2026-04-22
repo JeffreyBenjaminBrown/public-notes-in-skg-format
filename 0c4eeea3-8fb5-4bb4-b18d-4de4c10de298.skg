@@ -1,0 +1,8 @@
+title: Tell Qjackctl to use it
+pid: 0c4eeea3-8fb5-4bb4-b18d-4de4c10de298
+body: |2-
+  Select it as the input and/or the output source under
+    QJackCtl -> Setup -> Settings -> Advanced.
+  It will be called something like "hw:USB",
+    and if you click on that menu you'll see more detail:
+    hw:USB    Scarlett 2x4 ...

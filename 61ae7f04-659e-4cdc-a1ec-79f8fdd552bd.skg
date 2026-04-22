@@ -1,0 +1,5 @@
+title: cell traversal shortcuts
+pid: 61ae7f04-659e-4cdc-a1ec-79f8fdd552bd
+body: |2-
+  C-S-F2: go to formula window
+  C-S-T: go to cell address window ("(T)raverse", probably)

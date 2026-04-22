@@ -1,0 +1,4 @@
+title: example of a URL with query parameters
+pid: c9e8f911-2c0f-4c05-8d5e-3a462257a2ce
+body: |2-
+  http://example.com/path?name=Branch&products=[Journeys,Email,Universal%20Ads]

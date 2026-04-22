@@ -1,0 +1,4 @@
+title: registered()
+pid: 3e37e14b-2e7d-43fd-86e9-1380c9f04808
+body: |2-
+  Returns a list of names that have been registered using register/2.

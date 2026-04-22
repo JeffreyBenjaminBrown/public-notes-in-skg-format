@@ -1,0 +1,5 @@
+title: Only if using UEFI, mount the boot file system.
+pid: 019e1533-65bf-461e-b09a-bd733f4065f2
+body: |2-
+  sudo mkdir -p /mnt/boot
+  sudo mount /dev/disk/by-label/boot /mnt/boot

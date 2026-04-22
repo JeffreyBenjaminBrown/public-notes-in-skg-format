@@ -1,0 +1,4 @@
+title: use `awk` to stick `kill` in front of each PID, then send to `sh`
+pid: d0d28554-2f36-4d84-9b7a-d0a709f40778
+body: |2-
+  ps -ef | grep "emacs" | awk '{print "kill " $2}' | sh

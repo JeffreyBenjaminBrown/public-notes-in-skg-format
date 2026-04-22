@@ -1,0 +1,2 @@
+title: '"Default implementations can call other methods in the same trait, even if those other methods don’t have a default implementation."'
+pid: fdf946e3-a343-4fcc-bf2d-436ff637f4ae

@@ -1,0 +1,6 @@
+title: Some edges are redundant.
+pid: f94f7595-253b-43ac-bded-ee9c7437d408
+body: |2-
+  So discard them.
+contains:
+- 08bddb20-aa03-40e4-aea1-8835e3f93cfb

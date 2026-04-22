@@ -1,0 +1,6 @@
+title: If no value is (explicitly) assigned
+pid: 00f85d37-7d99-4586-bef0-7122b652c941
+body: |2-
+  the variable is given "the zero value",
+  depending on its type:
+  "", 0, and false.

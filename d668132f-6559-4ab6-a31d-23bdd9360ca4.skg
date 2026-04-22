@@ -1,0 +1,4 @@
+title: 'another view of the same buffer : "indirect buffer"'
+pid: d668132f-6559-4ab6-a31d-23bdd9360ca4
+body: |2-
+  Has a separate point, separate markers, etc. but same text.

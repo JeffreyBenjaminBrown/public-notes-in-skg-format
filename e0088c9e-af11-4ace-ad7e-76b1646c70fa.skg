@@ -1,0 +1,12 @@
+title: '''locally invisible'' vs. ''locally visible'''
+pid: e0088c9e-af11-4ace-ad7e-76b1646c70fa
+body: |2-
+  All of one's own nodes are locally visible.
+  If one's node S overrides another's node T,
+  and T recursively contains T' but S' hides that from view,
+  then S' might be locally visible or locally invisible.
+  It is locally visible if, in the repos one sees
+    (not just the ones one can edit)
+    there exists node N, such that
+      N recursively contains S', and
+      N is not overridden.

@@ -1,0 +1,7 @@
+title: promp
+pid: d98ae0d6-b587-466a-bff5-1e19d476bed6
+body: |2-
+  Awesome. I'll be loooking over that stuff soon.
+  A few times while I looked at your chain of thought I wished the backlinks showed up automatically in your view of my data. Let's create a tool for you, so that happens automatically.
+  Given an org-file, this creates a 'for Claude' view of that file. It is the file with some insertions. Namely, after every properties bucket, there appears a child called 'backlinks', with a link (formatted just like the other links) appearing as a grandchild for each place that targets the properties bucket. If the properties bucket is the one fo the file itself, the backlinks should be the first headline (first single-asterisk line) in the file as viewed by you (this does not edit my data!), and the backlinks are collected under it as level-2 children. If instead the properties bucket is in, say, some level-3 headline in the file, then the generated backlinks node should be its first child, at level 4, and should contain all the backlinks at level 5.
+  Write that code and then show me the view it generates for you if you run it on 'public/motivation.org'.

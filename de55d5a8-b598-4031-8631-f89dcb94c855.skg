@@ -1,0 +1,6 @@
+title: Its view can be simplified by toggling the option "Show non-standard stereo channel pairs"
+pid: de55d5a8-b598-4031-8631-f89dcb94c855
+body: |2-
+  (2,3) is an example of a nonstandard pair.
+misc:
+- Had_ID_Before_Import

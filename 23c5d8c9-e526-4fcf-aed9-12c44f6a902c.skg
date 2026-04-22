@@ -1,0 +1,7 @@
+title: Then compile it.
+pid: 23c5d8c9-e526-4fcf-aed9-12c44f6a902c
+body: |2-
+  alternatives
+contains:
+- 5037ccc0-9eda-4d43-b703-1f646fd4fd19
+- e8298fc5-84b1-46c8-9d78-32d30e6b9b8a

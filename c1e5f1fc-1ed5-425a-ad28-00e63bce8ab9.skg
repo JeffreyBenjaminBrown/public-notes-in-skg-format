@@ -1,0 +1,7 @@
+title: how I usually run it
+pid: c1e5f1fc-1ed5-425a-ad28-00e63bce8ab9
+body: |2-
+  rsync -av source source ... source destination
+  with [[id:0ec81667-d191-498a-b5d1-faadbd48e85d][no trailing slashes]] on any of the sources.
+contains:
+- d862c684-fcb4-45e3-8bc8-48e1aa56215b

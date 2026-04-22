@@ -1,0 +1,4 @@
+title: defining the arrow direction
+pid: 3651906e-b4d3-4b82-b6c8-cbe7d7afa41c
+body: |2-
+  Arrows point from the read that matches on its suffix to the one whose prefix it matches.

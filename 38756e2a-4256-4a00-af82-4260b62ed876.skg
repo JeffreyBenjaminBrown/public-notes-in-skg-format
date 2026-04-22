@@ -1,0 +1,6 @@
+title: cp config
+pid: 38756e2a-4256-4a00-af82-4260b62ed876
+body: |2-
+  sudo cp ~/install/configs/configuration.7.weird-details /etc/nixos/configuration.nix
+  sudo cp ~/install/configs/packages.9.audio.transfer-complete /etc/nixos/packages.nix
+  sudo cp ~/install/configs/emacs.nix /etc/nixos/

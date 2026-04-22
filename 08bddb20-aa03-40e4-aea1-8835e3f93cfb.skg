@@ -1,0 +1,5 @@
+title: An example.
+pid: 08bddb20-aa03-40e4-aea1-8835e3f93cfb
+body: |2-
+  In an graph whose nodes are kmers,
+  A -6-> B and B -6-> C imply A -5-> C.

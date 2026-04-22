@@ -1,0 +1,6 @@
+title: Ceases charges for compute, but storage costs
+pid: 6e5d4231-8e01-475f-bc07-7b7e9749e8fa
+body: |2-
+  continue to be charged,
+  unless the storage is on S3
+  (because that's already charged separately, I guess).

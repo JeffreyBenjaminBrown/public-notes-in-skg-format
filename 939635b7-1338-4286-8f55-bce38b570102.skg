@@ -1,0 +1,9 @@
+title: It's *like* the default buffer depth is 1,
+pid: 939635b7-1338-4286-8f55-bce38b570102
+body: |2-
+  but at least at 13:25 in this video
+    https://www.youtube.com/watch?v=f6kdp27TYZs
+  Rob Pike says that
+    "buffered channels have different properties".
+  In particular, they don't synchronize
+  the way unbuffered channels do.

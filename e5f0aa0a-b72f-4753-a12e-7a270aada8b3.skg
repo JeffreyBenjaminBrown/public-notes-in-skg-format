@@ -1,0 +1,9 @@
+title: why
+pid: e5f0aa0a-b72f-4753-a12e-7a270aada8b3
+body: |2-
+  e.g. because (and why can this happen?)
+  two identical templates exist at different addresses.
+
+  For an example of that error,
+  see jbb/ until (but not after)
+  commit 15201a6561b4181695f72bcb176136f43c94f853

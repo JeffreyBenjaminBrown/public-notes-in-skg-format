@@ -1,0 +1,4 @@
+title: get-text-property
+pid: 3067d8e7-f71d-4a2f-a577-d3057f2cb04b
+body: |2-
+  Gets the property at a character.

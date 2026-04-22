@@ -1,0 +1,5 @@
+title: emacs code I was using for it
+pid: 9f0abd7f-e548-4938-b87e-22bb02992e68
+body: |2-
+  ;; helm-swoop: two-panel string matching
+  (global-set-key (kbd "C-c C-j s") 'helm-swoop)

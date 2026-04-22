@@ -1,0 +1,4 @@
+title: Brackets might be optional.
+pid: 7e557792-dc2c-4e70-8cc9-a1cf6838183e
+body: |2-
+  They are optional if the body only has one expression.

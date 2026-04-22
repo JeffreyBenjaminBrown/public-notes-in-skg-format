@@ -1,0 +1,7 @@
+title: quote from manual (v. 6.70)
+pid: 2fe62b1d-94f0-4cca-aef5-3376d69a1a38
+body: |2-
+  Select the track(s) then right click over the record arm button for any track in the selection and
+  choose Automatic record arm when track selected. This command can be toggled on and off.
+  To set all tracks to auto arm, choose the Track command from the main menu, then Set all tracks to
+  automatic record arm when selected.

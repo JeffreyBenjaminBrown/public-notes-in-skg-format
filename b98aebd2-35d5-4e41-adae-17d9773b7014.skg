@@ -1,0 +1,6 @@
+title: 'idea: add Maybe to Note, and banish bare Msg values in a Museq'
+pid: b98aebd2-35d5-4e41-adae-17d9773b7014
+body: |2-
+  Stop using the Museq ScParams type.
+  Instead use Museq Note',
+  where Note' is like Note but the synthdef is wrapped in a Maybe.

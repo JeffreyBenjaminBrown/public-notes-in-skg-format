@@ -1,0 +1,7 @@
+title: '`M-x hode-save-note` changes the text of the note'
+pid: 14b797af-c44f-48c6-a566-009db9d52aac
+body: |2-
+  It reads the invisible UID to see what it is,
+  It finds the earliest bullet on this or a preceding line,
+  and goes to the next bullet or the end of the buffer.
+  If the early bullet indicates the text is not in the graph, it might add a new note to the graph. But

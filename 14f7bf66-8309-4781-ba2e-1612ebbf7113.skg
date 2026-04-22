@@ -1,0 +1,7 @@
+title: comments
+pid: 14f7bf66-8309-4781-ba2e-1612ebbf7113
+body: |2-
+  The session name is mandatory.
+  The window and pane are optional, but they seem like a good idea.
+  If there is only the default session, "-L <server name>" is unnecessary.
+  "Enter" should be spelled out explicitly, unquoted.

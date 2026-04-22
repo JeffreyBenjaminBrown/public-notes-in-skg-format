@@ -1,0 +1,11 @@
+title: schemas of the org-roam db tables
+pid: 179412a6-0c6b-4207-b682-f4199f4b4b70
+body: |2-
+  There are seven tables.
+contains:
+- c2e432b0-854b-4764-bd74-b430f9c4b7d7
+- 422ac8a9-e9c1-4f44-a4af-c0bb623c078b
+- bc728b0c-b110-4781-87ea-ef511ab7be09
+- 3819cc72-9c2e-47db-a552-f5d6aa2c49d5
+misc:
+- Had_ID_Before_Import

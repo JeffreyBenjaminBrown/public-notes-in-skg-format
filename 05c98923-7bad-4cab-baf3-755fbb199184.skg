@@ -1,0 +1,6 @@
+title: You will need to study changes in order to hunt bugs.
+pid: 05c98923-7bad-4cab-baf3-755fbb199184
+body: |2-
+  Something will break. When it does, you'll want to be able to isolate the code that broke. It may have broken months ago. Without a version control history, you'll have to compare the code as it exists now to the code as it existed at some random point in history. Even for a small codebase, isolating the relevant difference can be unbelievably difficult.
+
+  By contrast, with version control, rather than comparing two monoliths, you can isolate a narrow set of changes -- maybe only a few lines -- that are responsible for the break. (This assumes you use your version control software correctly -- that is, your commits are frequent, small and described well in the git comment.)

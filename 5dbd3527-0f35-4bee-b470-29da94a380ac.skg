@@ -1,0 +1,2 @@
+title: The syntax { field := val, ... } generates a function which updates the given fields in a record. := assigns a new value to a field, and $= applies a function to update its value
+pid: 5dbd3527-0f35-4bee-b470-29da94a380ac

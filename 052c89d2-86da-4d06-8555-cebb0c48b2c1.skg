@@ -1,0 +1,7 @@
+title: TODO what is the default group in Kubuntu?
+pid: 052c89d2-86da-4d06-8555-cebb0c48b2c1
+body: |2-
+  I have to change not only the id (to jeff=1000),
+  but the default group, too.
+contains:
+- 98cb113f-af25-4aa5-92a9-82450806fe01

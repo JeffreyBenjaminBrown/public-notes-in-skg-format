@@ -1,0 +1,16 @@
+title: intervals on a 17\87-isomorphically tuned 43.5-edo guitar
+pid: c5614931-93c1-47ef-af57-688ea003e96f
+body: |2-
+  (\*17) <$> [0..5] = [0,17,34,51,68,85,102]
+
+  28\87 = 5 % 4  = 2 strings - 3 frets
+  40\87 = 11 % 8 = 2 strings + 3 frets
+  51\87 = 3 % 2  = 3 strings
+  61\87 = 13 % 8 = 3 strings + 5 frets
+  70\87 = 7 % 4  = 4 strings + 1 frets
+  87\87 = 2 % 1  = 5 strings + 1 frets
+
+  16/15 = 8  \ 87 =             4 frets
+  8/7   = 17 \ 87 = 1 string
+  7/6   = 19 \ 87 = 1 string  + 1 fret
+  6/5   = 23 \ 87 = 1 string  + 3 frets

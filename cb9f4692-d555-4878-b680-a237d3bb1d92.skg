@@ -1,0 +1,4 @@
+title: The first element is not evaluated, and determines tje form's kind.
+pid: cb9f4692-d555-4878-b680-a237d3bb1d92
+body: |2-
+  The first step in evaluating a nonempty list is to examine its first element. This element alone determines what kind of form the list is and how the rest of the list is to be processed.

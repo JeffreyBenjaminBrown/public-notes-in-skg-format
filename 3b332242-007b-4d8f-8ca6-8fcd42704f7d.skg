@@ -1,0 +1,5 @@
+title: definition
+pid: 3b332242-007b-4d8f-8ca6-8fcd42704f7d
+body: |2-
+  topological = modulo distance
+  1 2 3 = 1 2 4, etc.

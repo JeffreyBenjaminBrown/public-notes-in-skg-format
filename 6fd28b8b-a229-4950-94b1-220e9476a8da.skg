@@ -1,0 +1,21 @@
+title: 9\87 x 5\87
+pid: 6fd28b8b-a229-4950-94b1-220e9476a8da
+body: |2-
+  08 steps; 17 % 16; string 2; fret -2
+  22 steps; 19 % 16; string 3; fret -1
+  40 steps; 11 % 8;  string 5; fret -1
+  00 steps; 1  % 1;  string 0; fret 0
+  28 steps; 5  % 4;  string 2; fret 2
+  46 steps; 23 % 16; string 4; fret 2
+  15 steps; 9  % 8;  string 0; fret 3
+  51 steps; 3  % 2;  string 4; fret 3
+  87 steps; 2  % 1;  string 8; fret 3
+  56 steps; 25 % 16; string 4; fret 4
+  83 steps; 31 % 16; string 7; fret 4
+
+  34 steps; 21 % 16; string 1; fret 5
+  61 steps; 13 % 8;  string 4; fret 5
+  70 steps; 7  % 4;  string 5; fret 5
+  79 steps; 15 % 8;  string 6; fret 5
+  66 steps; 27 % 16; string 4; fret 6
+  75 steps; 29 % 16; string 5; fret 6

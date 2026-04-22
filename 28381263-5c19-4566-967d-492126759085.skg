@@ -1,0 +1,12 @@
+title: how to find them
+pid: 28381263-5c19-4566-967d-492126759085
+body: |2-
+  serial:
+  run
+    xfce4-settings-manager
+  select
+    keyboard
+  select
+    application shorotcuts
+misc:
+- Had_ID_Before_Import

@@ -1,0 +1,6 @@
+title: dependent pairs allow unlike types to be collected
+pid: 9168e5da-4dc6-42ab-8678-6fe78ad712a3
+body: |2-
+  tag sigma types
+contains:
+- 9cc722f9-6b82-4495-9b8a-55cb12956970

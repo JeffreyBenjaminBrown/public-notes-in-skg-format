@@ -1,0 +1,8 @@
+title: range appears to be [0,1]
+pid: 39904963-9f33-41af-ad0e-29c6080d95f6
+body: |2-
+  #+BEGIN_SRC haskell
+  d1 $ s "supervibe" |*| n (fast 8 "0 1")
+
+  d1 $ s "supervibe*16" |* n rand
+  #+END_SRC

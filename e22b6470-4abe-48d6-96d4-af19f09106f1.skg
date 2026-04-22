@@ -1,0 +1,4 @@
+title: Can be circumvented
+pid: e22b6470-4abe-48d6-96d4-af19f09106f1
+body: |2-
+  -compile(export_all). %% replace with -export() later, for God's sake!

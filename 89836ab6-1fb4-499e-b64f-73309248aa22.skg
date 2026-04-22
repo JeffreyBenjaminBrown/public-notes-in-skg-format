@@ -1,0 +1,4 @@
+title: useful Bash snippet
+pid: 89836ab6-1fb4-499e-b64f-73309248aa22
+body: |2-
+  git log | grep 1.8.1 -C 5

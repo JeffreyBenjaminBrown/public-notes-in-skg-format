@@ -1,0 +1,5 @@
+title: then I switched to a second user, nuked (in my nixos config) the old user, then switched back to a third user with the same name as the first, and it worked
+pid: ed75ad89-efc2-4ce6-a063-7c4816298c7f
+body: |2-
+  The first time I tried that, I held the .cache, .config and other system-created hidden files/folder in the home directory, and got the same problem.
+  So the second time I left them behind, transferring only more innocuous-seeming hidden files like .gitconfig, .ssh/, .emacs*, etc. and it worked.

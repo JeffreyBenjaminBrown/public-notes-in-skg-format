@@ -1,0 +1,6 @@
+title: why this is a separate step
+pid: 4b38ba69-e8e1-49b7-b434-a16315ec59a5
+body: |2-
+  Do this in a second commit so that in the first commit,
+  if anything was deleted that shouldn't have been,
+  it will be obvious, not camouflaged by these deletes.

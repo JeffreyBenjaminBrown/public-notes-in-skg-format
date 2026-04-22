@@ -1,0 +1,13 @@
+title: my queries
+pid: 6f9b2ba2-2296-44cc-b531-a20723aece00
+body: |2-
+  select * from person
+    where address_street_name = "Northwestern Dr"
+    order by "address_number" desc
+    limit 1
+
+  select * from person
+    where address_street_name = "Franklin Ave"
+      and name like "Annabel%"
+    order by "address_number" desc
+    limit 1

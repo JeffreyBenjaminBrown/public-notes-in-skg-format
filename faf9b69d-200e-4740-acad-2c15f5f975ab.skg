@@ -1,0 +1,7 @@
+title: '`fastcat`: the sum is a single cycle'
+pid: faf9b69d-200e-4740-acad-2c15f5f975ab
+body: |2-
+  #+BEGIN_SRC haskell
+    d1 $ stack [ s "bd sn:1",
+  	       fastcat [ s "hh*4", s "hh*3" ] ]
+  #+END_SRC

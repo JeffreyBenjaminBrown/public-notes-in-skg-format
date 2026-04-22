@@ -1,0 +1,8 @@
+title: The order of events seems to matter.
+pid: 8d68e037-a17c-4b3c-a7ea-c132c33ae964
+body: |2-
+  In these:
+    Pr.pPrint $ arc 0 1 0 1 x
+    Pr.pPrint $ arc 0 1 1 2 x
+  the notes present are the same, but their order is different.
+  Either the first or the last is the one that actually sounds.

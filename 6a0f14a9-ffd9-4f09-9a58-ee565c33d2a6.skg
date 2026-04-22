@@ -1,0 +1,5 @@
+title: It's common to export `start` and `start_link` functions.
+pid: 6a0f14a9-ffd9-4f09-9a58-ee565c33d2a6
+body: |2-
+  They correspond to spawn and spawn_link.
+  They permit the programmer to hide implementation details from the user.

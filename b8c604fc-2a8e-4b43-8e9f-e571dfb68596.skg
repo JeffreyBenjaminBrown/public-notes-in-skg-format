@@ -1,0 +1,8 @@
+title: user-defined functions
+pid: b8c604fc-2a8e-4b43-8e9f-e571dfb68596
+body: |2-
+  Function AddNumbers ( ByVal a As Integer,
+                        ByVal b As Integer
+                      ) As Integer
+    Return a + b
+  End Function

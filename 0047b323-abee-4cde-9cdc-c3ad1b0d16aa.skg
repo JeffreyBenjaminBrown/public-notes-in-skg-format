@@ -1,0 +1,6 @@
+title: write your own social media feed
+pid: 0047b323-abee-4cde-9cdc-c3ad1b0d16aa
+body: |2-
+  If it could read a social network like Mastodon, programming your own social media feed would be trivial: "Show me everything my friends have posted, ordered by recently," or "do that, but skip anything about baseball and anything that Mom thought was sad." (Batched lazy evaluation would transparently prevent queries with big payloads from swamping someone's bandwidth.)
+
+  Programming your own social media feed in an open system like Mastodon is already possible, but only for programmers. By contrast, the query language Shyg will use, Hash -- [[https://github.com/JeffreyBenjaminBrown/hode/blob/master/docs/hash/the-hash-language.md][which already exists]], although I intend to improve it -- is simple enough for non-programmers to express detailed queries in.

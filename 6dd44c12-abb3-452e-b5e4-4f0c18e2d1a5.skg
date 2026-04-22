@@ -1,0 +1,8 @@
+title: the "backward" view
+pid: 6dd44c12-abb3-452e-b5e4-4f0c18e2d1a5
+body: |2-
+    * [target node] = apples
+      looking at its link sources
+    ** uses
+    *** [source node] = apple strudel
+    *** [source node] = apple cider vinegar

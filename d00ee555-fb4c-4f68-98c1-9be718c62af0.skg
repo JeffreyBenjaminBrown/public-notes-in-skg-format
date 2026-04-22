@@ -1,0 +1,4 @@
+title: When would a lambda's type be inferred?
+pid: d00ee555-fb4c-4f68-98c1-9be718c62af0
+body: |2-
+  The spec states, "In Hydra, the domain and codomain types of a lambda are provided if the lambda is the data of an element, otherwise inferred." It goes on to givean example where the type is provided, but not an example of the other case. Where in Hydra do lambdas exist if not as elements of a graph?

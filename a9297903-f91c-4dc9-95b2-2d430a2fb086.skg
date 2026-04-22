@@ -1,0 +1,5 @@
+title: Template Haskell, TH, macros
+pid: a9297903-f91c-4dc9-95b2-2d430a2fb086
+body: |2-
+  makeLenses generates lenses onoly for fields with leading underscores.
+  For more control, use makeLensesFor or makeLensesWith.

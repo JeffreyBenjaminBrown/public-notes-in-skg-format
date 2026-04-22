@@ -1,0 +1,5 @@
+title: add "replace" to the sustain buttons
+pid: 74475515-f7f6-4e64-9764-c85da2d7632c
+body: |2-
+  Replace the touched note (only one) with the next (only one),
+  in whichever direction is nearest.

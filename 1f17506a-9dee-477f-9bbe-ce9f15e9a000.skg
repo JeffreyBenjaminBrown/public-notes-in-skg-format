@@ -1,0 +1,6 @@
+title: concatenate strings
+pid: 1f17506a-9dee-477f-9bbe-ce9f15e9a000
+body: |2-
+  https://golangdocs.com/concatenate-strings-in-golang
+  The easiest way is with (+):
+    "x" + " " + "y"

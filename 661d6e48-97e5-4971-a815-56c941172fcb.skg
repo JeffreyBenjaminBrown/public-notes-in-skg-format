@@ -1,0 +1,5 @@
+title: Things in a <> group are cycled through.
+pid: 661d6e48-97e5-4971-a815-56c941172fcb
+body: |2-
+  This plays "bd" every time, "sd" one third of the times, etc:
+    d1 $ s "bd <sd hh cp>"

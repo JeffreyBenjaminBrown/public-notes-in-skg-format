@@ -1,0 +1,9 @@
+title: to save settings (e.g. diff) persistently
+pid: e57211a5-3b1c-450e-a7a7-9ed70f235223
+body: |2-
+  https://magit.vc/manual/transient/Saving-Values.html
+contains:
+- 233d9180-071a-4054-b8c2-fe8b7a51ab02
+- 96df2d9c-0234-454f-8cb0-21cb5b5da64d
+misc:
+- Had_ID_Before_Import

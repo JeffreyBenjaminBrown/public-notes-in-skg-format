@@ -1,0 +1,4 @@
+title: to exit (gracefully)
+pid: ec081a00-7958-4b6f-9f82-15f36c33c736
+body: |2-
+  Close SCIDE before closing QjackCtl.

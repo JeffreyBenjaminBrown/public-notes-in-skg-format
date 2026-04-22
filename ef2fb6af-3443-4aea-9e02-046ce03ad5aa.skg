@@ -1,0 +1,11 @@
+title: in 46-edo, use 5:3 + 9:7 = 13:6
+pid: ef2fb6af-3443-4aea-9e02-046ce03ad5aa
+body: |2-
+  major 6 chord + 13:6
+  = 0  15  27  34  5'
+  => these gaps:
+     15  12  7   17
+                 ^
+   surprisingly nice
+misc:
+- Had_ID_Before_Import

@@ -1,0 +1,13 @@
+title: 'TODO 7\58 x 6\58: octave (4,5), span 5x5, 124c frets'
+pid: 08260129-2861-4981-acfe-fd7a4396afd9
+body: |2-
+  Good for a uke, etc.
+   ( Edo 58 ; StringGap 7 ; FretGap 6
+       [  0 steps;  1 % 1 ; string 0   ; fret 0
+       , 58 steps;  2 % 1 ; string 4   ; fret 5
+       , 34 steps;  3 % 2 ; string 4   ; fret 1
+       , 19 steps;  5 % 4 ; string 1   ; fret 2
+       , 47 steps;  7 % 4 ; string 5   ; fret 2
+       , 10 steps;  9 % 8 ; string - 2 ; fret 4
+       , 27 steps; 11 % 8 ; string 3   ; fret 1
+       , 41 steps; 13 % 8 ; string 5   ; fret 1

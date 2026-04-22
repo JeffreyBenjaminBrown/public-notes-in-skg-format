@@ -1,0 +1,8 @@
+title: Create some links to it.
+pid: b47b0182-f945-4537-a5d3-f81526e9a341
+body: |2-
+  When I write a note I try to figure out everything it bears on -- what it's about, what projects it would help, what it has implications for the truth or falsity of, etc. Call that set X. I then filter that set to those things I actually care enough about to bother keeping track of them. (For instance, maybe the note has implications for love, but I don't care; if so, love is in X but not Y.)
+
+  The difference between X and Y depends on the speed with which I can create a note, and the cost of comitting to maintaining it over time. Org-roam, fortunately, makes the first pretty low, and my own habits make the cost of the second pretty low, so often in my case X == Y.
+
+  For each thing in Y, I then link to the new note. If that thing in Y doesn't yet exist, I make it.

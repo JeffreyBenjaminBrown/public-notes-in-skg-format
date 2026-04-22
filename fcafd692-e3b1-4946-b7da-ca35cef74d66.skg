@@ -1,0 +1,5 @@
+title: TODO A CPU-cheaper option is not much harder to write.
+pid: fcafd692-e3b1-4946-b7da-ca35cef74d66
+body: |2-
+  Since triggers are momentary, the overlap analysis needed is simple:
+  If they start at the same time, they need different labels, otherwise not.

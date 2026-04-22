@@ -1,0 +1,11 @@
+title: '10\53 x 3\53: 0-area 5x6, straight 2:5:7:13'
+pid: 64fb3dda-22a0-423f-8700-8a55af788d52
+body: |2-
+  [  0 steps;  1 % 1 ; string 0 ; fret 0
+  , 53 steps;  2 % 1 ; string 5 ; fret 1
+  , 31 steps;  3 % 2 ; string 4 ; fret - 3
+  , 17 steps;  5 % 4 ; string 2 ; fret - 1
+  , 43 steps;  7 % 4 ; string 4 ; fret 1
+  ,  9 steps;  9 % 8 ; string 0 ; fret 3
+  , 24 steps; 11 % 8 ; string 3 ; fret - 2
+  , 37 steps; 13 % 8 ; string 4 ; fret - 1

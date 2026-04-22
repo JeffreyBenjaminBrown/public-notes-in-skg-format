@@ -1,0 +1,4 @@
+title: Technically, all functions are blocking.
+pid: 6275c1ae-16e9-473e-9191-26351de46aad
+body: |2-
+  "However, the term blocking is usually reserved for function calls that interact with files, the network, or other resources on the computer, because those are the cases where an individual program would benefit from the operation being non-blocking."

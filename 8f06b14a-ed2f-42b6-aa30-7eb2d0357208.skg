@@ -1,0 +1,5 @@
+title: edit distance | Levenshtein distance
+pid: 8f06b14a-ed2f-42b6-aa30-7eb2d0357208
+body: |2-
+   =  minimum number of substitutions to transform one into the other,
+  where an edit is either an insertion, a deletion or a substitution.

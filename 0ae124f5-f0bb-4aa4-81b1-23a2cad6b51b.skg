@@ -1,0 +1,6 @@
+title: Datalog can't query for nonexistence, I believe.
+pid: 0ae124f5-f0bb-4aa4-81b1-23a2cad6b51b
+body: |2-
+  https://stackoverflow.com/questions/49459760/is-nonexistence-queriable-in-datalog
+misc:
+- Had_ID_Before_Import

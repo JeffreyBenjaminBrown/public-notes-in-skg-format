@@ -1,0 +1,7 @@
+title: MAYBE green bullets should not be deletable
+pid: 42701486-054a-4135-9440-a5ee3227911f
+body: |2-
+  nor the newline preceding them.
+  Instead call a function to get rid of them,
+  like `hode-delete-from-view`
+  or `hode-delete-note`.

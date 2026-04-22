@@ -1,0 +1,7 @@
+title: To check whether a function returned an error.
+pid: e502e015-a671-433f-9579-151b0abe9d25
+body: |2-
+  It usually returns two values, the second an error.
+
+  i, err := strconv.Atoi("42")
+  if err != nil { ... deal with the error ... }

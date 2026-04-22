@@ -1,0 +1,4 @@
+title: re-export an imported module
+pid: c3819ce8-5fb1-4b7e-a216-3fde35397b29
+body: |2-
+  import public C

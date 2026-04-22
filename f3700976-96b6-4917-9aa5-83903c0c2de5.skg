@@ -1,0 +1,7 @@
+title: QJackCtl having no effect on `jack_bufsize`.
+pid: f3700976-96b6-4917-9aa5-83903c0c2de5
+contains:
+- dbdc75d4-ed7b-4830-9740-2f88bc200a5a
+- c4155180-2c07-4862-832e-2ab48a04b25b
+misc:
+- Had_ID_Before_Import

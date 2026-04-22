@@ -1,0 +1,4 @@
+title: After a commit to public/, move these.
+pid: 2722d000-a370-481f-afce-2b483cd761a2
+body: |2-
+  Move them to permanent/, and commit both.

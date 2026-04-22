@@ -1,0 +1,4 @@
+title: 'PITFALL: Early versions of SQLite don''t understand it.'
+pid: d1b72703-5954-4dc5-8e7a-900ee962bf8a
+body: |2-
+  https://www.sqlite.org/stricttables.html

@@ -1,0 +1,10 @@
+title: how to reset
+pid: 60382a78-8871-4078-a2ca-4a067f227a81
+body: |2-
+  Hold "aux" ("not bluetooth") and volume down (adjacent)
+  for 10 seconds.
+  It will ask to switch to English halfway through,
+  but keep holding for the 10 seconds,
+  then accept English.
+misc:
+- Had_ID_Before_Import

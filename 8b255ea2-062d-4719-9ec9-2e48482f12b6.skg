@@ -1,0 +1,19 @@
+title: an example shell.nix script
+pid: 8b255ea2-062d-4719-9ec9-2e48482f12b6
+body: |2-
+  # for python, pip and some other stuff
+  { pkgs ? import <nixpkgs> {} }:
+  (pkgs.buildFHSUserEnv {
+    name = "pipzone";
+    targetPkgs = pkgs: (with pkgs; [
+      glibc
+      python311
+      python311Packages.pip
+      python311Packages.numpy
+      python311Packages.pandas
+      virtualenv
+      zlib
+      zlib.dev
+    ]);
+    runScript = "bash";
+  }).env

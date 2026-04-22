@@ -1,0 +1,4 @@
+title: 'PIFALL: might need (require ''<package name>) when first installinga'
+pid: 1cc97ee4-f202-4cc3-b22d-943f5ab4ee18
+body: |2-
+  Evaluating that may have allowed me to get some packages working that otherwise weren't. But later I was able to run them without having that expression in my .emacs file.

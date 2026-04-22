@@ -1,0 +1,5 @@
+title: Supervisors can terminate their children.
+pid: d41db636-9b31-4574-aee8-0bcd863950a1
+body: |2-
+  supervisor:terminate_child( Sup, Child_Id )
+  This does not trigger automatic shutdown.

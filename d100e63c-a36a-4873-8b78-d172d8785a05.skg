@@ -1,0 +1,4 @@
+title: TODO separate the concerns in Dispatch.Msg.Act, then make it abstract
+pid: d100e63c-a36a-4873-8b78-d172d8785a05
+contains:
+- 28bb80ab-899c-43ee-a65d-512e6271fd1b

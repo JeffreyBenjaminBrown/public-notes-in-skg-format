@@ -1,0 +1,5 @@
+title: 'string lookup : slk'
+pid: a0fa1c4d-5c98-4ece-899a-caefafebeea1
+body: |2-
+  maybe better than the more general `replace` function,
+  due to noise from quotation marks in `replace`.

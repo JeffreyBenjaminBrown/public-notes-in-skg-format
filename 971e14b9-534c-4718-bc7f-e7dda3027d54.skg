@@ -1,0 +1,4 @@
+title: 'PITFALL: Some parameters aren''t described in the docs for some synths.'
+pid: 971e14b9-534c-4718-bc7f-e7dda3027d54
+body: |2-
+  e.g. "decay" applies to supersquare but they don't say that.

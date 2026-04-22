@@ -1,0 +1,14 @@
+title: DataBricks silenciosamente define algunas cosas importantes
+pid: 0bd70b4d-baa0-49be-876b-6eadc7bb82aa
+body: |2-
+  Cuando entras a un workspace, esas cosas ya están definidas,
+  pero si quieres referir a ellas desde un módulo,
+  toca evaluar
+  ```
+  from databricks.sdk.runtime import *
+  ```
+  antes de usar las referencias.
+
+  En particular, eso define `spark` y `dbutils`.
+  No sé qué son pero son necesarios para hacer conecciones --
+  como se muestra, por ejemplo, en `radar_y_hive_metastore.py`.

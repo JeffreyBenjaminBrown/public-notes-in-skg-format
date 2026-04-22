@@ -1,0 +1,5 @@
+title: '`cps` is a parameter, like `s` or `n` except global.'
+pid: 22d830b0-bcbb-4c89-bd41-b5bbaa1f7aa7
+body: |2-
+  Try it with oscillators (e.g. `saw` below).
+  p "cpsfun" $ s "bd sd(3,8)" # cps (slow 8 $ 0.5 + saw)

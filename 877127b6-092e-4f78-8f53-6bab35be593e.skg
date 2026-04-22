@@ -1,0 +1,6 @@
+title: compression, superposition and interpretability in AI
+pid: 877127b6-092e-4f78-8f53-6bab35be593e
+body: |2-
+  Compression and superposition make neural networks hard to interpret. There's a way to penalize those phenomena in training, which makes them easier to interpret.
+misc:
+- Had_ID_Before_Import

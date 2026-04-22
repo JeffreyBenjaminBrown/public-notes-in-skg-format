@@ -1,0 +1,25 @@
+title: some sample Haddock-commented Python
+pid: 7b5e78c0-ffbf-4c43-910b-a3168de69b49
+body: |2-
+  ## Try folding and unfolding this stuff.
+
+  ## * 1
+  ## ** 11
+        a
+  ## ** 12
+  ## * 2
+       a
+  ## ** 21
+  ## *** 211
+         a
+  ## *** 212
+  ## ** 22
+        a
+  ## * 3
+       a
+  ## ** 31
+  ## *** 311
+         a
+  ## *** 312
+  ## ** 32
+        a

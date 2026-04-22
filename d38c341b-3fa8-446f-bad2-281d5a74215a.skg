@@ -1,0 +1,5 @@
+title: Measure *all* strings at high frets, recording results.
+pid: d38c341b-3fa8-446f-bad2-281d5a74215a
+body: |2-
+  (where high = near bridge)
+  Try to quantify how flat/sharp a string is.

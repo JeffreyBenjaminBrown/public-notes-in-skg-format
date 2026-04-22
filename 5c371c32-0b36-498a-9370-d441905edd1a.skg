@@ -1,0 +1,5 @@
+title: to all cores at once
+pid: 5c371c32-0b36-498a-9370-d441905edd1a
+body: |2-
+  sudo cpufreq-set -r -g performance
+  sudo cpufreq-set -r -g powersave

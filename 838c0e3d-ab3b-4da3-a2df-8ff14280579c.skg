@@ -1,0 +1,13 @@
+title: save data, and shuttle some of it to the new system during installation
+pid: 838c0e3d-ab3b-4da3-a2df-8ff14280579c
+body: |2-
+  Brave passwords
+  files
+    ~/nix/jbb
+    org-roam/tech/nixos_reinstalling.org
+    org-roam/tech/nixos_my_config_imperative_elements.org
+    org-roam/tech/nixos_my_config.org
+    org-roam/tech/how-to-reinstall-linux.org
+    org-roam/tech/nixos_bash_commands_to_install_from_the_manual.org
+    org-roam/pers/temp.org
+    org-roam/pers/jbb.org

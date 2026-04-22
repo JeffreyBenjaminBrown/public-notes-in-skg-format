@@ -1,0 +1,8 @@
+title: higher pitches are louder
+pid: 43b2d48d-be8c-4d86-a414-90f6aba1cce8
+body: |2-
+  #+BEGIN_SRC haskell
+  d1 $ slow 4 $ s "supermandolin"
+    |*| sustain 8
+    |*| n "[-36,-24,-17,-12,-8.14] [-36,-24,-17] -36"
+  #+END_SRC

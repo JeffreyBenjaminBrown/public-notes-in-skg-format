@@ -1,0 +1,14 @@
+title: unclassified
+pid: c8072ce4-0afb-4c4c-9dfe-82ce1ddfe18c
+body: |2-
+  outline-hide-subtree (C-c @ C-d)
+  outline-show-children (C-c @ TAB)
+  outline-show-subtree (C-c @ C-s)
+  outline-show-entry (C-c @ C-e)
+  outline-headers-as-kill
+  outline-hide-body (C-c @ C-t)
+  outline-hide-entry (C-c @ C-c)
+  outline-hide-leaves (C-c @ C-l)
+  outline-hide-sublevels (C-c @ C-q)
+  outline-show-branches (C-c C-k)
+  outline-toggle-children

@@ -1,0 +1,10 @@
+title: slide   = 1 -- dramatic tone, confusing
+pid: 3b59688e-c6ca-4549-acd2-9708fdbeff17
+body: |2-
+  and it has no obvious effect on perceived pitch
+
+  slide 0 => sinewave-like
+  slide 0.01 => buzzy
+  slide 1 => buzzy
+  slide 10 = bouncy in low resters, singy in higher ones
+  slide 100 = inaudible in low registers, flutelike in high ones

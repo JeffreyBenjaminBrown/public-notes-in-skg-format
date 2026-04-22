@@ -1,0 +1,11 @@
+title: usage example
+pid: e7d367d4-576d-4b98-9f0c-30c04d6868bd
+body: |2-
+  this shell code:
+    eval "$(jq -r '.paths | to_entries | .[] | .key + "=\"" + .value + "\""' < paths.json)"
+  expects an input file called paths.json like this:
+    { "paths":
+      { "tax_co"     : "/mnt/tax_co/",
+        "tax_django" : "/mnt/django/",
+        "apache"     : "/mnt/apache2/"
+      }

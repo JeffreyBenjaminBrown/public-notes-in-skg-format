@@ -1,0 +1,8 @@
+title: 'PITFALL : switchingo to unstable killed my system'
+pid: cd31381f-2dc5-4ff2-8359-049d2694bfb6
+body: |2-
+  I had to reinstall the OS before I could nixos-rebuild again.
+  Although I eventually found I could install new stuff with `nix-env -i`.
+contains:
+- 634c4892-8270-461b-a5b1-f852461be6e4
+- 5129f032-8f70-4887-b6f8-e17afe496fbb

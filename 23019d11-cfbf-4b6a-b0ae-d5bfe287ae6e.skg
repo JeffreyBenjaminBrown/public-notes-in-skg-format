@@ -1,0 +1,4 @@
+title: represent unordered subsets, and connect every relationship to the subset consisting of its members
+pid: 23019d11-cfbf-4b6a-b0ae-d5bfe287ae6e
+body: |2-
+  If there is only one populated relationship with those members, this relationship could be skipped.

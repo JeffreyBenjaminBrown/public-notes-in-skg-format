@@ -1,0 +1,2 @@
+title: use getStdGen to get a RandomGen that was initialized with a random seed when the system was started.
+pid: 48a97670-b32c-43ed-95d2-eb7b3bd1bd9f

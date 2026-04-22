@@ -1,0 +1,6 @@
+title: to do it from the repl
+pid: b3284847-3755-41c3-b9e2-5a4cde2f1a87
+body: |2-
+  If we enter this:
+    d = derivation { name = "biggles"; system = "mysystem"; builder = "mybuilder"; }
+  it now knows what d is.

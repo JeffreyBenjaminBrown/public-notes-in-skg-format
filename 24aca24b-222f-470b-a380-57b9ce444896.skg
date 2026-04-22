@@ -1,0 +1,4 @@
+title: Declare a slice.
+pid: 24aca24b-222f-470b-a380-57b9ce444896
+body: |2-
+  var s []int

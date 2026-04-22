@@ -1,0 +1,5 @@
+title: 'PITFALL: if the builder attribute is omitted'
+pid: 6482edb1-9b2c-4953-9c3a-465588250177
+body: |2-
+  then it uses mkDerivation, which
+  "does a configure; make; make install, in essence".

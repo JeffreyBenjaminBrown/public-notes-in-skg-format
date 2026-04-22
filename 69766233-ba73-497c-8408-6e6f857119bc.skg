@@ -1,0 +1,14 @@
+title: '58 5 8: 15-lim 6x6, perfectly (50%) balanced octave'
+pid: 69766233-ba73-497c-8408-6e6f857119bc
+body: |2-
+  [ 0 steps; 1 % 1 ; string 0 ; fret 0
+  , 58 steps; 2 % 1 ; string 6 ; fret 2
+  , 34 steps; 3 % 2 ; string 3 ; fret 2
+  , 19 steps; 5 % 4 ; string 3 ; fret - 1
+  , 47 steps; 7 % 4 ; string 4 ; fret 3
+  , 10 steps; 9 % 8 ; string 0 ; fret 2
+  , 27 steps; 11 % 8 ; string 4 ; fret - 1
+  , 41 steps; 13 % 8 ; string 2 ; fret 5
+  , 53 steps; 15 % 8 ; string 6 ; fret 1
+misc:
+- Had_ID_Before_Import

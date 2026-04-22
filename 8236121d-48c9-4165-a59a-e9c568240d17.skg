@@ -1,0 +1,6 @@
+title: Scoping rules seem complicated in Emacs.
+pid: 8236121d-48c9-4165-a59a-e9c568240d17
+body: |2-
+  https://www.gnu.org/software/emacs/manual/html_node/elisp/Variable-Scoping.html
+misc:
+- Had_ID_Before_Import

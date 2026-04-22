@@ -1,0 +1,4 @@
+title: if there is no window 0, this moves the present window there
+pid: 9f96a3d0-78a8-4f13-b8d4-b0ac6b84ebfb
+body: |2-
+  move-window -t 0

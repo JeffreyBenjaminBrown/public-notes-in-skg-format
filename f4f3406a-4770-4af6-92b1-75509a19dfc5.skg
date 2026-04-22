@@ -1,0 +1,6 @@
+title: What Shyg would be
+pid: f4f3406a-4770-4af6-92b1-75509a19dfc5
+body: |2-
+  Shyg, which stands for Shared HyperGraph, would be a federated index of content online, and some software for building it, querying it and displaying the results.
+
+  For more detail, here is [[id:a1f04e1e-9d39-43a7-a384-a575a57968df][an overview of Shyg's architecture]].

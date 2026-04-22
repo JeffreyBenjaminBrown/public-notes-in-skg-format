@@ -1,0 +1,8 @@
+title: There might be multiple base cases.
+pid: 4f1ca1f2-ee4e-43a4-93ae-eadba1a0b3e1
+body: |2-
+  And if so, the pattern match might need a guard.
+
+  take(_,0) -> [];
+  take([],_) -> [];
+  take([H|T],N) when N > 0 -> [H|take(T,N-1)].

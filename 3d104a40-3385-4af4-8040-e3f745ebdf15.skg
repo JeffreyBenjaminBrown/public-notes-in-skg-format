@@ -1,0 +1,6 @@
+title: There are many kinds of signals beyond messages.
+pid: 3d104a40-3385-4af4-8040-e3f745ebdf15
+body: |2-
+  See the list here:
+    https://erlang.org/doc/reference_manual/processes.html
+  (Search for the text "alive_request/alive_reply".)

@@ -1,0 +1,6 @@
+title: octave 8-1
+pid: 352bfae3-274f-4ae4-a077-86712fd7a650
+body: |2-
+  which is as close to diagonal as is possible in an 8-column layout,
+  given that 8-2 is impossible
+  (because 8x + 2y cannot be equal to an odd number, which 53 is).

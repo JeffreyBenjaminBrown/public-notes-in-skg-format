@@ -1,0 +1,11 @@
+title: resources I've used
+pid: 675b6dc0-ef56-4ad0-8fe0-faa5b5a2a68b
+body: |2-
+  https://github.com/magnetophon/nixosConfig/
+    some top-level .nix files from which I have emulated
+  https://github.com/musnix/musnix
+    Not sure what it gets me.
+  https://nixos.wiki/wiki/JACK
+    The first part is not obsolete, right?
+  https://nixos.wiki/wiki/Audio
+    pretty weak -- ALSA section is out of date, doesn't link to JACK section

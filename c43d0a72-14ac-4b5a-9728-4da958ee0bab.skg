@@ -1,0 +1,5 @@
+title: The module name is mandatory.
+pid: c43d0a72-14ac-4b5a-9728-4da958ee0bab
+body: |2-
+  `-module(name)`
+  where `name` is an atom.

@@ -1,0 +1,4 @@
+title: Surprisingly, I did not have to modify my django settings.py
+pid: de39109e-aac8-4725-a3c0-9aa02cd9a147
+body: |2-
+  I thought I'd need to, e.g., define`STATICFILES_DIRS`.

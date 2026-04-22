@@ -1,0 +1,7 @@
+title: Introduce Hash into how nodes are tabled.
+pid: addbc5f7-f77c-4fde-bcd0-f313eda043e3
+body: |2-
+  e.g. if a title was "a & b", they would be associated with a
+  relationship, undefined but someone can write about it
+  (giving the relationship the title "_ & _").
+  Upon exploration you could see generic things that apply to your accreted definitions of &, as well as to specifically "a & b".

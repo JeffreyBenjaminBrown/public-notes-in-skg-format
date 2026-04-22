@@ -1,0 +1,6 @@
+title: the clause I added to sys.config
+pid: 3eab40ab-278d-4efb-8d1f-1d70f7edc9f9
+body: |2-
+  {inets, [ { services, [ { httpc,
+                            [] % A property list. Supposedly, one can check what's a valid property here: https://erlang.org/doc/man/httpc.html , although it was mostly gibberish to me.
+                          }]}]}

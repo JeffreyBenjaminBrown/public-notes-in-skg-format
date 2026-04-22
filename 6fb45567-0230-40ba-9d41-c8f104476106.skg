@@ -1,0 +1,25 @@
+title: 'PITFALL: (Cabal?) REPL can''t reload changes in depended-on projects.'
+pid: 6fb45567-0230-40ba-9d41-c8f104476106
+body: |2-
+    Evidence:
+
+  jeff@jbb-dell:cabal-experim$ tree
+  .
+  ├── cabal.project
+  ├── P1
+  │   ├── app
+  │   │   ├── Lib.hs
+  │   │   └── Main.hs
+  │   └── P1.cabal
+  └── P2
+      ├── P2.cabal
+      └── src
+          └── MyLib.hs
+
+  jeff@jbb-dell:cabal-experim$ cabal repl P1 P2
+  cabal: Cannot open a repl for multiple components at once. The targets 'P1'
+  and 'P2' refer to different components.
+
+  The reason for this limitation is that current versions of ghci do not support
+  loading multiple components as source. Load just one component and when you
+  make changes to a dependent component then quit and reload.

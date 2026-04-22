@@ -1,0 +1,8 @@
+title: grouping NixOS derivations into a single meta-derivation
+pid: 6eac4dc3-8186-412b-ad20-1f8f8166dbb4
+contains:
+- b1d38da1-f54e-4409-b271-bb9df29d489e
+- 4a863b21-1878-47b5-a3f6-eed3a7f7579e
+- df537614-3890-423c-9ae1-e349212dfd00
+misc:
+- Had_ID_Before_Import

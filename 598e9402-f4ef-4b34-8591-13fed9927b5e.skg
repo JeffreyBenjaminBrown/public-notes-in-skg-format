@@ -1,0 +1,6 @@
+title: syntax
+pid: 598e9402-f4ef-4b34-8591-13fed9927b5e
+body: |2-
+  close(c)
+  v, ok := <-ch // ok is false if there are no more values to receive
+                // and the channel is closed.

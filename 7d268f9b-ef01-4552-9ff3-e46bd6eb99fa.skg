@@ -1,0 +1,5 @@
+title: Partial functions must be granted an explicit exception
+pid: 7d268f9b-ef01-4552-9ff3-e46bd6eb99fa
+body: |2-
+  partial fromMaybe : Maybe a -> a
+  fromMaybe (Just x) = x

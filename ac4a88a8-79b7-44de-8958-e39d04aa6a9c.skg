@@ -1,0 +1,10 @@
+title: Who judges which movie how.
+pid: ac4a88a8-79b7-44de-8958-e39d04aa6a9c
+body: |2-
+  This could even be implicit, in the case of songs,
+  from the number of listens.
+  Judgments could be numerical or verbal.
+  Verbal judgments could be AI-translated into numerical ones.
+  With enough verbal judgments, one could query based on keywords,
+  or more precisely on equivalence classes of statements like
+  "[content] helped me learn _".

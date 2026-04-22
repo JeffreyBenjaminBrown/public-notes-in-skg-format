@@ -1,0 +1,4 @@
+title: This needn't be in the top folder of the project.
+pid: b0715508-7ef6-42f4-b89e-0ec1f8b65f15
+body: |2-
+  E.g. a nicer place for it is the `python/` subfolder.

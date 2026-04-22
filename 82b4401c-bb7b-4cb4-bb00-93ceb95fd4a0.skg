@@ -1,0 +1,4 @@
+title: 'PITFALL: Don''t update packages installed from source via apk!'
+pid: 82b4401c-bb7b-4cb4-bb00-93ceb95fd4a0
+body: |2-
+  I [[id:be39ef3b-ca29-4651-9399-0d522617999d][installed Emacs]] that way.

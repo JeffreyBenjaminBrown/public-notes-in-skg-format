@@ -1,0 +1,10 @@
+title: if using Legacy Boot
+pid: d5fece29-baa8-4c16-979c-0a0e86caa8aa
+body: |2-
+  swap_size=256GB
+    # I'm giving this (my PUJ desktop) a lot of swap,
+    # because I'm short on RAM,
+    # and the 1 TB SDD is way more than I need.
+  parted /dev/sda -- mklabel msdos
+  parted /dev/sda -- mkpart primary            1MB         -$swap_size
+  parted /dev/sda -- mkpart primary linux-swap -$swap_size 100%

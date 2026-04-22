@@ -1,0 +1,7 @@
+title: to open it
+pid: 611fe870-6d09-4110-aa64-e8785cc018c4
+body: |2-
+  alternatives
+contains:
+- 1cb2ec12-783b-4e96-8360-f2837681352a
+- 243e643d-80b3-4745-a660-d5ef828c6faf

@@ -1,0 +1,8 @@
+title: inherit
+pid: edc72399-7735-43cd-81b6-cad7471582d1
+body: |2-
+    inherit x y z;
+    inherit (src-set) a b c;
+  is equivalent to
+    x = x; y = y; z = z;
+    a = src-set.a; b = src-set.b; c = src-set.c;

@@ -1,0 +1,10 @@
+title: TODO the scale stuff is buggy
+pid: 0d101f1c-489d-4bff-a7fd-e8b29f66faeb
+body: |2-
+  This should result in a monotonic sequence,
+  but does not:
+
+  > map (lke' 12 [0,1]) [-5..5]
+  [-35.0,-36.0,-23.0,-24.0,-11.0,0.0,1.0,12.0,13.0,24.0,25.0]
+contains:
+- c6d924c6-ed1d-4cb3-a1d0-93ff9312d9c6

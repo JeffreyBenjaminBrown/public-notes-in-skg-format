@@ -1,0 +1,4 @@
+title: '"futures are lazy"'
+pid: 43aee207-c300-4426-b2e4-e3a5daab4176
+body: |2-
+  "they don’t do anything until you ask them to with the await keyword"

@@ -1,0 +1,5 @@
+title: -{+ makes no sense
+pid: f55fd512-4b2a-486d-becc-c9722eb9503d
+body: |2-
+  if a node no longer exists,
+  it can't be a new member of a container

@@ -1,0 +1,7 @@
+title: nothing fails with pre; it instead becomes Nothing
+pid: f7fd228e-4d61-433e-a483-eacb2bb8fbac
+body: |2-
+  > [1, 2, 3, 4] ^.. traversed . (filtered even)
+  [2,4]
+  > [1, 2, 3, 4] ^.. traversed . pre (filtered even)
+  [Nothing,Just 2,Nothing,Just 4]

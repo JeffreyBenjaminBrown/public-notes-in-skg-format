@@ -1,0 +1,6 @@
+title: Both might be better learned from their C implementations
+pid: 3c255e66-1837-4128-8caf-64df742076a5
+body: |2-
+  I tried looking through their Hackage docs and was quite confused.
+  This might be the foundational C implementation for ALSA:
+    https://www.alsa-project.org/alsa-doc/alsa-lib/seq.html

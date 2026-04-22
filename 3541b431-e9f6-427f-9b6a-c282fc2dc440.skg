@@ -1,0 +1,7 @@
+title: transition actions
+pid: 3541b431-e9f6-427f-9b6a-c282fc2dc440
+body: |2-
+  https://erlang.org/doc/design_principles/statem.html#Transition%20Actions
+  Complicated, maybe esoteric, don't seem important for now.
+misc:
+- Had_ID_Before_Import

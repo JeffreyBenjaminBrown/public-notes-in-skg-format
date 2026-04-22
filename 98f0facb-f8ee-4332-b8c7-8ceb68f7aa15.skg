@@ -1,0 +1,5 @@
+title: 'include files have a certain syntax:'
+pid: 98f0facb-f8ee-4332-b8c7-8ceb68f7aa15
+body: |2-
+  https://borgbackup.readthedocs.io/en/stable/usage/help.html#borg-patterns
+  the most important symbol of which is, I think, '+'.

@@ -1,0 +1,4 @@
+title: increase|decrease the number of windows stored in the master pane
+pid: 83a953f4-4060-4956-869d-1960a4c6ea3d
+body: |2-
+  M-, and M-.

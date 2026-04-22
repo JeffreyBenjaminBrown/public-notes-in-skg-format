@@ -1,0 +1,13 @@
+title: for [[id:61f58054-3032-4e45-bfda-dbc278c040d7][links]] only in the preferred data
+pid: e9e1a349-8657-4965-b9a7-ccc8acfa4a8d
+body: |2-
+  They can be put in a separate, special branch,
+  "also from [preferred source]",
+  In it, they appear in the order they appear in the preferred source,
+  but without the links that are already in this context
+  outside the special branch.
+
+  The user can merge the nodes from the special branch
+  into the other branches,
+  at which point they disappear from the special branch.
+  If they merge them all, the empty special branch disappears.

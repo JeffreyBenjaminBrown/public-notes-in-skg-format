@@ -1,0 +1,4 @@
+title: 'Two interesting operators: |> and <|'
+pid: dddee6c9-887d-4780-a37c-0fc79c03f8bd
+body: |2-
+  They take values from one side but metric divisions from the other.

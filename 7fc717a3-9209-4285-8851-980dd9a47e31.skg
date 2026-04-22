@@ -1,0 +1,6 @@
+title: the idea, verbose form
+pid: 7fc717a3-9209-4285-8851-980dd9a47e31
+body: |2-
+  (see dispatchConsumeScAction_Send and freinds)
+  The ScAction type can carry a lot of different parameter instructions, but currently I only send singletons. Does that matter, or is the cost of sending a different ScAction for each parameter negligible?
+  Do the Museq-creating helper functions bundle simultaneous parameters into the same ScAction?

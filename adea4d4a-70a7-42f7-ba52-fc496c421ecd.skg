@@ -1,0 +1,7 @@
+title: Those two names can be disambiguated by their types.
+pid: adea4d4a-70a7-42f7-ba52-fc496c421ecd
+body: |2-
+  *Foo> test 3
+  6 : Int
+  *Foo> test "foo"
+  "foofoo" : String

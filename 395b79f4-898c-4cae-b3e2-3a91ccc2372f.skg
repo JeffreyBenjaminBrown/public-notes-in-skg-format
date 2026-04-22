@@ -1,0 +1,4 @@
+title: sometimes a third party is needed
+pid: 395b79f4-898c-4cae-b3e2-3a91ccc2372f
+body: |2-
+  "It's generally not possible to do a true safe commit [where both agents want to change state, but only if the other does] with only two participants—a third party is usually required to judge if both players did everything right."

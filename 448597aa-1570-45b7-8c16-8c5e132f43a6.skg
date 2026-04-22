@@ -1,0 +1,25 @@
+title: using xmonad and xfce in NixOS
+pid: 448597aa-1570-45b7-8c16-8c5e132f43a6
+body: |2-
+  services.xserver = {
+    desktopManager.xfce.enable = true;
+    displayManager.defaultSession = "xfce+xmonad";
+    windowManager.xmonad = {
+      enable = true;
+      config = pkgs.lib.readFile /home/jeff/.xmonad/xmonad.hs;
+    };
+  };
+
+  environment.systemPackages =
+  with pkgs; [
+    ...
+    xmonad-with-packages
+    haskellPackages.xmonad
+    haskellPackages.xmonad-utils
+    haskellPackages.xmonad-screenshot
+    haskellPackages.xmonad-extras
+    haskellPackages.xmonad-contrib
+    ...
+  ]
+misc:
+- Had_ID_Before_Import

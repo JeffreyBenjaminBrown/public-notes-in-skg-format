@@ -1,0 +1,7 @@
+title: Labeling an ext4 partition with e2label is easy.
+pid: 7e3cb246-ad50-4e6b-983f-92788eb59239
+body: |2-
+  e.g., this worked
+    sudo e2label /dev/sdb _scribble_ssd_500g_samsung
+    (I've scribbled over that name so as not to clobber
+    the device later with a thoughtless copy-and-paste.)

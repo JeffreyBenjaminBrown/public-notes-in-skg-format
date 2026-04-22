@@ -1,0 +1,6 @@
+title: select rows in which a column's value is a member of some set
+pid: 58364db8-a1de-4983-af0f-cd9ed5b6199e
+body: |2-
+  Use pandas.Series.isin.
+  Its input is a list of numbers,
+  and its output is a Boolean series shaped like `self`.

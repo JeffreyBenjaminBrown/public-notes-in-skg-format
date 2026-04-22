@@ -1,0 +1,5 @@
+title: 'Two sustain pedals: Add and clear.'
+pid: 9b65f070-41f0-4f21-959b-0b0bb6fddc35
+body: |2-
+  When `add` is held down, new notes are added.
+  When `clear` is pressed, all held notes are released.

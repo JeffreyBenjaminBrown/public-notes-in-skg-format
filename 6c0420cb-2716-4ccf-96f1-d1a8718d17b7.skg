@@ -1,0 +1,5 @@
+title: Modifying the naive matching algorithm for Hamming inexactitude is easy.
+pid: 6c0420cb-2716-4ccf-96f1-d1a8718d17b7
+body: |2-
+  Rather than break upon seeing the first mismatch,
+  count mismatches, break only when they exceed a threshold.

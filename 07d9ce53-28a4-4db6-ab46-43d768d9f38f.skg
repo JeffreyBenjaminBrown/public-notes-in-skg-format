@@ -1,0 +1,7 @@
+title: syntax
+pid: 07d9ce53-28a4-4db6-ab46-43d768d9f38f
+body: |2-
+  let x = 5;
+  let y = x;
+  let s1 = String::from("hello");
+  let s2 = s1;

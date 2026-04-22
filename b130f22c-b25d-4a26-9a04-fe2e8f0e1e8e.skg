@@ -1,0 +1,4 @@
+title: idea
+pid: b130f22c-b25d-4a26-9a04-fe2e8f0e1e8e
+body: |2-
+  `xfadeIn chan ncycles` : is like xfade, but over `ncycles` cycles

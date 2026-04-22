@@ -1,0 +1,8 @@
+title: TODO ? did Audacity mess up NixOS?
+pid: b8af71da-8bf0-4f35-98df-97250589d15f
+body: |2-
+   I used to be able to generate sound with SuperCollider, delivered via JACK, on my NixOS machine.
+
+  When I installed and used Audacity for something, it seemed to screw up some other stuff. For instance, auto-detect stopped working when I plug in an external speaker. Ever since, I have to fiddle with alsamixer manually -- even though I've since removed audacity.
+
+  (It also stopped the JACK + Supercollider from producing sound, but somehow I worked around that.)

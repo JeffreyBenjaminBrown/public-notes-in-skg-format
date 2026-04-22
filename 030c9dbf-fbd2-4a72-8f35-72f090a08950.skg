@@ -1,0 +1,40 @@
+title: '''forest'' vs. ''graph'''
+pid: 030c9dbf-fbd2-4a72-8f35-72f090a08950
+body: |2-
+  A collection of documents is a 'forest'
+  if each can be divided into sections, subsections, etc.
+  So, for example, the set of all books is a forest.
+
+  In Skg, there are no documents per se.
+  There are just 'notes'.
+  Each note is just a hopefully-short title
+  and an optional, possibly-long body of free text.
+
+  But those notes can be in relationships,
+  and the fundamental relationship is 'contains'.
+  The contains relationship is based on the relationship
+  between sections, subsections etc. in a book.
+  A book might contains sections (it hopefully does, if it's long);
+  each section can contain subsections, etc.
+
+  In Skg, 'contains' it is the relationship
+  from a 'container' note to a 'content' note.
+  There is an order on what a container contains.
+  (Of course, the order not be important;
+  that's up to whoever collected those notes.)
+
+  The set of notes, together with the containment relationship,
+  form a 'graph', which is a structure more general than a forest.
+  In a content graph, but not in a content forest,
+  a node can be contained in multiple containers,
+  and there can be cycles of containment.
+
+  But in practice,
+  a collection of notes will very nearly qualify as a forest.
+  Multiple containment could be useful -- for instance,
+  for putting two distinct orders on the same set of notes
+  -- but will almost surely be rare.
+  And containment cycles seem entirely unnecessary,
+  given that there are also hyperlinks
+  (a different relationship,
+  indistinguishable from ordinary links on the internet).

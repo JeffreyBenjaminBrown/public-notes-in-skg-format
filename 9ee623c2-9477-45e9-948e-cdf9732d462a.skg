@@ -1,0 +1,5 @@
+title: reading the output
+pid: 9ee623c2-9477-45e9-948e-cdf9732d462a
+body: |2-
+  Above the long horizontal line appear variables in scope.
+  Below it appears the type of the thing queried.

@@ -1,0 +1,4 @@
+title: doing it (from Bash)
+pid: 707d3a9b-003d-441e-a1c3-5f7739a6377b
+body: |2-
+  typedb console --script=path_to_script

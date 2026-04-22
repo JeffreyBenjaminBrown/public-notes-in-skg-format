@@ -1,0 +1,7 @@
+title: TODO add this comment to the master branch, in Montevideo/Monome/Main.hs
+pid: e4d123ac-f3ac-4139-9f3f-baf8b4e8d770
+body: |2-
+  in [ ((0,6), changeWindow -- This lets us choose
+             [ -- between the layouts in this list.
+               -- `groupAndVal` appears twice because it's
+               -- also something we start with.

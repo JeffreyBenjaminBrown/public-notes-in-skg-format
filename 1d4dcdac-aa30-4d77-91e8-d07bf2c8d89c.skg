@@ -1,0 +1,12 @@
+title: update view
+pid: 1d4dcdac-aa30-4d77-91e8-d07bf2c8d89c
+body: |2-
+  The subscribees themselves need no updating,
+  nor do their content, but the hidden*Cols do.
+  For each hidden*Col, determine what it should contain,
+  see what it already contains, and insert anything missing.
+  Anything it should not contain should be marked parentIgnores.
+  The order in a Hiddeninsubscribeecol should correspond
+  to the order of the content of the subscribee.
+  The order in a Hiddenoutsideofsubscribeecol should correspond
+  to the order of the content of the subscriber's 'hidden' field.

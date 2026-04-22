@@ -1,0 +1,4 @@
+title: even content relationships can be labeled
+pid: b4d1f5b5-1557-40c3-ace3-169261da311e
+body: |2-
+  This is strange, because I don't think TypeDB wants me to refer explicitly to the internal ID of the content relationship. But I can nonetheless refer to it as (something like) an "isa contains (id of x,id of y)". To describe something about the relationship "X contains Y", where Y is an org-child of X, I would have to put the description in an org-child of Y. Maybe the containment relationship could be referred to as [there because], or even more explicitly, [it's there because].

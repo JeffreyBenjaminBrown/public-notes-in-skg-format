@@ -1,0 +1,7 @@
+title: what is a straight line
+pid: 2ba446d1-cdae-4723-8c54-6dbfd482eb8d
+body: |2-
+  If as a vector initially aligned with a curve is
+  "parallel transported" along that curve,
+  it continues to point along that curve,
+  then the curve is straight; otherwise it isn't.

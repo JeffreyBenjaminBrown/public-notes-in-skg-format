@@ -1,0 +1,5 @@
+title: recursive shred for Linux
+pid: 9cdb496d-667c-41fb-beb6-1d9f03acd609
+body: |2-
+  find <dir> -type f -exec shred -zvu -n 5 {} \;
+  # This shreds every file 5 times.

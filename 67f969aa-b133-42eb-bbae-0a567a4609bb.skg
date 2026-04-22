@@ -1,0 +1,7 @@
+title: the concept
+pid: 67f969aa-b133-42eb-bbae-0a567a4609bb
+body: |2-
+  gen_statem will update a State whenever there is an Event.
+  It also "keeps a server Data",
+  which makes it Turing-complete,
+  but "it feels mostly like an Event-Driven Mealy machine".

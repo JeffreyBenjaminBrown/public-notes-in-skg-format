@@ -1,0 +1,7 @@
+title: 'PITFALL: Valid names are few.'
+pid: 643f9b3b-2f82-4ed9-84a7-d3622d1240c8
+body: |2-
+  `mlabel` does not (yet) support lowercase letters,
+  or names longer than 11 characters.
+contains:
+- 505bdb99-233b-492e-b1ee-7dc33898015a

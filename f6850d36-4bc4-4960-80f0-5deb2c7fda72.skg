@@ -1,0 +1,4 @@
+title: text-property-search-forward prop &optional value predicate not-current
+pid: f6850d36-4bc4-4960-80f0-5deb2c7fda72
+body: |2-
+  Search for the next region of text whose property prop is a match for value (which defaults to nil), according to predicate.

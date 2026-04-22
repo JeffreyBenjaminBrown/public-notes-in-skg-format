@@ -1,0 +1,7 @@
+title: (<-) can make "receive-only" part of a channel's type.
+pid: c5894083-ef81-4fa7-bd48-b6906e81e687
+body: |2-
+  Example signature:
+  func f () <-chan string
+contains:
+- 73361f84-f29f-4aab-ac93-5e02f916f6d2

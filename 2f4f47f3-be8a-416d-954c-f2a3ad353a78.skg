@@ -1,0 +1,4 @@
+title: To show only unique values in a column, qualify its name with `DISTINCT`.
+pid: 2f4f47f3-be8a-416d-954c-f2a3ad353a78
+body: |2-
+  SELECT DISTINCT type FROM crime_scene_report;

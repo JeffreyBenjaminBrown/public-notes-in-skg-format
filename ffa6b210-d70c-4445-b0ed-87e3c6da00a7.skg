@@ -1,0 +1,7 @@
+title: To use a different version of GHC in Nix
+pid: ffa6b210-d70c-4445-b0ed-87e3c6da00a7
+contains:
+- a3fbfaa8-3f6b-4871-bd06-76ba89f42fa3
+- 266c7211-b971-4fc1-9f83-b87de2439226
+misc:
+- Had_ID_Before_Import

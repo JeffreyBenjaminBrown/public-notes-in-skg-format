@@ -1,0 +1,7 @@
+title: an example
+pid: 72eba113-20c1-4a93-b8c2-b87aaa5b381a
+body: |2-
+  record SizedClass (size : Nat) where
+    constructor SizedClassInfo
+    students : Vect size Person
+    className : String

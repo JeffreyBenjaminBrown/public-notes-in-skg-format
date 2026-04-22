@@ -1,0 +1,20 @@
+title: Pr.pPrint $ bestLayout' 31 58 13 4
+pid: 58de2eb9-58b8-4f39-a618-fde1511b7d8d
+body: |2-
+  [  0 steps;  1 %  1 ; string 0 ; fret 0
+  , 58 steps;  2 %  1 ; string 6 ; fret - 5 (or s2 f8)
+  , 34 steps;  3 %  2 ; string 2 ; fret 2
+  , 19 steps;  5 %  4 ; string 3 ; fret - 5
+  , 47 steps;  7 %  4 ; string 3 ; fret 2
+  , 10 steps;  9 %  8 ; string 2 ; fret - 4
+  , 27 steps; 11 %  8 ; string 3 ; fret - 3
+  , 41 steps; 13 %  8 ; string 5 ; fret - 6
+  , 53 steps; 15 %  8 ; string 5 ; fret - 3
+  ,  5 steps; 17 % 16 ; string 1 ; fret - 2
+  , 14 steps; 19 % 16 ; string 2 ; fret - 3
+  , 23 steps; 21 % 16 ; string 3 ; fret - 4
+  , 30 steps; 23 % 16 ; string 2 ; fret 1
+  , 37 steps; 25 % 16 ; string 5 ; fret - 7
+  , 44 steps; 27 % 16 ; string 4 ; fret - 2
+  , 50 steps; 29 % 16 ; string 6 ; fret - 7
+  , 55 steps; 31 % 16 ; string 3 ; fret 4

@@ -1,0 +1,10 @@
+title: sum types in Python
+pid: 0ec89580-3ce0-4175-a050-f2ecd9089b0d
+body: |2-
+  https://stackoverflow.com/questions/16258553/how-can-i-define-algebraic-data-types-in-python
+contains:
+- dfd27c0e-e8c2-49f9-918f-e095fd3ebb90
+- 9d8bbaca-ee89-468a-97af-5d8799cebcff
+- ee425f4d-7ddf-448a-a891-09e1eb307662
+misc:
+- Had_ID_Before_Import

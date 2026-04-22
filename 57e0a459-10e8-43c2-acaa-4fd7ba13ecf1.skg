@@ -1,0 +1,5 @@
+title: Brackets, parentheses and quotation marks may be treated the same
+pid: 57e0a459-10e8-43c2-acaa-4fd7ba13ecf1
+body: |2-
+  It depends on the syntax table,
+  but they usually seem to be.

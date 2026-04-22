@@ -1,0 +1,4 @@
+title: Try invoking a shell.nix file.
+pid: eae1bf5d-994b-40c3-9488-26690c9a2fda
+body: |2-
+  by running `nix-shell` from the folder containing it.

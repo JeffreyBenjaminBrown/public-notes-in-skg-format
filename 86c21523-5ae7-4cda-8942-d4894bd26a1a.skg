@@ -1,0 +1,4 @@
+title: Definitions can use names that *will be* registered.
+pid: 86c21523-5ae7-4cda-8942-d4894bd26a1a
+body: |2-
+  This saves the programmer from having to first create a process and pass its PID (or equivalent) to another process that must talk to it.

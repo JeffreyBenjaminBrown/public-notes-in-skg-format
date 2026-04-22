@@ -1,0 +1,7 @@
+title: track controls
+pid: ebf6a1b9-68b2-4a71-b5fb-99882a71fcb0
+body: |2-
+  A track's controls can be configured to control MIDI properties.
+  (By default they control audio properties.)
+  See section
+    Using Track Controls with MIDI

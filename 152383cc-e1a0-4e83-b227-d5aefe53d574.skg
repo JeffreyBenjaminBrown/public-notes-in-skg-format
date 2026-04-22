@@ -1,0 +1,7 @@
+title: definition
+pid: 152383cc-e1a0-4e83-b227-d5aefe53d574
+body: |2-
+  A beat is a list of lists of moments.
+  Earlier lists are higher priority (hence "prior").
+  The moments in each list should be ordered,
+  but no order needs to hold across moments in distinct lists.

@@ -1,0 +1,13 @@
+title: pkg-config seems not to recognize my JACK
+pid: 2e434a8a-01dc-4ec9-8730-5a6a35448007
+body: |2-
+  jeff@jbb-hp17:jack$ jackd --version
+  jackdmp version 1.9.19 tmpdir /dev/shm protocol 9
+
+  jeff@jbb-hp17:jack$ cabal repl
+  Build profile: -w ghc-9.0.2 -O1
+  In order, the following will be built (use -v for more details):
+   - jack-0.7.2 (lib) (first run)
+  Configuring library for jack-0.7.2..
+  cabal: The pkg-config package 'jack' version >=0.118 && <1 || >=1.9.8 && <2 is
+  required but it could not be found.

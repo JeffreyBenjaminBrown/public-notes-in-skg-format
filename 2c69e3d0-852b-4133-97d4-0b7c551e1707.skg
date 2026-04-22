@@ -1,0 +1,8 @@
+title: '75 5 12: 15-edo guitar, 31-lim -27.29 6x5, full 31-lim 7x10, octave (5,3)'
+pid: 2c69e3d0-852b-4133-97d4-0b7c551e1707
+body: |2-
+  , etrTuning = Edo 75 ; StringGap 12 ; FretGap 5
+contains:
+- 88be146a-e700-49d0-a7a9-f5cc102cc6e8
+misc:
+- Had_ID_Before_Import

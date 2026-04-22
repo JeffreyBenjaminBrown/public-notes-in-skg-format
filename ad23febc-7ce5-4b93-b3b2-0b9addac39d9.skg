@@ -1,0 +1,7 @@
+title: calculating fret positions
+pid: ad23febc-7ce5-4b93-b3b2-0b9addac39d9
+body: |2-
+  length = scalelength / 2**(note/edo)
+  so length at note 0 = scale length,
+  length at (note edo = the octave) = scalelength / 2,
+  etc.

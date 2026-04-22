@@ -1,0 +1,4 @@
+title: G(D) is not enumerable.
+pid: 3da80d25-4fdf-4d91-ba96-c7c86519124a
+body: |2-
+  "One cannot iterate over G(D), but one can test a Term for membership."

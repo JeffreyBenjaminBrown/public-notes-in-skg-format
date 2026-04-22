@@ -1,0 +1,7 @@
+title: via match
+pid: fd4ad70a-bd5e-435c-9ac6-8e630cfd01ce
+body: |2-
+  let config_max = Some(3u8);
+  match config_max {
+      Some(max) => println!("The maximum is configured to be {max}"),
+      _ => (), }

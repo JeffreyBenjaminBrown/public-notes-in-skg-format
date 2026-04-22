@@ -1,0 +1,16 @@
+title: idea
+pid: aada5d09-8f77-41e4-a32d-e5548060f460
+body: |2-
+  In a 3-node chain of descents, which is the middle word?
+  When viewing an intermediating term from its own perspective,
+  have a distinct branch called "intermediations".
+  Each intermediation has two children:
+  ```
+    * intermediator
+      [syntax $of the intermediator]
+    ** [a role from that syntax]
+    ** [the other role from that syntax]
+  ```
+  and the descendency order exists at least descending from a.
+  If it exists descending from b as well,
+  a herald should indicate that.

@@ -1,0 +1,8 @@
+title: '"If t is a function type (t1->t2) with t1 a variant record type of fields t’1..t’n, and v is a case statement with cases v’1..v’n: ⋀check(t2, v’i)"'
+pid: f4f7292d-2220-40c3-b7bb-2186bd0df6c3
+body: |2-
+      This looks like it's saying check the output value of each branch of the case statement. One has to check what the case is matching on too, though, no? That is, if I say
+      case (b :: Bool) of
+        "turtle" -> 3
+        False -> 4
+  then the second line of what I wrote is wrong because t1 is not matched, even if the output of all branches match t2.

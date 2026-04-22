@@ -1,0 +1,12 @@
+title: TODO file what Bart suggests
+pid: 67e8f27a-308e-4f5e-8b88-e7e3293d5ded
+body: |2-
+  not using musnix
+  disabling the jackdbus service and configuring/starting it with qjackctl
+    Get your jackd settings (to be set in the qjackctl GUI) from elsewhere, for example the Arch Pro Audio wiki page
+      https://wiki.archlinux.org/index.php/Professional_audio
+    speaking of which - don't need the packageOverrides unless you want to run 2 qjackctl instances on the same x-server
+  https://github.com/NixOS/nixpkgs/issues/71283#issuecomment-574083024
+  I think the kernels are actually only broken for unstable.
+  The nixos version is what determines the version of everything you configure in configuration.nix, and the nixpkgs version is for everything you install ad-hoc, via nix-env.
+  So no need to change both.

@@ -1,0 +1,4 @@
+title: efficiency
+pid: f238ac6f-bab9-4ca4-9fbb-e3034637a61a
+body: |2-
+  Erlang cleverly "minimizes the number of times each message is tested against the patterns in each receive."

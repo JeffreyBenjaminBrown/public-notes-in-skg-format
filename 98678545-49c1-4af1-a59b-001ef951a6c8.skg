@@ -1,0 +1,11 @@
+title: how to downsample a jpeg
+pid: 98678545-49c1-4af1-a59b-001ef951a6c8
+body: |2-
+    First check its dimensions with `file`.
+    Then choose new dimensions, and run
+    `magick convert input.jpg -resize 600x400\> output.jpg`
+  #+BEGIN_SRC bash
+  for i in *.jpg; do
+    magick convert $i -resize 1020x765\> $i.small.jpg
+  done
+  #+END_SRC

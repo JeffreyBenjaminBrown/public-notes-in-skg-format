@@ -1,0 +1,8 @@
+title: strings required
+pid: 44e3561c-2127-4d84-960a-07585b773276
+body: |2-
+  MTV> 9 * 12 / 46 -- 235 cents per string
+    2.347826086956522
+contains:
+- a298e7ec-f0e6-43db-8551-876bd7e793e3
+- a9c7380d-694e-4d8d-b881-e4642f87d1c3

@@ -1,0 +1,9 @@
+title: (selective) unqualified imports
+pid: 5ffc8308-256c-47a1-9525-0c4840d214bc
+body: |2-
+  import animal/cat.{Cat, stroke}
+
+  pub fn main() {
+    let kitty = Cat(name: "Nubi")
+    stroke(kitty)
+  }

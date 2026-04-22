@@ -1,0 +1,6 @@
+title: create a new project
+pid: ade0e0fb-70e7-4c2b-b180-b31ca1fb6461
+body: |2-
+  django-admin startproject <desired name of new project>
+contains:
+- 9e222714-13c8-4ecf-b893-01b8021f25e7

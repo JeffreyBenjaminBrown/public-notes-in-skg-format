@@ -1,0 +1,6 @@
+title: modify those notes
+pid: c30df53b-eb96-4461-9f84-f3a55f6cccac
+body: |2-
+  To the MIDI recording,
+  add the values in column N
+  to each note equal to N modulo 12.

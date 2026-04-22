@@ -1,0 +1,6 @@
+title: What that does
+pid: c1c794ac-faf5-4cb2-89e0-f376a2973796
+body: |2-
+  is create a new folder there, with that name,
+  populating it with some Django boilerplate
+  that can then be customized.

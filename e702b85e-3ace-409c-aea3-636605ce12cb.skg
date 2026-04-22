@@ -1,0 +1,15 @@
+title: TODO 7\43r x 3\43u 4\43dr (Bosanquet)
+pid: e702b85e-3ace-409c-aea3-636605ce12cb
+body: |2-
+  [ 0  steps;  1 % 1 ; string 0 ; fret 0
+  , 7  steps;  9 % 8 ; string 1 ; fret 0
+  , 14 steps;  5 % 4 ; string 2 ; fret 0
+  , 20 steps; 11 % 8 ; string 0 ; fret 5 |
+                       string 4 ; fret -2
+  , 25 steps;  3 % 2 ; string 3 ; fret 1
+  , 30 steps; 13 % 8 ; string 2 ; fret 4 |
+                       string 6 ; fret -3 |
+        (octave lower) string 1 ; fret -5
+  , 35 steps;  7 % 4 ; string 5 ; fret 0
+  , 39 steps; 15 % 8 ; string 5 ; fret 1
+  , 43 steps;  2 % 1 ; string 5 ; fret 2

@@ -1,0 +1,11 @@
+title: Join guards lazily with commas (and) and semicolons (or).
+pid: a61256a9-8723-4738-a703-1331de0f4efc
+body: |2-
+  right_age(X) when X >= 16, X =< 104 ->
+    true;
+  right_age(_) ->
+    false.
+  wrong_age(X) when X < 16; X > 104 ->
+    true;
+  wrong_age(_) ->
+    false.

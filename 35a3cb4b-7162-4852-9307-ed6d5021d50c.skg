@@ -1,0 +1,5 @@
+title: If it's not set up, run termux-setup-storage
+pid: 35a3cb4b-7162-4852-9307-ed6d5021d50c
+body: |2-
+  from within Termux:
+  https://docs.andronix.app/troubleshoot/internal-storage

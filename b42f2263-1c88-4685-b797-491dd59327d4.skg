@@ -1,0 +1,6 @@
+title: get key for minimum|maximum value in dictionary
+pid: b42f2263-1c88-4685-b797-491dd59327d4
+body: |2-
+  >>> d = {320: 1, 321: 0, 322: 3}
+  >>> min(d, key=d.get)
+  321

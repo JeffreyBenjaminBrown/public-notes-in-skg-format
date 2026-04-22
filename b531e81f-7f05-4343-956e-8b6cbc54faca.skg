@@ -1,0 +1,7 @@
+title: definition
+pid: b531e81f-7f05-4343-956e-8b6cbc54faca
+body: |2-
+  It is an octave-repeating set of frequencies,
+  represented as a pair (f,rs),
+  where rs is a set of ratios in (1,2)
+  and f is a frequency in hz.

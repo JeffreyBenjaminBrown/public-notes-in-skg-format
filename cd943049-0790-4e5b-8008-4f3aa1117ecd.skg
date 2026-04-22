@@ -1,0 +1,9 @@
+title: recipe
+pid: cd943049-0790-4e5b-8008-4f3aa1117ecd
+body: |2-
+  1. Highlight all of the cells and use Format -> Cells to change the cell format to an appropriate number format.
+  2. With all of the cells still selected, go to the menu Edit -> Find & Replace
+  3. In the Search For box enter .* (period asterisk)
+  4. In the Replace with box enter &
+  5. Select More Options and check Current Selection Only and Regular Expressions
+  6. Click Replace All

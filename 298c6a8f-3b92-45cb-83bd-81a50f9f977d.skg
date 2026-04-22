@@ -1,0 +1,6 @@
+title: has, hasn't
+pid: 298c6a8f-3b92-45cb-83bd-81a50f9f977d
+body: |2-
+  has :: Fold s a -> s -> Bool
+  hasn't :: Fold s a -> s -> Bool
+  Whether the result is empty.x

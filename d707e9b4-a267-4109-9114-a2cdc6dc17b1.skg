@@ -1,0 +1,8 @@
+title: '"sequencing" a list means trying each elt'
+pid: d707e9b4-a267-4109-9114-a2cdc6dc17b1
+body: |2-
+  > sequenceAOf (traversed . _1) [("ab", 1), ("cd", 2)]
+  [[('a',1),('c',2)]
+  ,[('a',1),('d',2)]
+  ,[('b',1),('c',2)]
+  ,[('b',1),('d',2)]]

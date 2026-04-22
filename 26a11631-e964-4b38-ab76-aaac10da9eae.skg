@@ -1,0 +1,6 @@
+title: gamma, the "Lorentz factor"
+pid: 26a11631-e964-4b38-ab76-aaac10da9eae
+body: |2-
+  = 1 / sqrt( 1 - v^2 / c^2 )
+  This is 1 for v near 0, and explodes as v approaches c.
+  It makes no sense for v > c.

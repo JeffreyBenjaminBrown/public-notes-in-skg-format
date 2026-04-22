@@ -1,0 +1,5 @@
+title: the problem
+pid: b5061c81-80c7-4338-9022-4dbd48a6026c
+body: |2-
+  If a link to a relationship node is used as a headline to indicate that the headline is a relationship between its parent and its children, the view of that relationship's sources will be cluttered by such instances, burying those nodes that are actually *about* the relatinoship in a sea of things that reveal little about it.
+  Here by relationship template I mean a file such as "see also" that explains what the "see also" relationship means, and links to which are used in other files to organize that file, rather than to say anything about the nature of "seeing also".

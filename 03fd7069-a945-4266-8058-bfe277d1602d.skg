@@ -1,0 +1,10 @@
+title: Example, with and withouot syntactic sugar
+pid: 03fd7069-a945-4266-8058-bfe277d1602d
+body: |2-
+  These are equivalent.
+
+  vec : (n : Nat ** Vect n Int)
+  vec = (2 ** [3, 4])
+
+  vec : DPair Nat (\n => Vect n Int)
+  vec = MkDPair 2 [3, 4]

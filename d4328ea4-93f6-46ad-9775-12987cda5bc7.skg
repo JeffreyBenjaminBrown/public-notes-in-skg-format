@@ -1,0 +1,6 @@
+title: 'PITFALL: The semicolon rules are kind of strange.'
+pid: d4328ea4-93f6-46ad-9775-12987cda5bc7
+body: |2-
+  Sometimes there's
+  See the image here:
+  https://typedb.com/docs/typedb/2.x/fundamentals/patterns#_complex_example

@@ -1,0 +1,4 @@
+title: to see what's connected
+pid: f316c62b-b0e1-4a96-97e1-5d80a3bc2489
+body: |2-
+  nmcli connection show --active

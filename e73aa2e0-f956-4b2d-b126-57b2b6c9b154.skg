@@ -1,0 +1,6 @@
+title: janky magit integration
+pid: e73aa2e0-f956-4b2d-b126-57b2b6c9b154
+body: |2-
+  Lets the user jump to the view of that file in magit.
+contains:
+- 1c264e69-6c4f-4aef-ba48-da9009562a24

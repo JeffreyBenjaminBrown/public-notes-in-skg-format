@@ -1,0 +1,8 @@
+title: logarithmic "base quality"
+pid: 205dcc03-64e2-43e3-8098-db6c2a55a521
+body: |2-
+  (Base quality = Q) = 10 * log_10 (p = Pr(incorrect))
+
+  This way, Q = 10 <=> 1 in 10 chance of wrong.
+            Q = 100 <=> 1 in 100 chance of wrong.
+            etc.

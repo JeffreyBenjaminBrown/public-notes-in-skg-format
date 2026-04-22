@@ -1,0 +1,4 @@
+title: The offset where the match to P starts in T is
+pid: 2cd5ff0a-6038-4009-8726-24d5e9d098cc
+body: |2-
+  where the traceback intersections the second row ("row 1" if 0-indexing).

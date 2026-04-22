@@ -1,0 +1,12 @@
+title: '5\46 x 7\46: skew & weird'
+pid: 19c2545f-2d4c-4e03-8912-43d2118fc331
+body: |2-
+  [ 0  steps; 1 % 1;  string 0; fret 0
+  , 21 steps; 11 % 8; string 0; fret 3
+  , 8  steps; 9 % 8;  string 3; fret -1
+  , 15 steps; 5 % 4;  string 3; fret 0
+  , 27 steps; 3 % 2;  string 4; fret 1
+  , 32 steps; 13 % 8; string 5; fret 1
+  , 46 steps; 2 % 1;  string 5; fret 3 -- octave
+  , 37 steps; 7 % 4;  string 6; fret 1
+  , 42 steps; 15 % 8; string 7; fret 1

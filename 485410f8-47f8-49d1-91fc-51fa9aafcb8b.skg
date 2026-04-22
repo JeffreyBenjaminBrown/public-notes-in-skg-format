@@ -1,0 +1,11 @@
+title: get IP(v4) addresses for running instance(s)
+pid: 485410f8-47f8-49d1-91fc-51fa9aafcb8b
+body: |2-
+  First [[id:ce3a8d0b-7e44-4457-a7d6-23c33288f75c][describe them all in a file]].
+  Then grep the file:
+    grep "\"PublicIp\"" all-running-instances.json
+  or write *that* to a file:
+    grep "\"PublicIp\"" all-running-instances.json \
+      | grep -o "[0-9].*[0-9]"                     \
+      | uniq                                       \
+      > ip-addresses.txt

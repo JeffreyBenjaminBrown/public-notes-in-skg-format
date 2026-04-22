@@ -1,0 +1,4 @@
+title: elaboration
+pid: 76b63fcf-ddc8-48a5-8c4f-c1e4aeb0c712
+body: |2-
+  Within a {tree, scope} there can be more than one path containerward from a node to the root. To see it, draw each of its containers and an org-child, and recursively, but provide a termination on the node right before the root rather than wasting space repeating the root a lot.

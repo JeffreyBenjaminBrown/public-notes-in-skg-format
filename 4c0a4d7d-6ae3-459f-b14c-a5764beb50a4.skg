@@ -1,0 +1,4 @@
+title: how it is resolved
+pid: 4c0a4d7d-6ae3-459f-b14c-a5764beb50a4
+body: |2-
+  Overloaded type members must possess unique signatures.

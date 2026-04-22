@@ -1,0 +1,9 @@
+title: TODO Do I even use that libuv derivation?
+pid: 88072a75-26d3-40ae-8ec4-216427374128
+body: |2-
+  The phrase `libuv` is nowhere in my config/ folder.
+  My derivation is at version 1.34.2,
+  whereas nixpkgs has it at 1.42.0.
+  I may have [[id:c15685f2-54d8-40dd-a49c-d87ec0bd5034][installed libuv by hand]],
+  or libuv may have been pulled from nixpkgs
+  without my (directly) mentioning it in my config.

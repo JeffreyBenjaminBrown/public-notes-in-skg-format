@@ -1,0 +1,7 @@
+title: Hamming-measured inexact matching
+pid: 2fd83415-9a81-4b5a-b3cb-daef262cf0a5
+body: |2-
+  = look for matches within a given Hamming radius.
+contains:
+- 6c0420cb-2716-4ccf-96f1-d1a8718d17b7
+- 25fd8121-326e-4fef-9e72-48a7add6fde3

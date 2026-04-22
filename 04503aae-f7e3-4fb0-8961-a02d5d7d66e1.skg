@@ -1,0 +1,5 @@
+title: A color might sometimes distinguish not repeated things, but the first tail of each such set.
+pid: 04503aae-f7e3-4fb0-8961-a02d5d7d66e1
+body: |2-
+  The idea being you're most interested in knowing you've seen something already.
+  And maybe that first instance of it should include a count of how many time it is repeated in this context.

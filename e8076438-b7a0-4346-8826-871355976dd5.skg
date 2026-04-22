@@ -1,0 +1,27 @@
+title: primes through 13 + easy higher primes
+pid: e8076438-b7a0-4346-8826-871355976dd5
+body: |2-
+  58 steps =  2 % 1  : str 4 fret 3
+  34 steps =  3 % 2  : str 2 fret 4
+  19 steps =  5 % 4  : str 1 fret 3
+  47 steps =  7 % 4  : str 3 fret 4
+  27 steps = 11 % 8  : str 3 fret -6 | str 1 fret 7
+    for 58e          : -14c error instead of 7c,
+    located at         str 2 fret 0
+    but 50e plays terribly with other 13-limit harmonics
+  41 steps = 13 % 8  : str 3 fret 1
+  53 steps = 15 % 8  ; str 3 fret 7
+   5 steps = 17 % 16 : str 1 fret -4 | str -1 fret 9     -- unavoidably awkward
+  14 steps = 19 % 16 : str 0 fret 7
+    for 58h            13c error instead of -8c,
+    located at         str 1 fret 1,
+    plays better with harmonics 5, 11, 13, 29
+  30 steps = 23 % 16 : str 2 fret 2
+    the next-best      13c error instead of -8c
+                       str 1 fret 9  | str 3 fret -4
+    plays better with harmonics 5, 11, 13 (and the 2nd-best 19)
+  50 steps = 29 % 16 : str 4 fret -1
+  55 steps = 31 % 16 : str 5 fret -5 | str 3 fret 8
+    the next-best      14c error instead of -7c
+    located at         str 4 fret 2
+    plays better with harmonics 5, 11, 13, 29 (and the 2nd-best 19 and 23)

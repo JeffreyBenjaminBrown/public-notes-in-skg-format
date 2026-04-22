@@ -1,0 +1,14 @@
+title: code
+pid: cd7fa296-edb3-475f-be67-75662126c484
+body: |2-
+  import Data.List as L
+  myPrint = mapM_ putStrLn . map show
+  (edo,fifth) = (58,34) -- MODIFY ME
+  fifths = take edo [0..]
+  edoSteps = map (flip mod edo . (*fifth)) fifths
+  paired = zip fifths edoSteps
+  myPrint $ L.sortOn snd paired
+  -- see where 7 fifths arrives
+  filter ((== 7) . fst) paired
+  -- see what notes are available within 7 fifths of the origin
+  myPrint $ L.sortOn fst $ ( filter ((<= 7) . fst) paired ++ filter ((>= (edo-7)) . fst) paired )

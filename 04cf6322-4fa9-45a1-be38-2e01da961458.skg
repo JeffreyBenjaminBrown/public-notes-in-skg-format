@@ -1,0 +1,6 @@
+title: 'the dangerous way: omit the "ok" variable'
+pid: 04cf6322-4fa9-45a1-be38-2e01da961458
+body: |2-
+  t := i.(T)
+  If ok would have been false,
+  then this triggers a panic.

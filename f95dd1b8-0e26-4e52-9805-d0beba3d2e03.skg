@@ -1,0 +1,10 @@
+title: finding and using my own Go packages elsewhere
+pid: f95dd1b8-0e26-4e52-9805-d0beba3d2e03
+body: |2-
+  If code folder X is to refer to functions in code folder Y,
+  then code from X should say something like "import <name of y>",
+  e.g. "import jbb/y".
+  For that to work, run something like this from code folder X:
+    go mod edit -replace jbb/y=<path/to/y>
+  for instance
+    go mod edit -replace jbb/y=../y

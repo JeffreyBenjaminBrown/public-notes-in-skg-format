@@ -1,0 +1,4 @@
+title: if any apps must use the database, run "migrate" to (make the db?)
+pid: 7abf898c-27a0-4d1c-8df0-66bbc2b3a058
+body: |2-
+  python manage.py migrate

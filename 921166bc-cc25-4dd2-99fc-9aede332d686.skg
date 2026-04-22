@@ -1,0 +1,10 @@
+title: 'Law Three: Pass-through Reversion'
+pid: 921166bc-cc25-4dd2-99fc-9aede332d686
+body: |2-
+  This says that when a match fails,
+  we can do another failing match with the same lens to revert:
+  if
+    Left t = matching l s
+    Left s' = matching l t
+  then
+    s == s'

@@ -1,0 +1,5 @@
+title: aliases in internal nodes triggers "wrong side of point", can't save
+pid: c1be05d7-5212-415e-9f16-d009e4350676
+body: |2-
+  I put this on the Discourse but maybe it belongs on GitHub.
+  https://org-roam.discourse.group/t/adding-aliases-to-internal-nodes-causes-wrong-side-of-point-error/3827

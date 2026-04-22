@@ -1,0 +1,12 @@
+title: TODO "voice" is *crazy*
+pid: b95fc900-2e99-4d35-bbc5-042d36146deb
+body: |2-
+  Controls "relative phase and detune amount".
+  Range [0,400].
+  At 0 it's a very pure sound.
+  Near 0 it's phasey and with an attack (?).
+  Around 0.5 it's that classic mismatched saw thing.
+  Around 3 it's in an uncanny valley.
+  From 5 to 40 or so it gives thick undertones.
+  For round values higher than 40 it's kind of glassy,
+  and for non-round ones (e.g. 201) it's out of phase but well-behaved.

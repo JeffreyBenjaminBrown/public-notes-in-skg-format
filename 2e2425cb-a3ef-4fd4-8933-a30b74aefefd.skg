@@ -1,0 +1,5 @@
+title: if using UEFI
+pid: 2e2425cb-a3ef-4fd4-8933-a30b74aefefd
+body: |2-
+  Will need this, but nixos-generate-config probably did it already.
+  boot.loader.systemd-boot.enable = true

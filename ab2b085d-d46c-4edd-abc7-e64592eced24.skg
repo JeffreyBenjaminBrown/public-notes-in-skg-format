@@ -1,0 +1,5 @@
+title: write a `hode-start` with a program argument
+pid: ab2b085d-d46c-4edd-abc7-e64592eced24
+body: |2-
+  For stuff do run after starting the container,
+  before starting TypeDB.

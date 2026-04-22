@@ -1,0 +1,4 @@
+title: constructors for immutable data
+pid: a3990e30-9666-4981-90bd-075ffb243274
+body: |2-
+  Since data types are immutable, __init__ construction won’t work. Instead, a different special method __new__ is used

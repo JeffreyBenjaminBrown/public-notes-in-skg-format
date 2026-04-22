@@ -1,0 +1,5 @@
+title: 'PITFALL: This only demonstrates the testing of functions.'
+pid: 1820b8df-9771-4470-b0c9-c2ffb1bb8961
+body: |2-
+  In my notes I documented [[id:d2a3ade8-f900-46fa-ad3c-53c10cbfb0a6][how to test a class method]],
+  but who cares, I don't give my classes methods.

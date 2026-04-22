@@ -1,0 +1,10 @@
+title: Spaced 13\46 and skipping every other, the max reach is 5.2\12
+pid: 8d75421a-dc37-455d-a0eb-f7ae2b45bdfe
+body: |2-
+  13, max reach: 10\23, or in 12-edo, 5.2
+  15\87 = 5 % 4  = 1 strings + 1 frets
+  27\87 = 3 % 2  = 3 strings - 6 frets
+  21\87 = 11 % 8 = 1 strings + 4 frets
+  32\87 = 13 % 8 = 2 strings + 3 frets
+  37\87 = 7 % 4  = 3 strings - 1 frets
+  46\87 = 2 % 1  = 4 strings - 3 frets

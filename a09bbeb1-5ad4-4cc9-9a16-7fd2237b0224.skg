@@ -1,0 +1,20 @@
+title: 'Kite: 41 13 2'
+pid: a09bbeb1-5ad4-4cc9-9a16-7fd2237b0224
+body: |2-
+   0 steps;  1 %  1; string 0; fret  0
+  41 steps;  2 %  1; string 3; fret  1
+  24 steps;  3 %  2; string 2; fret -1
+  13 steps;  5 %  4; string 1; fret  0
+  33 steps;  7 %  4; string 3; fret -3
+   7 steps;  9 %  8; string 1; fret -3
+  19 steps; 11 %  8; string 1; fret  3
+  29 steps; 13 %  8; string 3; fret -5
+  37 steps; 15 %  8; string 3; fret -1
+   4 steps; 17 % 16; string 0; fret  2
+  10 steps; 19 % 16; string 0; fret  5
+  16 steps; 21 % 16; string 2; fret -5
+  21 steps; 23 % 16; string 1; fret  4
+  26 steps; 25 % 16; string 2; fret  0
+  31 steps; 27 % 16; string 3; fret -4
+  35 steps; 29 % 16; string 3; fret -2
+  39 steps; 31 % 16; string 3; fret  0

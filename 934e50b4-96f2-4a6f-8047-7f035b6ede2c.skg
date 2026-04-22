@@ -1,0 +1,6 @@
+title: ONGOING to give an explicit list of paths to back up
+pid: 934e50b4-96f2-4a6f-8047-7f035b6ede2c
+body: |2-
+  borg create \
+    "$borg_ssd::$(date +%Y-%m-%d).hp24" \
+    --paths-from /home/jeff/excluded-from-borg/files-to-backup.txt

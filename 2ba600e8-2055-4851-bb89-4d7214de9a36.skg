@@ -1,0 +1,5 @@
+title: Start from the identity
+pid: 2ba600e8-2055-4851-bb89-4d7214de9a36
+body: |2-
+   convert affine.png -affine 1, 0, 0, 1, 0, 0 -transform out.png
+  sx rx ry sy tx ty

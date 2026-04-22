@@ -1,0 +1,10 @@
+title: code
+pid: c7994a92-e947-4d40-abf6-ef0a8b53d91d
+body: |2-
+  :{
+  filter (< 58) $ -- or maybe 2*58, or even 3*58,
+                  -- if the repeating shape is wide
+    take 12 $ -- no scale needs more than 12 notes
+    concat [ fmap (+x) $
+             [0,4] | x <- [0,17..] ]
+  :}

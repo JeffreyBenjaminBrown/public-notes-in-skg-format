@@ -1,0 +1,7 @@
+title: the trick
+pid: 64e60fc0-c64d-4c3f-bf00-4f78f00700bb
+body: |2-
+  Define f(args), where args do not match the base case,
+  as nothing more than f(different args).
+contains:
+- a56b64bb-e03e-4ab0-86c3-eaea41eb2864

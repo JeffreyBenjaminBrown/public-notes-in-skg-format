@@ -1,0 +1,14 @@
+title: 'mod 1 space 16: span of 12, ugly'
+pid: d88cd2aa-51d6-47e6-aa85-0fea295dd32d
+body: |2-
+  10 steps = 17 % 16:  string 1 fret -6 | string 0 fret 10
+  29 steps = 19 % 16:  string 2 fret -3
+  38 steps = 5 % 4:    string 2 fret 6
+  54 steps = 11 % 8:   string 3 fret 6
+  62 steps = 23 % 16:  string 4 fret -2
+  69 steps = 3 % 2:    string 4 fret 5
+  83 steps = 13 % 8:   string 5 fret 3
+  95 steps = 7 % 4:    string 6 fret -1
+  101 steps = 29 % 16: string 6 fret 5
+  113 steps = 31 % 16: string 7 fret 1
+  118 steps = 2 % 1:   string 7 fret 6

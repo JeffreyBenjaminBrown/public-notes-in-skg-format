@@ -1,0 +1,6 @@
+title: 46-edo lets you use fewer errors
+pid: 3f947e5b-c9e9-497c-8a23-40ac024b4ae0
+body: |2-
+  9 and 5 have the same cents error (4.9c).
+  7 and 11 have the same cents error (-3.55c).
+  And 17 needs no adjustment (-.6c error).

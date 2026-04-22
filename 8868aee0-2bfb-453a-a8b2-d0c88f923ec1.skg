@@ -1,0 +1,5 @@
+title: '*Tap the file* and then tap "extract".'
+pid: 8868aee0-2bfb-453a-a8b2-d0c88f923ec1
+body: |2-
+  Strangely, "extract" is not part of the context menu,
+  but tapping the file brings up the option.

@@ -1,0 +1,16 @@
+title: (one of) our implemntation(s)
+pid: 357f653d-ecf7-473d-9e1f-a8e093ba3545
+body: |2-
+  #+BEGIN_SRC haskell
+  module Implementation where
+
+  import Domain
+
+  encode :: OurOwnFoo -> Foo
+  decode :: Foo -> OurOwnFoo -- Might not need this. Note that decoding is often an operation that can fail.
+
+  outOwnFooLibImplementation :: OurOwnFooLib
+  outOwnFooLibImplementation = OurOwnFooLib {
+    owrOwnBar = bar . encodeFoo,
+    owrOwnBaz = baz . encodeFoo }
+  #+END_SRC

@@ -1,0 +1,6 @@
+title: functions must be total ("covering") by default
+pid: 849d437b-fed1-4d08-97ad-d0f264f31159
+body: |2-
+  but that can be overridden with the "partial" keyword:
+contains:
+- 1a1b01e8-7ef0-4535-b0cf-24ac6352cc30

@@ -1,0 +1,7 @@
+title: standalone `catch`
+pid: 38b59abc-ae95-47f2-b23e-d3af81b8d803
+body: |2-
+  It's unnecessary and dangerous. I mostly skipped the section about it:
+  https://learnyousomeerlang.com/errors-and-exceptions#theres-more
+misc:
+- Had_ID_Before_Import

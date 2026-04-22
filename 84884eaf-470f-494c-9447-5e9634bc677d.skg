@@ -1,0 +1,4 @@
+title: values are expressions, but attributes are not
+pid: 84884eaf-470f-494c-9447-5e9634bc677d
+body: |2-
+  Let statements are valid wherever expression are valid.

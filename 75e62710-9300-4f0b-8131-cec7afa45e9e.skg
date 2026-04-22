@@ -1,0 +1,9 @@
+title: syntax
+pid: 75e62710-9300-4f0b-8131-cec7afa45e9e
+body: |2-
+     Class A
+     End Class
+
+     Class B
+  Inherits A
+     End Class

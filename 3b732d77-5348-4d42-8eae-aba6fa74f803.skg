@@ -1,0 +1,11 @@
+title: use aliases for table and column names
+pid: 3b732d77-5348-4d42-8eae-aba6fa74f803
+body: |2-
+  SELECT name, annual_income as income,
+    gender, eye_color as eyes, hair_color as hair
+  FROM income i
+  JOIN person p
+    ON i.ssn = p.ssn
+  JOIN drivers_license dl
+    ON p.license_id = dl.id
+  WHERE annual_income > 450000

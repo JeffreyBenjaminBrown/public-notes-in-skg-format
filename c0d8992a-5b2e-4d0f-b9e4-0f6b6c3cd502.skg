@@ -1,0 +1,22 @@
+title: the portion of scale-space that this document exhausts
+pid: c0d8992a-5b2e-4d0f-b9e4-0f6b6c3cd502
+body: |2-
+  These include every symmetric scale with 6 or more tones,
+  and every non-symmetric scale with exactly* 7 tones,
+  subject to two constraints:
+
+  - There cannot be more than two notes
+    in any three consecutive halfsteps
+    (so e.g. B C Db is not allowed).
+  - The interval between any two consecutive notes
+    cannot be greater than 3
+    (so e.g. a jump from Bb to C# is okay,
+    but a jump from Gb to A# is not).
+
+  There exist no non-symmetric scales with more than 7 tones.
+  Therefore this document characterizes
+  every scale subject to the above two constraints
+  with 7 or more notes,
+  plus the whole tone scale.
+contains:
+- 8522dd98-3edf-4b46-af78-4d5cdc1c935b

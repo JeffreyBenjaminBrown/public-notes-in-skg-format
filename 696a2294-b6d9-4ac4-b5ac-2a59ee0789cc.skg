@@ -1,0 +1,9 @@
+title: rendering
+pid: 696a2294-b6d9-4ac4-b5ac-2a59ee0789cc
+body: |2-
+  Adorned with an 'is_relationship' glyph.
+  Each member appears as a link,
+  and the connecting text as ordinary text.
+  (Two spaces on either side of each link,
+  so that even if the connecting text is empty,
+  they are clearly distinct.)

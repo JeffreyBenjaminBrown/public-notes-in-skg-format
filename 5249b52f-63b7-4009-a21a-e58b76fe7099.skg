@@ -1,0 +1,4 @@
+title: '"Stashing" prevents information loss.'
+pid: 5249b52f-63b7-4009-a21a-e58b76fe7099
+body: |2-
+  "transforming unsupported(in the target language) expressions into supported(in the target language) expressions plus annotations (stashing)."

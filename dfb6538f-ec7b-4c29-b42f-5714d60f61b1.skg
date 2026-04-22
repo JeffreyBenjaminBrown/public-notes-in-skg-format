@@ -1,0 +1,9 @@
+title: Handling messy graphs.
+pid: dfb6538f-ec7b-4c29-b42f-5714d60f61b1
+body: |2-
+  This applies to both overlap graph and De Bruijn graph algorithms.
+contains:
+- 8a88ad31-3fb3-476d-8742-527221c9782f
+- f94f7595-253b-43ac-bded-ee9c7437d408
+- 45e848e3-aabc-4787-aa92-95ebff672197
+- 4066f815-19fa-4e3e-89d4-17fb0cd2e14f

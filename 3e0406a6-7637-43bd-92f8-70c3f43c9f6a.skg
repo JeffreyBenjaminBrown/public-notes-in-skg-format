@@ -1,0 +1,7 @@
+title: example
+pid: 3e0406a6-7637-43bd-92f8-70c3f43c9f6a
+body: |2-
+  let typedb_driver       : Arc<TypeDBDriver> =
+    initialize_typedb();
+  let typedb_driver_clone : Arc<TypeDBDriver> =
+    Arc::clone( &typedb_driver );

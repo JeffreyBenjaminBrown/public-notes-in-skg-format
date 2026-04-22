@@ -1,0 +1,8 @@
+title: 'The first argument does not need to (cannot be?) polymorphic:'
+pid: 66b18ccc-184e-47cd-b74b-b87720ae3064
+body: |2-
+  collectCrewMembers :: ShipCrew -> [Name]
+  collectCrewMembers crew =
+    [_captain crew, _firstMate crew] ++ _conscripts crew
+  crewMembers :: Fold ShipCrew Name
+  crewMembers = folding collectCrewMembers

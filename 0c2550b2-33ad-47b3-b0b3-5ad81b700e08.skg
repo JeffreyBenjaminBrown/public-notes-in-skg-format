@@ -1,0 +1,4 @@
+title: the restriction
+pid: 0c2550b2-33ad-47b3-b0b3-5ad81b700e08
+body: |2-
+  "... can’t implement external traits on external types. For example, we can’t implement the Display trait on Vec<T> within our aggregator crate because Display and Vec<T> are both defined in the standard library and aren’t local to our aggregator crate"

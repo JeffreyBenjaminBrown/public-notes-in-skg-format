@@ -1,0 +1,5 @@
+title: This document explains how to
+pid: a18c4d05-05e6-4d8e-b8cc-fb14c1ed4e9e
+body: |2-
+  Put a git repo on AWS, using their CodeCommit protocol.
+  https://aws.amazon.com/getting-started/projects/migrate-git-repository/?trk=gs_card

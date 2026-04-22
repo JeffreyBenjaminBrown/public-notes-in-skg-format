@@ -1,0 +1,5 @@
+title: A subscribee E can have its own subscribees.
+pid: bf294b6e-d78a-45ed-bf2a-79f07619b10f
+body: |2-
+  Editing one of those is an edit to E, i.e. doesn't make sense.
+  To lens onto one, copy it elsewhere and edit that.

@@ -1,0 +1,11 @@
+title: when I first launch Qjackctl, I get these messages
+pid: 6b02ad20-4be2-4156-a892-b814d58af338
+body: |2-
+  01:06:49.053 Statistics reset.
+  01:06:49.064 ALSA connection change.
+  Cannot connect to server socket err = No such file or directory
+  Cannot connect to server request channel
+  jack server is not running or cannot be started
+  JackShmReadWritePtr::~JackShmReadWritePtr - Init not done for -1, skipping unlock
+  JackShmReadWritePtr::~JackShmReadWritePtr - Init not done for -1, skipping unlock
+  01:06:49.099 ALSA connection graph change.

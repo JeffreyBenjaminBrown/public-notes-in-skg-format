@@ -1,0 +1,6 @@
+title: Apps can be in multiple projects,
+pid: 0b018733-9edd-4364-b677-5590ab1a99db
+body: |2-
+  and a project can contain multiple apps.
+contains:
+- 32559301-8128-44b0-a309-ca33c8909f31

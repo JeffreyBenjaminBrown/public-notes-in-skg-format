@@ -1,0 +1,5 @@
+title: The solution
+pid: a82d9f70-5ed1-439c-b6a5-ee790c028042
+body: |2-
+  If the QjackCtl GUI doesn't make it possible,
+  [[id:a73d2fbc-3e38-480a-ae08-d335f5096de7][do it via the command line]].

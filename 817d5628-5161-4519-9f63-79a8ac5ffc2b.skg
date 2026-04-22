@@ -1,0 +1,4 @@
+title: The type of "Data" in the Term Constructors table looks wrong.
+pid: 817d5628-5161-4519-9f63-79a8ac5ffc2b
+body: |2-
+  If an Application term can have any type, then the Types column must describe the result of the entire expression -- that is, the application of the function to its argument, not just the function. But that's not compatible with the listed type of the Data term, which is stated as "function". The example given of Data is "data(Point1234)". I can see how "data" could be the "function which maps an element to its data", but not how "data(Point1234)" could be that.

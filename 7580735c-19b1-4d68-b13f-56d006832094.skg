@@ -1,0 +1,4 @@
+title: get-buffer-create
+pid: 7580735c-19b1-4d68-b13f-56d006832094
+body: |2-
+  creates a buffer if it finds no existing buffer with the specified name.

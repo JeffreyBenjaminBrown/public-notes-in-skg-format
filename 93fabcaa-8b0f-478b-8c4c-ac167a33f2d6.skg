@@ -1,0 +1,8 @@
+title: to build an executable in the project root
+pid: 93fabcaa-8b0f-478b-8c4c-ac167a33f2d6
+body: |2-
+  Run this from the project root:
+    cabal install --install-method=copy --installdir=.
+  or
+    cabal install --install-method=copy --installdir=. \
+      --overwrite-policy=always

@@ -1,0 +1,4 @@
+title: TODO warn the user if they make a contains cycle
+pid: 0a39762c-8d0e-4fce-bf27-b62e5cd5f9cb
+body: |2-
+  don't save, explain where, let them investigate

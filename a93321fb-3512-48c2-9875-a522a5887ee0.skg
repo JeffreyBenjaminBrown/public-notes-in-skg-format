@@ -1,0 +1,6 @@
+title: TODO update LEDs when the parameter view changes.
+pid: a93321fb-3512-48c2-9875-a522a5887ee0
+body: |2-
+  Currently, if I'm looking at (say) filter parameters,
+  and then I switch to the pulse modulation parameters,
+  the LEDs don't change.

@@ -1,0 +1,9 @@
+title: wagsi (music software)
+pid: 4c5c2a9b-0465-4ed5-bde1-df35e96321af
+body: |2-
+  = like TidalCycles, ported to PureScript
+contains:
+- cf171b4c-cbf7-4dfe-bfa8-94c0bb55a063
+- 68f36f3c-1feb-46c2-ac99-b5554733c2b7
+misc:
+- Had_ID_Before_Import

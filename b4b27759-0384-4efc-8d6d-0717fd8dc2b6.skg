@@ -1,0 +1,11 @@
+title: 'some "callbacks": functions the user must define *and export*'
+pid: b4b27759-0384-4efc-8d6d-0717fd8dc2b6
+body: |2-
+  If they aren't exported, gen_server can't use them, I guess.
+contains:
+- 6c0d7610-bf10-4797-9f2d-569ae2d09e48
+- bc1f3d25-47cb-4210-a43c-8787f3e744e3
+- ce8cbd61-4465-4452-ae19-753b6a227ddd
+- 350ed059-11e5-4027-9511-8b753bbcfd8c
+- 54aae833-6a04-432c-aff3-341c0c12519b
+- 020afea0-5d36-4581-906d-079f67abbc6e

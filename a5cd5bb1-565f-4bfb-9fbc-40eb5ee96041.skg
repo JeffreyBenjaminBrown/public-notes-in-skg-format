@@ -1,0 +1,4 @@
+title: 'PITFALL: the SSH key becomes garbage'
+pid: a5cd5bb1-565f-4bfb-9fbc-40eb5ee96041
+body: |2-
+  once the instance is terminated

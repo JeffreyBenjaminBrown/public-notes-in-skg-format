@@ -1,0 +1,16 @@
+title: '48 2 13: 15-lim 4x6, 31-lim 4x9'
+pid: b1669184-5477-42e6-bdc0-1e3900db48cc
+body: |2-
+  This is on the Xen Wiki.
+  0 steps = 1 % 1	string 0 fret 0
+  48 steps = 2 % 1	string 4 fret -2
+  28 steps = 3 % 2	string 2 fret 1
+  15 steps = 5 % 4	string 1 fret 1
+  39 steps = 7 % 4	string 3 fret 0
+  22 steps = 11 % 8	string 2 fret -2
+  34 steps = 13 % 8	string 2 fret 4
+  4 steps = 17 % 16	string 0 fret 2
+  12 steps = 19 % 16	string 0 fret 6
+  25 steps = 23 % 16	string 1 fret 6
+  41 steps = 29 % 16	string 3 fret 1
+  46 steps = 31 % 16	string 4 fret -3

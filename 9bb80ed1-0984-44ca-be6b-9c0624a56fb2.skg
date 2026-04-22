@@ -1,0 +1,7 @@
+title: Select a region.
+pid: 9bb80ed1-0984-44ca-be6b-9c0624a56fb2
+body: |2-
+  Do this by clicking on in the track itself.
+  There doesn't need to be a clip there already.
+  Clicking on the timeline above the tracks
+  defines some other kind of region, I'm guessing loop regions.

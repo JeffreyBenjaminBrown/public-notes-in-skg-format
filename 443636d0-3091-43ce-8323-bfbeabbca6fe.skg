@@ -1,0 +1,18 @@
+title: example
+pid: 443636d0-3091-43ce-8323-bfbeabbca6fe
+body: |2-
+  define
+
+  # This paragraph: the part unique to relations.
+  group-membership sub relation,
+    relates user-group,
+    relates group-member;
+
+  user-group sub entity
+    plays group-membership:user-group;
+
+  subject sub entity,
+    plays group-membership:group-member;
+  user sub subject;
+misc:
+- Had_ID_Before_Import

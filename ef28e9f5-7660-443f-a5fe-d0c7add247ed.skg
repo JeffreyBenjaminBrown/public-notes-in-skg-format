@@ -1,0 +1,5 @@
+title: Persist the DBs (TypeDB, Tantivy) while skg runs.
+pid: ef28e9f5-7660-443f-a5fe-d0c7add247ed
+contains:
+- 9f843916-cd3b-4cd4-9601-1a934d96053b
+- 9e8dbfe3-5887-4cd2-90d4-28f1573830bc

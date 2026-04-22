@@ -1,0 +1,5 @@
+title: timeForBoth_toAppearToFinish can be more efficient
+pid: 84fb50e1-36e5-4a0e-8a4e-488e69d3fa4c
+body: |2-
+  In the case of stack, if the time to repeat is less than the time to play through,
+  the result of stacking two things can be a lot smaller if they are not looped all the way through.

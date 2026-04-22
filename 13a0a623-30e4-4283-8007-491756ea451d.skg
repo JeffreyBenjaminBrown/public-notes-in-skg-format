@@ -1,0 +1,12 @@
+title: '73 5 12: 15-lim 0-area 4x8, octave (4,5)'
+pid: 13a0a623-30e4-4283-8007-491756ea451d
+body: |2-
+  [ 0 steps; 1 % 1 ; string 0 ; fret 0
+  , 73 steps; 2 % 1 ; string 4 ; fret 5
+  , 43 steps; 3 % 2 ; string 4 ; fret - 1
+  , 24 steps; 5 % 4 ; string 2 ; fret 0
+  , 59 steps; 7 % 4 ; string 2 ; fret 7
+  , 12 steps; 9 % 8 ; string 1 ; fret 0
+  , 34 steps; 11 % 8 ; string 2 ; fret 2
+  , 51 steps; 13 % 8 ; string 3 ; fret 3
+  , 66 steps; 15 % 8 ; string 3 ; fret 6

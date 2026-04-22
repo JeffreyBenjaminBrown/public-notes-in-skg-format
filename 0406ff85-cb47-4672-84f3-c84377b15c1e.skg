@@ -1,0 +1,7 @@
+title: TODO ? m31 will not connect
+pid: 0406ff85-cb47-4672-84f3-c84377b15c1e
+body: |2-
+  I tried adding "samsung-unified-linux-driver" to packages.nix; it would not build. Also it might not be relevant; the description says it's for printers, and does not mention phones.
+  This page
+    https://forum.kde.org/viewtopic.php?f=224&t=143115
+  suggests modifying the "69-libmtp.rules" file. I have five such files. The first I checked already had the change the page describes.

@@ -1,0 +1,6 @@
+title: TODO good-looking edos per my weighted absolute errors code
+pid: f1345c72-147d-41b2-b9e8-2b77fbf61ea8
+body: |2-
+  PITFALL: does not take into account interactions between the errors,
+    which depend on sign
+  99, 94, 89, 87, 84, 77, 72, 65, 63, 58, 53, 46, 41

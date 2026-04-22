@@ -1,0 +1,12 @@
+title: an example of how to use it
+pid: 7323efff-8db2-4784-873f-9205556f96ee
+body: |2-
+  Define three (register,timbre) pairs,
+  one for the bass region and two for treble.
+  One of the two high registers is sustainable,
+  s.t. feet can
+    open and close the gate into sustain,
+    clear the sustain,
+    load the (current or last) sustained sound
+      into to a button,
+    retrigger it from there

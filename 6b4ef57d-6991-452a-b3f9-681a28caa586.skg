@@ -1,0 +1,6 @@
+title: after installing and rebooting, sign in as root
+pid: 6b4ef57d-6991-452a-b3f9-681a28caa586
+body: |2-
+  That's the password I set during installation.
+  Once in, run `passwd jeff`.
+  After that, I can login as a normal user.

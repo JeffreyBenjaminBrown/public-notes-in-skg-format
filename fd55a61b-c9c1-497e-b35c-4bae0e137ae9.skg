@@ -1,0 +1,10 @@
+title: example
+pid: fd55a61b-c9c1-497e-b35c-4bae0e137ae9
+body: |2-
+    * bread
+    ** needs
+    *** yeast
+    **** evidence for it
+  without yeast it won't rise
+    *** flour
+    *** ...

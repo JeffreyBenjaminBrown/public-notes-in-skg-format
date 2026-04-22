@@ -1,0 +1,7 @@
+title: 'quoting my comment on that thread:'
+pid: 8711486a-30c8-4216-95fc-65884ecbba6d
+body: |2-
+     Solved. It’s not a NixOS-specific issue. The problem was that my graphics card on this system is integrated, and the solution is to use the latest kernel rather than the default LTS. It’s as simple as adding this line to configuration.nix:
+
+  boot.kernelPackages = pkgs.linuxPackages_latest
+  Thanks to user K900 (bcachefs when) on the #nix channel at Matrix.org 1.

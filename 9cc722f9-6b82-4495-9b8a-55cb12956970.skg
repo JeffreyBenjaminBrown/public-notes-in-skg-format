@@ -1,0 +1,9 @@
+title: example
+pid: 9cc722f9-6b82-4495-9b8a-55cb12956970
+body: |2-
+  These two values
+    ( 1 ** [1] )
+    (2 ** [1,2])
+  both have type
+    (n ** Vect n Int)
+  even though their second elements have different types.

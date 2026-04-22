@@ -1,0 +1,8 @@
+title: 'table: get, set and modify'
+pid: dcfbb4fa-4187-4921-bab4-dc0bfa953dd9
+body: |2-
+  |          optic | Lens   | Fold | Traversal | Prism      | Iso
+  | Get            | Single | Many | Many      | 0 or 1     | 1
+  | Set/Modify     | Single | No   | Many      | 0 or 1     | 1
+  | Traverse       | Single | No   | Many      | 0 or 1     | 1
+  | Embed          | No     | No   | No        | Yes        | Yes

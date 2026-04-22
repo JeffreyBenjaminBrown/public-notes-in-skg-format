@@ -1,0 +1,8 @@
+title: '63 6 13: 10.5 edo frets, 15-lim 0-area 4x8 (4x5 sans 11), octave (3,4)'
+pid: c88e7526-3993-4cae-95fb-63102f75d7c0
+body: |2-
+  , etrTuning = Edo 63 ; StringGap 13 ; FretGap 6
+contains:
+- b53bb5cf-3610-4d32-a540-67f1eeb34c5d
+misc:
+- Had_ID_Before_Import

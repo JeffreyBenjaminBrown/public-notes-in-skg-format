@@ -1,0 +1,4 @@
+title: a stack trace
+pid: 92e390af-2971-4cf7-9f30-32a4a88ba5f5
+body: |2-
+  = a list of {Module,Function,Arity,ExtraInfo}

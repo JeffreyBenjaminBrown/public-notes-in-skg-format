@@ -1,0 +1,7 @@
+title: Move faster by crossing over some views
+pid: af1498b6-8875-4c4c-aeeb-32bf96a52c0d
+body: |2-
+  When pressing left or right,
+  if there is a view collection like "ViewCenterRole" with no siblings,
+  do not stop on it.
+  Instead cross from its children to its parent, or vice-versa.

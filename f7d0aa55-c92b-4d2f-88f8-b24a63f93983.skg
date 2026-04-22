@@ -1,0 +1,6 @@
+title: probably should use this
+pid: f7d0aa55-c92b-4d2f-88f8-b24a63f93983
+body: |2-
+  networking.useDHCP = false;
+  networking.interfaces.enp1s0.useDHCP = true;
+  networking.interfaces.wlp2s0.useDHCP = true;

@@ -1,0 +1,12 @@
+title: example
+pid: 418d7970-e719-43d0-bc05-691451938687
+body: |2-
+  to imagine music corresponding to that pair of elements.
+  For instance, if two of the orthogonal sets were these:
+    {note, voice}
+    {number, speed}
+  then to exercise that pair of sets would be to imagine each of
+    note x number
+    note x speed
+    voice x number
+    voice x speed

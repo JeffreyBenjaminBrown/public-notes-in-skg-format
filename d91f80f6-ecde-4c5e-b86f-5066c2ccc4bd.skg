@@ -1,0 +1,4 @@
+title: why
+pid: d91f80f6-ecde-4c5e-b86f-5066c2ccc4bd
+body: |2-
+  It can be desirable to have multiple implementations of an interface for the same type, for example to provide alternative methods for sorting or printing values. To achieve this, implementations can be named as follows:

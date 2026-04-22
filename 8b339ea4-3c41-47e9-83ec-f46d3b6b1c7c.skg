@@ -1,0 +1,9 @@
+title: without `where`
+pid: 8b339ea4-3c41-47e9-83ec-f46d3b6b1c7c
+body: |2-
+  #+begin_src rust
+  fn some_function
+    <T: Display + Clone,
+     U: Clone + Debug>
+    (t: &T, u: &U) -> i32 {
+  #+end_src

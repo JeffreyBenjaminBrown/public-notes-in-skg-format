@@ -1,0 +1,5 @@
+title: slip editing works on adjacent boundaries
+pid: de0adabf-a0f5-4e94-9889-66d314525493
+body: |2-
+  e.g. if an item was split,
+  the dividing line can be moved for both sides simultaneously.

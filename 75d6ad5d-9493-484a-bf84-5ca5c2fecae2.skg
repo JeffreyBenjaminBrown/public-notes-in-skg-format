@@ -1,0 +1,9 @@
+title: the linear monad enforces linearity
+pid: 75d6ad5d-9493-484a-bf84-5ca5c2fecae2
+body: |2-
+  class Monad m where
+    (>>=) ::
+      m a           %1 ->
+      (a %1 -> m b) %1 ->
+        -- The callback too must only use its argument once.
+      m b

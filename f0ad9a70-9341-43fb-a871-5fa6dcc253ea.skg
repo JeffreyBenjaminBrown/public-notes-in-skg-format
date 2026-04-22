@@ -1,0 +1,5 @@
+title: date and time
+pid: f0ad9a70-9341-43fb-a871-5fa6dcc253ea
+body: |2-
+  This is about the types, some built-in functions, and some bugs.
+  https://www.sqlite.org/lang_datefunc.html

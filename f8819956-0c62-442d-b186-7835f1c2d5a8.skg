@@ -1,0 +1,14 @@
+title: the code
+pid: f8819956-0c62-442d-b186-7835f1c2d5a8
+body: |2-
+  `_factor n m` returns `m / n` if it makes sense.
+  Embed has to do the reverse.
+    _Factor :: Int -> Prism' Int Int
+    _Factor n = prism' embed match
+     where
+      embed :: Int -> Int
+      embed i = i * n
+      match :: Int -> Maybe Int
+      match i
+        | i `mod` n == 0 = Just (i `div` n)
+        | otherwise = Nothing

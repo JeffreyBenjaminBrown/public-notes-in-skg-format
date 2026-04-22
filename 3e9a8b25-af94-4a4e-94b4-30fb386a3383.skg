@@ -1,0 +1,9 @@
+title: limitations (ala Datalog)
+pid: 3e9a8b25-af94-4a4e-94b4-30fb386a3383
+body: |2-
+  In an insert or a delete, the match can't have any of these:
+
+  Conjunction
+  Disjunction
+  Negation
+  is keyword

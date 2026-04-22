@@ -1,0 +1,9 @@
+title: use traverseOf both to process both, not just snd, in a pair
+pid: 9db95ff3-efab-456c-91e7-8339e0cd69f2
+body: |2-
+  >>> import Text.Read (readMaybe)
+  -- 'readMaybe' is polymorphic so we need to specify a concrete type
+  >>> traverseOf both readMaybe ("1", "2") :: Maybe (Int, Int)
+  Just (1, 2)
+contains:
+- 6c178110-72be-4fce-9a85-cfa8fe5a6838

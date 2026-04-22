@@ -1,0 +1,6 @@
+title: 'PITFALL: the set of colorings does not have to be all possible colorings.'
+pid: 201eab6a-c807-4853-98c3-146e40ce3411
+body: |2-
+  For instance, this can be used to count triads in 12-edo.
+  To do so, you consider the set of 2-colorings for which
+  3 spots are colored 1 and the rest 0.

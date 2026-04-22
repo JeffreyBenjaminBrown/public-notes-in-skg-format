@@ -1,0 +1,5 @@
+title: '"bearer authentication"'
+pid: 75f7a98f-6002-47e4-b466-a8f9f57d9361
+body: |2-
+  Usually uses the "Bearer" keyword.
+  Authorization: Bearer abcdef12345

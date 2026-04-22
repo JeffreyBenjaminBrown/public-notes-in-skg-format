@@ -1,0 +1,5 @@
+title: Events longer than the host Museq's sup0 make no sense.
+pid: d8906fb0-afb3-4672-af65-a9540524fcb6
+body: |2-
+  Events correspond to named monophonic voices,
+  so an event from this cycle cannot audibly overlap with itself from the next cycle.

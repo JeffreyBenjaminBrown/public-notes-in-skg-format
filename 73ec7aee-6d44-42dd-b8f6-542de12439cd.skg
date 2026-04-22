@@ -1,0 +1,8 @@
+title: logic
+pid: 73ec7aee-6d44-42dd-b8f6-542de12439cd
+body: |2-
+  Logical operations operate on statements.
+  There are the usual three: negation, conjunction, and disjunction.
+contains:
+- eb659c52-237e-4714-b374-fa5204fbb989
+- d4328ea4-93f6-46ad-9775-12987cda5bc7

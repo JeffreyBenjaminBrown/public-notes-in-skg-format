@@ -1,0 +1,4 @@
+title: (|) randmonly chooses between things
+pid: 231b8165-9593-46e7-a358-e8fd69f6afa9
+body: |2-
+  "[a | b] c" always plays c, sometimes plays a.

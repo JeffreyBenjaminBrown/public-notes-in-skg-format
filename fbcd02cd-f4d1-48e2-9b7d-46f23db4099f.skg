@@ -1,0 +1,13 @@
+title: Visual Studio Code (editor)
+aliases:
+- VSCode
+pid: fbcd02cd-f4d1-48e2-9b7d-46f23db4099f
+contains:
+- fd226dd5-47ea-4f7d-bff1-44955c96fa88
+- 5bd5e416-7ac2-4d77-9a9a-1c0c444ed087
+- 376a3050-7347-4947-8b2c-b59cfe63546a
+- 4e8500db-5bb3-48e6-9cb8-246a68047ac6
+- 8fc920fd-a302-4b2c-bcda-f105620657e5
+- cff34c8d-902c-4b2c-9e73-fdfd4fb28c19
+misc:
+- Had_ID_Before_Import

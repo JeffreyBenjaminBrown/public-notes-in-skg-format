@@ -1,0 +1,8 @@
+title: Describe more than pitch, both during and ex-post.
+pid: a1490a00-073e-4924-ab49-b4d6da685cd9
+body: |2-
+  There's no need to state all of these parameters
+  at each utterance, but they should all be kept in mind:
+
+  { tempo } +
+  (dynamics, note speed, size of pitch set) x (mean, variance)

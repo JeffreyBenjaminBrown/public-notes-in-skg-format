@@ -1,0 +1,4 @@
+title: Some people prefer ALSA.
+pid: 8a0d0621-b232-4529-af1b-2f594c2124e4
+body: |2-
+  Apparently JACK (and PulseAudio) both tell ALSA what to do.

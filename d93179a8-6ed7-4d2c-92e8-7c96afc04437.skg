@@ -1,0 +1,4 @@
+title: filter a table
+pid: d93179a8-6ed7-4d2c-92e8-7c96afc04437
+body: |2-
+  ls | where size > 1kb

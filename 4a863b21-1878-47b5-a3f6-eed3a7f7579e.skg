@@ -1,0 +1,18 @@
+title: 'the trick: symlinkJoin'
+pid: 4a863b21-1878-47b5-a3f6-eed3a7f7579e
+body: |2-
+  # in packages.nix:
+  #+BEGIN_SRC nix
+  { pkgs, ... }:
+
+  {
+    environment.systemPackages =
+      with pkgs; [
+        ...
+        (symlinkJoin {
+          name = "jbb-plugins";
+          paths = [
+            drumgizmo
+  	        ...
+            ] } ) ] }
+  #+END_SRC

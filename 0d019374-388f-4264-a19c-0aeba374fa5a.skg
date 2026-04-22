@@ -1,0 +1,4 @@
+title: trim the whitespace at the edges of a string
+pid: 0d019374-388f-4264-a19c-0aeba374fa5a
+body: |2-
+  strings.TrimSpace

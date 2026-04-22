@@ -1,0 +1,5 @@
+title: precisely
+pid: f330c930-fe77-4b97-b60b-abc9e4b8aeb3
+body: |2-
+  f : (1 x : a) -> b
+  => if f x is used exactly once, then x is used exactly once.

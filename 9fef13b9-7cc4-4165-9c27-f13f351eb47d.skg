@@ -1,0 +1,12 @@
+title: one-dimensional integer tattoo
+pid: 9fef13b9-7cc4-4165-9c27-f13f351eb47d
+body: |2-
+     Given a metric division (dur :: Int)
+     and a series of values (vs :: [Int]),
+     return a monotonic function (f :: Int -> Int)
+     such that
+       * the domain of f is the set { v + k*dur | k :: int, v in vs }
+       * f 0 = head $ repeat vs
+       * f k = the element of vs' after (f $ k+1), where
+  vs' = vs ++ map (+dur) vs'
+  (This is an inefficient, if elegant, way to implement of vs'.)

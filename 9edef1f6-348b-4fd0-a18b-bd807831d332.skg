@@ -1,0 +1,5 @@
+title: TODO folding indicator
+pid: 9edef1f6-348b-4fd0-a18b-bd807831d332
+body: |2-
+  Visually indicate whether a node with descendents is folded.
+  Or at least, upon inserting contents, unfold.

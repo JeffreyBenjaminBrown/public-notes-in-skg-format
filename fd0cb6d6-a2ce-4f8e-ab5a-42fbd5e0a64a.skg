@@ -1,0 +1,4 @@
+title: it applies to slip-editing
+pid: fd0cb6d6-a2ce-4f8e-ab5a-42fbd5e0a64a
+body: |2-
+  ensure that only the slip-edited item (the item on top) will be heard during the overlap.

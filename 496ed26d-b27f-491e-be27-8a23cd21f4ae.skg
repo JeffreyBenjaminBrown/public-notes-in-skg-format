@@ -1,0 +1,8 @@
+title: requires [[id:45d42ea4-4f2e-446a-93f1-2c9c0e67a677][a2jmidid]]
+pid: 496ed26d-b27f-491e-be27-8a23cd21f4ae
+body: |2-
+  This creates red MIDI ports corresponding to the purple MIDI Through ports.
+  In QJackCtl's graph, connect the Lumatone to the purple MIDI THrough.
+  Then connect the red MIDI Through, which now has the same signal,
+  to Ardour.
+  (I could maybe instead connect the a2jmidid output to Pianoteq in Ardour.)

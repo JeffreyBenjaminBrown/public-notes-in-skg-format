@@ -1,0 +1,7 @@
+title: example
+pid: 6d699bfb-d4a8-48fe-accc-c4e1c834574c
+body: |2-
+  In this:
+    d1 $ s "{bd bd:1, cp cp:1 cp:2}"
+  the second sequence takes 1.5 times as long as the first,
+  and the time between bd events is the same as that between cp events.

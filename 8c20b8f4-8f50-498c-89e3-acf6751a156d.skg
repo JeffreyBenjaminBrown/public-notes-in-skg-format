@@ -1,0 +1,4 @@
+title: pull
+pid: 8c20b8f4-8f50-498c-89e3-acf6751a156d
+body: |2-
+  scp -i <keyfile> user@host:/remote-path /local/path

@@ -1,0 +1,4 @@
+title: to delete them from /boot/loader/entries
+pid: edcf690f-0dcf-4831-9a96-be58051d8e74
+body: |2-
+  easiest: run emacs with sudo and use dired

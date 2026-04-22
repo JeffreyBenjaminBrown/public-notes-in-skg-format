@@ -1,0 +1,5 @@
+title: worked for me one Amazon Linux
+pid: 89305636-5e40-4111-9a8c-799028714538
+body: |2-
+  sudo growpart /dev/nvme0n1 1
+  sudo xfs_growfs -d /

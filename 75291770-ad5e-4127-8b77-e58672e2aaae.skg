@@ -1,0 +1,5 @@
+title: In one case, the two partners already share a site.
+pid: 75291770-ad5e-4127-8b77-e58672e2aaae
+body: |2-
+  If they share more than one, pick one at random.
+  Determine the optimal number of jobs at that site to transfer from the more burdened worker to the less burdened. Often this will be a corner case.

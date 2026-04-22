@@ -1,0 +1,5 @@
+title: 'REJECTED : It''s too slow, hard to read.'
+pid: 341f5adb-c359-4cd6-8105-44310635416d
+body: |2-
+  The labels are unreadable if the font is big,
+  and they are always three characters long even when that's way too many.

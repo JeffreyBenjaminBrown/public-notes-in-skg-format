@@ -1,0 +1,15 @@
+title: without it
+pid: 3e41412f-29c7-4ab3-9ba4-f29f18bee2f2
+body: |2-
+  #+BEGIN_SRC rust
+  use std::future::Future;
+  use trpl::Html;
+
+  fn page_title(url: &str) ->
+  impl Future<Output = Option<String>> {
+    async move {
+      let text = trpl::get(url).await.text().await;
+      Html::parse(&text)
+        .select_first("title")
+        .map(|title| title.inner_html()) } }
+  #+END_SRC

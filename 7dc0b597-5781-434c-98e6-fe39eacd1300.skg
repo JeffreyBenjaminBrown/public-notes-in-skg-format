@@ -1,0 +1,24 @@
+title: '68: not so great'
+pid: 7dc0b597-5781-434c-98e6-fe39eacd1300
+body: |2-
+  > myPrint $ bests 68
+  (3 % 2,(40,7059,39.273))
+  (5 % 4,(22,3882,19.215))
+  (7 % 4,(55,9706,17.62328))
+  (11 % 8,(31,5471,-42.59))
+  (13 % 8,(48,8471,65.3116176010135))
+  (17 % 8,(67,11824,-1226.024))
+
+      { report_edo = 68
+      , report_modulus = 2
+      , report_spacing = 17
+      , report_spacing12 = 3.0
+      , report_fretSpan = 13
+      , report_fretSpan12 = 4.58
+      , report_intervalReports =
+          [ 22 steps = 5 % 4: string 2 fret -6
+          , 31 steps = 11 % 8: string 1 fret 7
+          , 40 steps = 3 % 2: string 2 fret 3
+          , 48 steps = 13 % 8: string 2 fret 7
+          , 55 steps = 7 % 4: string 3 fret 2
+          , 68 steps = 2 % 1: string 4 fret 0

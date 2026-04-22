@@ -1,0 +1,7 @@
+title: The Socket that `send` returns is constrained to linear use, while the Int doesn't
+pid: 51b7457f-3f4f-4563-9636-770d4a345c45
+body: |2-
+  because the Int is returned wrapped in Ur. The Ur itself is, I guess, linearly constrained, but because the definition of Ur doesn't impose linearity:
+  data Ur a where
+    Ur :: a -> Ur a
+  the `a` inside can be used many times.

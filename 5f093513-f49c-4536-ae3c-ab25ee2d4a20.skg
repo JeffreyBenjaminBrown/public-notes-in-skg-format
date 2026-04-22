@@ -1,0 +1,7 @@
+title: Pandas sometimes rounds floats' displayed values, for no reason.
+pid: 5f093513-f49c-4536-ae3c-ab25ee2d4a20
+contains:
+- 47b94318-fd0a-4793-ac3d-d1ac9abf8217
+- 4b105346-6b0f-47d2-87ec-be8911287e5b
+misc:
+- Had_ID_Before_Import

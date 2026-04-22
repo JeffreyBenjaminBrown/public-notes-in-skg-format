@@ -1,0 +1,4 @@
+title: sort a table
+pid: 79bc3901-8daa-41b1-ace9-af8129919436
+body: |2-
+  ls | sort-by size | reverse

@@ -1,0 +1,10 @@
+title: 'TODO BUG: does the ui insert "\n" at the end of user commands?'
+pid: a45d5e02-cab1-4194-a51f-e39c182de3e1
+body: |2-
+  In open code, this always works:
+    MP.parse _pHashExpr "" "a # /_ "
+  But in the ui, "/f a # /_" generates a parse error
+    if nonPrefix is not checking for \n.
+contains:
+- 5dc289d2-e46e-4f4d-96d6-111dba29b3e1
+- a9218f10-1620-4eaf-a92b-cb0ea498a2fe

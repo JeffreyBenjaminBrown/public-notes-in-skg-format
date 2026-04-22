@@ -1,0 +1,6 @@
+title: Says how long samples should last when interrupted.
+pid: 3d2fc33a-d489-40c4-8067-0904f831d352
+body: |2-
+  If less than one, the sample ends before interrupted.
+  If 2, it lasts twice as long as it took to get interrupted.
+  Etc.

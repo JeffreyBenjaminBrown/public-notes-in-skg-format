@@ -1,0 +1,5 @@
+title: DONE Why Emacs and Rust both need the `repeated` field.
+pid: bb159cc8-2308-4f3f-8240-455b28195809
+body: |2-
+  When a document is created, `repeated` is sent to Emacs so that it knows to font the repeats differently from the original.
+  It should be sent back to Rust to know whether to disregard a node's data. The user might move a node marked `repeated` to before the first (reference) node with that ID. Retaining this field permits Rust to know which one is the reference node.

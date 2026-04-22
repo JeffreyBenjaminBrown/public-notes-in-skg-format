@@ -1,0 +1,4 @@
+title: fold such a set
+pid: 27e02f1b-7b17-4d80-8f31-26b11045eb70
+body: |2-
+  q.choice_set.count()

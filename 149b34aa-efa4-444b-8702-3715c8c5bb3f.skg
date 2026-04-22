@@ -1,0 +1,7 @@
+title: example
+pid: 149b34aa-efa4-444b-8702-3715c8c5bb3f
+body: |2-
+  Suppose something computes the length of an `[a]`
+  and that `[a]` is then replaced with a `Maybe [a]`.
+  `length` will silently do the wrong thing,
+  now returning 1 or 0 instead of the number of `a`s.

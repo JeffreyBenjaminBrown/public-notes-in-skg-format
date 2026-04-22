@@ -1,0 +1,4 @@
+title: 'Create monitor links with erlang:monitor/2 :: Atom -> PID -> IO (monitor reference).'
+pid: 6add1a08-fe33-4463-9ee6-aff07f15b53e
+contains:
+- b8d4c4bb-9656-4d41-818e-28a170e8e980

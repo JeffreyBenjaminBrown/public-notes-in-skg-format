@@ -1,0 +1,5 @@
+title: object literal
+pid: 9d7c8f26-6de4-4778-99aa-17f4761f6626
+body: |2-
+  These are like (or are?) row types.
+  eg { property: Type }

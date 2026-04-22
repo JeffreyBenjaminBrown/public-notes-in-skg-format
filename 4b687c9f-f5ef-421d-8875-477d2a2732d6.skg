@@ -1,0 +1,4 @@
+title: recognize argument equivalence, argument classes
+pid: 4b687c9f-f5ef-421d-8875-477d2a2732d6
+body: |2-
+  argument classes: A collection of relationships like "[person] witnessed [event]" could be collapsed to a number of witnesses, obviating the need to read a lot of very similar statements.

@@ -1,0 +1,10 @@
+title: trait bound syntax
+pid: 71a2cbce-d2bf-47f7-aa70-5f5450a18abd
+body: |2-
+  #+begin_src rust
+  pub fn notify
+    <T: Summary> // NOTE: absent from the other one
+    (item: &T) {
+      println!("Breaking news! {}", item.summarize());
+  }
+  #+end_src

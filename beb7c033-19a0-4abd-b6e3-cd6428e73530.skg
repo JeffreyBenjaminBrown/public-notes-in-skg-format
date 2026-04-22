@@ -1,0 +1,6 @@
+title: Keep the source track and the output track separate.
+pid: beb7c033-19a0-4abd-b6e3-cd6428e73530
+body: |2-
+  Tweak the shift script, then regenerate the output track
+  from the input track.
+  This way tweaks to the script do not affect the source material.

@@ -1,0 +1,14 @@
+title: problem statement
+pid: 7ed056c5-7437-4a7f-b86a-dd162f5fbb8a
+body: |2-
+  There are W agents, S sites and J jobs. All are identical.
+  Each job requires the same number of minutes to complete,
+  and is located at one of the sites.
+  The time distances between sites vary, but are fixed in time.
+  The goal is to assign every job to an agents,
+  minimizing C_bar + (k * J) * I, where
+    C_bar = average time spent working across all agents
+    I = some measure of inequality
+  We must scale I by some constant -- here k*J --
+  to make inequality and average cost comparable.
+  I'll define k and J below.

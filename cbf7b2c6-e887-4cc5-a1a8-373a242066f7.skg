@@ -1,0 +1,8 @@
+title: 'PITFALL: Some settings are global'
+pid: cbf7b2c6-e887-4cc5-a1a8-373a242066f7
+body: |2-
+  and some are project-local,
+  and some are local to project elements,
+  and I'm not sure which.
+misc:
+- Had_ID_Before_Import

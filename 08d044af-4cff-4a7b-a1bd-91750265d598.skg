@@ -1,0 +1,5 @@
+title: how it is interpreted
+pid: 08d044af-4cff-4a7b-a1bd-91750265d598
+body: |2-
+  Some( [] ) obliterates preexisting data;
+  None leaves it unchanged.

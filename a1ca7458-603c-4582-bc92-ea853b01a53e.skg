@@ -1,0 +1,9 @@
+title: type assertions
+pid: a1ca7458-603c-4582-bc92-ea853b01a53e
+body: |2-
+  are to get the concrete type an interface value holds.
+contains:
+- 5d5be850-9e13-4df7-9283-1fc5478c440f
+- 04cf6322-4fa9-45a1-be38-2e01da961458
+misc:
+- Had_ID_Before_Import

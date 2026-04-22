@@ -1,0 +1,19 @@
+title: an example defining all three kinds of Thing
+pid: b3f2aede-5b0c-492c-b55c-e876bc257ffc
+body: |2-
+  define
+
+  object           sub entity;
+  resource         sub object;
+  file             sub resource,
+     owns path,
+     owns size-kb,
+     plays object-ownership:object;
+
+  path             sub attribute, value string;
+  size-kb          sub attribute, value long;
+
+  object-ownership sub relation,
+     relates object;
+misc:
+- Had_ID_Before_Import

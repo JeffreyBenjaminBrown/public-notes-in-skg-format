@@ -1,0 +1,4 @@
+title: 'How: from the folder containing manage.py, run'
+pid: 231c3bd3-1da9-4746-8867-1088661748b5
+body: |2-
+  python manage.py startapp <chosen app name>

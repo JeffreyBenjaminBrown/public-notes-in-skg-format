@@ -1,0 +1,6 @@
+title: what I wrote
+pid: 8717a2be-2cb0-401a-8c39-0636d45fa82d
+body: |2-
+  In section 13.16 of the manual (13 = MIDI editing, 16 = using the keyboard) there appears the statement, "Note display can be filtered for channels 1 to 10 using any of the shortcuts Shift 1 thru Shift 0. Shift ` removes the note filter and restores all notes to view."
+  I verified in my MIDI editor action menu that indeed those shortcuts are programmed. But they don't work -- pressing "Shift-1", for instance, does not prevent me from seeing events that are not on channel 1. Running it from the action menu does restrict the view -- I only see blue notes. Similarly, "Shift `" has no effect, but running "Show all channels" from the action menu does restore the complete view.
+  I'm using Reaper v. 6.77. I realize that's not quite the latest version but I'm using NixOS and 6.77 is the latest version available through the NixOS package manager.

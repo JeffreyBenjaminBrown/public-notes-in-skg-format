@@ -1,0 +1,9 @@
+title: usage
+pid: 47ea13dc-d3af-4bb2-81e1-7fcabf7de848
+body: |2-
+  One defines how a voice "lenses into" a melody "rs"
+  via some base frequency "fv" in Hz.
+  If "ri" = 0 is in "rs", the resulting pitch is f*2**n,
+  where "n" is the integer such that f*2**n is closest to "fv".
+  If "ri" = len rs, the resulting pitch is f*2**(n+1).
+  Etc.

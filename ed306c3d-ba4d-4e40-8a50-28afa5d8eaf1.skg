@@ -1,0 +1,5 @@
+title: low pass filter
+pid: ed306c3d-ba4d-4e40-8a50-28afa5d8eaf1
+body: |2-
+  cutoff / lpf    : cutoff amount in hertz
+  resonance / lpq : from 0 to 1

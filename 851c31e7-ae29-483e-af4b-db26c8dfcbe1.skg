@@ -1,0 +1,5 @@
+title: '`if let` is shorthand for `match` with just one special case.'
+pid: 851c31e7-ae29-483e-af4b-db26c8dfcbe1
+contains:
+- ef7f1419-0d70-42e3-92f1-bcc8510a85c9
+- 93e80f63-9942-4962-af74-9763804ccfd8

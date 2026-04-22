@@ -1,0 +1,2 @@
+title: A further important principle is the rule of substitution of equivalents. Two WFFs, α and β, are said to be equivalents when α ≡ β is valid. (The WFFs α and β are equivalents if and only if they have identical truth tables.) The rule states that, if any part of a WFF is replaced by an equivalent of that part, the resulting WFF and the original are also equivalents. Such replacements need not be uniform. The application of this rule is said to make an equivalence transformation.
+pid: 97b64eee-0fd4-43ec-a7ea-ebcc66a658c5

@@ -1,0 +1,2 @@
+title: 'fromMaybes :: [Maybe a] -> Pattern a. Like listToPat with silence.'
+pid: 91aed82b-9e30-4a3b-a1e8-688e10b90c47

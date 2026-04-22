@@ -1,0 +1,5 @@
+title: '118: great but needs really small string gaps'
+pid: 547a5d0f-7a6c-402c-a2b0-6ff337b216a5
+body: |2-
+  (mod 4 or 7) skip 19: span of 7, 1.9\12 bewteen strings
+  118 also offers a miracle alignment very much like 87.

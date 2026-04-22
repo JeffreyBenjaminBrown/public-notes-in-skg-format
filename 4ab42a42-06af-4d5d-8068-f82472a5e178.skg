@@ -1,0 +1,5 @@
+title: 'BLOCKED (hard) : Note off is not sent if a key of the same pitch is being held.'
+pid: 4ab42a42-06af-4d5d-8068-f82472a5e178
+body: |2-
+  For this I would need the keys to be distinguishable,
+  which means each must send a unique MIDI message.

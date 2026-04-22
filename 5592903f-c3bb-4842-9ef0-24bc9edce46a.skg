@@ -1,0 +1,5 @@
+title: will need to use wpa_supplicant
+pid: 5592903f-c3bb-4842-9ef0-24bc9edce46a
+body: |2-
+  rather than networkmanager,
+  once I've [[id:0845ee4c-9375-41ab-855a-73bda043b853][removed networkmanager from my config]].

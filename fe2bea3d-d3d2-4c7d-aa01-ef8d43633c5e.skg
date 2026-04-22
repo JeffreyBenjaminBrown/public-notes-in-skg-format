@@ -1,0 +1,12 @@
+title: '4\41 x 11\41: good 15-limit without 3 and 5'
+pid: fe2bea3d-d3d2-4c7d-aa01-ef8d43633c5e
+body: |2-
+  0  steps; 1 % 1;  string 0; fret 0
+  41 steps; 2 % 1;  string 3; fret 2
+  24 steps; 3 % 2;  string 0; fret 6
+  13 steps; 5 % 4;  string -1; fret 6
+  33 steps; 7 % 4;  string 3; fret 0
+  7  steps; 9 % 8;  string 1; fret -1
+  19 steps; 11 % 8; string 1; fret 2
+  29 steps; 13 % 8; string 3; fret -1
+  37 steps; 15 % 8; string 3; fret 1

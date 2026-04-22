@@ -1,0 +1,4 @@
+title: the idea
+pid: 33c82905-0f22-467f-a359-257bb8312edc
+body: |2-
+  If a headline's text includes a link, it is stripped of its id and brackets. At least in some cases (e.g. the `nodes` table) it can be recovered elsewhere.

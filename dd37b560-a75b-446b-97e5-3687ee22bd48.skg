@@ -1,0 +1,4 @@
+title: put-text-property start end prop value
+pid: dd37b560-a75b-446b-97e5-3687ee22bd48
+body: |2-
+  Clobbers any earlier value under prop.

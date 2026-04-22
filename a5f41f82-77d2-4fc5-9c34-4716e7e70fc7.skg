@@ -1,0 +1,5 @@
+title: 'C-r: prev match'
+pid: a5f41f82-77d2-4fc5-9c34-4716e7e70fc7
+body: |2-
+  With prefix argument, also convert a regexp search back to a literal search.
+  If there is no search query, insert the previous one, as if you had typed M-p.

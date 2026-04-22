@@ -1,0 +1,4 @@
+title: Such processes receive exit signals as normal messages.
+pid: 9c4f0274-494c-47bf-b91a-c49042e7a0ea
+body: |2-
+  in the format {'EXIT',FromPID,Reason}

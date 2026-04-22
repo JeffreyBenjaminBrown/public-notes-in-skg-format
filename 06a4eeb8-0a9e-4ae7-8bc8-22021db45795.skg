@@ -1,0 +1,6 @@
+title: Count observations by SELECTing `count(*)`.
+pid: 06a4eeb8-0a9e-4ae7-8bc8-22021db45795
+body: |2-
+  This returns a one-row, one-column table:
+
+  SELECT count(*) FROM person

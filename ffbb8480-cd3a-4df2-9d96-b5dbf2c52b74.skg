@@ -1,0 +1,15 @@
+title: 'DONE BAD 8\58(s) x 13\58(f): 17-lim -13, octave 4s 2f, bonkers 6:5'
+pid: ffbb8480-cd3a-4df2-9d96-b5dbf2c52b74
+body: |2-
+  [ 0 steps; 1 % 1 ; string 0 ; fret 0
+  , 58 steps; 2 % 1 ; string 4 ; fret 2
+  , 34 steps; 3 % 2 ; string 1 ; fret 2
+  , 19 steps; 5 % 4 ; string 4 ; fret - 1
+  , 15 steps; 6 % 5 ; string -3 ; fret 3 -- ack!
+  , 47 steps; 7 % 4 ; string 1 ; fret 3
+  , 10 steps; 9 % 8 ; string - 2 ; fret 2
+  , 27 steps; 11 % 8 ; string 5 ; fret - 1
+  , 41 steps; 13 % 8 ; string - 3 ; fret 5
+    -- 13:8 would look hopelessly disconnected if it weren't for the 6:5
+  , 53 steps; 15 % 8 ; string 5 ; fret 1
+  , 5 steps; 17 % 16 ; string - 1 ; fret 1

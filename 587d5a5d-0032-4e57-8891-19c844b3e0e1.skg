@@ -1,0 +1,15 @@
+title: them
+pid: 587d5a5d-0032-4e57-8891-19c844b3e0e1
+body: |2-
+       ```
+       ;; source:
+       ;; https://emacs.stackexchange.com/a/37889
+       (defun mark-receiver-buffer ()
+   (interactive)
+   (setq my-target (buffer-name)))
+
+       (defun send-highlighted-region-to-receiver-buffer (beg end)
+  (interactive "r")
+  (process-send-region my-target beg end)
+  (process-send-string my-target "\n"))
+       ```

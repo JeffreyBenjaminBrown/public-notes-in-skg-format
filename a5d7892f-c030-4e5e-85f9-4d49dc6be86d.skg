@@ -1,0 +1,4 @@
+title: 'PITFALL: This deletion is undone if the supervisor is restarted.'
+pid: a5d7892f-c030-4e5e-85f9-4d49dc6be86d
+contains:
+- 5c5a5efb-6944-4fba-80b6-bea12dbca707

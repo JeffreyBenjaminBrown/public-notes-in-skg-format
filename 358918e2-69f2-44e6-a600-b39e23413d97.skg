@@ -1,0 +1,7 @@
+title: getting it to work
+pid: 358918e2-69f2-44e6-a600-b39e23413d97
+body: |2-
+  alternatives
+contains:
+- 21b5bd8d-35c2-43f0-9693-8797bd4540a5
+- 323cb7e6-e015-47c0-a377-87059a61983a

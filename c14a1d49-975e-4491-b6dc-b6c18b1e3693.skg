@@ -1,0 +1,4 @@
+title: A — persp-set-buffer
+pid: c14a1d49-975e-4491-b6dc-b6c18b1e3693
+body: |2-
+  Add buffer to current perspective and remove it from all others

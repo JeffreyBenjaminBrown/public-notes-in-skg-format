@@ -1,0 +1,5 @@
+title: monitor/3, spawn_opt(), or spawn_request()
+pid: f9bc9de4-6ee3-438f-b3f2-7da5637d63a9
+body: |2-
+  by passing the {alias, _} option
+  In this case the monitor ref and alias are the same ref.

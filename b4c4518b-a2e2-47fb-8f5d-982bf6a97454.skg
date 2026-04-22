@@ -1,0 +1,9 @@
+title: the idea
+pid: b4c4518b-a2e2-47fb-8f5d-982bf6a97454
+body: |2-
+  #+BEGIN_SRC haskell
+    d1 $ chunk 4 ( (|*| distort 0.4) .
+  		 (|+| n "[-7,0,7]") .
+  		 rev )
+      $ s "supersquare" |*| n (run 16 * 2 - 24)
+  #+END_SRC

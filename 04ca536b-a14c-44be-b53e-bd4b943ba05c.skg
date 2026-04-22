@@ -1,0 +1,5 @@
+title: TODO the transitive rel functions should take (SearchDir, Tplt) pairs
+pid: 04ca536b-a14c-44be-b53e-bd4b943ba05c
+body: |2-
+  rather than a single SearchDir and multiple Tplts.
+  But this can wait until I need that.

@@ -1,0 +1,5 @@
+title: Round all numbers to the nearest 1/6th, for 72-edo.
+pid: bd29112e-dc0f-4566-a1d8-bb8fe0909e4f
+body: |2-
+  Why: Can't use an edo > 120 in MIDI,
+  and 72 seems best among the 12*n edos in that range.

@@ -1,0 +1,13 @@
+title: here's a type that implements it
+pid: 71b017ce-b411-404c-ad96-e0c2b38b2a26
+body: |2-
+  type MyFloat float64
+
+  func (f MyFloat) Abs() float64 {
+    if f < 0 {
+      return float64(-f)
+    }
+    return float64(f)
+  }
+
+  func (f MyFloat) Nothing () {}

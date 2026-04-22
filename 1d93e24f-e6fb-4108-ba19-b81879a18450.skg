@@ -1,0 +1,8 @@
+title: syntax example
+pid: 1d93e24f-e6fb-4108-ba19-b81879a18450
+body: |2-
+  SELECT person.name, income.annual_income
+  FROM income
+  JOIN person
+    ON income.ssn = person.ssn
+  WHERE annual_income > 450000

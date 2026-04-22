@@ -1,0 +1,2 @@
+title: Only total functions will be evaluated during type checking. Partial functions can still be used in types, but will not be evaluated further.
+pid: 5626d8e0-fc41-4055-8cda-9eb511b92bea

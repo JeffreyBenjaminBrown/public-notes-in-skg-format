@@ -1,0 +1,7 @@
+title: a false branch appears offering a diff view of its title text before and after
+pid: f95ad464-adf8-4b6f-897e-8c666aae5240
+body: |2-
+  colored to make clear (ala diff-so-fancy)
+  what is common and what is only in one of them
+misc:
+- Had_ID_Before_Import

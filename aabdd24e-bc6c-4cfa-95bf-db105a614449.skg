@@ -1,0 +1,7 @@
+title: '"_ {evinces, is implied by, ...} [statement, possibly a relationship]"'
+pid: aabdd24e-bc6c-4cfa-95bf-db105a614449
+body: |2-
+  When the object (the second member) is a relationship,
+  this seems not extremely easy to represent.
+contains:
+- d44e5aca-293b-4c4f-a6a8-b403488064df

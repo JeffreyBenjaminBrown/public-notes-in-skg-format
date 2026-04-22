@@ -1,0 +1,6 @@
+title: For instance, the following undefine query, with no "sub" clause, is valid according to that page.
+pid: aa76de4e-f476-4f59-bbe8-da4d2cc3188b
+body: |2-
+  undefine
+
+  item owns tag;

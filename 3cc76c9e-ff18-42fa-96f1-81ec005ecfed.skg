@@ -1,0 +1,4 @@
+title: 'playChord :: [JI Fraction] -> EDO -> IO ()'
+pid: 3cc76c9e-ff18-42fa-96f1-81ec005ecfed
+body: |2-
+  This way you can edit the last argument repeatedly.

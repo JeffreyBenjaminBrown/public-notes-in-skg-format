@@ -1,0 +1,24 @@
+title: Some things cannot be played perfectly.
+pid: cd219178-990d-4142-994b-8a216146d2fe
+body: |2-
+  For instance, in 12-edo we can traverse the "circle of fifths":
+  by dropping a minor third and then rising by a fourth three times.
+  At the end of the traversal we are *exactly* one octave higher.
+  The 12-edo minor third is an approximation to 6/5, and the fourth, to 4/3.
+  In truth, (4/3)**3 / (6/5) is about 1.98, *not* two (which would be an octave).
+  So we really shouldn't end up at the octave,
+  but because 12-edo's approximation to 6:5 is so flat, we do.
+
+  Some systems let you make that fudge.
+  Others don't let you. And every fudge is like that.
+
+  (That particular fudge is called 'meantone',
+  and surprisingly, even some big EDOs permit it, like 31, 43, or 50.)
+
+  To play as if a fudge works in a system where it doesn't,
+  one generally has to shift at least one note by a small amount at some point.
+  Continuing with the cycle of fifths example earlier,
+  we might use the sequence {C, A, D, G, C}
+  to {1, 5/6, 9/8, 3/2, 1}.
+  In that case, almost all the intervals have been improved,
+  but the interval from A to D has worsened[2].

@@ -1,0 +1,6 @@
+title: What Shyg would be
+pid: 414a761b-c554-4779-ad0f-9cf15acd5c92
+body: |2-
+  Shyg ("Shared HyperGraph") would be a federated index of content online, and some software for building it, querying it and displaying the results. Users would run Shyg in the background on their computers to create a map of what information can be found online where, and how it relates to other information. They would query it to find data.
+
+  Shyg will use a hypergraph database, which permits greater expressivity than traditional graph databases.

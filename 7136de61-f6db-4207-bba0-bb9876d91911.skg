@@ -1,0 +1,27 @@
+title: streams are whitespace-concatenated, but can be collected as arrays
+pid: 7136de61-f6db-4207-bba0-bb9876d91911
+body: |2-
+  Consider this:
+    curl $site | jq '.[] | {message: .commit.message, name: .commit.committer.name}'
+  vs. this:
+    curl $site | jq '[.[] | {message: .commit.message, name: .commit.committer.name}]'
+  The second just wraps the query from the first in []s. The result is that the first produces output like some concatenated streams:
+  {
+    "message": "Re-apply patch from ff8924ce16e58f to dev manual",
+    "name": "William Langford"
+  }
+  {
+    "message": "Remove decimal number text from v1.6 manual",
+    "name": "William Langford"
+  }
+  whereas the second is a single array:
+  [
+    {
+      "message": "Re-apply patch from ff8924ce16e58f to dev manual",
+      "name": "William Langford"
+    },
+    {
+      "message": "Remove decimal number text from v1.6 manual",
+      "name": "William Langford"
+    }
+  ]

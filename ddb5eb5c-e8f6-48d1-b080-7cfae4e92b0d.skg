@@ -1,0 +1,6 @@
+title: internal rep
+pid: ddb5eb5c-e8f6-48d1-b080-7cfae4e92b0d
+body: |2-
+  It is in a 'uses_relation' relationship to a relation node,
+  and carries a field called 'members_in_order'
+  with a list of IDs.

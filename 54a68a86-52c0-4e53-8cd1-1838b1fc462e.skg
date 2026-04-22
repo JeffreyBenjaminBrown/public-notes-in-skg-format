@@ -1,0 +1,4 @@
+title: the problem
+pid: 54a68a86-52c0-4e53-8cd1-1838b1fc462e
+body: |2-
+  NumPy doesn't like mixing times and non-time floats.

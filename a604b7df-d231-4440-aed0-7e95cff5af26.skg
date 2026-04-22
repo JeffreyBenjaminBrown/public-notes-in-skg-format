@@ -1,0 +1,5 @@
+title: TODO should also enable sound if I use Musnix?
+pid: a604b7df-d231-4440-aed0-7e95cff5af26
+body: |2-
+  My configuration.nix currently has the line
+      sound.enable = true;

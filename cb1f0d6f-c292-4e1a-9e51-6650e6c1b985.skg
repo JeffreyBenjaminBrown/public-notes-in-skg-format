@@ -1,0 +1,5 @@
+title: bad way
+pid: cb1f0d6f-c292-4e1a-9e51-6650e6c1b985
+body: |2-
+  Clicking inside the window works too,
+  but has the side effect of moving the cursor in time.

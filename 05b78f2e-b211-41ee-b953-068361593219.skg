@@ -1,0 +1,11 @@
+title: example from `nodes` table
+pid: 05b78f2e-b211-41ee-b953-068361593219
+body: |2-
+  This appears in the `properties` field:
+  ((CATEGORY . health_personal_project)
+   (ID . e663a892-7596-49c4-8b2e-d9fd9efb6cb2)
+   (BLOCKED . )
+   (FILE . /home/jeff/org-roam/personal/health_personal_project.org)
+   (PRIORITY . B)
+   (ITEM . see [[id:8642dd92-9550-476e-b4e8-0dd5a3e04a74][dermatologist]] about itchy spot on arm))
+  But that ITEM property appears to usually be absent -- because, I imagine, you can usually retrieve it from the title.

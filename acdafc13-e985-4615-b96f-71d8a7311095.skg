@@ -1,0 +1,5 @@
+title: Any node N can be used as a relationship.
+pid: acdafc13-e985-4615-b96f-71d8a7311095
+body: |2-
+  by making it an org-roam mid-generation,
+  and prefixing the link to N (after the bullet) with "~".

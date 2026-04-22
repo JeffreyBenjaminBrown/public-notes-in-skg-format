@@ -1,0 +1,11 @@
+title: The Overlap Graph (bioinformatics)
+pid: a5891da4-6c20-471d-ac42-c666090d1cee
+body: |2-
+  = a directed graph that represents the overlaps among sequences
+contains:
+- 3651906e-b4d3-4b82-b6c8-cbe7d7afa41c
+- d7c2e819-5169-4541-9f6e-80c5ffdd1c00
+- b5fb4ec4-b5a8-4a91-8dd7-11fbb32e103f
+- fa539b93-2de0-4c3e-b15b-0492ed840c1c
+misc:
+- Had_ID_Before_Import

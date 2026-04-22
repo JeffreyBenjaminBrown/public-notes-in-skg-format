@@ -1,0 +1,5 @@
+title: Just run `cabal repl` from the clone.
+pid: d09847e3-cc3a-44de-a596-8d6206a02c77
+body: |2-
+  The first time it will install a lot of dependencies
+  to the global .cabal store, but not Tidal itself.

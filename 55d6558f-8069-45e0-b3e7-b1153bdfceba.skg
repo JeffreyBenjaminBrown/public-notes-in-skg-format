@@ -1,0 +1,4 @@
+title: order matters
+pid: 55d6558f-8069-45e0-b3e7-b1153bdfceba
+body: |2-
+  "WHERE" must come before "ORDER BY"

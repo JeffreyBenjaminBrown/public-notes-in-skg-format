@@ -1,0 +1,13 @@
+title: AWAITS cross-products
+pid: c43bd731-ffba-4f77-bf40-2257197b0adb
+body: |2-
+  where I wrote [[id:e054463e-277c-4283-932c-cb40f26f7f45][? art | example \\ irony]]
+  it might have been nice to be able to put
+  irony in a cross-product producing bracketed list:
+  { '? art' | example' } \\ {irony | something else}
+  would create four paths
+  (where "x/y" is "x contains y")
+  - irony / ?art
+  - irony / example
+  - something else / ?art
+  - something else / example

@@ -1,0 +1,4 @@
+title: 'PITFALL, SKIPPED: Automatic shutdown > manual shutdown.'
+pid: a2ab271e-4324-41b2-9add-83de1a7721a1
+body: |2-
+  https://erlang.org/doc/design_principles/sup_princ.html#stopping

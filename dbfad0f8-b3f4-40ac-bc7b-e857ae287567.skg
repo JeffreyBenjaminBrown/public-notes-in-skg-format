@@ -1,0 +1,7 @@
+title: 'We can write an underscore _ in place of values which we expect the type checker to fill in, so the above definition could also be written as:'
+pid: dbfad0f8-b3f4-40ac-bc7b-e857ae287567
+body: |2-
+  This example uses the [[id:732d2202-44d1-4fbf-867a-fc04290ef9a0][dependent pair syntactic sugar]].
+
+  vec : (n : Nat ** Vect n Int)
+  vec = (_ ** [3, 4])

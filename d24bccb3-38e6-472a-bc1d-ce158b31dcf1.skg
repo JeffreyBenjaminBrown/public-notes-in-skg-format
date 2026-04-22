@@ -1,0 +1,4 @@
+title: 'PITFALL: library | version requirements'
+pid: d24bccb3-38e6-472a-bc1d-ce158b31dcf1
+body: |2-
+  "Exhaustiveness checking for ADTs can be enforced with mypy using typing.assert_never() in Python 3.11+ or as part of the typing-extensions backport for older versions of Python."

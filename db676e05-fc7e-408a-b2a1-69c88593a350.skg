@@ -1,0 +1,10 @@
+title: query
+pid: db676e05-fc7e-408a-b2a1-69c88593a350
+body: |2-
+  X <- in children(Zeus)
+  Y <- in children(Hera)
+  Z <- for some Y, in children(Y)
+       & for all X, not equal to X
+  W <- for some X, in children(X)
+       & for all Z, for all Y(Z), not( has_battled( W, Y(Z) ) )
+         Need two forall statements here because Y(Z) is meaningless until Z has a binding.

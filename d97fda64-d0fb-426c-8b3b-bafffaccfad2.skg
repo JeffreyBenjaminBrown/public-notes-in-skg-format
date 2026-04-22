@@ -1,0 +1,5 @@
+title: '`contains` should be acyclic'
+pid: d97fda64-d0fb-426c-8b3b-bafffaccfad2
+body: |2-
+  The TypeDB AI says I can use `distinct` instead,
+  but the docs on `distinct` don't suggest that's true.

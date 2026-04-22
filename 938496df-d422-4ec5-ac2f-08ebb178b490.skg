@@ -1,0 +1,4 @@
+title: to remove "Plasma"     from the Task Switcher
+pid: 938496df-d422-4ec5-ac2f-08ebb178b490
+body: |2-
+  Via the Task Switcher, select it, then close it (Alt-F4).

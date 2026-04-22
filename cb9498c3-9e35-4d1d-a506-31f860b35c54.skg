@@ -1,0 +1,7 @@
+title: 'PITFALL: An interface value can hold values of different types at different times.'
+pid: cb9498c3-9e35-4d1d-a506-31f860b35c54
+body: |2-
+  In a context declaring
+    var a Abser
+  `a` can be assigned multiple values of different types,
+  as long as they all implement Abser.

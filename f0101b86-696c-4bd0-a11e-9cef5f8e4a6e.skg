@@ -1,0 +1,12 @@
+title: chip properties via `sudo dmidecode -t 17`
+pid: f0101b86-696c-4bd0-a11e-9cef5f8e4a6e
+body: |2-
+  type: DDR4 ("Synchronous"?)
+  Form Factor: SODIMM
+  Locator: DIMM B
+  width (total & data): 64 bits
+  voltage: 1.2 V
+  size: 8192 MB
+  Speed: 2400 MT/s
+  Configured Memory Speed: 2133 MT/s
+  Manufacturer: SK Hynix

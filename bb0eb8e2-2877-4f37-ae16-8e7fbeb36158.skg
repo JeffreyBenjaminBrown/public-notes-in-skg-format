@@ -1,0 +1,10 @@
+title: Recognize bot networks through multi-faceted queries.
+pid: bb0eb8e2-2877-4f37-ae16-8e7fbeb36158
+body: |2-
+  Various kinds of agencies (social media platforms, cybersecurity companies, academia, media watchdogs ...) try to recognize bot networks. The techniques they use include analyzing timing and coordination, linguistic analysis, analyzing bots' interactions with other users, and more.
+
+  Shyg will make such work easier, by providing a unified public database and query framework for all of that information.
+
+  As we will see below when focusing on its [[id:a1f04e1e-9d39-43a7-a384-a575a57968df][architecture]], members of the Shyg network will be able to choose what kinds of information to index. Recognizing bots in Shyg could be particularly facilitated by storing relationships like "[author] cites [different author]" or "[author] claims that [different author] is human". It seems likely that some portion of the Shyg community will choose to include such information in the index.
+misc:
+- Had_ID_Before_Import

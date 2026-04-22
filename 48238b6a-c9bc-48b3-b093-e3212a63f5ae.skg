@@ -1,0 +1,4 @@
+title: remove-text-properties start end props
+pid: 48238b6a-c9bc-48b3-b093-e3212a63f5ae
+body: |2-
+  PITFALL: The props argument is weird. See docs.

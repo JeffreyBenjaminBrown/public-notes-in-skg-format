@@ -1,0 +1,5 @@
+title: Callback modules often wrap that function, like so.
+pid: 02dc4424-5e60-495e-8695-fe868155b533
+body: |2-
+  start_link() ->
+    gen_server:start_link({local, ch3}, ch3, [], []).

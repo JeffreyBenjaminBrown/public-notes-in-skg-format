@@ -1,0 +1,6 @@
+title: access a struct field
+pid: f70cc396-a392-4380-93bb-84dc91ad52fc
+body: |2-
+  x.1 == 1
+contains:
+- dffeb3b2-61c5-4fdf-b6c3-fdab876088e2

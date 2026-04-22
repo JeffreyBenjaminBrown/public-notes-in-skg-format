@@ -1,0 +1,4 @@
+title: Time -> ATime (for "absolute time")
+pid: 919ab580-8d1b-42b4-8278-47d955872ef9
+body: |2-
+  after reading Dispatch I'll probably understand what RTime, ATime are

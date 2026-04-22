@@ -1,0 +1,5 @@
+title: This transposes whole symbols,
+pid: d2b94bfb-f179-454f-9e16-24d98dfec479
+body: |2-
+  rather than splitting on underscores,
+  which is useful.

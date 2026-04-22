@@ -1,0 +1,12 @@
+title: sample code
+pid: f2ec8e1f-41c2-4f4f-b939-6b5ff0ecb607
+body: |2-
+  from   django.urls import reverse
+  HttpResponseRedirect (
+     reverse ( # This constructs the URL
+       "run_make:thank-for-spec",
+       kwargs = {
+         "user_email" : user_email,
+         "subsample"  : subsample,
+     } )
+  )

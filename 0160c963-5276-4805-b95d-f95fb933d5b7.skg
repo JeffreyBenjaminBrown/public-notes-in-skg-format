@@ -1,0 +1,7 @@
+title: acceptable return values
+pid: 0160c963-5276-4805-b95d-f95fb933d5b7
+body: |2-
+  {ok, Reply, NewState}
+  {ok, Reply, NewState, hibernate}
+  {remove_handler, Reply}
+  {swap_handler, Reply, Args1, NewState, Handler2, Args2}

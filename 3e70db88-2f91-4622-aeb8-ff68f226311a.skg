@@ -1,0 +1,13 @@
+title: '7\68 x 6\68: 15-lim 8x5, octave 8-2'
+pid: 3e70db88-2f91-4622-aeb8-ff68f226311a
+body: |2-
+  00 steps; 1  % 1;  string 0; fret 0
+  06 steps; 17 % 16; string 0; fret 1
+  12 steps; 9  % 8;  string 0; fret 2
+  22 steps; 5  % 4;  string 4; fret -1
+  31 steps; 11 % 8;  string 1; fret 4
+  40 steps; 3  % 2;  string 4; fret 2
+  48 steps; 13 % 8;  string 6; fret 1
+  55 steps; 7  % 4;  string 7; fret 1
+  62 steps; 15 % 8;  string 8; fret 1
+  68 steps; 2  % 1;  string 8; fret 2

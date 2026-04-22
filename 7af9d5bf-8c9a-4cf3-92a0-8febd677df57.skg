@@ -1,0 +1,7 @@
+title: My nixpkgs branch should match my nixos channel.
+pid: 7af9d5bf-8c9a-4cf3-92a0-8febd677df57
+body: |2-
+  The latest master branch of nixpkgs, I think,
+  corresponds at least roughly to nixos-unstable.
+  nixos-stable corresponds to, IIRC,
+  the latest release tag of nixpkgs.

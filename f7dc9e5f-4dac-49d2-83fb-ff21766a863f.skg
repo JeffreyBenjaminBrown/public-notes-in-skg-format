@@ -1,0 +1,7 @@
+title: If an interface inherits from two interfaces with like-named fields
+pid: f7dc9e5f-4dac-49d2-83fb-ff21766a863f
+body: |2-
+  then the ambiguity must be resolved through qualification,
+  using the CType (dependently-typed?) function.
+contains:
+- f9a92331-c09a-48fe-b26a-890fc28a3cdc

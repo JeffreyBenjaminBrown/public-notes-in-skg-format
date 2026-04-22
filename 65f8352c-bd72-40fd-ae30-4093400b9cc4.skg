@@ -1,0 +1,5 @@
+title: are abstract
+pid: 65f8352c-bd72-40fd-ae30-4093400b9cc4
+body: |2-
+  Nothing has this class without one descended from it.
+  However, "It is valid to declare variables of MustInherit classes; such variables can only be assigned Nothing or a value that is of a class derived from the MustInherit class."

@@ -1,0 +1,6 @@
+title: 'choice (button): "persistent|inert"'
+pid: a57a7560-4f88-48c1-9183-999970e0a7e9
+body: |2-
+  In "inert" mode, the chord only sounds while the button is held.
+  IOn "persistent" mode, the chord keeps playing until a second button press,
+    or (if in mono mode) until a different chord is pressed.

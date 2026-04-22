@@ -1,0 +1,6 @@
+title: 'n(ext): next skipping any down'
+pid: c26ad90c-a2f9-4071-96e7-947dccc7103b
+body: |2-
+  Continue execution until either
+    the next line in the current function is reached,
+    or the current function returns.

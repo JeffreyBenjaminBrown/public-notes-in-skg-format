@@ -1,0 +1,7 @@
+title: the idea
+pid: 10c42f4f-c433-42e1-9e80-1063a1116c43
+body: |2-
+  All of ~/.ssh (minus the .pem file to connect to EC2).
+  All of /home/jeff/ugh/une/org-roam
+    PITFALL: Copying individual pieces of it didn't work,
+    but copying it as a whole did.

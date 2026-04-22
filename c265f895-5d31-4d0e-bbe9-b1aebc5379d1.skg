@@ -1,0 +1,5 @@
+title: indicate matches ala chmod
+pid: c265f895-5d31-4d0e-bbe9-b1aebc5379d1
+body: |2-
+  A single decimal (hex) digit can indicate whether an `Expr`
+  matches up to 3 (4) separate `HExpr`s.

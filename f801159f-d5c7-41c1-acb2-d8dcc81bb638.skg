@@ -1,0 +1,5 @@
+title: make variations on `hitspan`
+pid: f801159f-d5c7-41c1-acb2-d8dcc81bb638
+body: |2-
+  using other parameters.
+  `histpan` is a transition function that pans repetitions of a pattern.

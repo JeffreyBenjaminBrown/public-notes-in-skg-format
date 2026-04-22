@@ -1,0 +1,4 @@
+title: 'p <expr> : evaluate'
+pid: 1c1c3d02-90c3-43d2-a10f-119e4a457d72
+body: |2-
+  Evaluate the expression in the current context and print its value.

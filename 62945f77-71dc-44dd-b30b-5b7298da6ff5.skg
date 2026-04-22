@@ -1,0 +1,5 @@
+title: 'imagemagick ("convert"): perfect for jpgs, bad for pdfs'
+pid: 62945f77-71dc-44dd-b30b-5b7298da6ff5
+body: |2-
+  convert -colorspace GRAY color.pdf gray.pdf
+  convert -colorspace GRAY dian.pdf gray/dian.pdf

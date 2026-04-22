@@ -1,0 +1,11 @@
+title: '[[id:46905408-f047-4926-957f-ac01927e22c4][9-based dom7 chord]]'
+pid: 8721ea2c-aa85-4fab-a755-1d5893228c36
+body: |2-
+  That's dom7 with the 3rd and the 7th raised 2\58:
+  0  21   34   49
+  1  9:7  3:2  9:5
+  [1,  9/7,  3/2,  9/5 :: Rational]
+contains:
+- eb2589d1-309e-4a17-96fe-a1f1c8be06c9
+misc:
+- Had_ID_Before_Import

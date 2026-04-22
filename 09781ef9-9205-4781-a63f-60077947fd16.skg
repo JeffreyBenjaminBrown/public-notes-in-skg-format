@@ -1,0 +1,24 @@
+title: experiments
+pid: 09781ef9-9205-4781-a63f-60077947fd16
+body: |2-
+  #+BEGIN_SRC haskell
+  setcps 0.4
+
+  d1 $ s "supersquare" |*| n "-36 -24 -12 0 12 24 36"
+
+  d1 $ s "supersquare"
+    |*| n ("0 3 7" |+| "[-36,-24]")
+
+  d1 $ s "supersquare" |*| n "-36 -24 -12 0 12 24 36"
+    |*| voice 0.01
+
+  d1 $ s "supersquare" |*| n "-36 -24 -12 0 12 24 36 0"
+    |*| voice (fast 32 $ "0.01 0.1 0.5 0.2")
+
+  d1 $ slow 2 $
+    s "supersquare" |*| n "-36 -24 -12 0 12 24 36 0"
+    |*| semitone (fast 6 "7.02 9.7 15.9")
+    |*| voice (fast 32 $ "0.01 0.5")
+  #+END_SRC
+contains:
+- 29480c45-3d45-41bb-a91c-e152a893d6ca

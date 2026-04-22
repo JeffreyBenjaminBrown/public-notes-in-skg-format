@@ -1,0 +1,5 @@
+title: purpose
+pid: 257faeff-d307-4fd3-bc7b-aa9531d9e872
+body: |2-
+  Called from a pure function, `Debug.Trace.trace`
+  prints a message without changing the function's type.

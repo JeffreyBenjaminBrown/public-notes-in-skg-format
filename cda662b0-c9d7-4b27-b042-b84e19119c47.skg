@@ -1,0 +1,20 @@
+title: 'TODO 16\55 x 7\55: 13-lim in 3s 6f, 19-lim in 5s 6f'
+pid: cda662b0-c9d7-4b27-b042-b84e19119c47
+body: |2-
+  [ 0 steps; 1 % 1 ; string 0 ; fret 0
+  , 55 steps; 2 % 1 ; string 3 ; fret 1
+  , 32 steps; 3 % 2 ; string 2 ; fret 0
+  , 18 steps; 5 % 4 ; string 2 ; fret - 2
+  , 44 steps; 7 % 4 ; string 1 ; fret 4 -- 9c flat
+  , 9 steps; 9 % 8 ; string 1 ; fret - 1
+  , 25 steps; 11 % 8 ; string 2 ; fret - 1
+  , 39 steps; 13 % 8 ; string 2 ; fret 1 -- 10c sharp
+  , 50 steps; 15 % 8 ; string 4 ; fret - 2
+  , 5 steps; 17 % 16 ; string - 1 ; fret 3
+  , 14 steps; 19 % 16 ; string 0 ; fret 2
+  # , 22 steps; 21 % 16 ; string 4 ; fret - 6
+  # , 29 steps; 23 % 16 ; string 4 ; fret - 5
+  # , 35 steps; 25 % 16 ; string 0 ; fret 5
+  # , 42 steps; 27 % 16 ; string 0 ; fret 6
+  # , 47 steps; 29 % 16 ; string 6 ; fret - 7
+  # , 52 steps; 31 % 16 ; string 5 ; fret - 4

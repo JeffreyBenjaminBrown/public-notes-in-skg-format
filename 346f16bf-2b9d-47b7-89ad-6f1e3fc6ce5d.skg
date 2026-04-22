@@ -1,0 +1,6 @@
+title: why this step is called composition
+pid: 346f16bf-2b9d-47b7-89ad-6f1e3fc6ce5d
+body: |2-
+  It consists of adding a line (or a few) to all-packages.nix.
+  The Nix expression has no idea what its arguments are.
+  This step is where they get connected.

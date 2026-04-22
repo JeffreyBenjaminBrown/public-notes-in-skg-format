@@ -1,0 +1,4 @@
+title: to find the package that provides a particular file
+pid: f5e1b0e4-9fc0-4f64-948b-f02c9ffba8a1
+body: |2-
+  https://github.com/bennofs/nix-index

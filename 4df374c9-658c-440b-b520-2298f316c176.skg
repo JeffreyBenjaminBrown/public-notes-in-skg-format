@@ -1,0 +1,8 @@
+title: can be done in Rust
+pid: 4df374c9-658c-440b-b520-2298f316c176
+body: |2-
+  https://www.tweag.io/blog/2025-04-10-rust-recursion-schemes/
+  if not (judging from the code; I haven't read the article)
+  represented as higher functions
+misc:
+- Had_ID_Before_Import

@@ -1,0 +1,6 @@
+title: 'PITFALL: One seems to have to read the whole thing, not just the backward incompatibilities section.'
+pid: fc89d4aa-0827-47ab-b715-4fc2fe7ffa66
+body: |2-
+  While trying to migrate to 21.05, I'm also reading
+  "B.1.4. Other Notable Changes",
+  because it starts by saying that stdenv.lib will break.

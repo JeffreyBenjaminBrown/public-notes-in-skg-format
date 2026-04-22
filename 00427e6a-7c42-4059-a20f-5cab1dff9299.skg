@@ -1,0 +1,4 @@
+title: use scientific notation
+pid: 00427e6a-7c42-4059-a20f-5cab1dff9299
+body: |2-
+  pd.set_option('display.float_format', '{:.2g}'.format)

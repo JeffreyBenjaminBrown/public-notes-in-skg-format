@@ -1,0 +1,8 @@
+title: syntax
+pid: 86ba6e58-1c78-4daf-844a-1462aded9008
+body: |2-
+  borg extract /path/to/borg/repo::name-of-image [paths]
+    example:
+      REPO=/run/media/jeff/ssd_500g_samsung//borg-repo
+      borg extract $REPO::2022-04-14.hp17 home/jeff/org-roam
+  The paths are optional. If not present, the entire thing is extracted.

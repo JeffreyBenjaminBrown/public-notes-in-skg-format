@@ -1,0 +1,4 @@
+title: If the Maker Buffer is weak, more MKR is issued.
+pid: 82ba235c-e8f9-47c4-9d44-6dfb589c2d02
+body: |2-
+  "If there is an insufficient amount of Dai in the Maker Buffer" to cover the debt outstanding after an auction, "a debt auction will be triggered and the protocol will mint MKR and sell it to bidders for Dai to recapitalize the system."

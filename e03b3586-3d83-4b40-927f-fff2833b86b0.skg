@@ -1,0 +1,4 @@
+title: Run it with
+pid: e03b3586-3d83-4b40-927f-fff2833b86b0
+body: |2-
+  nix-shell shell.nix

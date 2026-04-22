@@ -1,0 +1,5 @@
+title: 'PITFALL: Django is for building a site, not serving it'
+pid: 0845666d-79cd-4527-9a10-8e92bc92d2c7
+body: |2-
+  The "Django development server" is useful for  testing,
+  but they suggest using something like Apache in production.

@@ -1,0 +1,7 @@
+title: How to change a setting.
+pid: a41ccbb5-7684-4473-a4e4-d7fb9dc22978
+body: |2-
+  If it's a toggle, its value (on or off) is shown on the right.
+  Double-click on that value to toggle it.
+contains:
+- c5a1be77-f489-4e2d-beeb-c99e314a8a62

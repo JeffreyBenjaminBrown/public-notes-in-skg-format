@@ -1,0 +1,7 @@
+title: 'Bigger, still incomplete solution: Compare edit times.'
+pid: d8dfb322-56f8-4964-a5fc-372333b91bcc
+body: |2-
+  Keep a "last saved" time for each buffer.
+  Each time a buffer is switched to,
+  check the edit times of each file in it,
+  and report if any has been changed.

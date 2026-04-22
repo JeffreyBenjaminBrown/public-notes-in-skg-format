@@ -1,0 +1,7 @@
+title: Prevent git credential validators from popping up whenever I deal with a remote on GitHub over HTTP.
+pid: ba84b51c-77a1-4c7b-a958-22e9183c3522
+contains:
+- 5cdbbd1f-107b-4244-aec4-7d0f97a65305
+- dcccae4d-1c79-4853-b6e1-51190692eee0
+misc:
+- Had_ID_Before_Import

@@ -1,0 +1,4 @@
+title: the upshot
+pid: e5c7241b-fbca-4300-8309-0a5618b2d3f2
+body: |2-
+  I may need to uninstall gleam and rebar3 before enabling them in my Nix config.

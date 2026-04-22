@@ -1,0 +1,4 @@
+title: '"If t is an element reference (->e): check(σ(e), v)"'
+pid: ab5c4fc7-2ee6-408a-8933-645f0f9a4600
+body: |2-
+  How could `t` be an element reference? For one thing, I thought graphs can only refer to their own elements, and the schema graph is (usually) a different graph. For another, sigma is meant to constrain the type of `t`, not the type of whatever was referring to `t` as its type; it seems like delta(t) would be the thing to use, not sigma(t).

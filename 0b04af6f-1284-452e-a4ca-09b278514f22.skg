@@ -1,0 +1,8 @@
+title: where to get those variables
+pid: 0b04af6f-1284-452e-a4ca-09b278514f22
+body: |2-
+  <profile name> is something I can invent. It's only meaningful on the machine where I've put the config file; AWS won't see it.
+  <user name> is some programmatic (as opposed to human) User I've created in AWS IAM with the permissions I need.
+  To find <number>, find that User in the AWS Console,
+  and then find its "User ARN".
+  That's actually the whole URI I need; I can copy and paste that whole thing, not just the number in it.

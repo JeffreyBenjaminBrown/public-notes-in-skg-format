@@ -1,0 +1,6 @@
+title: this attempted solution failed
+pid: 710c9b69-7906-4d24-b4f0-e17f60dadcf9
+body: |2-
+  In the installer I'm changing the path to
+    /home/jeff/.wine/drive_c/users/jeff/ik_product_manager
+  which exists and uses no symlink.

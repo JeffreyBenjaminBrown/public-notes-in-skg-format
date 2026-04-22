@@ -1,0 +1,8 @@
+title: 'working through it: n = 2'
+pid: 0e68e168-454e-4a58-8306-d30b55f624db
+body: |2-
+  #+BEGIN_SRC haskell
+  index : Fin 2 -> Vect 2 a -> a
+  index FZ     (x :: _) = x
+  index (FS FZ) (_ :: xs) = index FZ xs
+  #+END_SRC

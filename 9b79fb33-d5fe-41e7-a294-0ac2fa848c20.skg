@@ -1,0 +1,6 @@
+title: I get it when building
+pid: 9b79fb33-d5fe-41e7-a294-0ac2fa848c20
+body: |2-
+  my configuration, audio branch,
+  commit 6a880d983f816db5b4f675c8236df734d09c249e,
+  after commenting out the line kernel.packages = pkgs.linuxPackages_4_19_rt;, and build

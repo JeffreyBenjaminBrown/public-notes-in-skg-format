@@ -1,0 +1,6 @@
+title: make a dummy element and append it to "document . body"
+pid: 5036167c-d6d4-4e8a-ad48-23c368f42b1b
+body: |2-
+  dummy = document . createElement ( "span" )
+  dummy . innerHTML = ( "hello" )
+  document . body . appendChild ( dummy )

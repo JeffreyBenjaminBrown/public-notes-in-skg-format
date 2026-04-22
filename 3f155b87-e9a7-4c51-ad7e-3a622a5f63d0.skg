@@ -1,0 +1,6 @@
+title: representation
+pid: 3f155b87-e9a7-4c51-ad7e-3a622a5f63d0
+body: |2-
+  Deletion in the undo stack
+  is represented as `(BEG . END)`.
+  Insertion is similar but with text too.

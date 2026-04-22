@@ -1,0 +1,16 @@
+title: my unused spiel
+pid: 2585fc35-4503-4334-91cf-8c95761d657b
+body: |2-
+  Hi,
+
+  I've been an avid fan of the podcast for a few years. My biggest concern for the world is democratic epistemology. People can find arguments now to justify any kind of belief, and I know a few smart people who believe absurd things.
+
+  For fifteen years I've wanted to produce a knowledge graph tool that would make it easier for people to make sense of complex information: A knowledge graph editor in which queries about first-order queries ("Show me things Dave has said") and second-order ones ("Show me things Dave has said that any of the people I trust, or any of the people they trust, have marked as contradicting something else Dave said") are equally easy to run.
+
+  I'm a 45-year-old software developer. I know all of three people in Silicon Valley. For the tool I'm describing to get off the ground it would have to not just exist (I did that[1]!) but be user friendly (I did not do that) and get linked into a social network. I realize it's a long shot.
+
+  But more generally I'd like to contribute somehow to solving what I consider our crisis of democratic epistemology.
+
+  I have a master's degree in economics, and have been coding for 28 years. I was the CTO of a small economic think tank in Bogotá for 6 years. Now I work for the tax authority here, doing cybersecurity and automation. I'm happy to pivot to areas I have little experience in.
+
+  [1] https://github.com/JeffreyBenjaminBrown/hode

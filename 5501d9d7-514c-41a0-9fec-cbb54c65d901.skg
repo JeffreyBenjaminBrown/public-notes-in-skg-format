@@ -1,0 +1,6 @@
+title: 'TODO PITFALL: Don''t keep more than one USB drive plugged in at once'
+pid: 5501d9d7-514c-41a0-9fec-cbb54c65d901
+body: |2-
+  when doing big write ops.
+  November 2020 I did that, tried to write NixOS 20.09 onto one of them,
+  and ended up overwriting the other two.

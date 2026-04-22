@@ -1,0 +1,8 @@
+title: 'PITFALL: Its integration with buffer-list-mode is imperfect.'
+pid: 2c0303e4-f2f3-44eb-bb42-ba4c1bf638ed
+body: |2-
+  The buffer menu will show only the perspective's buffers
+  *if* it was created via a persp-mode command.
+  But if it is refreshed, it will show them all,
+  and if one switches perspectives from the buffer list,
+  its contents will not change.

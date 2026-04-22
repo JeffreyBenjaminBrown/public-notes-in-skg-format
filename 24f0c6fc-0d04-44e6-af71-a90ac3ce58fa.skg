@@ -1,0 +1,10 @@
+title: Math operations, in order of precedence.
+pid: 24f0c6fc-0d04-44e6-af71-a90ac3ce58fa
+body: |2-
+    () :: parentheses
+    ^  :: exponentiation
+    *  :: multiplication
+    /  :: division
+    %  :: modulo
+    +  :: addition
+    -  :: subtraction

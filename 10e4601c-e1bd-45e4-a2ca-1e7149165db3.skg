@@ -1,0 +1,16 @@
+title: the 7 scale families
+pid: 10e4601c-e1bd-45e4-a2ca-1e7149165db3
+body: |2-
+  I'm writing these as chromatic formulae rather than using music notation. Music notation is excellent for communicating rhythm and pitch in a small space, but not great for revealing mathematical relationships among scales.
+
+  So, for instance, where I write `0 2 3 5 7 9 10`,
+  if you prefer you can read `C D Eb F G A Bb`,
+  or any number of other equivalent expressions.
+contains:
+- b1b0c5f2-c18a-421d-a605-5344cb13b9a0
+- 9d2347cb-7ef0-4fde-bc11-846c8e117995
+- 7d663e71-93c4-486a-b51d-8bd9ec449cb6
+- fa61619a-f15c-4482-a9d9-38ee992ef3a3
+- 6cdf71a4-0518-4d81-9524-6b4023f087bf
+- 6471db70-7a63-432d-a416-1b66cbb12f46
+- adf34a62-61ed-4e6f-974d-2e1cf39266a7

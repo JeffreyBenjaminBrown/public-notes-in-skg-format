@@ -1,0 +1,5 @@
+title: more
+pid: 43e63002-d39a-40f7-bade-a8146c13f3ac
+body: |2-
+  That's because the method operates on a copy of the receiver.
+  For this reason pointer receivers are more common than value receivers.

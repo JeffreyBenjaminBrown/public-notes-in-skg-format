@@ -1,0 +1,5 @@
+title: How to change the SC launch options
+pid: 08ceae58-788a-4428-99ff-ec3408b33345
+body: |2-
+  modify this
+    ~/.local/share/SuperCollider/downloaded-quarks/SuperDirt/superdirt_startup.scd

@@ -1,0 +1,6 @@
+title: where the code goes (once it works)
+pid: 618eeba7-0c77-469e-b531-12edfa360687
+body: |2-
+  Right after this line:
+
+  (define-key org-mode-map (kbd "C-c C-o")   'jbb-org-open-at-point)

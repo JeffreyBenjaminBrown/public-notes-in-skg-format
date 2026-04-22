@@ -1,0 +1,5 @@
+title: '--safe : only permit changes to the intended .db'
+pid: 01a2b788-c85c-4d77-9a32-fd0d486963cb
+body: |2-
+  -- that is, the .db that was named at the CL when calling sqlite
+  This is to avoid third-party scripts from doing bad things.

@@ -1,0 +1,21 @@
+title: example
+pid: ab352f13-c237-40be-9b5b-008d8c984604
+body: |2-
+  struct MyBox<T>(T);
+
+  impl<T> MyBox<T> {
+      fn new(x: T) -> MyBox<T> {
+          MyBox(x)
+      }
+  }
+
+  use std::ops::Deref;
+
+  impl<T> Deref for MyBox<T> {
+      type Target = T; // `Target` is part of the `deref` signature
+                       // `Target` is an "associated type".
+
+      fn deref(&self) -> &Self::Target {
+          &self.0
+      }
+  }

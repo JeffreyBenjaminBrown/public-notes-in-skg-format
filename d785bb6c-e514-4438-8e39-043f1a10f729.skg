@@ -1,0 +1,5 @@
+title: define some shared modulation curves as patterns
+pid: d785bb6c-e514-4438-8e39-043f1a10f729
+body: |2-
+  The duration (via slow) of each should be defined.
+  Use these "global" modulation curve to coordinate changes different voices.

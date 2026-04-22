@@ -1,0 +1,7 @@
+title: view a title node
+pid: 90b13b55-0846-4b1b-9449-5d0a4d6127a0
+body: |2-
+      (org-roam-db-query-to-buffer
+  [:select [id title file level pos todo priority scheduled deadline properties olp]
+          :from nodes
+  :where (= id "ef673990-4aa1-466f-ac5f-f0296b02e716")])

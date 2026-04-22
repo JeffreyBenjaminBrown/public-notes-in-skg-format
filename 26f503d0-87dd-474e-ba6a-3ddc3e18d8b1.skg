@@ -1,0 +1,5 @@
+title: to find a disjunction of patterns
+pid: 26f503d0-87dd-474e-ba6a-3ddc3e18d8b1
+body: |2-
+  tag or
+  find . -type f \( -name "*.hs" -o -name "*.rs" \)

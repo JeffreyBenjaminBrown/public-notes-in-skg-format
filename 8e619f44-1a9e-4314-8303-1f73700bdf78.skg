@@ -1,0 +1,7 @@
+title: without accidentals, major thirds are too big
+pid: 8e619f44-1a9e-4314-8303-1f73700bdf78
+body: |2-
+  For instance, C E G is a Pythagorean C major third.
+  A just-ish C major third would be C \E G ("C, down E, G").
+contains:
+- 602cc129-9c4d-497d-ae53-34820a7b6c1c

@@ -1,0 +1,7 @@
+title: triads in 41-edo
+pid: ad19b9d7-ea99-4f3e-8ec1-02c8fdc6b34d
+body: |2-
+  orbits = (1/41) *
+           sum [ 0               -> 41 choose 3 = 10660
+               , everything else -> 0 ]
+    = 10660 / 41 = 260

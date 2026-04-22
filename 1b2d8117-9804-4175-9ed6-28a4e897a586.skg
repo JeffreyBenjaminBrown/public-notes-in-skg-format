@@ -1,0 +1,4 @@
+title: 'M-c and M-s c: Toggle case sensitivity.'
+pid: 1b2d8117-9804-4175-9ed6-28a4e897a586
+body: |2-
+  By default, search is case-sensitive only if your search contains uppercase letters, like in Isearch (following the logic in isearch-no-upper-case-p).

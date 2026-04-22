@@ -1,0 +1,6 @@
+title: At least for maybe and either, it has no dependencies.
+pid: 903002a8-6e8f-48da-b80d-48a1055ea97a
+body: |2-
+  It wasn't packaged for NixOS,
+  so I just copied the relevant moduls it wholesale,
+  and had no problems.

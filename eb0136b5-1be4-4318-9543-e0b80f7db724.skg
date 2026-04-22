@@ -1,0 +1,11 @@
+title: derivation
+pid: eb0136b5-1be4-4318-9543-e0b80f7db724
+body: |2-
+  For some value of u,
+  the strings are 2*u long on the short side,
+  3*u on the long side (u = "unit").
+  The frets span 3/4 u of the strings.
+  That means they span 3/2 u on the short side, 9/4 u on the long side.
+  The frets should fan evenly in both directions,
+  so  the center of the short side of the frets is 3/4 from the nut,
+  and the center of the long  side of the frets is 9/8 from the nut.

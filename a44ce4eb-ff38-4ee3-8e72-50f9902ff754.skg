@@ -1,0 +1,14 @@
+title: Python and virtualenv in Nix
+aliases:
+- virtualenv for Python in Nix
+- Nix shell for Python virtualenv
+pid: a44ce4eb-ff38-4ee3-8e72-50f9902ff754
+body: |2-
+  https://wiki.nixos.org/wiki/Python
+contains:
+- ea71ee35-30d6-475f-86a8-a0e4c585baab
+- 3bcf5952-216e-4ebf-8f08-ba483bec1f4c
+- 5c1da0d0-b687-4b62-8d9f-8132b731ad39
+- d2028fb1-55e9-4be2-ba4f-4268685b6a7c
+misc:
+- Had_ID_Before_Import

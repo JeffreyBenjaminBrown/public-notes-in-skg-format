@@ -1,0 +1,8 @@
+title: 'REQUIREMENT: Errors must be convertible.'
+pid: edffc031-47dc-4961-b5b0-76061f4a91d2
+body: |2-
+  If ? is used to return an error,
+  that error must be convertible to the kind of error
+  in the function's return type of the function using the ?.
+  This is achieved by implementing `From<io::Error>`,
+  i.e. writing a passage that starts `impl From<io::Error>`.

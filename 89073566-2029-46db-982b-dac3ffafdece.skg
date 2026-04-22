@@ -1,0 +1,17 @@
+title: It is useful to separate the fundamental from the chord formula.
+pid: 89073566-2029-46db-982b-dac3ffafdece
+body: |2-
+  Continuing the previous example,
+  the first chord could be represented as "200 hz × {1, 5/4, 3/2}"
+  and the second as "300 hz × {1, 5/4, 3/2}".
+  Representing them both this way makes it clear that they are the same chord.
+
+  Because changing the fundamental frequency
+  does not change the "character" of a chord,
+  the rest of this essay ignores the fundamental frequencies of chords.
+  Rather than talk about different major chords like the two above,
+  it will talk about "the" major chord {1, 5/4, 3/2}.
+
+  (Although they aren't interesting *in the math*,
+  fundamental frequencies are still interesting *to the ear*,
+  so do try different fundamental frequencies when experimenting.)

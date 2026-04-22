@@ -1,0 +1,4 @@
+title: +{- makes no sense
+pid: 094508ab-a685-440b-b2d6-a25b048b916b
+body: |2-
+  if a node is new, it can't have been removed from a container

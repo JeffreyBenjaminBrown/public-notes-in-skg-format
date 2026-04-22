@@ -1,0 +1,20 @@
+title: 'close but not it : (defun highlight-sibling-region ()'
+pid: 5b9d8abc-2dcb-487c-a4be-ff0ef1c9ef43
+body: |2-
+  "Highlight region from first child to end of all children under current parent."
+  (interactive)
+  (save-excursion
+    (let (start-pos end-pos)
+      (org-up-heading-safe) ;; Go to parent
+      ( save-excursion ;; put end right before the next node that is
+                       ;; at parent's level or lower (nearer root)
+        (org-flag-subtree t) ;; Fold
+        (org-next-visible-heading 1)
+        (setq end-pos (1- (point))) )
+      ;; After that excursion we should be back at the parent, right?
+      ( progn ;; Get to parent's first child
+        (org-flag-subtree nil) ;; unfold tree
+        (org-next-visible-heading 1)
+        (setq start-pos (point)) )
+      (goto-char start-pos)
+      (push-mark end-pos t t) ) ) )

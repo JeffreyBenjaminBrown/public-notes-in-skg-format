@@ -1,0 +1,4 @@
+title: why
+pid: 662862bf-34eb-4c09-95c7-f21de1d29c52
+body: |2-
+  "Without the rule, two crates could implement the same trait for the same type, and Rust wouldn’t know which implementation to use."

@@ -1,0 +1,11 @@
+title: to set up a virtualenv
+pid: 8ab98b85-5ede-4127-890c-76b3d4cb4ef4
+body: |2-
+  # Any name (I like "venv" with no dot)
+  # can be substituted for .venv below.
+  # It will become a local subfolder.
+  python3 -m venv .venv            # create the environment
+  source .venv/bin/activate        # enable ("enter") it
+  pip3 install -r requirements.txt # install what's in that file
+misc:
+- Had_ID_Before_Import

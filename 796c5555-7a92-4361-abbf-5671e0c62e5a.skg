@@ -1,0 +1,12 @@
+title: examples
+pid: 796c5555-7a92-4361-abbf-5671e0c62e5a
+body: |2-
+  (defun print-number-squared (number)
+    "Prompt the user for a NUMBER and print its square."
+    (interactive "nEnter a number: ") ;; note the leading `n`
+    (message "The square of %d is: %d" number (* number number)))
+
+  (defun print-string-unchanged (str)
+    "Prompt the user for a string and print it."
+    (interactive "sEnter a string: ") ;; note the leading `s`
+    (message "You wrote: %s" str))

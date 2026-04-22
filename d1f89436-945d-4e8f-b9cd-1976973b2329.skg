@@ -1,0 +1,8 @@
+title: Each Form field corresponds to an overrideable default HTML widget class
+pid: d1f89436-945d-4e8f-b9cd-1976973b2329
+body: |2-
+  example: The last field in this form is overridden.
+  class CommentForm(forms.Form):
+      name = forms.CharField()
+      url = forms.URLField()
+      comment = forms.CharField(widget=forms.Textarea)

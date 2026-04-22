@@ -1,0 +1,4 @@
+title: TODO ? offer to delete orphaned nodes
+pid: 5caf00ab-f96b-45df-94f5-a7074f36433d
+body: |2-
+  If a member of something deleted is not remember of anything else, ask whether to delete it, too -- and recurse.

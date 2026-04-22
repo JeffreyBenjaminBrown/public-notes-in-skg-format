@@ -1,0 +1,6 @@
+title: 'Problem: Anyone with the right URL can view the data.'
+pid: 24179560-71f4-4db9-9da3-64f0ca0a912a
+body: |2-
+  If someone else has the URL I see when I visit a file on S3,
+  they too can see it.
+  That's because the URL has the security token inside it.

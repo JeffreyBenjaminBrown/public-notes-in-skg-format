@@ -1,0 +1,16 @@
+title: row-specific notes
+pid: b2210822-fb0b-4e68-a803-d1edfd7c4007
+body: |2-
+     (T) TODO
+     (1) 21.1 = gauge 159.5 167.8 19.5 198.7 14.7
+     (2) 22.8 unwound = gauge 151.6 167.8 19.5 198.7 14.7
+     (3) 15.6   wound = gauge 151.6 137.0 24.1 123.8 33.5
+         but that seems really thin for a wound string,
+         and very far out of sample.
+  And indeed, Kalium's wound bass strings only go down to 24
+  (and their unwound plain bass strings only up to 23).
+     (4) 20.5 unwound = gauge 162.2 167.8 19.5 198.7 14.7
+     (5) I don't know whether John got a 19 or a 20,
+         so I've left this at 19.5, which is what I requested.
+misc:
+- Had_ID_Before_Import

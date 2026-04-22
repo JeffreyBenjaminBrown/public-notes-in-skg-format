@@ -1,0 +1,4 @@
+title: Outside of parsing, a 'metadata' type smells bad.
+pid: 0e9e69c8-a123-46d0-90ca-0a636de7cb89
+body: |2-
+  It suggests the parse was incomplete.

@@ -1,0 +1,17 @@
+title: example
+pid: 0b7cc224-cb9f-4278-9db0-05ff35bfe96c
+body: |2-
+  [jeff@jbb-hp17:~/bin]$ aconnect -i
+  client 0: 'System' [type=kernel]
+      0 'Timer           '
+      1 'Announce        '
+  client 14: 'Midi Through' [type=kernel]
+      0 'Midi Through Port-0'
+  client 20: 'Lumatone' [type=kernel,card=1]
+      0 'Lumatone MIDI 1 '
+  client 24: 'Scarlett 2i4 USB' [type=kernel,card=2]
+      0 'Scarlett 2i4 USB MIDI 1'
+
+  [jeff@jbb-hp17:~/bin]$ aconnect 20:0 14:0
+
+  [jeff@jbb-hp17:~/bin]$

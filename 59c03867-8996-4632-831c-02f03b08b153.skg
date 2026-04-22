@@ -1,0 +1,6 @@
+title: Put whitespace around all punctuation
+pid: 59c03867-8996-4632-831c-02f03b08b153
+body: |2-
+  by which I mean all of the following, and anything similar:
+  < > ( ) [ ] { } . ; + - * / :: ? &
+  (unless the / is part of a path -- that would be silly).

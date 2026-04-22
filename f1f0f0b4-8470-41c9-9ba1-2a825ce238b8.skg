@@ -1,0 +1,2 @@
+title: 'Moreover, although p ⊃ q does not mean that q can be deduced from p, yet whenever a WFF of the form α ⊃ β is valid, the inference form “α, therefore β” is likewise valid. This fact is easily seen from the fact that α ⊃ β means the same as “not both: α and not-β”; for, as was noted above, whenever the latter is a valid proposition form, “α, therefore β” is a valid inference form.'
+pid: f1f0f0b4-8470-41c9-9ba1-2a825ce238b8

@@ -1,0 +1,5 @@
+title: strings and escape characters
+pid: 18464d82-0cf4-4abf-999c-990f449702bd
+body: |2-
+  https://discourse.nixos.org/t/nix-build-fails-because-python-wants-something-thats-unavailable-without-saying-what-it-wants/5675/4
+  "you don’t need to escape a single-quote inside a double-quoted string. But this leads to having two single-quotes, which terminates the nix string. You can escape those with another single-quote"

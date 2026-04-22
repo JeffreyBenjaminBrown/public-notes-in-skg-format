@@ -1,0 +1,10 @@
+title: 'easy, fun Haskell for music : find all the easy divisions of an interval'
+pid: 187c2035-12ad-401d-b0c3-af4be228652d
+body: |2-
+  Given a ratio of integers a:b,
+  find all (a*n, b*n) pairs
+  such that both products are leass than a threshold (35?),
+  and find all integers between a*n and b*n,
+  and report the entire triplet.
+misc:
+- Had_ID_Before_Import

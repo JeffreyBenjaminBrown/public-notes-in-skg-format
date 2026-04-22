@@ -1,0 +1,6 @@
+title: '"terminating" the instance'
+pid: 29b5beb9-bb03-4f2f-8355-6eb7a6a96263
+body: |2-
+  Deletes all contents.
+  Stops all charges.
+  Is not instantaneous.

@@ -1,0 +1,9 @@
+title: command to run
+pid: 11e74359-f59c-4f79-9585-19476ca4899c
+body: |2-
+  For speed, maybe use the AWS EC2 CLI.
+  See my of/ec2 folder for current definitions of the .pem file and the IP address for the remote host.
+
+  scp [options] source.. host
+  scp  -i  ~/code/aws/secret/2021-03-24.pem  ubuntu@34.204.60.103://home/ubuntu/amazon.zip .
+  scp  -i  ~/code/aws/secret/2021-03-24.pem  ../data/many_tiny ec2-user@34.204.60.103://home/ec2-user

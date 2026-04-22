@@ -1,0 +1,4 @@
+title: Rebuild my profiles (BEFORE collecting garbage!)
+pid: 98da086d-ad28-4855-a7e5-fe218e11ed51
+body: |2-
+  ~/nix/jbb/bash/rebuild-branches.sh

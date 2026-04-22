@@ -1,0 +1,5 @@
+title: start like this
+pid: 76200715-2f47-4ed6-9d68-2fcef8766639
+body: |2-
+  a=0.3 # controls the angle of rotation
+  convert affine.png -affine 1,-$a,$a,1,0,0 -transform out.png

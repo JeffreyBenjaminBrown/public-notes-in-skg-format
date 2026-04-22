@@ -1,0 +1,4 @@
+title: '"Object" is the base class.'
+pid: e33ceb76-8850-4743-9426-c363f7e95d18
+body: |2-
+  Anything without an explicit base class inherits from it.

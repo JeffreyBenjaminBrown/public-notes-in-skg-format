@@ -1,0 +1,4 @@
+title: nix-env installations are permanent
+pid: 7ffde39c-8ee2-4a87-bd29-505a72a9ea4c
+body: |2-
+  I installed some things (libuv and libmonome) via `nix-env -f ~/nix/nixpkgs -iA <package name>`. They still work after rebuilding.

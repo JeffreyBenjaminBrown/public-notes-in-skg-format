@@ -1,0 +1,8 @@
+title: TODO step' is like a sequencer
+pid: 44c1db0a-c535-47d9-90a0-39175c08090c
+body: |2-
+     This uses 0 to indicate superpiano, 1 for supermandolin.
+  #+BEGIN_SRC haskell
+    d1 $ s (step ["superpiano","supermandolin"] "0 1 000 1")
+         |* sustain 4 # n 0
+  #+END_SRC

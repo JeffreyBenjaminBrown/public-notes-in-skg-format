@@ -1,0 +1,6 @@
+title: 'orgnode metadata: include source repo'
+pid: d454d269-c828-4cff-adb5-5c72ce8a68b1
+body: |2-
+  Used for display in Emacs,
+  but ignored by Rust when Emacs sends the buffer back,
+  instead computed anew.

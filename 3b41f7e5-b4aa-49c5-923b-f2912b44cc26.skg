@@ -1,0 +1,6 @@
+title: polyphonic distortion in Tidal
+pid: 3b41f7e5-b4aa-49c5-923b-f2912b44cc26
+body: |2-
+  Probably [[id:d41a981f-1a73-44bf-85fb-f5a80d72bea3][the bus solution]] will do it.
+  But see also
+    /home/jeff/code/music/Tidal/distort-a-sum.tidal-SC

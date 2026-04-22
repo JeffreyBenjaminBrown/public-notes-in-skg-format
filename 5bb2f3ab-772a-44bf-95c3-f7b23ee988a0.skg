@@ -1,0 +1,5 @@
+title: 'superimpose :: (Pattern a -> Pattern a) -> Pattern a -> Pattern a'
+pid: 5bb2f3ab-772a-44bf-95c3-f7b23ee988a0
+contains:
+- 67a8ec9f-3565-4fe6-9f9a-f27ed9dab644
+- cbbb3ad6-d5d5-4ffa-931d-07d6511f2744

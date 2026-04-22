@@ -1,0 +1,5 @@
+title: Install some things in top-level Termux.
+pid: 30966aac-ec59-4788-af40-edf158117d44
+body: |2-
+  I think running this gets them all.
+  pkg install emacs sqlite curl ripgrep git

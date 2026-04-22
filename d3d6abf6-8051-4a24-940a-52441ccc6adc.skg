@@ -1,0 +1,7 @@
+title: if the `builtin-plugins` link breaks
+pid: d3d6abf6-8051-4a24-940a-52441ccc6adc
+body: |2-
+  run
+    ls -l $(which scide)
+  to find the latest location of scide,
+  and then replace bin/scide -> lib/SuperCollider

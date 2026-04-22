@@ -1,0 +1,15 @@
+title: 'mod 1 space 10: span 7, octave (12,-2), great 4:5:6:7:8'
+pid: 35ebee7e-c0cb-45d2-a8b0-6f67b3f70b01
+body: |2-
+  --  5 steps = 33 % 32:  string  0 fret  5 (  5,  508,-24.25)
+  -- 10 steps = 17 % 16:  string  1 fret  0 ( 10, 1017,-32.60)
+  -- 29 steps = 19 % 16:  string  3 fret -1 ( 29, 2949,-25.97)
+  -- 38 steps = 5 % 4:    string  4 fret -2 ( 38, 3864,  1.26)
+  -- 54 steps = 11 % 8:   string  5 fret  4 ( 54, 5492,-21.65)
+  -- 62 steps = 23 % 16:  string  6 fret  2 ( 62, 6305, 22.34)
+  -- 69 steps = 3 % 2:    string  7 fret -1 ( 69, 7017, -2.60)
+  -- 83 steps = 13 % 8:   string  8 fret  3 ( 83, 8441, 35.40)
+  -- 95 steps = 7 % 4:    string  9 fret  5 ( 95, 9661,-27.24)
+  -- 101 steps = 29 % 16: string 10 fret  1 (101,10271,-24.58)
+  -- 113 steps = 31 % 16: string 11 fret  3 (113,11492, 41.16)
+  -- 118 steps = 2 % 1:   string 12 fret -2

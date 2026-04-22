@@ -1,0 +1,12 @@
+title: Path to sustainability
+pid: 0c609519-c212-4b6c-96f1-ce6726e4c533
+body: |2-
+  Shyg is sustainable if and when people find it sufficiently valuable to keep using it. If it gains widespread adoption, its usefulness to epistemic institutions (law, government, journalism, academia) will, I believe, guarantee funding for what little changes are needed. Getting to that point will require convincing people to try it at a small scale.
+
+  Pioneers in the aforementioned epistemic institutions will have reason to try it, because it will permit them to query their data in ways they currently cannot.
+
+  Productivity enthusiasts who already use knowledge mapping software like OneNote, Notion or Roam will have similar motivation. They already keep a body of hyperlinked notes, and Shyg will enable them to get more value from it.
+
+  AI developers are interested in graphlike representations of knowledge -- see, e.g., recent developments in GraphRAG. They want data for their models, in a structure that both those models and humans can understand. The hypergraph database underlying Shyg will be even more expressive than traditional graph databases. I therefore expect interest from this camp.
+
+  Last, many ordinary internet users are so dissatisfied with traditional search and social media that they seek out alternatives. Anyone concerned with open data, data sovereignty and decentralization is an ideal target user, as Shyg plays to all three interests -- it is massively open and decentralized, but also allows people to keep separate private indices.

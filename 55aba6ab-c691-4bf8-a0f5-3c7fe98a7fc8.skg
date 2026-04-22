@@ -1,0 +1,5 @@
+title: in Cadence
+pid: 55aba6ab-c691-4bf8-a0f5-3c7fe98a7fc8
+body: |2-
+  configure sound card
+  tell it to start Jack and itself on startup

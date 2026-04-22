@@ -1,0 +1,7 @@
+title: to test unwinding in safe save
+pid: db462d1e-6ac3-4bf7-9ce6-45635e181636
+body: |2-
+  Create some git diffs onto server/**/*.rs
+  that insert exceptions in various places in the save process.
+  An integration test (has to run from outside Rust)
+  verifies that none of those exceptions causes a bad save.

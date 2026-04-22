@@ -1,0 +1,7 @@
+title: visit a file over ssh from native Emacs
+pid: 96ae75e7-f6d5-4c7f-9e5d-d246887bc588
+body: |2-
+  C-x C-f (the usual "open file" shortcut)
+  /ssh:$JBB_AWS_USER@$JBB_AWS_HOST:/home/$JBB_AWS_USER/tax.co.web/commands.sh
+contains:
+- 5e4abe31-1bf0-4f27-a076-3753108956a6

@@ -1,0 +1,6 @@
+title: for an AliasCol
+pid: 4cebda63-dc8f-4e06-b7eb-f09dc1fcdd7a
+body: |2-
+  In the output rebuild its children from scratch,
+  and don't iterate in the input into the AliasCol's children.
+  If the focus is in an alias, hand it up to the AliasCol.

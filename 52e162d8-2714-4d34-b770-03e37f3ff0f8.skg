@@ -1,0 +1,4 @@
+title: FnMut
+pid: 52e162d8-2714-4d34-b770-03e37f3ff0f8
+body: |2-
+  "applies to closures that don’t move captured values out of their body, but that might mutate the captured values. These closures can be called more than once."

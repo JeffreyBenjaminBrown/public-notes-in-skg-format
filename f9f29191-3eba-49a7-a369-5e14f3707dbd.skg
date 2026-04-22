@@ -1,0 +1,4 @@
+title: can be defined via type definitions
+pid: f9f29191-3eba-49a7-a369-5e14f3707dbd
+body: |2-
+  data List a = Nil | (::) a (List a) -- Polymorphic lists

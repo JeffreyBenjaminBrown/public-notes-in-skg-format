@@ -1,0 +1,4 @@
+title: swap 1 and 3
+pid: 6a334418-dd4c-4b88-bdbf-d2956893ffeb
+body: |2-
+  swap-window -s 3 -t 1

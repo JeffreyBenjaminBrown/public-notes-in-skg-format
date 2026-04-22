@@ -1,0 +1,8 @@
+title: under Permissions
+pid: 22068c3b-ff58-44d1-9faf-7399c0f46b3d
+body: |2-
+  Disable "block public access".
+  Add a bucket policy allowing (at least) read access.
+  See "bucket policy, read only.json"
+  in this repo for an example.
+  PITFALL: This document must re-state the domain name.

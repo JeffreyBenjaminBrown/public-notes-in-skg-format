@@ -1,0 +1,4 @@
+title: register(Name, Pid)
+pid: 8f85040a-55d9-48b5-b7e6-7e3033c028c3
+body: |2-
+  Associates the name Name, an atom, with the process Pid.

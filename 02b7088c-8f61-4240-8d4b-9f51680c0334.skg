@@ -1,0 +1,6 @@
+title: 'TODO "pitch1" : filter frequency scaling multiplier'
+pid: 02b7088c-8f61-4240-8d4b-9f51680c0334
+body: |2-
+  Useful range [0.1,4].
+  Values near 0 are wonderful, ghostly.
+  Values above 2 are very crunchy, buzzy.

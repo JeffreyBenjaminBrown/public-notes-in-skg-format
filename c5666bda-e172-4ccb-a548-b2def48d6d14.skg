@@ -1,0 +1,14 @@
+title: 'TODO mod 1 space 12: max reach 8, octave (7,0), nice 4:5:6:8'
+pid: c5666bda-e172-4ccb-a548-b2def48d6d14
+body: |2-
+   7 steps = 17 % 16: string 1 fret -5 | string 0 fret 7
+  21 steps = 19 % 16: string 2 fret -3 | string 1 fret 9
+  27 steps = 5 % 4:   string 2 fret 3
+  39 steps = 11 % 8:  string 3 fret 3
+  44 steps = 23 % 16: string 4 fret -4 | string 3 fret 8
+  49 steps = 3 % 2:   string 4 fret 1
+  59 steps = 13 % 8:  string 5 fret -1
+  68 steps = 7 % 4:   string 6 fret -4
+  72 steps = 29 % 16: string 6 fret 0
+  80 steps = 31 % 16: string 7 fret -4 | string 6 fret 8
+  84 steps = 2 % 1:   string 7 fret 0

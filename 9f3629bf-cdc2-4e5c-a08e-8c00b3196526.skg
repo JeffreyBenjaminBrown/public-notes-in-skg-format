@@ -1,0 +1,12 @@
+title: sounds best around [-24,7]
+pid: 9f3629bf-cdc2-4e5c-a08e-8c00b3196526
+body: |2-
+  #+BEGIN_SRC haskell
+  d1 $ s "supermandolin"
+    |*| accelerate (-0.1)
+    |*| slow 9 (sustain "0.5 1 2")
+    ,*| n (stack [
+             "<-24 -17 -12> <-9 -6> -5",
+             slow 2 "-9 -5 <0 12> <7 3>"
+             ] )
+  #+END_SRC

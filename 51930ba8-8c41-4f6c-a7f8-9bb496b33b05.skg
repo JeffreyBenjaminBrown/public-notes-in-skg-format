@@ -1,0 +1,4 @@
+title: document things that must be extended in tandem
+pid: 51930ba8-8c41-4f6c-a7f8-9bb496b33b05
+body: |2-
+  "If you [add constructors] here, you'll also have to modify ..."

@@ -1,0 +1,12 @@
+title: ConsoleAppTutorial.vbproj
+pid: 59cb4a5e-7eda-4184-b474-3a19ac8c7689
+body: |2-
+  <Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+      <OutputType>Exe</OutputType>
+      <RootNamespace>ConsoleAppTutorial</RootNamespace>
+      <TargetFramework>net8.0</TargetFramework>
+    </PropertyGroup>
+
+  </Project>

@@ -1,0 +1,6 @@
+title: 'TODO PITFALL: AWS-Docker compatibility'
+pid: f29cd07d-d526-414e-acf8-94cd15ab241b
+body: |2-
+  The AWS server will need to be set up just like the tax.co Docker image.
+  In particular it'll need Python 3.7.3
+  (this tutorial suggests the AWS default is 3.6).

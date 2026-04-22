@@ -1,0 +1,14 @@
+title: '99 2 15: 8 strings 6 frets for 17-lim'
+pid: 52a801fb-4be1-46f4-8916-87ce6815ec22
+body: |2-
+  [ 99 steps = 2 % 1 : string 7 fret - 3
+  , 58 steps = 3 % 2 : string 4 fret - 1
+  , 32 steps = 5 % 4 : string 2 fret 1
+  , 80 steps = 7 % 4 : string 6 fret - 5
+  , 45 steps = 11 % 8 : string 3 fret 0
+  , 69 steps = 13 % 8 : string 5 fret - 3
+  , 9 steps = 17 % 16 : string 1 fret - 3
+  , 25 steps = 19 % 16 : string 1 fret 5
+  , 52 steps = 23 % 16 : string 2 fret 11
+  , 85 steps = 29 % 16 : string 5 fret 5
+  , 94 steps = 31 % 16 : string 6 fret 2

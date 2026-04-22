@@ -1,0 +1,6 @@
+title: the idea
+pid: 1957781f-2937-46c5-b17a-af71b9209893
+body: |2-
+  A heading can be marked save-terminal,
+  whereupon modifications to its view-content
+  will not affect its tree-content.

@@ -1,0 +1,4 @@
+title: add-text-properties start end props
+pid: 5849e4fd-3194-4b45-90b2-28d89173c2be
+body: |2-
+  Clobbers any earlier values under those props, but not others.

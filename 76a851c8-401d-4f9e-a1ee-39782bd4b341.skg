@@ -1,0 +1,4 @@
+title: preserve frames when following link
+pid: 76a851c8-401d-4f9e-a1ee-39782bd4b341
+body: |2-
+  Splitting a buffer and then following a link should let you visit only from that view, not both.

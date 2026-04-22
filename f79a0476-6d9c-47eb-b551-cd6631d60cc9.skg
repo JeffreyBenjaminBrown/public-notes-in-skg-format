@@ -1,0 +1,4 @@
+title: run a command on a db (with the code "inline")
+pid: f79a0476-6d9c-47eb-b551-cd6631d60cc9
+body: |2-
+  sqlite3 numismatist.db 'select * from coins'

@@ -1,0 +1,10 @@
+title: syntax example
+pid: ee4a944f-3b3e-4a53-ac1a-156af4d43a8c
+body: |2-
+  var c, python, java bool
+  var i, j = 1, 2
+
+  func main() {
+       var k int
+       q := "nerp"
+       ...

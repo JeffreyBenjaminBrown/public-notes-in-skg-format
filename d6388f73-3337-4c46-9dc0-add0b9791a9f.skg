@@ -1,0 +1,6 @@
+title: To get an error when TypeScript produces an any
+pid: d6388f73-3337-4c46-9dc0-add0b9791a9f
+body: |2-
+  use "noImplicitAny": true,
+  or "strict": true
+  in tsconfig.json

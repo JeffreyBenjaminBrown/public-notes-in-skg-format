@@ -1,0 +1,5 @@
+title: Tap the signal chain at multiple places.
+pid: 5932c3db-83a5-41dc-a83e-58adbf63d21a
+body: |2-
+  So far, the end is very different from the beginning,
+  and tapping right after the filters before the limiter can cause shrieks.

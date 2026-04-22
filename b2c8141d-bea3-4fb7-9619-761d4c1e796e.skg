@@ -1,0 +1,22 @@
+title: test.py
+pid: b2c8141d-bea3-4fb7-9619-761d4c1e796e
+body: |2-
+  import unittest
+  import unittest.mock as mock
+
+  import lib
+
+  class Test_Mocks (unittest.TestCase):
+
+    @mock.patch ( 'lib.math' )
+      # PITFALL: Notice that we don't mock `math`
+      # per se; we mock `math` in the `lib` namespace.
+      # Were we mocking instead, say, `os.getcwd`.
+    @mock.patch ( 'lib.print' )
+      # PITFALL: This is how to mock a builtin like `print`.
+    def test_mocks ( self, mock_print, mock_math ):
+        # PITFALL: The order of these mock arguments must be the reverse
+        # of the order of the corresponding decorators.
+      lib.destroy ( "the moon" )
+      mock_math . pow . assert_called_with ( 2, 3 )
+      mock_print . assert_called_with ( "Destroying the moon." )

@@ -1,0 +1,4 @@
+title: 'SPC or RET or TAB : Open current item (in Emacs) if it is a file.'
+pid: b8cd576e-31ae-4b6d-afdb-92d2b245f190
+body: |2-
+  Fold/Unfold current item if it is a directory.

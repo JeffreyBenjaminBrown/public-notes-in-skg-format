@@ -1,0 +1,7 @@
+title: saving should send from Emacs to Rust, and then Rust should return a new document
+pid: e707ded7-ff36-41cf-8ae1-672ab78e30d4
+contains:
+- bc0791e3-d27f-45d8-abab-b34cc75f609b
+- 86f51a3f-c77f-4184-b9a1-c49d1a41942f
+misc:
+- Had_ID_Before_Import

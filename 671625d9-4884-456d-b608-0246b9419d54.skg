@@ -1,0 +1,5 @@
+title: 'event name : SQL Symphony Concert'
+pid: 671625d9-4884-456d-b608-0246b9419d54
+body: |2-
+  select distinct event_name
+  from facebook_event_checkin

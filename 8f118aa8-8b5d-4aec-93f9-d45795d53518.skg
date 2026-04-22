@@ -1,0 +1,11 @@
+title: 'example: treating a Celsius value as if it were Farenheit'
+pid: 8f118aa8-8b5d-4aec-93f9-d45795d53518
+body: |2-
+  _celsius :: Something -> Float
+  celsius :: Lens' Something Float
+
+  fahrenheit :: Lens' Something Float
+  fahrenheit = lens getter setter
+    where
+      getter = celsiusToFahrenheit . view celsius
+      setter temp f = set celsius (fahrenheitToCelsius f) temp

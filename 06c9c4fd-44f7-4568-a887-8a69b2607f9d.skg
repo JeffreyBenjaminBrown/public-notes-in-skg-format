@@ -1,0 +1,7 @@
+title: an example
+pid: 06c9c4fd-44f7-4568-a887-8a69b2607f9d
+body: |2-
+  *Record> { firstName := "Jim" } fred
+  MkPerson "Jim" "Joe" "Bloggs" 30 : Person
+  *Record> { firstName := "Jim", age $= (+ 1) } fred
+  MkPerson "Jim" "Joe" "Bloggs" 31 : Person

@@ -1,0 +1,4 @@
+title: Negated variables are unuseable in the "then" clause.
+pid: 9dbcc915-ef55-40e6-9ef7-9181807a7468
+body: |2-
+  "The then clause of a rule must not insert any instance which occurs negated in its when clause or in the when clause of any rule it may trigger. Attempting to define such a rule will throw an error."

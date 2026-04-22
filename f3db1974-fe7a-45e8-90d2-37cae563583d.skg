@@ -1,0 +1,6 @@
+title: 'randslice n : choose one of n slices randomly'
+pid: f3db1974-fe7a-45e8-90d2-37cae563583d
+body: |2-
+  #+begin_src haskell
+    d1 $ randslice 16 $ sound "numbers*64" |* n (irand 10)
+  #+end_src

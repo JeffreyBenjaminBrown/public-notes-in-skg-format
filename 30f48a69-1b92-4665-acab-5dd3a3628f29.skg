@@ -1,0 +1,5 @@
+title: check if the machine uses UEFI
+pid: 30f48a69-1b92-4665-acab-5dd3a3628f29
+body: |2-
+  ls /sys/firmware/efi
+  If that's present, it uses UEFI.

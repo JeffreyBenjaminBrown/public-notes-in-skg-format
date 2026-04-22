@@ -1,0 +1,12 @@
+title: our domain
+pid: 143f80c9-9079-4204-9bb7-ad50bf8fb4af
+body: |2-
+  #+BEGIN_SRC haskell
+  module Domain where
+
+  data OurOwnFoo = OurOwnFoo {..}
+
+  data OurOwnFooLib = OurOwnFooLib
+    {ourOwnBar :: OurOwnFoo -> WhatBarReturns,
+     ourOwnBaz :: OurOwnFoo -> WhatBazReturns}
+  #+END_SRC

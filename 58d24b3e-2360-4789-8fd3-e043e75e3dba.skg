@@ -1,0 +1,17 @@
+title: How I "solved" it
+pid: 58d24b3e-2360-4789-8fd3-e043e75e3dba
+body: |2-
+  After rebooting (and more -- see next paragraph),
+  `konsolerc` reflected the changes I'd been trying to make.
+
+  I may have saved those changes
+  (taking care not to open another Konsole instance)
+  before rebooting. If not,
+  I must have effectuated the change through the GUI somehow.
+  Probably by either
+  (1) creating a new profile,
+      setting its color scheme,
+      switching to it, and making it the default one, or
+  (2) "editing the current profile" while it's the default,
+      and saving. (You can't edit the default profile,
+      so attempting to do so creates a new one.)

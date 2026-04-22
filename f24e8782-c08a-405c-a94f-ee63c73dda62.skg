@@ -1,0 +1,7 @@
+title: Positional substitution is to avoid clobbering column names.
+pid: f24e8782-c08a-405c-a94f-ee63c73dda62
+body: |2-
+  example
+contains:
+- 2053fbeb-7e28-4611-960c-d7cb2e7caa6b
+- c3557ccb-43ad-42aa-9941-1f6fcf6aff16

@@ -1,0 +1,6 @@
+title: DONE ensure these are installed in the Docker container
+pid: 255e92f5-a6ea-4e7b-9acf-0ab550bd5619
+contains:
+- ca5ec72d-e223-435b-8e69-c52a2e958ca6
+- 13fb4e73-e63a-4c25-8c59-73339fc6a480
+- 685091bd-c54e-405b-8276-198ce3fd2732

@@ -1,0 +1,11 @@
+title: feasibility
+pid: 1aced678-ca00-4f07-9890-708584914048
+body: |2-
+  Every major part of Shyg's architecture will be a preexisting technology. The first subsection, [[id:604eaacb-6780-441b-b1c7-6a3bc86660fe][well-established tech to draw on]], describes these. But there are some questions I have not yet solved regarding how to use those components, which I turn to in the last two subsections: [[id:162f5f0e-75eb-48da-9ad6-12dd142b35f3][unsolved and important problems]] and [[id:cb99c336-a5cf-450a-96d5-026d54020c08][unsolved optional problems]]. The hardest of these regard sharing: jointly determining what to index, distributing the index among users, and cooperating to process queries.
+contains:
+- 604eaacb-6780-441b-b1c7-6a3bc86660fe
+- 162f5f0e-75eb-48da-9ad6-12dd142b35f3
+- cb99c336-a5cf-450a-96d5-026d54020c08
+- 2962f354-7afb-4541-88d3-9d7aa4f7ae27
+misc:
+- Had_ID_Before_Import

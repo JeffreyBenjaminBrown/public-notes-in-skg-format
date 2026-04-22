@@ -1,0 +1,6 @@
+title: TODO Claude should automatically add backlinks to its view of anything with an ID, inserting them as a 'backlinks' child.
+pid: 64cffb22-5910-4ea3-983b-be71303c2756
+body: |2-
+  Claude should do this with a script, not "manually".
+contains:
+- d98ae0d6-b587-466a-bff5-1e19d476bed6

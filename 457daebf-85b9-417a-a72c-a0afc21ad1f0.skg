@@ -1,0 +1,5 @@
+title: Private additional notes on a topic ought to explain how to modify the public view of it.
+pid: 457daebf-85b9-417a-a72c-a0afc21ad1f0
+body: |2-
+  This way the public view would not need to be cluttered with (potentially suspicion-inducing) links to private notes.
+  But in this case changes to the public note become more difficult to integrate into one's mixed public-private view of it. For instance, what if your view includes a private grandchild and they remove its grandparent? Maybe they accounted well for all the other contents of the change but not yours. You ought to be able to see that their change affects private nodes they could not have taken into consideration. That said, their change is likely to suggest a way to resituate the orphaned private node.

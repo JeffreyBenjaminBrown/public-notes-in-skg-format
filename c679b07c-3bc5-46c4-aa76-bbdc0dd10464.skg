@@ -1,0 +1,7 @@
+title: fix backlinnks when merging
+pid: c679b07c-3bc5-46c4-aa76-bbdc0dd10464
+body: |2-
+  when merging n into m,
+  change all links to n into links to m
+misc:
+- Had_ID_Before_Import

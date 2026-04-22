@@ -1,0 +1,5 @@
+title: use `aconnect` to connect the MIDI input to ALSA.
+pid: 95a84f9a-e876-46dd-bc0c-5945103850b4
+contains:
+- fca48ab8-8fcb-4882-b274-5cefbba8fbdd
+- 0b7cc224-cb9f-4278-9db0-05ff35bfe96c

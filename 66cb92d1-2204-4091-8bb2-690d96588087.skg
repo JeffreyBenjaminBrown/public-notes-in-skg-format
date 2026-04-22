@@ -1,0 +1,12 @@
+title: find the mic
+pid: 66cb92d1-2204-4091-8bb2-690d96588087
+body: |2-
+  Run this
+    arecord -l
+  and it will show something like
+    **** List of CAPTURE Hardware Devices ****
+    card 0: PCH [HDA Intel PCH], device 0: ALC3246 Analog [ALC3246 Analog]
+      Subdevices: 1/1
+      Subdevice #0: subdevice #0
+  Refer to such devices as "hw:x,y", where x is the card number,
+  and y the device number.

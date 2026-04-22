@@ -1,0 +1,4 @@
+title: 'PITFALL : sustain: pitch mismatch'
+pid: 9d8eee68-5317-42e1-b576-5afb496c03e4
+body: |2-
+  A short value can make sense for high notes yet sound totally wrong for low ones.

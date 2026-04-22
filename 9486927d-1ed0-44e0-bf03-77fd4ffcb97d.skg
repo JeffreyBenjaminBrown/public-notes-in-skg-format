@@ -1,0 +1,19 @@
+title: 'TODO 10\63 x 3\63: all the good intervals, 6x8'
+pid: 9486927d-1ed0-44e0-bf03-77fd4ffcb97d
+body: |2-
+  6x6 without 11:8
+  0 steps; 1 % 1 ; string 0 ; fret 0
+  63 steps; 2 % 1 ; string 6 ; fret 1
+  37 steps; 3 % 2 ; string 4 ; fret - 1
+  20 steps; 5 % 4 ; string 2 ; fret 0
+  51 steps; 7 % 4 ; string 6 ; fret - 3
+  11 steps; 9 % 8 ; string 2 ; fret - 3
+  29 steps; 11 % 8 ; string 2 ; fret 3
+  44 steps; 13 % 8 ; string 5 ; fret - 2
+  57 steps; 15 % 8 ; string 6 ; fret - 1
+  25 steps; 21 % 16 ; string 4 ; fret - 5
+  33 steps; 23 % 16 ; string 3 ; fret 1
+  41 steps; 25 % 16 ; string 5 ; fret - 3
+  48 steps; 27 % 16 ; string 6 ; fret - 4
+  54 steps; 29 % 16 ; string 6 ; fret - 2
+  60 steps; 31 % 16 ; string 6 ; fret 0

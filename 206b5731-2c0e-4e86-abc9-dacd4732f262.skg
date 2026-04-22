@@ -1,0 +1,17 @@
+title: commands I would use
+pid: 206b5731-2c0e-4e86-abc9-dacd4732f262
+body: |2-
+  outline-cycle
+  (keymap-local-set (kbd "C-c @ ") 'outline-cycle)
+  outline-cycle-buffer
+  outline-promote (C-c @ C-<)
+  outline-demote (C-c @ C->)
+  outline-hide-other (C-c @ C-o) ;; where is this in org-mode?
+  outline-move-subtree-down (C-c @ C-v)
+  outline-move-subtree-up (C-c @ C-^)
+  outline-next-visible-heading (C-c @ C-n)
+  outline-previous-visible-heading (C-c @ C-p)
+  outline-insert-heading (C-c RET)
+  outline-mark-subtree (C-c @ @)
+  outline-show-all (C-c @ C-a)
+  outline-up-heading (C-c @ C-u)

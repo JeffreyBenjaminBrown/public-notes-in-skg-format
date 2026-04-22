@@ -1,0 +1,7 @@
+title: t' = gamma (t - vx / c^2)
+pid: 0310ef3d-e523-48b0-93aa-4c6c05924539
+body: |2-
+  = (t - vx / c^2) / sqrt ( 1 - v^2 / c^2 )
+contains:
+- 657b2791-2180-4865-bcf4-15916e977215
+- 15a1c237-2645-40a9-ac9a-7e3fc405834e

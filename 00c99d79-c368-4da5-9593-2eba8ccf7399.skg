@@ -1,0 +1,4 @@
+title: 'PITFALL: Comparison works across types.'
+pid: 00c99d79-c368-4da5-9593-2eba8ccf7399
+body: |2-
+  number < atom < reference < fun < port < pid < tuple < list < bit string

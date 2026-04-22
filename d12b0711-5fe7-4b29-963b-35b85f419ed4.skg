@@ -1,0 +1,10 @@
+title: 'need to accomplish: [high-level goal]'
+pid: d12b0711-5fe7-4b29-963b-35b85f419ed4
+body: |2-
+  Your task:
+  1. Analyze what would make the PERFECT prompt for this goal
+  2. Consider: specificity, context, constraints, output format, examples needed
+  3. Write that perfect prompt
+  4. Then execute it and provide the output
+
+  [GOAL]: [your actual objective

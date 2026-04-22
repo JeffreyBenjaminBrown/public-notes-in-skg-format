@@ -1,0 +1,14 @@
+title: there are five "boards", each described like this
+pid: aa1af19b-b84e-434d-bcd6-60028adf0e44
+body: |2-
+  [Board0]
+  Key_0=0
+  Chan_0=0
+  Col_0=ff46d367
+  Key_1=3
+  Chan_1=1
+  Col_1=ff46d367
+  ...
+  Key_55=28
+  Chan_55=1
+  Col_55=ff12dfe3

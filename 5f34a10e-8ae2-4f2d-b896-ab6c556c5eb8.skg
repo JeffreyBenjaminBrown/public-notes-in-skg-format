@@ -1,0 +1,13 @@
+title: 'ghostscript: works!'
+pid: 5f34a10e-8ae2-4f2d-b896-ab6c556c5eb8
+body: |2-
+  gs \
+   -dAutoRotatePages=/None \
+   -sOutputFile=gray/output.pdf \
+   -sDEVICE=pdfwrite \
+   -sColorConversionStrategy=Gray \
+   -dProcessColorModel=/DeviceGray \
+   -dCompatibilityLevel=1.4 \
+   -dNOPAUSE \
+   -dBATCH \
+   input.pdf

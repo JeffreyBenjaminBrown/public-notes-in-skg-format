@@ -1,0 +1,12 @@
+title: function-local type definitions
+pid: 894ec23d-2122-4461-b4ed-da96b54e1b2d
+body: |2-
+  foo : Int -> Int
+  foo x = case isLT of
+              Yes => x*2
+              No => x*4
+      where
+         data MyLT = Yes | No
+
+         isLT : MyLT
+         isLT = if x < 20 then Yes else No

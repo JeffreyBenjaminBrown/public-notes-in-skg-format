@@ -1,0 +1,13 @@
+title: it
+pid: d7e0c0da-f8ca-45ad-be2b-874fda97f37a
+body: |2-
+  rule add-view-permission:
+      when {
+          $modify isa action, has name "modify_file";
+          $view isa action, has name "view_file";
+          $ac_modify (object: $obj, action: $modify) isa access;
+          $ac_view (object: $obj, action: $view) isa access;
+          (subject: $subj, access: $ac_modify) isa permission;
+      } then {
+          (subject: $subj, access: $ac_view) isa permission;
+      };

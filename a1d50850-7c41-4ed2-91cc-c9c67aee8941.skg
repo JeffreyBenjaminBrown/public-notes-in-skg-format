@@ -1,0 +1,9 @@
+title: query optimization
+pid: a1d50850-7c41-4ed2-91cc-c9c67aee8941
+body: |2-
+  There are more techniques, see "Developing a Query" at
+  https://typedb.com/docs/typedb/2.x/development/best
+contains:
+- a9737a73-b05b-47d6-973a-db80b23b93dd
+- 2ddda857-6ca3-47b1-b709-614ba236463f
+- bc2eac31-e5b6-40fe-b9ea-fbee1b9ddb16

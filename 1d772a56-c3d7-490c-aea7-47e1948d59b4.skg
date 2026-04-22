@@ -1,0 +1,5 @@
+title: ref
+pid: 1d772a56-c3d7-490c-aea7-47e1948d59b4
+body: |2-
+  See " Attach an IAM role to an instance" here:
+  https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/iam-roles-for-amazon-ec2.html

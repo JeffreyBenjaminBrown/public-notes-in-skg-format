@@ -1,0 +1,5 @@
+title: TODO check for cycles when a tplt is declared transitive
+pid: b5e5495c-00c4-4e71-8748-9c5e252c9cf4
+body: |2-
+  Check for cycles non-locally --
+  that is, with reference to no particular point in the cycle.

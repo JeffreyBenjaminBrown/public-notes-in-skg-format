@@ -1,0 +1,9 @@
+title: collect hidden
+pid: bfb2888b-347d-4d2e-a376-20453c60f77d
+body: |2-
+  Recurse into R's definitive subscribees.
+  For any such subcsribee E,
+  make a list C of IDs of its non-ignored content children.
+  Subtract from C any ID not in E's content on disk.
+  Everything E contains on disk that is absent from C
+  should be hidden from R.

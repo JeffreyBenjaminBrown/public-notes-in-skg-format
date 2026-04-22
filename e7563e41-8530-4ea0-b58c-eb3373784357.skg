@@ -1,0 +1,19 @@
+title: user-defined types
+pid: e7563e41-8530-4ea0-b58c-eb3373784357
+body: |2-
+  Module Program
+
+    Public Structure XY
+      Public x As Integer
+      Public y As Integer
+    End Structure
+
+    Sub Main(args As String())
+       Dim xy As XY
+       xy.x = 111
+       xy.y = 124
+       Console.Write(xy.y)
+       Console.Write("done")
+    End Sub
+
+  End Module

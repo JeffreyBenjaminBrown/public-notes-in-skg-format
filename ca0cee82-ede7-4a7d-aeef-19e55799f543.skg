@@ -1,0 +1,5 @@
+title: move 0 1 makes sense, even though it's confusing.
+pid: ca0cee82-ede7-4a7d-aeef-19e55799f543
+body: |2-
+  For instance, it would change
+  F lydian to F# locrian.

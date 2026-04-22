@@ -1,0 +1,6 @@
+title: '"Dim" is used to ... allocate memory?'
+pid: e97260ba-3ec5-4dc5-b14e-7d0bbb29062c
+body: |2-
+  It is used for ints and floats, but also lists.
+misc:
+- Had_ID_Before_Import

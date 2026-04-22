@@ -1,0 +1,6 @@
+title: a restatement
+pid: e139732a-3df3-47b8-acde-472b1cf4fc7f
+body: |2-
+  node = {inline as whole expression : bool,
+          ...},
+  = whether to inline a node as a whole readable expression, or break it across lines

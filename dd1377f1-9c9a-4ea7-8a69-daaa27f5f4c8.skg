@@ -1,0 +1,5 @@
+title: BETWEEN works for strings, not just numbers.
+pid: dd1377f1-9c9a-4ea7-8a69-daaa27f5f4c8
+contains:
+- 39ee4989-ab49-44c6-a521-56dcfa98f8ad
+- 8bb34cab-8507-4745-a8c9-a89884b6e244

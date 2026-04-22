@@ -1,0 +1,11 @@
+title: traverseOf traversed = traverse
+pid: fa1aec7e-2b06-4fa3-b34b-af69d4b6aec6
+body: |2-
+  "Since the traversed traversal focuses every element of a traversable container, if we run traverseOf with traversed we end up with identical behaviour to the traverse function"
+
+  >>> :t traverse
+  traverse :: (Traversable t, Applicative f)
+           => (a -> f b) -> t a -> f (t b)
+  >>> :t traverseOf traversed
+  traverseOf traversed :: (Traversable t, Applicative f)
+           => (a -> f b) -> t a -> f (t b)

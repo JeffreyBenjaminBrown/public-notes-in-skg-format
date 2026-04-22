@@ -1,0 +1,11 @@
+title: some examples of commit edit commands
+pid: d3cc91b1-bb52-49d9-b435-4cc835495270
+body: |2-
+    git commit --amend -m "did a cool thing" --no-edit
+  will change the commit message,
+    git commit --amend --author="James Brown <get@down.com>" --no-edit
+  will change the author of the commit,
+    git commit --amend --date="Wed Feb 16 14:00 2011 +0100" --no-edit
+  will change the date of the commit.
+misc:
+- Had_ID_Before_Import

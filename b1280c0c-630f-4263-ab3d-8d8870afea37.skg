@@ -1,0 +1,6 @@
+title: Reads that "should" be identical can differ.
+pid: b1280c0c-630f-4263-ab3d-8d8870afea37
+body: |2-
+  both due to sequencing error, and because of polyploidy --
+  the fact that sexual species contain two not-quite copies of each chromosome,
+  one from either parent.

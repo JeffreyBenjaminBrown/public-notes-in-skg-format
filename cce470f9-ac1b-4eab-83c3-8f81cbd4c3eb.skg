@@ -1,0 +1,5 @@
+title: 'ambiguous:a ##b #c $$d e'
+pid: cce470f9-ac1b-4eab-83c3-8f81cbd4c3eb
+body: |2-
+  The #c does not separate the two two-special-char rels,
+  but rather would be claimed by one of them.

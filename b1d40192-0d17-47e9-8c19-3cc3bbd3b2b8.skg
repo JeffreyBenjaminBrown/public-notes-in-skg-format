@@ -1,0 +1,18 @@
+title: 'syntax: using them all together'
+pid: b1d40192-0d17-47e9-8c19-3cc3bbd3b2b8
+body: |2-
+  #+begin_src rust
+  use std::fmt::Display;
+
+  fn longest_with_an_announcement<'a, T>(
+      x: &'a str,
+      y: &'a str,
+      ann: T,
+  ) -> &'a str
+  where
+      T: Display,
+  {
+      println!("Announcement! {ann}");
+      if x.len() > y.len() { x } else { y }
+  }
+  #+end_src

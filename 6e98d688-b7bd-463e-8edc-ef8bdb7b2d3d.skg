@@ -1,0 +1,10 @@
+title: then see what these evaluate to
+pid: 6e98d688-b7bd-463e-8edc-ef8bdb7b2d3d
+body: |2-
+  exceptions:black_knight( fun() -> "Hello." end ).
+  exceptions:black_knight( fun() -> throw(a) end ).
+  exceptions:black_knight( fun() -> error(b) end ).
+  exceptions:black_knight( fun() -> exit(c) end ).
+  exceptions:black_knight( fun() -> throw(yikes) end ).
+  exceptions:black_knight( fun() -> error(yikes) end ).
+  exceptions:black_knight( fun() -> exit(yikes) end ).

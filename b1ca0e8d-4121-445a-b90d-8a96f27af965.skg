@@ -1,0 +1,7 @@
+title: the idea
+pid: b1ca0e8d-4121-445a-b90d-8a96f27af965
+body: |2-
+  Toggle the "mono the last voice" setting.
+  Now every note changes its pitch.
+  Turning off the setting makes it end unless it's still fingered
+  (at its most recent pitch).

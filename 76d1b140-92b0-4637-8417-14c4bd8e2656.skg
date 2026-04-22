@@ -1,0 +1,8 @@
+title: 'waveloss : discard some of the wave'
+pid: 76d1b140-92b0-4637-8417-14c4bd8e2656
+body: |2-
+  Silence some fraction of the sections of the wave,
+  which are defined by 0-crossings.
+contains:
+- 78ac540d-c852-43da-b674-b8d980a70f50
+- 340d0ff7-97ee-44fa-a37c-bd3655c79f62

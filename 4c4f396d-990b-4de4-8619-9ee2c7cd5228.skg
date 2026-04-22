@@ -1,0 +1,10 @@
+title: battery
+pid: 4c4f396d-990b-4de4-8619-9ee2c7cd5228
+contains:
+- b736de75-e4cc-4390-a12b-85b13dd3ad3b
+- f2b97855-0e8a-4a80-9f38-8016371053c9
+- feee18f6-3917-4598-817c-f8d24b5f4327
+- ff8f6f57-22c4-4634-83e9-70534c2576f1
+- 72301831-bab4-4f73-b474-1ffd2098ddba
+misc:
+- Had_ID_Before_Import

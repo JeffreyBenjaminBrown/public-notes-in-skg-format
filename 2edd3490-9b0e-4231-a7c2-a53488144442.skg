@@ -1,0 +1,5 @@
+title: (Adding to | modifying) a map is familiar, via [] and =
+pid: 2edd3490-9b0e-4231-a7c2-a53488144442
+body: |2-
+  like Python
+  myMap[key] = value

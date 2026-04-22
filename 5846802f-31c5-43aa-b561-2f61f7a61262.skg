@@ -1,0 +1,23 @@
+title: 'Global method (system-wide, persistent):'
+pid: 5846802f-31c5-43aa-b561-2f61f7a61262
+body: |2-
+  Tell Docker to stop using 172.18.0.0/16 globally by editing or creating this file:
+
+  /etc/docker/daemon.json
+
+  And adding:
+
+  {
+    "default-address-pools": [
+      {
+        "base": "172.31.0.0/16",
+        "size": 24
+      }
+    ]
+  }
+
+  Then restart Docker:
+
+  sudo systemctl restart docker
+
+      This changes the default subnet for all future Docker networks, across all projects. Existing networks stay as they are unless recreated.

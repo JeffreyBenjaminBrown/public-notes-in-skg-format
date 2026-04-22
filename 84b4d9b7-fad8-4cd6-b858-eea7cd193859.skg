@@ -1,0 +1,6 @@
+title: unbind a value with `makunbound`
+pid: 84b4d9b7-fad8-4cd6-b858-eea7cd193859
+body: |2-
+  tag : delete
+contains:
+- b5dc904d-6bde-4696-b09f-016732b70258

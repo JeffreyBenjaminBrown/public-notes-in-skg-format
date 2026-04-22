@@ -1,0 +1,7 @@
+title: works at least for this value of numismatist.sql
+pid: 24aea3ee-226c-49bd-8629-69904bbed8f3
+body: |2-
+  BEGIN TRANSACTION;
+  Create Table coins( ... );
+  Insert into coins values(...);
+  COMMIT;

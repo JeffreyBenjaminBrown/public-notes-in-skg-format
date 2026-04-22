@@ -1,0 +1,5 @@
+title: Skg is more general -- data can overlap and cycle.
+pid: 4632bdd4-415b-4999-a67a-36a64c887356
+contains:
+- 1ce87007-fc21-4891-9947-332246182faa
+- e0006f5b-478e-4995-91ba-7df3db32319e

@@ -1,0 +1,6 @@
+title: the idea
+pid: 3e083b03-8f39-403c-8cf0-82031733489a
+body: |2-
+  If the repo is encoded with keyfiles,
+  then it can only be used by someone with the keys,
+  and with the *passphrase to use those keys*.

@@ -1,0 +1,7 @@
+title: view a readable diff of two csv files
+pid: ca365bb0-a7f0-4644-8ec0-ccd1023bc07e
+body: |2-
+  csv-diff file file2 --key="field-name"
+  (This is installed in the Docker image.)
+contains:
+- 92ec4ecc-c3c3-41ee-92f6-661b75ea0cbb

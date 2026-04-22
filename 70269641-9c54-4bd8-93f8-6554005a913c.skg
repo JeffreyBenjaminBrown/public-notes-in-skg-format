@@ -1,0 +1,7 @@
+title: configure Git so Emacs is the default editor
+pid: 70269641-9c54-4bd8-93f8-6554005a913c
+body: |2-
+  git config --global core.editor "emacs -nw"
+    # -nw: use Emacs at the command line (not via the gui)
+misc:
+- Had_ID_Before_Import

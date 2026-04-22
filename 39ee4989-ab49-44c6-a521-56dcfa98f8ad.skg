@@ -1,0 +1,6 @@
+title: The tutorial gave this example.
+pid: 39ee4989-ab49-44c6-a521-56dcfa98f8ad
+body: |2-
+  SELECT DISTINCT city
+  FROM crime_scene_report
+  WHERE city BETWEEN 'W%' AND 'Z%';

@@ -1,0 +1,8 @@
+title: overview
+pid: 4ca07685-5373-4c72-873d-7c643c1d22e9
+body: |2-
+  Don't read CSV directly from Javascript --
+  I don't think it has permission.
+  Unlike `pandas`, the Python3.7 that Apache runs is able to find `csv`.
+  See the example code from tax.co.web
+    git log -p 06be64e943b13b191f82d98729935f7573b8316b

@@ -1,0 +1,6 @@
+title: export BORG_PASSPHRASE
+pid: 08fea975-993b-4898-bcaa-6653a1cbcaff
+body: |2-
+  export BORG_PASSPHRASE=<insert password here>>
+  From a shell in which that is run,
+  borg will not need to prompt for a passphrase every time I run it.

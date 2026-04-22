@@ -1,0 +1,6 @@
+title: make-variable-buffer-local
+pid: 16e057da-0373-440b-a7db-839375a531e0
+body: |2-
+  marks the variable as automatically buffer-local
+misc:
+- Had_ID_Before_Import

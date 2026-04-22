@@ -1,0 +1,5 @@
+title: '? the Join functions that accept two kinds of labels are dumb'
+pid: f87841e0-c99f-4b91-bb2c-0ea47116fb55
+body: |2-
+  They should accept only one kind, in the Monoid class,
+  and join them if needed with (<>).

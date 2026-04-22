@@ -1,0 +1,18 @@
+title: 'evidence: 31-edo'
+pid: 1db0fac6-a11d-47b3-bd27-289e127f9fe3
+body: |2-
+  For instance, many microtonal musicians have converged on 31-edo,
+  while almost nobody uses 30 or 32.
+  That's mostly because 31 does an incredible job
+  approximating the first 3 prime harmonics:
+  It lands within 5 cents of 3:2,
+  and within about a cent of both 5:4 and 7:4.
+  By comparison, 12-edo approximates those three harmonics
+  with respective errors of 2, 14 and 30 cents.
+
+  (A "cent" is 1/100th of a step of 12-edo. There are 1200 cents in an octave.)
+
+  Alas, 31 isn't great at the 11th and 13th harmonics,
+  so you might not want to stop there.
+  Or you might not want that many notes,
+  which could lead you to stop earlier.

@@ -1,0 +1,6 @@
+title: random pan
+pid: b41a8afc-a6a4-4d66-98ed-77a45355919e
+body: |2-
+  #+BEGIN_SRC haskell
+  d1 $ sound "hh*16" # gain (rand/2 + 0.4) # pan rand
+  #+END_SRC

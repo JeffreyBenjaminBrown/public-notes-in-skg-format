@@ -1,0 +1,4 @@
+title: protecting privacy when indexing users read
+pid: d1ea3b59-326c-4c96-bed2-4cdf1047c3a9
+body: |2-
+  If, as seems natural, the default is for Shyg to index whatever a user reads, then some users will likely want to anonymize their index contributions, to obscure their reading habits. I believe this can be done. Prior art already exists in OpenStreetMap, Whisper, Monero, SecureDrop and various other applications. I have not yet found a way for Shyg to directly use any of these, but it will at the least borrow ideas from them.

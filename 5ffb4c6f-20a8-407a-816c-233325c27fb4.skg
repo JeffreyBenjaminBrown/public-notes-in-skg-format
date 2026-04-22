@@ -1,0 +1,4 @@
+title: Most special forms define control structures or perform variable bindings.
+pid: 5ffb4c6f-20a8-407a-816c-233325c27fb4
+body: |2-
+  Functions can't do those things.

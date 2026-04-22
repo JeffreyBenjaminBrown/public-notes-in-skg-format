@@ -1,0 +1,6 @@
+title: Deleted nodes are not children of the node that contained them.
+pid: e37d6a66-5f39-4412-a80b-38978a29fa43
+body: |2-
+  But they can be found as grandchildren,
+  either under at least one DJC midparent,
+  or under the orphan collector midparent.

@@ -1,0 +1,5 @@
+title: mc/mark-(next/previous/all)-like-this
+pid: d1321317-d04b-4d25-9c52-a70f7e1441ff
+body: |2-
+  Depends on what's selected.
+  Type, then delete a character to escape the highlight.

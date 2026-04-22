@@ -1,0 +1,7 @@
+title: '"just" improves on "make"'
+pid: 1de611ec-bc61-4b1d-a889-574805f8ac19
+body: |2-
+  with completion at the command line,
+  and other improvements.
+contains:
+- 71d265e0-0b5b-4f3e-93c7-2aac38d5dad6

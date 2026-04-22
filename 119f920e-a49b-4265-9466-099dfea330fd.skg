@@ -1,0 +1,22 @@
+title: introduction
+pid: 119f920e-a49b-4265-9466-099dfea330fd
+body: |2-
+  Many of the ways we process and share data can be unified. Doing so will bring a slew of benefits, from individual productivity and well-being to the collective search for truth.
+
+  This proposal is to create a protocol for building, distributing and querying a hypergraph index. I will call the project Shyg (for "Shared HYperGraph"). The hypergraph data structure, described later, permits a deep semantic representation of the content of natural language documents. So too, of course, does natural language itself, but the hypergraph permits deep semantic search in ways that neither ordinary text nor even semantic (non-hypergraph) graph databases do.
+
+  Participants in Shyg will run daemons to crawl and index the parts of the public internet they considered most worth indexing, as well as their own private content. A simple query language will permit them to fetch relevant portions of the indexed data.
+
+  That is all Shyg will do -- build an index and let users query it. But the result will let users express many of the kinds of queries we are today accustomed to executing only in specialized, usually proprietary, applications:
+
+  - "What sources satisfying [condition] can I read about [topic]?"
+  - "What are my friends posting online?"
+  - "What's on my calendar?"
+  - "Where is [document] on my hard drive?"
+
+  More importantly, Shyg will permit cross-cutting queries that nothing available to the general public currently permits:
+
+  - "Where did [rumor] first appear online?"
+  - "Who has publicly written anything equivalent to any of my own private ideas?"
+  - "Who has emailed me a calendar invitation that I accepted?"
+  - "On the websites cited by those of my friends who post pro-[political candidate] content online, who are the top advertisers?"

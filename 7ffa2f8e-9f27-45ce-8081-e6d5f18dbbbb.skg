@@ -1,0 +1,11 @@
+title: defining a nonstandard EDO in Pianoteq
+pid: 7ffa2f8e-9f27-45ce-8081-e6d5f18dbbbb
+body: |2-
+  In Tuning, select "multichannel <soething>".
+  In the submenu from there,
+  make sure the top thing has a checkmark next to it.
+  Also put a checkmark next to "main MIDI channel". That can vary --
+  Channel 1 makes it lower than Channel 2, etc.
+  In Tuning also use "create EDO" to define, say, 31-edo.
+  Use the snowflake icon to freeze the tuning,
+  so that I can change the preset without having to redo the tuning.

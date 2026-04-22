@@ -1,0 +1,5 @@
+title: If the screen is unreadable.
+pid: 8b99820c-ba2a-43c0-8304-31032cefbf75
+body: |2-
+  `M-x load-theme <RET>`, then `manoj-dark <RET>`
+    Faster: `M-x lo-th TAB RET m-d TAB RET`

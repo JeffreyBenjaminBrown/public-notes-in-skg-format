@@ -1,0 +1,4 @@
+title: If we want to collect all the errors
+pid: cbd3730c-dcc1-4765-accd-9520cd0ebe9d
+body: |2-
+  we can use the Validation type from Data.Either.Validation in the either package

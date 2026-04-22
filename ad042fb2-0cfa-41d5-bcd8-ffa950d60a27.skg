@@ -1,0 +1,10 @@
+title: possibly-surprising implications
+pid: ad042fb2-0cfa-41d5-bcd8-ffa950d60a27
+body: |2-
+  Because the subscriber's content and hidden are not changed,
+    anything newly subscribe to this way
+      is shown entirely as 'unincoroporated content',
+    and it continues
+      (todo ? is this useful? if not, it's space-inefficient)
+      to hide any node H it no longer has a reason to hide
+      because H is not contained in any of its subscriptions

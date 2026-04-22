@@ -1,0 +1,27 @@
+title: The direction of the errors matters.
+pid: 53ffb039-78ab-4c69-bba4-a03f9f95c36e
+body: |2-
+  Even if an EDO approximates harmonics p and q well,
+  it might approximate p/q badly.
+  22-edo is a good example:
+  Its best approximation lands only 7 cents sharp of 3:2,
+  and only 5 cents flat of 5:4.
+  But the minor third 6:5 is the distance from 5:4 to 3:2
+  (in math, (3/2) / (5/4) = 6/5).
+  Because the errors on 3:2 and 5:4 go in different directions,
+  they *compound*: 22-edo's approximation to 6/5 is 11 cents sharp.
+
+  By contrast, if the errors go in the same direction, they cancel.
+  27-edo is like this: Its 3:2 is 9 cents sharp, and its 5:4 is 14 cents sharp,
+  Since those are both sharp, its minor third sounds better than either of them,
+  with an error of only 5 cents (their difference).
+
+  In the Xenharmonic Wiki, for each article about an EDO,
+  the first table lists how well that EDO approximates the harmonics,
+  and the first row of the table is (absolute) deviations in cents.
+  Personally I care about the harmonics through 15.
+  Whenever I want to judge an EDO I just read the first few values in that table,
+  taking their signs into account.
+  The biggest difference between any two error values in that sequence
+  corresponds to the worst-approximated "compound" (involving two primes)
+  ratio in that system[2].

@@ -1,0 +1,7 @@
+title: 'PITFALL: Stopping is subtle.'
+pid: 52d69c00-533b-4cb3-bc2d-2741b928b756
+body: |2-
+  https://erlang.org/doc/design_principles/gen_server_concepts.html#stopping
+  If the server is part of a supervision tree,
+  it *might* need to clean up before stopping.
+  If it's not, one *must* define how to stop.

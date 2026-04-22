@@ -1,0 +1,4 @@
+title: TODO make including the octave optional for computing maximum stretch.
+pid: 2eeffc8b-115b-4591-b49c-7090c5b6e99d
+body: |2-
+  For instance, 22\84 mod 5 works astoundingly well if one ignores that.

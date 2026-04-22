@@ -1,0 +1,5 @@
+title: DONE wm-m does not need to be negative or bigger than 0.5
+pid: efbb1688-6a37-41ed-8446-e7d2c50cd497
+body: |2-
+  assuming I'm not interested in clipping effects,
+  since w is bound to [0,1].

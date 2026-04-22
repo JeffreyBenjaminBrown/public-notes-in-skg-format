@@ -1,0 +1,8 @@
+title: 'PITFALL: S3 can make buckets for inaccessible URLs'
+pid: 49886449-385e-41e5-b9e8-e83970454b9b
+body: |2-
+  If I register the domain `jbb-1.net`,
+  I can make a bucket called `jbb1.net`.
+  I'll get errors, though,
+  when I try to publish it as a website,
+  because `jbb1.net` is not the domain I own.

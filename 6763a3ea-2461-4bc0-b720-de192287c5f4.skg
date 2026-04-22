@@ -1,0 +1,6 @@
+title: Maybe don't show all overlapping sets.
+pid: 6763a3ea-2461-4bc0-b720-de192287c5f4
+body: |2-
+  Start from subsets of size n-1,
+  maybe then show n-2,
+  but stop before reaching 1.

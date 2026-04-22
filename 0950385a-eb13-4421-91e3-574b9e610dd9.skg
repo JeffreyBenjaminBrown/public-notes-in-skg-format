@@ -1,0 +1,5 @@
+title: idea
+pid: 0950385a-eb13-4421-91e3-574b9e610dd9
+body: |2-
+  repeat [0, x] every 17\58
+    for some value of x

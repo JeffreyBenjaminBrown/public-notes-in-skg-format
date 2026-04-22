@@ -1,0 +1,8 @@
+title: things that cause attack errors (alone)
+pid: 1003423e-7763-4800-9fb3-7523ef59034b
+body: |2-
+  none of the first thre ms (pm, wm, fm)
+  rm (but not am)
+  hpf + hpf-m
+  lpf + lpf-m
+  bpf + bpf-m

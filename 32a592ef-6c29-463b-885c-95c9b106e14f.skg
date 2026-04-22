@@ -1,0 +1,6 @@
+title: Examine things marked for deletion.
+pid: 32a592ef-6c29-463b-885c-95c9b106e14f
+body: |2-
+  cd /home/jeff/Encfs/kb-no-encfs/vcs
+  grep "^@title \[delete" -r . > to-delete.txt
+  Then look at each line of that file from within SmSn.

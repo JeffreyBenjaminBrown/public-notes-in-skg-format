@@ -1,0 +1,6 @@
+title: there are four variations
+pid: c624d055-b69f-47ec-a2cc-46a1a5918c80
+body: |2-
+  Apply snapping (only if snapping is enabled),
+  or don't (even if it's enabled).
+  Pool MIDI source data, or don't.

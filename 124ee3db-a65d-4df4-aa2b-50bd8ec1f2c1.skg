@@ -1,0 +1,5 @@
+title: Is representing natural language still hard?
+pid: 124ee3db-a65d-4df4-aa2b-50bd8ec1f2c1
+body: |2-
+  It seems like you'd need a type in the schema for every possible sentence structure:, "subject verb object", "subject verb (adjective object)", "(adjective subject) verb object", etc.
+  Or maybe the type system can be defined as the closure of some set of base types under some set of operations? If so the operations would have to distinguish among the types, e.g. that you can apply an adjective to a noun but not a verb. But that would mean the schema graph could only be defined implicitly, or else extended every time an element in the graph using the schema needed a new type in the schema.

@@ -1,0 +1,16 @@
+title: 'a better scheme: After live recording, grow single-scale intervals automatically, then edit while listening.'
+pid: 3bee8926-8e0a-413e-b07f-ea07298b00dd
+body: |2-
+  No root would have to be assigned.
+  Just accumulate until the no-three-cluster rule would be violated,
+  then start a new cluster.
+  Each cluster will have at most 8 notes.
+  The user can annotate a 'root' column if they want,
+  which would contain a column title.
+  Also a 'notes' column, to help know what happens when.
+  The user can determine which note is which, hopefully,
+  relying in part on the fact that
+  12-edo notes not played are blanks in the row.
+  Begin the recording with (in 12-edo) 0,1,2,3,
+  which will get clumped into a 0,1 and then a 2,3,
+  providing a starting position.

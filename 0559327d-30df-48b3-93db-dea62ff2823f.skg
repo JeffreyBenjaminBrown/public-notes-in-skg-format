@@ -1,0 +1,4 @@
+title: matching a relation
+pid: 0559327d-30df-48b3-93db-dea62ff2823f
+body: |2-
+  $ac (object: $o, action: $a) isa access;

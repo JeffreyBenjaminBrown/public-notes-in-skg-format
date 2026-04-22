@@ -1,0 +1,8 @@
+title: the hierarchy
+pid: d8cd4df9-abfa-4e84-ac2c-ff9bd8e953af
+body: |2-
+  All lenses are traversals.
+  All lenses and traversals are folds.
+contains:
+- dcfbb4fa-4187-4921-bab4-dc0bfa953dd9
+- 7493dbe5-c54a-4244-abeb-6bf75852de5a

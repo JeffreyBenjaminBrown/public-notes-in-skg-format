@@ -1,0 +1,7 @@
+title: init/1
+pid: 1ee441b1-d1b5-40de-bf69-f1af15814f15
+body: |2-
+  => {ok, State, Data}
+  or {ok, State, Data, TransitionActions}.
+contains:
+- b1619b13-da4d-43fa-a35e-8df496c7c4ec

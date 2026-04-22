@@ -1,0 +1,7 @@
+title: 'HANDY: to customize apache2.conf'
+pid: 784a7cc3-faeb-4f76-be1e-a2b61c4a5b7f
+body: |2-
+    rm /etc/apache2/apache2.conf
+    ln -s /mnt/apache/apache2.conf /etc/apache2/
+  Then edit that file,
+  which is now shared between host and container.

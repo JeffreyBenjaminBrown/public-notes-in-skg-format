@@ -1,0 +1,5 @@
+title: 'PITFALL: Send and receive both use (<-).'
+pid: c6197ff0-c7b3-45e5-a2d7-8dea98d89776
+body: |2-
+  They are distinguished by which side of the channel
+  it appears on.

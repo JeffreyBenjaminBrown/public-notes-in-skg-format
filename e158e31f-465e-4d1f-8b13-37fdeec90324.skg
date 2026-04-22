@@ -1,0 +1,10 @@
+title: rel. nodes are special in backward view
+pid: e158e31f-465e-4d1f-8b13-37fdeec90324
+body: |2-
+  A rel node will be a child of a very large number of
+  nodes in which it is used as a rel
+  (and a few in which as an entity).
+  From context N, if rel R connects A to B,
+  looking backward from B will show R reversed,
+  and under that show only A,
+  not the other things R is connected to.

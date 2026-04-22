@@ -1,0 +1,9 @@
+title: using exiftool to get a photo's geolocation
+aliases:
+- exiftool + geolocation
+- geolocation + exiftool
+pid: 49bb7c1f-6d0a-4c7f-9fa9-3f6430860faa
+body: |2-
+  exiftool 23.jpg  | grep GPS
+misc:
+- Had_ID_Before_Import

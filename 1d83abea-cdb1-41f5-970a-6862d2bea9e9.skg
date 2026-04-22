@@ -1,0 +1,4 @@
+title: check for None-ness using "is"
+pid: 1d83abea-cdb1-41f5-970a-6862d2bea9e9
+body: |2-
+  if x is None: ...

@@ -1,0 +1,6 @@
+title: '"T" = saving in this file terminates at this branch.'
+pid: 504cdc6c-24ad-41ed-8eeb-cd82bcf46b36
+body: |2-
+  If the node showing "T" has tree content,
+  the user can edit or delete that content on-screen,
+  and it will not affect the tree when the view is saved.

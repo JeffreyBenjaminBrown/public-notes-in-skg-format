@@ -1,0 +1,2 @@
+title: '`gen_server:start_link` is required if the server is part of a supervision tree.'
+pid: 5d49022a-ba9f-475d-96b5-7a73502b9d06

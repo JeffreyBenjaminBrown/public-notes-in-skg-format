@@ -1,0 +1,19 @@
+title: use std::time::Duration;
+pid: 9bc196fa-9b76-4818-bc58-3c09c9ef9d83
+body: |2-
+
+  fn main() {
+      trpl::run(async {
+          trpl::spawn_task(async {
+              for i in 1..10 {
+                  println!("hi number {i} from the first task!");
+                  trpl::sleep(Duration::from_millis(500)).await;
+              }
+          });
+
+          for i in 1..5 {
+              println!("hi number {i} from the second task!");
+              trpl::sleep(Duration::from_millis(500)).await;
+          }
+      });
+  }

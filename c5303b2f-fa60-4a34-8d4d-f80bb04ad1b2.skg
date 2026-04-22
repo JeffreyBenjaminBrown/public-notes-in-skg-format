@@ -1,0 +1,9 @@
+title: set up internet if needed
+pid: c5303b2f-fa60-4a34-8d4d-f80bb04ad1b2
+body: |2-
+  When the GUI installer didn't work on my 2022-new PUJ desktop,
+  I ran `nmtui`, deleted all existing connections,
+  created a new ethernet connection,
+  accepted all the defaults,
+  and although I still couldn't ping google.com,
+  I was able to curl https://linuxhint.com

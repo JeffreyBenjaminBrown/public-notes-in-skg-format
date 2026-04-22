@@ -1,0 +1,6 @@
+title: I told my .emacs config about it.
+pid: d05f4ffa-4856-44ca-9313-36cb478cc51a
+body: |2-
+  (add-to-list 'load-path "~/.emacs.d/elisp/tidal/")
+  (require 'haskell-mode)
+  (require 'tidal)

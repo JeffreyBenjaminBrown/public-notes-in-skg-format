@@ -1,0 +1,4 @@
+title: to open something in the backlink buffer in the other window
+pid: 276e1088-1b45-400b-88a1-0a74b845c8ef
+body: |2-
+  C-u RET

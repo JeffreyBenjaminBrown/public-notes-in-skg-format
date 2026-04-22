@@ -1,0 +1,5 @@
+title: 'PITFALL: equality between Enum types is stupid.'
+pid: 366f6db3-9490-463e-ba0a-16ccf4f86e46
+body: |2-
+  Don't compare them directly.
+  Instead convert them to `value`s and compare those.

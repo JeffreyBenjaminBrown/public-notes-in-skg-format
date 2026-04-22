@@ -1,0 +1,4 @@
+title: Local paths are specified normally.
+pid: 3726e756-2aec-4aad-bc81-0794b3a5dfed
+body: |2-
+  Relative paths work.

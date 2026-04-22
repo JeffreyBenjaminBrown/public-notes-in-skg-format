@@ -1,0 +1,8 @@
+title: I would prefer to
+pid: bd3e2dc7-58ae-4221-b24a-549ce705adb0
+body: |2-
+  simply encode "x #is-like hode"
+  and create the weird search-node N = "/e /it #is-like hode".
+    (Note that if I change hode's name, the search-node will still work).
+  Then, given a project (such as "#for hode #ask who cares"),
+  I would only have to create a relationship like "#re P #see N".

@@ -1,0 +1,7 @@
+title: for Shift-1
+pid: 340c8976-05a7-41ba-abdf-5f3f911c17cc
+body: |2-
+  The builtin `Shift-1` shortcut is not recognized.
+  (I tried both kinds of 1, numlock and normal,
+  and both kinds of shift, left and right.
+  I did not try an external keyboard with a builtin numeric pad.)

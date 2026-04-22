@@ -1,0 +1,5 @@
+title: complex example
+pid: bbd1cca2-2949-4120-abc9-ff7b5e2e375d
+body: |2-
+  >>> [[1, 2, 3], [10, 20, 30], [100, 200, 300]] ^.. folded . taking 2 folded
+  [1, 2, 10, 20, 100, 200]

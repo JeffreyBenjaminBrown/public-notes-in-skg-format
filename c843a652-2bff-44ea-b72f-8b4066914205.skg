@@ -1,0 +1,10 @@
+title: AntC2 described this problem
+pid: c843a652-2bff-44ea-b72f-8b4066914205
+body: |2-
+  ```
+  def length (α : Type) (xs : List α) ...
+
+  ... => Nat.succ (length α ys)
+  ```
+
+  Whether or not an explicit binding point for the α in the signature would be useful (Haskell has forall), why the f*** would I want to encumber every call to length with a type application when length‘s argument ys gives the type?

@@ -1,0 +1,8 @@
+title: The primary crontab files* require user names.
+pid: 8ed25d82-c726-4cee-ae06-8046664eb71b
+body: |2-
+    * that is, /etc/crontab and /etc/cron.d/*
+    So, e.g., this doesn't work
+      * * * * *      /opt/conda/bin/python /mnt/write-time.py
+    Instead do something like this:
+      * * * * * root /opt/conda/bin/python /mnt/write-time.py

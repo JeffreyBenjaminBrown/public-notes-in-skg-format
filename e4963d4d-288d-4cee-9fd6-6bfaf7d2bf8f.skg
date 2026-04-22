@@ -1,0 +1,4 @@
+title: Make sure the USB device is unmounted
+pid: e4963d4d-288d-4cee-9fd6-6bfaf7d2bf8f
+body: |2-
+  e.g. umount /dev/sdb1

@@ -1,0 +1,7 @@
+title: TODO There are haskell bindings for a few graph querly langs now
+pid: 3e98ab84-8104-4648-9130-1f0dc374378b
+body: |2-
+  gremlin
+  graphql
+  pangraph
+  cayley

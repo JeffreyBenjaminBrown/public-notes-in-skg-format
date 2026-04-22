@@ -1,0 +1,5 @@
+title: 'TODO ? wart: monodirectionality in `reachable`'
+pid: f5a226b2-5fbd-419b-9788-e16521f89fbb
+body: |2-
+  It can accept multiple `Tplt`s to search along,
+  but only a single `SearchDir`.

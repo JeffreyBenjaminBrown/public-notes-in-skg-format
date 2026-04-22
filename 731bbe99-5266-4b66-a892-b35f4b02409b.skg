@@ -1,0 +1,5 @@
+title: 'PITFALL: I changed directory names'
+pid: 731bbe99-5266-4b66-a892-b35f4b02409b
+body: |2-
+  AWS wants, confusingly, a folder called ebdjango/ebdjango.
+  Instead, I named the top one python-web-app.

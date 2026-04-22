@@ -1,0 +1,5 @@
+title: 'PITFALL: That''s nonstandard.'
+pid: aca1d1db-7bc3-4e98-801c-8792d21b9b26
+body: |2-
+  The standard way is to open the project in VSCode,
+  running `npm install ...` there.

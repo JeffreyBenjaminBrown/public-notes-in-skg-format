@@ -1,0 +1,5 @@
+title: it's cumbersome
+pid: 58287efa-62c7-47aa-9fa6-ab343494c26f
+body: |2-
+  That's because strings in C require manual memory management,
+  and Emacs is all strings.

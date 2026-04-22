@@ -1,0 +1,6 @@
+title: to avoid import errors with relative imports
+pid: 0a272160-b9ca-4d6d-8690-62df308d9946
+body: |2-
+  The standard way is to run the program as a module
+  using the -m switch:
+    python -m package.module

@@ -1,0 +1,15 @@
+title: 'TODO Emacs: how to override elpy''s C-c C-d?'
+pid: 7b699752-bae7-4a51-b95d-9a6570504691
+body: |2-
+  (require 'org) ;; so that the next line knows what org-mode-map is
+  (eval-after-load 'org
+    (progn
+      (define-key org-mode-map (kbd "C-c C-d")
+        ;; disable because it conflicts with my assignment for smart-hungry-delete-forward-char
+        nil)))
+  (require 'elpy)
+  (eval-after-load 'python
+    (progn
+      (define-key elpy-mode-map (kbd "C-c C-d")
+        ;; disable because it conflicts with my assignment for smart-hungry-delete-forward-char
+        nil)))

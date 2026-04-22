@@ -1,0 +1,6 @@
+title: given a row, view associated rows from another table
+pid: eedb2356-566f-4ea3-a351-eea4d8d6d6c9
+body: |2-
+  q.choice_set.create(choice_text='The usual', votes=0)
+  q.choice_set.create(choice_text='Conquering the world', votes=0)
+  q.choice_set.create(choice_text='So much winning', votes=0)

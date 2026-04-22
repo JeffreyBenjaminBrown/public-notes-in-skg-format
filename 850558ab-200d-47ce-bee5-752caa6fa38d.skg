@@ -1,0 +1,6 @@
+title: ask user for disambiguations when needed
+pid: 850558ab-200d-47ce-bee5-752caa6fa38d
+body: |2-
+  They could set a policy like
+  'if there's only one root with that name, use it;
+  otherwise show me matches and ask'

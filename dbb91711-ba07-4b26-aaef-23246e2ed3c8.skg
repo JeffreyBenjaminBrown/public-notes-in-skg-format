@@ -1,0 +1,12 @@
+title: Evaluating a list of IO operations evaluates them.
+pid: dbb91711-ba07-4b26-aaef-23246e2ed3c8
+body: |2-
+  Here's a list comprehension that does IO.
+  It returns no value, because it's followed by a (,).
+
+  [ io:format("~p was set free.~n",
+       [C#cat.name] )
+    || C <- Cats ],
+  ...
+contains:
+- c471f6f2-3fe5-4a33-9b94-6d84ec71a046

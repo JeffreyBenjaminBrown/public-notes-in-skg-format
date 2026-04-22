@@ -1,0 +1,7 @@
+title: '`try` short-circuits Result computations.'
+pid: 2a1e2f3d-6dd9-4305-b717-07de0b85d779
+body: |2-
+  try int_a = parse_int(a)
+  try int_b = parse_int(b)
+  try int_c = parse_int(c)
+  Ok(int_a + int_b + int_c)

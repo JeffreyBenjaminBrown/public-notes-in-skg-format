@@ -1,0 +1,6 @@
+title: can be content nonetheless
+pid: 155267da-9d4a-4421-9463-fb50e8c4b4e6
+body: |2-
+  For instance one of the parent's container's might be its child,
+  with treatment=Container,
+  even though it is also Content.

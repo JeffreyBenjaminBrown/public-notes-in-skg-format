@@ -1,0 +1,6 @@
+title: by default, sort by the first applicable sort criterion
+pid: 519ba642-20e6-4f11-87a4-ffea51eaf8b7
+body: |2-
+  in each group of search results -- top-level or otherwise.
+  Change ExprTree.insertSearchResults_atFocus
+    based on RunParsed.runParsedCommand

@@ -1,0 +1,4 @@
+title: 'slow: interactive'
+pid: c74e174c-b081-4722-a20d-ff8c979c010b
+body: |2-
+  In the buffer, delete every </sub>, and replace every <sub> with _.

@@ -1,0 +1,5 @@
+title: SQLite is less rigid about single- and double-quotes.
+pid: 00a7b760-49c2-4ba9-a7c7-797f27ab2bf5
+body: |2-
+  See "Double-quoted String Literals Are Accepted", here:
+  https://www.sqlite.org/quirks.html

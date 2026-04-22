@@ -1,0 +1,4 @@
+title: which should give something like this
+pid: 97f528bb-5648-4b5a-98c4-b6d1cf485f7c
+body: |2-
+  nixos https://nixos.org/channels/nixos-19.09

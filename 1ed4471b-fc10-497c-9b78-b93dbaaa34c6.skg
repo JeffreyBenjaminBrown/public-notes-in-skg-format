@@ -1,0 +1,4 @@
+title: example
+pid: 1ed4471b-fc10-497c-9b78-b93dbaaa34c6
+body: |2-
+  Choice.objects.filter( question__pub_date__year = current_year)

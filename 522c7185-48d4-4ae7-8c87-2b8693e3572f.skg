@@ -1,0 +1,11 @@
+title: the idea
+pid: 522c7185-48d4-4ae7-8c87-2b8693e3572f
+body: |2-
+  If N and M are in a relationship,
+  show it as "it (parent) [needs, ..] this (child)",
+  with one child, and a system-colored R for relationship.
+  For the reverse, say "this [needs, ..] it".
+  The user can place that wherever they want in each.
+  If it's not placed in the other,
+  it shows up in "auto",
+  a branch whose order they can choose.

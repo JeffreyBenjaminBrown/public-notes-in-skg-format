@@ -1,0 +1,12 @@
+title: '7\46 x 5\46: tight, flat, strange'
+pid: 50f0f4e9-0b30-4674-9d97-09970db9663a
+body: |2-
+  [ 0  steps; 1 % 1;  string 0; fret  0
+  , 21 steps; 11 % 8; string 3; fret  0
+  , 8  steps; 9 % 8;  string 4; fret -4
+  , 15 steps; 5 % 4;  string 5; fret -4
+  , 27 steps; 3 % 2;  string 6; fret -3
+  , 32 steps; 13 % 8; string 6; fret -2
+  , 37 steps; 7 % 4;  string 6; fret -1
+  , 42 steps; 15 % 8; string 6; fret  0
+  , 46 steps; 2 % 1;  string 8; fret -2

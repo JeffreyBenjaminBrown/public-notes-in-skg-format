@@ -1,0 +1,9 @@
+title: Qualification uses (:), not (.).
+pid: eadfb9b3-4f2d-4c8b-86f4-b1283f794e6f
+body: |2-
+  3> c(useless).
+  {ok,useless}
+  6> useless:hello().
+  Hello, world!
+  ok
+  7>

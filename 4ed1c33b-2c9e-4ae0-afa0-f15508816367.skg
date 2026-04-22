@@ -1,0 +1,6 @@
+title: '`waitT` : like `wait` but takes a function specifying how to switch'
+pid: 4ed1c33b-2c9e-4ae0-afa0-f15508816367
+body: |2-
+  can be xfadeIn, clutchIn,
+  supposedly anticipateIn (which is broken for me),
+  maybe others

@@ -1,0 +1,5 @@
+title: NOT application.py
+pid: 10ca6ae8-632e-46ad-a667-ccf51d8e0562
+body: |2-
+  By default, EB would look for that.
+  We've overridden that default in .ebextensions/django.config

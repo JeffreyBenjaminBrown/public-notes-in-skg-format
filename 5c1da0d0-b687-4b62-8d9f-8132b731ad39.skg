@@ -1,0 +1,8 @@
+title: BLOCKED the easiest, not space-efficient way
+pid: 5c1da0d0-b687-4b62-8d9f-8132b731ad39
+body: |2-
+  I can't import Pandas this way --
+  it depends on a missing C library.
+contains:
+- 68ee6feb-4a17-4a58-98e4-44da566db54a
+- e6a4155d-4e54-41a1-91aa-9255bef3b40d

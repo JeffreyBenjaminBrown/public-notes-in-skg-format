@@ -1,0 +1,4 @@
+title: '"insert" clause with no preceding match'
+pid: cf392edd-5955-4a50-a4d5-21c1e43892c7
+body: |2-
+  insert $p isa person, has email "email@vaticle.com";

@@ -1,0 +1,8 @@
+title: TODO unify cyclesInvolving, connections, and things yet to write
+pid: a8e8bfee-43dc-4ce2-b49c-7e92448a65fa
+body: |2-
+  something yet to write: like connections or cyclesInvolving, but it only returns the first thing it finds, rather than all of them.
+
+  cyclesInvolving returns a set of cycles (whole paths), which is inefficient in its only current use context, the CycleBuffer. It should only return one.
+
+  reachable gives everything reachable from a set of origins; the target set is unrestricted. It doesn't give the path, just the destination.

@@ -1,0 +1,5 @@
+title: a "multichannel EDO" in Pianoteq interprets channel as octave
+pid: a7c21985-1fcf-425f-97cd-34355dfd1238
+body: |2-
+  This implies that there multiple messages can trigger the same note --
+  for instance, in 31-edo, (Channel 0, Note 31) and (Channel 1, Note 0).

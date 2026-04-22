@@ -1,0 +1,7 @@
+title: explanation
+pid: 5b070a79-d271-455d-9eb2-e8bd07cb6383
+body: |2-
+  As in a [[id:a1ca7458-603c-4582-bc92-ea853b01a53e][type assertion]], here `v`
+  is assigned the value that the interface variable
+  `i` (holds? points to?),
+  but strangely, the cases state types, not values.

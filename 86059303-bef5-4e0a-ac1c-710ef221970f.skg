@@ -1,0 +1,11 @@
+title: '135 23 33: in 9-limit, nearly 12-edo layout. (diagonal)'
+pid: 86059303-bef5-4e0a-ac1c-710ef221970f
+body: |2-
+  ( Edo 135 ; StringGap 33 ; FretGap 23
+  , 72
+      [ 0 steps; 1 % 1 ; string 0 ; fret 0
+      , 135 steps; 2 % 1 ; string 2 ; fret 3
+      , 79 steps; 3 % 2 ; string 1 ; fret 2
+      , 43 steps; 5 % 4 ; string 2 ; fret - 1
+      , 109 steps; 7 % 4 ; string 4 ; fret - 1
+      , 23 steps; 9 % 8 ; string 0 ; fret 1

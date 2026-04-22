@@ -1,0 +1,7 @@
+title: Read (i.e. consider) the sources of evidence you ingest.
+pid: a1e14558-0760-473f-a52d-64b2579db92e
+body: |2-
+  Don't just find a video and believe it happened. Determine who has claimed to have witnessed those events.
+  For this, a public database of back-references might be helpful. But even without one, a decentralized solution is possible. Writers, whenever they cite something, could simply send their citation (and its context) to the author of the cited material. If the cited author attaches the back-citation to the content that was cited, then anyone who comes across the content can see who has cited it.
+  There is of course the problem that some back-citations will be rejected -- if you cite what I wrote to call it stupid, I am unlikely to want to share that fact with the world. But if what I wrote is sufficiently important, then hopefully someone will waht to host a "nemesis" site, which collects negative citations.
+  A public database of nemesis sites would be helpful.

@@ -1,0 +1,5 @@
+title: customized packages do not break things that depend on the uncustommized one
+pid: c3e84314-c639-4d16-8836-a2b7c0266cbb
+body: |2-
+  Nix will instead keep two versions of the package.
+  But that too can be changed, with a "global override".

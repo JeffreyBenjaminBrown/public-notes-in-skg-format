@@ -1,0 +1,5 @@
+title: to visit a node given its ID (and no link, name or alias)
+pid: 5b7d3fca-9699-41be-83ad-5525c4e32192
+body: |2-
+  M-x org-id-goto
+  then paste the ID

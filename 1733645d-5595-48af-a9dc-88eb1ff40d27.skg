@@ -1,0 +1,7 @@
+title: example
+pid: 1733645d-5595-48af-a9dc-88eb1ff40d27
+body: |2-
+  #+begin_src haskell
+    d1 $ stack [ speed 2 |*| sound "bev ~ bev ~" # legato 8,
+  	speed 0.5 |*| slow 4 (sound "bev ~ bev ~") # cut 1 ]
+  #+end_src

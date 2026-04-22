@@ -1,0 +1,4 @@
+title: Be sure not to write to a partition (e.g. sdb1).
+pid: 9ef334ff-d679-4959-894a-70237902db06
+body: |2-
+  Rather, write to the drive completely (sdb).

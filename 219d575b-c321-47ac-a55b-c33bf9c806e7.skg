@@ -1,0 +1,5 @@
+title: iterator adapters
+pid: 219d575b-c321-47ac-a55b-c33bf9c806e7
+body: |2-
+  These produce different iterators,
+  and don’t consume the iterator.

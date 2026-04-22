@@ -1,0 +1,5 @@
+title: sugar and holes the type checker can fill
+pid: 75e2a7c6-c80a-4e88-a39e-d9024d674ae8
+body: |2-
+  vec : (n : _ ** Vect n Int)
+  vec = (_ ** [3, 4])

@@ -1,0 +1,12 @@
+title: magit & diff // to change options
+aliases:
+- diff & magit // to change options
+pid: 6b8c2c9c-2290-4f85-8278-9af53c57984b
+body: |2-
+  There's another way, but this seems easier.
+contains:
+- f819e19b-4cf7-4634-a996-50240cc801d2
+- a0b0d890-a7e4-4680-a6cf-babdc972ac7e
+- dd5d9354-6143-4ac6-8ff9-3600b6461ac1
+misc:
+- Had_ID_Before_Import

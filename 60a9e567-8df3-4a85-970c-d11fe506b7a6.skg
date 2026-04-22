@@ -1,0 +1,5 @@
+title: UEFI is described before Legacy Boot.
+pid: 60a9e567-8df3-4a85-970c-d11fe506b7a6
+body: |2-
+  Legacy Boot is what I want,
+  at least for my 2017 Dell, my 2018 Javeriana Lenovo, and earlier machines.

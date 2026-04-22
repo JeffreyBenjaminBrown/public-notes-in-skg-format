@@ -1,0 +1,6 @@
+title: TODO What do I have to export?
+pid: 3bc63475-385f-4855-951f-8386265b9264
+body: |2-
+  c.f. ~/code/concurrent-langs/erlang/kitty/v3-otp/kitty_gen_server.erl
+  If I export_all it works.
+  If I try to export only the interface, it doesn't.

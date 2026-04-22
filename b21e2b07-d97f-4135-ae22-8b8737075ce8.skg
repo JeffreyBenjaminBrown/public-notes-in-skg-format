@@ -1,0 +1,8 @@
+title: to rename and/or move (across folders) a file in dired
+pid: b21e2b07-d97f-4135-ae22-8b8737075ce8
+body: |2-
+  Press R.
+  Then press down to bring up the current filename in the minibuffer,
+  or up to get its history (this is standard in the minibuffer).
+misc:
+- Had_ID_Before_Import

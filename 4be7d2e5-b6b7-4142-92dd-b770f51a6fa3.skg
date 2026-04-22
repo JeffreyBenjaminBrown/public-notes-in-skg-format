@@ -1,0 +1,4 @@
+title: 'PITFALL: restarting costs a full hour of compute'
+pid: 4be7d2e5-b6b7-4142-92dd-b770f51a6fa3
+body: |2-
+  Even if it's done multiple times in an hour.

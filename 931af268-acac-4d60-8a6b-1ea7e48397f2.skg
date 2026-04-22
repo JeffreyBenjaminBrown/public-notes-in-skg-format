@@ -1,0 +1,5 @@
+title: Impose a stop rule.
+pid: 931af268-acac-4d60-8a6b-1ea7e48397f2
+body: |2-
+  "n swap attempts have passed without seeing an improvement" might fail to swap.
+  "n swap attempts have passed without seeing an improvement of more than p%" would never fail to stop.

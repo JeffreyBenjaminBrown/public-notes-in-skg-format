@@ -1,0 +1,9 @@
+title: formula
+pid: b2fdf743-028e-4f72-949f-162a9cc526dc
+body: |2-
+  A pattern is a set of statements.
+  Every statement ends with a semicolon and consists of:
+    variables,
+    keywords,
+    types,
+    values.

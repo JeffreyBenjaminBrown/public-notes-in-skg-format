@@ -1,0 +1,5 @@
+title: nixos-rebuild with a nixpkgs fork
+pid: 051d31f4-b165-48ce-b157-ce88f15ed989
+body: |2-
+  nixos-rebuild switch -I nixpkgs=/home/jeff/nix/nixpkgs
+  /home/jeff/nix/nixpkgs/pkgs/development/libraries/hello-test

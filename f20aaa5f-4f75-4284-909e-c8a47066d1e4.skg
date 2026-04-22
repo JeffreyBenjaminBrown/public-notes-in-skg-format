@@ -1,0 +1,5 @@
+title: How can you compile a program "from a module"?
+pid: f20aaa5f-4f75-4284-909e-c8a47066d1e4
+body: |2-
+  https://learnyousomeerlang.com/modules#what-are-modules
+  "You can call the compiler from many places: $ erlc flags file.erl when in the command line, compile:file(FileName) when in the shell or in a module, c() when in the shell, etc."

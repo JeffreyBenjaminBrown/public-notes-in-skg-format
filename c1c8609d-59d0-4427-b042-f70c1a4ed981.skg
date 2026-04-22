@@ -1,0 +1,5 @@
+title: it's really easy
+pid: c1c8609d-59d0-4427-b042-f70c1a4ed981
+body: |2-
+  Basically find the instance in the EC2 WUI,
+  and ask for it.

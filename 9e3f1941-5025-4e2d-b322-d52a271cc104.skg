@@ -1,0 +1,4 @@
+title: Only if using UEFI, make a boot partition.
+pid: 9e3f1941-5025-4e2d-b322-d52a271cc104
+body: |2-
+  sudo mkfs.fat -F 32 -n boot /dev/sda3

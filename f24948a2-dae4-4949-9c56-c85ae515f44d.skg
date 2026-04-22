@@ -1,0 +1,16 @@
+title: Closures
+pid: f24948a2-dae4-4949-9c56-c85ae515f44d
+body: |2-
+  are functions bound to a variable or set of variables.
+  They're like global variables but sneakier.
+  For instnace, each call to `adder` below returns
+  a function with its own secret `sum` variable.
+  Calls to those functions are thus history-dependent.
+
+  func adder () func(int) int {
+    sum := 0
+    return func (x int) int {
+      sum += x
+      return sum
+    }
+  }

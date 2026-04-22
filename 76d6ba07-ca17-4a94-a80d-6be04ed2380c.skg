@@ -1,0 +1,7 @@
+title: External recursive calls thus let an actor change its own code.
+pid: 76d6ba07-ca17-4a94-a80d-6be04ed2380c
+body: |2-
+  Qualify a recursive call with ?MODULE
+  and it will load the new version of the module.
+contains:
+- c8f71ace-dcbe-4182-acf4-fbf783f53b9b

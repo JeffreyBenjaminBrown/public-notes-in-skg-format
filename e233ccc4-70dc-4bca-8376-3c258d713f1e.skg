@@ -1,0 +1,6 @@
+title: code to see how harmonics fall across equally spaced strings
+pid: e233ccc4-70dc-4bca-8376-3c258d713f1e
+body: |2-
+    This shows what happens if, after skipping 7 strings, you land back at the octave. (So you could play the octave on open strings of an 8-string guitar.)
+  > myPrint $ map ((*7) . (/ log 2) . log) [3/2,5/4,7/4,11/8,13/8 :: Float] -- ,17/16,19/16]
+    I believe I could do the above for non-integer values of 7.

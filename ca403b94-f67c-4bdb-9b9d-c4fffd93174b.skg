@@ -1,0 +1,9 @@
+title: The reference to a monitor can be a good key for a store of clients.
+pid: ca403b94-f67c-4bdb-9b9d-c4fffd93174b
+body: |2-
+  Ref = erlang:monitor(process, Client),
+  NewClients =
+    orddict:store(
+      Ref, % "the only other time we'll need to fetch the client ID will be if we receive [EXIT from the monitor], which will contain" REF. https://learnyousomeerlang.com/designing-a-concurrent-application#understanding-the-problem
+      Client,
+      S#state.clients), % the map to modify

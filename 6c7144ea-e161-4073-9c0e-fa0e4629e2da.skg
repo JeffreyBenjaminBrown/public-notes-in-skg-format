@@ -1,0 +1,15 @@
+title: 'edge case: undone phantom'
+pid: 6c7144ea-e161-4073-9c0e-fa0e4629e2da
+body: |2-
+  In complete_truenode_preorder, the passage below could be wrong
+  -- maybe the node shouldn't really be a phantom (anymore).
+
+  let is_phantom : bool =
+    // Phantoms (nodes with diff status already set, e.g. Removed,
+    // RemovedHere) are display-only placeholders created during
+    // content reconciliation. They need no further completion.
+    read_at_node_in_tree( tree, node,
+      |vn : &ViewNode| match &vn.kind {
+        ViewNodeKind::True( t ) => t.is_phantom(),
+        _ => false } ) ?;
+  if is_phantom { return Ok(( )); }

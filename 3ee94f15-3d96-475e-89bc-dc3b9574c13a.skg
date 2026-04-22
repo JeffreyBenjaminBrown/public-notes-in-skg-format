@@ -1,0 +1,6 @@
+title: Borg
+pid: 3ee94f15-3d96-475e-89bc-dc3b9574c13a
+body: |2-
+  apt install borgbackup
+  borg list /path/to/repo             # lists snapshots
+  borg extract/path/to/repo::snapshot

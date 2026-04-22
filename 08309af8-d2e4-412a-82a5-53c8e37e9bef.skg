@@ -1,0 +1,5 @@
+title: the idea, I think
+pid: 08309af8-d2e4-412a-82a5-53c8e37e9bef
+body: |2-
+  is that {x : a, y : _} is a subtype of {x : a},
+  and so on for object literals with more fields.

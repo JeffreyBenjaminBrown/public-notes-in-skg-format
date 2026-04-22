@@ -1,0 +1,9 @@
+title: When giving a function an argument, make sure ...
+pid: 3d30dc55-ce11-4e46-a149-720a2f5b85d1
+body: |2-
+  all of them
+contains:
+- 0ad44945-f6e2-463a-a204-0d4d840510bd
+- 3f590b69-969d-4929-9e37-70981b20ac3e
+misc:
+- Had_ID_Before_Import

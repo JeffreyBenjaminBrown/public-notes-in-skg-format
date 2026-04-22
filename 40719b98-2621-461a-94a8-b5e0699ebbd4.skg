@@ -1,0 +1,4 @@
+title: convert date to table
+pid: 40719b98-2621-461a-94a8-b5e0699ebbd4
+body: |2-
+  date now | date to-table

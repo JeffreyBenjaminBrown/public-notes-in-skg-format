@@ -1,0 +1,6 @@
+title: chop n
+pid: 569011ef-fe66-4dd2-820e-5f5b20d5ba9f
+body: |2-
+  #+begin_src haskell
+    d1 $ chop ((irand 16 + 1) * 64) $ sound "bev"
+  #+end_src

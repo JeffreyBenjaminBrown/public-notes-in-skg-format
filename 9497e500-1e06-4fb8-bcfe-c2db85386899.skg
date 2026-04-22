@@ -1,0 +1,4 @@
+title: 'the trick : use the "nonlocal" keyword'
+pid: 9497e500-1e06-4fb8-bcfe-c2db85386899
+body: |2-
+  before referring to something defined outside the current scope

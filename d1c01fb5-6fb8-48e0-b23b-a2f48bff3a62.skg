@@ -1,0 +1,6 @@
+title: kill top *and* bottom application bars in xfce ("the panel")
+pid: d1c01fb5-6fb8-48e0-b23b-a2f48bff3a62
+body: |2-
+  pkill xfce4-panel
+misc:
+- Had_ID_Before_Import

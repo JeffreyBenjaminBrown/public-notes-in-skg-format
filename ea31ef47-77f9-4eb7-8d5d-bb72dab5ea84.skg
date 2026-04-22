@@ -1,0 +1,6 @@
+title: modify a db's schema
+pid: ea31ef47-77f9-4eb7-8d5d-bb72dab5ea84
+body: |2-
+  transaction name_of_db schema write
+  define person sub entity;
+  commit

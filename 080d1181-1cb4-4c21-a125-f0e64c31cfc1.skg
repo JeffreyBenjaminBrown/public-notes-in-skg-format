@@ -1,0 +1,7 @@
+title: the replacement to make
+pid: 080d1181-1cb4-4c21-a125-f0e64c31cfc1
+body: |2-
+  [host] contains [branch] ->
+  [host] contains [branch] when seen from [perspective]
+
+  Each bracketed role is played by a single node ID.

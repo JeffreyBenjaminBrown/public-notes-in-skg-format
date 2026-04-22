@@ -1,0 +1,5 @@
+title: To uniquely ID a relation., its type and members are not enough.
+pid: 83abb360-bc61-48e1-82da-a3e4f6dfcf41
+body: |2-
+  Its attributes are also needed.
+  "An instance of a relation can be uniquely addressed by a combination of its type, owned attributes, and role players."

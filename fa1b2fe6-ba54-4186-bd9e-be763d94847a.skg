@@ -1,0 +1,6 @@
+title: write (what I'm calling) a key-remapping command
+pid: fa1b2fe6-ba54-4186-bd9e-be763d94847a
+body: |2-
+  I don't know what grammar that's in,
+  but here's an example of such a command:
+    keycode 135 = Super_R

@@ -1,0 +1,6 @@
+title: section.
+pid: 86653dfb-5ace-4eb7-977e-9b3776ffb44e
+body: |2-
+
+  > open Cargo.toml | upsert package.version { |p| $p | get package.version | inc --patch } | save Cargo.toml
+  Output none

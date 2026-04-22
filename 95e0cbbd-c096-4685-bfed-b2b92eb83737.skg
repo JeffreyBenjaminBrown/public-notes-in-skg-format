@@ -1,0 +1,5 @@
+title: I can configure JACK bufsize through Nix, via PipeWire.
+pid: 95e0cbbd-c096-4685-bfed-b2b92eb83737
+body: |2-
+  specifically through the option
+    extraconfig.jack

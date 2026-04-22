@@ -1,0 +1,22 @@
+title: '*DOPE* If both are specific'
+pid: eaa5e8b3-feb0-499f-a4e1-68764b136207
+body: |2-
+  Let X = {x} and Y = {y}
+  Create an empty map M from X to Y.
+
+  Let X1 be all the values reachable from X in one rightward hop.
+  Create a map L1 (L stands for left) from X1 to X,
+  indicating which members are connected.
+  For every y in both X1 and Y, add (L1 y, y) to M.
+
+  Let Y1 be all values reachable from Y in one leftward hop.
+  Create a map R1 (R stands for right) from Y1 to Y.
+  For every x in both Y1 and X, add (x, R1 x) to M.
+  *NEW at this step*: For every x in both Y1 and X1, add (L1 x, R1 x) to M.
+
+  Let X2 be all values reachable from X1 in one rightward hop.
+  *NEW IDEA* Using L1, create a map L2 from X2 to X.
+  For each y in both X2 and Y, add (L2 y, y) to M.
+  For each y in both X2 and Y1, add (L2 y, R1 y) to M.
+
+  This has to go on until both forests are completely mapped.

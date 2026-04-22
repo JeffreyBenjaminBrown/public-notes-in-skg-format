@@ -1,0 +1,8 @@
+title: evaluation order
+pid: 4e218aac-97e5-4e1e-b331-77d9f901996c
+body: |2-
+  First the first message is matched against all patterns.
+  Failing that, the second one is,
+  and the first one stays in the queue.
+  If none match, it blocks for something that does,
+  unless it times out.

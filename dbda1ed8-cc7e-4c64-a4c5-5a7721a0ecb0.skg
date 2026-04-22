@@ -1,0 +1,5 @@
+title: 'mc/skip-to-(next/previous)-like-this:'
+pid: dbda1ed8-cc7e-4c64-a4c5-5a7721a0ecb0
+body: |2-
+  Remove the cursor furthest (down/up),
+  marking the next occurrence (down/up).

@@ -1,0 +1,66 @@
+title: my question (posted)
+pid: 85648ec7-891d-487f-8730-64232db6b435
+body: |2-
+  Hello dear NixOS community,
+
+  There are a number of audio plugins packaged for NixOS. I want to use one: the LV2 plugin `drumgizmo`. It's included in my configuration package list, which build successfully, but Reaper does not find it when it rescans for plugins.
+
+  My `~/.lv2` folder contains the Pianoteq plugin (built manually) and the drumgizmo plugin (built by Nix):
+  ```
+  [jeff@jbb-hp24-oled:~/.lv2]$ ls -l
+  total 12
+  lrwxrwxrwx  1 jeff users   60 Dec  8 12:07  drumgizmo -> /nix/store/n0jx8jsabagydbbbmvax4hv9m77ddc0n-drumgizmo-0.9.20
+  drwxr-xr-x  2 jeff users 4096 Aug 10  2023 'Pianoteq 8.lv2'
+  ```
+
+  I know Reaper is scanning that folder, because when I set the Reaper .lv2 pathlist to empty, it does not find Pianoteq, but when I set it to "~/.lv2;" it does.
+
+  I thought maybe there was a permissions problem so I copied everything in the drumgizmo store path to a new folder `~/.lv2/drumgizmo-writeable`, ran `chmod -R 777" on all of that stuff, and rescanned again from Reaper. Still no dice.
+
+  Any ideas?
+
+
+  # A nuance: `symlinkJoin` in my package list
+  I didn't mention this above because it seems likely irrelevant for solving this problem, but I build drumgizmo inside a symlinkJoin expression:
+  ```
+  {
+    environment.systemPackages =
+      with pkgs; [
+      ...
+      (symlinkJoin {
+        name = "jbb-plugins"; # my initials are JBB
+        paths = [
+          drumgizmo
+  	...
+  ```
+
+  I first tried symlinking the entire `jbb-plugins/` store path into `~/.lv2` and rescanning, but when I do I get the same result -- Reaper only finds Pianoteq. That was what led me to try linking directly to the `drumgizmo` store path in `~/.lv2`.
+
+
+  # In case it helps: The Pianoteq and drumgizmo folder contents
+  ```
+  s[jeff@jbb-hp24-oled:~/.lv2]$ tree drumgizmo-writeable/ Pianoteq\ 8.lv2/
+  drumgizmo-writeable/
+  ├── bin
+  │   ├── dgvalidator
+  │   └── drumgizmo
+  ├── lib
+  │   └── lv2
+  │       └── drumgizmo.lv2
+  │           ├── drumgizmo.so
+  │           └── manifest.ttl
+  └── share
+      └── man
+          └── man1
+              ├── dgvalidator.1.gz
+              ├── dgvalidator.fr.1.gz
+              ├── drumgizmo.1.gz
+              └── drumgizmo.fr.1.gz
+  Pianoteq 8.lv2/
+  ├── dsp.ttl
+  ├── manifest.ttl
+  ├── Pianoteq_8.so
+  └── ui.ttl
+
+  9 directories, 12 files
+  ```

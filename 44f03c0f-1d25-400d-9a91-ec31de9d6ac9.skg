@@ -1,0 +1,10 @@
+title: lib.py
+pid: 44f03c0f-1d25-400d-9a91-ec31de9d6ac9
+body: |2-
+  import math
+
+  # A scary IO function,
+  # which we want to somehow test without running.
+  def destroy ( target : str ):
+    x = math.pow (2,3)
+    print( "Destroying " + target + "." )

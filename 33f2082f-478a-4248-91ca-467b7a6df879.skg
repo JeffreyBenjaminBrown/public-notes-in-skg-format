@@ -1,0 +1,9 @@
+title: sudo fsck /dev/sdb
+pid: 33f2082f-478a-4248-91ca-467b7a6df879
+body: |2-
+  Or should it be
+    sudo fsck /dev/sdb1
+  ? That is, should it be the device itself (sdb),
+  or a partition on it (sdb1)?
+  On a good disk I was able to do both;
+  on a bad disk, only the partition.

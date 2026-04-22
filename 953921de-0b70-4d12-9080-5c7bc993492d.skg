@@ -1,0 +1,8 @@
+title: .ebextensions/django.config, containing this
+pid: 953921de-0b70-4d12-9080-5c7bc993492d
+body: |2-
+  ```
+      option_settings:
+        aws:elasticbeanstalk:container:python:
+          WSGIPath: ebdjango/wsgi.py
+  ```

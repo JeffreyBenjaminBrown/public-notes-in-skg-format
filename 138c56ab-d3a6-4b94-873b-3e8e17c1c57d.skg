@@ -1,0 +1,7 @@
+title: label a partition
+pid: 138c56ab-d3a6-4b94-873b-3e8e17c1c57d
+body: |2-
+  tag name rename label relabel
+contains:
+- 3692e157-997a-462e-9bc2-18480d863edf
+- a9a69998-d8ec-409a-a774-ad02fd6d12f8

@@ -1,0 +1,6 @@
+title: Make the diff readable.
+pid: 098bbd69-ba3a-4237-a43d-8d839f726e5d
+body: |2-
+  This could simply involve substituting
+  (or adding) the text fields
+  wherever the UID fields appear.

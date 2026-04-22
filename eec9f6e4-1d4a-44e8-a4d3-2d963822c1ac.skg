@@ -1,0 +1,4 @@
+title: in top or htop, look for user `nixbld`
+pid: eec9f6e4-1d4a-44e8-a4d3-2d963822c1ac
+body: |2-
+  NixOS building something

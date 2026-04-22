@@ -1,0 +1,4 @@
+title: avlid Javascript runs identically as Typescript
+pid: 090460c0-f55a-4664-a691-81b4ec4fe7f1
+body: |2-
+  "even if TypeScript thinks that the code has type errors"

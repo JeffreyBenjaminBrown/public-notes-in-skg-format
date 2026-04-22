@@ -1,0 +1,10 @@
+title: Update = Delete + Insert
+pid: 06c69685-38ef-41fe-9ee0-39cda902c78b
+body: |2-
+  match
+    $p isa person, has full-name $n;
+    $n contains "inappropriate word";
+  delete
+    $p has $n;
+  insert
+    $p has full-name "deleted";

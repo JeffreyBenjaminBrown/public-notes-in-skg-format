@@ -1,0 +1,7 @@
+title: It's in my nixos-experiments repo
+pid: 73ade74d-f5a8-4a7a-b55e-b87f750ad9bf
+body: |2-
+  ~/nix/jbb/config/imperative.sh
+  (That's "imperative.sh" in my repo
+    git@github.com:JeffreyBenjaminBrown/nixos-experiments.git
+  )

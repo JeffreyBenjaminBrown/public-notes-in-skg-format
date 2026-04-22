@@ -1,0 +1,10 @@
+title: Make some discrete paths through those links,
+pid: b63337cf-1fcb-4497-bc7d-1de24669adc9
+body: |2-
+  each as many documents deep as you like,
+  by starting at STARTING POINT,
+  and choose the target of a hyperlink from each node
+  to generate the path's next node.
+  Use tools/create_claude_view.py
+  to generate a view of each file that includes backlinks,
+  and read that, rather than the raw file.

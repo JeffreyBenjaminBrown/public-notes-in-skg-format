@@ -1,0 +1,5 @@
+title: Read up to the nearest parent line. Siblings should be closed.
+pid: 3e1a1894-b881-4738-89b7-1cc1dd7cd4e9
+body: |2-
+  They should contain only further-indented stuff.
+  If they don't the algorithm can misplace this row.

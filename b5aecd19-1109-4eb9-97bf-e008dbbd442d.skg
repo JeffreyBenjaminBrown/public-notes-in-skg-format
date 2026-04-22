@@ -1,0 +1,5 @@
+title: In both cases
+pid: b5aecd19-1109-4eb9-97bf-e008dbbd442d
+body: |2-
+  (at least if I then start up everything gently -- having killed a2jmidid and qjackctl, I restart the former, then the latter)
+  Reaper acts like it's playing -- the playhead moves, and the volume meter dances -- but no sound comes out of the speakers. Youtube still makes sound. And if I rebuild the config again without either of the offending passages, Reaper plays normally -- but with the lag I'm trying to get rid of.

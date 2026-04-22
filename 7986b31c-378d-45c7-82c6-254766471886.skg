@@ -1,0 +1,5 @@
+title: 'the trick: escape the bar'
+pid: 7986b31c-378d-45c7-82c6-254766471886
+body: |2-
+  use \|
+  as in "x\|y"

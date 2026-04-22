@@ -1,0 +1,5 @@
+title: '`panic!`, a macro, is for unrecoverable errors.'
+pid: 8a3696b4-90d0-4db0-b514-63a9034a557f
+contains:
+- b286feb7-7609-40c9-a698-19dc56c2dc6a
+- 0f8c66c2-0c82-4bee-8d47-eb76bab3f50b

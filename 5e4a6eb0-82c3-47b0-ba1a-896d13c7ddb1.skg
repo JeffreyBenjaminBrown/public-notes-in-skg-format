@@ -1,0 +1,51 @@
+title: playground -- test the commands here
+pid: 5e4a6eb0-82c3-47b0-ba1a-896d13c7ddb1
+body: |2-
+  [ a b_c + d 0
+      [ a b_c + d 1
+          [ a b_c + d 2 ]
+          [ b_c a + d 3 ]
+          [ a b_c + d 4 ]
+          a b_c + d 5 ]
+      [ a b_c + d
+          [ a b_c + d ]
+          [ a b_c + d ]
+          [ a b_c + d ]
+          a b_c + d ]
+      a b_c + d ]
+  ( a b_c + d
+      ( a b_c + d
+          ( a b_c + d )
+          ( a b_c + d )
+          ( a b_c + d )
+          a b_c + d )
+      ( a b_c + d
+          ( a b_c + d )
+          ( a b_c + d )
+          ( a b_c + d )
+          a b_c + d )
+      a b_c + d )
+  ( a b_c + d
+      ( a b_c + d
+          ( a b_c + d )
+          ( a b_c + d )
+          ( a b_c + d )
+          a b_c + d )
+      ( a b_c + d
+          ( a b_c + d )
+          ( a b_c + d )
+          ( a b_c + d )
+          a b_c + d )
+      a b_c + d )
+  ( a b_c + d
+      ( a b_c + d
+          ( a b_c + d )
+          ( a b_c + d )
+          ( a b_c + d )
+          a b_c + d )
+      ( a b_c + d
+          ( a b_c + d )
+          ( a b_c + d )
+          ( a b_c + d )
+          a b_c + d )
+      a b_c + d )

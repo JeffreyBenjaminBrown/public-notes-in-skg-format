@@ -1,0 +1,4 @@
+title: '"If t is a function type (t1->t2) with t1 a record type of fields t’1..t’n, and v is a projection on field i: confirm that t2 = t’"'
+pid: 998ac6dd-98d7-4c7a-814d-cb97021033b8
+body: |2-
+  It sounds like this is saying that a function meant to apply to something with, say, *both* hands and feet can apply to anything with *either* hands or feet. Am I reading it wrong?

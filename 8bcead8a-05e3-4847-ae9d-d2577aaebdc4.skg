@@ -1,0 +1,10 @@
+title: 'Implementation declarations can themselves have constraints. To help with resolution, the arguments of an implementation must be constructors (either data or type constructors) or variables (i.e. you cannot give an implementation for a function). For example, to define a Show implementation for vectors, we need to know that there is a Show implementation for the element type, because we are going to use it to convert each element to a String:'
+pid: 8bcead8a-05e3-4847-ae9d-d2577aaebdc4
+body: |2-
+  Show a => Show (Vect n a) where
+      show xs = "[" ++ show' xs ++ "]" where
+          show' : forall n . Vect n a -> String
+          show' Nil        = ""
+          show' (x :: Nil) = show x
+          show' (x :: xs)  = show x ++ ", " ++ show' xs
+  Note that we need the explicit forall n . in the show' function because otherwise the n is already in scope, and fixed to the value of the top level n.

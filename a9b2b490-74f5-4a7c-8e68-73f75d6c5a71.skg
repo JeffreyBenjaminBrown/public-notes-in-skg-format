@@ -1,0 +1,4 @@
+title: I can't use "muffle" in superpiano
+pid: a9b2b490-74f5-4a7c-8e68-73f75d6c5a71
+body: |2-
+  even though I added "muffle" to the parameters in "bin/generate-params.hs" and regenerated them

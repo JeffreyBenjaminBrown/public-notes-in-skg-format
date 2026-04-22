@@ -1,0 +1,4 @@
+title: show as many columns as screen permits
+pid: 54264559-6cf9-41d5-82bb-46348872caad
+body: |2-
+  pd.options.display.width = 5000

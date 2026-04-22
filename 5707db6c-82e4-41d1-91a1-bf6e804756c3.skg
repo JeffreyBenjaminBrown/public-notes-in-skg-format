@@ -1,0 +1,9 @@
+title: DAI (stablecoin)
+pid: 5707db6c-82e4-41d1-91a1-bf6e804756c3
+contains:
+- 3d0f9c03-40f7-48cc-9e3b-e204bbd5e726
+- 325656a9-5a75-4089-995e-89c9f30bf3e1
+- ff5c3fa2-79b9-4321-b6ba-c89c06e6ec2f
+- 1197a703-a327-4def-8f9a-fd07054a01b8
+misc:
+- Had_ID_Before_Import

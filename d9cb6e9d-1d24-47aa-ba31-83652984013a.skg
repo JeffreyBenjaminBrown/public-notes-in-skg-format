@@ -1,0 +1,7 @@
+title: 'trunc n : play only the first nth'
+pid: d9cb6e9d-1d24-47aa-ba31-83652984013a
+body: |2-
+  takes a fraction in [0,1] and truncates the second argument that way
+contains:
+- 0fce435b-664c-45c3-83ec-e7943d7875db
+- 628724f1-30bc-4e67-8ee3-7cffd145f9fb

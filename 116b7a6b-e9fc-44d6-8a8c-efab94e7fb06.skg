@@ -1,0 +1,4 @@
+title: Verify there's only one generation left
+pid: 116b7a6b-e9fc-44d6-8a8c-efab94e7fb06
+body: |2-
+  sudo nix-env -p /nix/var/nix/profiles/system --list-generations

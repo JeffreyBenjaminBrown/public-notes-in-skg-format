@@ -1,0 +1,6 @@
+title: .output changes the destination of output.
+pid: efdb7f15-2ed9-47ce-92f3-7f7712a4908f
+body: |2-
+  Ordinarily it writes to stdout.
+contains:
+- bd8eb06f-4ab7-4668-b6a8-6826b0506212

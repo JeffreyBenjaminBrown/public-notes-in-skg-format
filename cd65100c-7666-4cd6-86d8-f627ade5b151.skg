@@ -1,0 +1,8 @@
+title: instances
+pid: cd65100c-7666-4cd6-86d8-f627ade5b151
+body: |2-
+  instance Ord k => At (Set k)
+  instance Ord a => Contains (Set a)
+  instance Ord k => Ixed (Set k)
+  type instance Index (Set a) = a
+  type instance IxValue (Set k) = ()

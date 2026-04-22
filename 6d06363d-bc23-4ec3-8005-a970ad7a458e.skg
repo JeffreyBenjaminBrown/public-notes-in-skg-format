@@ -1,0 +1,6 @@
+title: You will need to resurrect old versions of the code.
+pid: 6d06363d-bc23-4ec3-8005-a970ad7a458e
+body: |2-
+  At some point you will need to study an earlier version of your code. It happens to everybody, no matter how smart they are, no matter how thorough their plans. When it happens, you will wish you had a verbal record of what distinguishes one version of the code from the next. The "git comment" which you are forced to write every time you "git commit" a set of changes to your code is good for this.
+
+  You won't just want any old version of the code. You'll want a very specific version of the code, after a bunch of good changes, and before some bad change. Without version control, you might have some old versions, with some informative names like "version 1" and 'version 2". But with version control you'll actually be able to determine the difference between snapshots of the code, and isolate exactly the one you want.

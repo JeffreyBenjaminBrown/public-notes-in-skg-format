@@ -1,0 +1,6 @@
+title: Pianoteq is the only .lv2 plugin installed in ~/.lv2
+pid: 715a5556-a6cc-4965-9517-79bb9366bce2
+body: |2-
+  I don't know where the others are,
+  but they were installed via my NixOS config,
+  rather than manually like Pianoteq.

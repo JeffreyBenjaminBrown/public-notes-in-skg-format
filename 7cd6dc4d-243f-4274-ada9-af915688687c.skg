@@ -1,0 +1,5 @@
+title: how it arises
+pid: 7cd6dc4d-243f-4274-ada9-af915688687c
+body: |2-
+  cp and mv can both cause this error,
+  if they're moving a lot of files.

@@ -1,0 +1,5 @@
+title: a way to print all extant synthdefs and effects
+pid: 97f0bef8-4d7e-48f6-9ca1-887b2cf7a287
+body: |2-
+  tag show list
+  https://club.tidalcycles.org/t/print-tidals-synths-and-fx/4798

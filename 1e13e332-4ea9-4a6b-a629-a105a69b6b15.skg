@@ -1,0 +1,4 @@
+title: plugin
+pid: 1e13e332-4ea9-4a6b-a629-a105a69b6b15
+body: |2-
+  structure for a rebar3 plugin.

@@ -1,0 +1,4 @@
+title: Methods can be called from receivers using dot notation.
+pid: b802f7ec-a884-450a-8256-c3c70c844f4b
+body: |2-
+  receiver.method (...)

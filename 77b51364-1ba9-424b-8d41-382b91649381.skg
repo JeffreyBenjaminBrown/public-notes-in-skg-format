@@ -1,0 +1,5 @@
+title: Tiny Core might be the smallest.
+pid: 77b51364-1ba9-424b-8d41-382b91649381
+body: |2-
+  It's hard to use but it's the fastest, running entirely in RAM.
+  Not part of NixOS.

@@ -1,0 +1,4 @@
+title: Two processes can both monitor each other.
+pid: e436fc7b-08f2-4217-abee-bc02fa67d1a7
+body: |2-
+  If either fails, the other will be notified, but not taken down.

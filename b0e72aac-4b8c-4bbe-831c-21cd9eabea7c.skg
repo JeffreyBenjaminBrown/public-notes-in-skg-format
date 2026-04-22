@@ -1,0 +1,5 @@
+title: syntax
+pid: b0e72aac-4b8c-4bbe-831c-21cd9eabea7c
+body: |2-
+  supervisor:start_child(
+    Supervisor_PID, ChildSpec)

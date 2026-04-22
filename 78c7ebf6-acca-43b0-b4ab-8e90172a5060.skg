@@ -1,0 +1,12 @@
+title: step 4 - define a monad over a specialization of the type
+pid: 78c7ebf6-acca-43b0-b4ab-8e90172a5060
+body: |2-
+  data PeerError = ServerDisconnected
+                 | ServerTimeout
+                 | InvalidPeerState deriving (Show)
+  data PeerState = PeerState { peers :: [Peer]
+                             , listenPort: Port
+                             , peerId :: String  }
+  type DcPeerOperator = DcNodeOperator PeerState PeerError
+  type DcPeer =  -- this define the Monad instance
+    Free DcPeerOperator

@@ -1,0 +1,8 @@
+title: print a thing's type or value
+pid: 8ac52234-b0a1-4b0e-9846-2b028313dd6d
+body: |2-
+  Use %T or %v in a function from the `fmt` package:
+
+  func describe(i I) {
+    fmt.Printf("(%v, %T)\n", i, i)
+  }

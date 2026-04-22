@@ -1,0 +1,8 @@
+title: A Form's fields are themselves classes.
+pid: 7b1b5600-a258-45c4-8b4e-cce1b5e1249a
+body: |2-
+  """
+  they manage form data and perform
+  validation when a form is submitted. A DateField and a FileField handle very
+  different kinds of data and have to do different things with it.
+  """

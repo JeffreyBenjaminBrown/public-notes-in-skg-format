@@ -1,0 +1,4 @@
+title: how to cut through the boilerplate in Vivid.Hode?
+pid: 3aa1ba4c-6a1e-43ec-9c3a-64e5a0b169d6
+body: |2-
+  HExpr helped, but there ought to be a way to build all those functions from a single HExprF.

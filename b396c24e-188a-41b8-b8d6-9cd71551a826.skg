@@ -1,0 +1,5 @@
+title: use lists in some places for fusion, short-circuiting, instead of maps, sets
+pid: b396c24e-188a-41b8-b8d6-9cd71551a826
+body: |2-
+  Example: mapping over a map, and then looking for lefts, is slower than turning the map into a list, mapping over the list, and short-circuiting at the first Left.
+  hExprToAddrs (the Hash language find routine) called on the HMap constructor, for instance, does this.

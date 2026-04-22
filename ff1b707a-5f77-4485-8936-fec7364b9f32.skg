@@ -1,0 +1,6 @@
+title: When entering notes, Velocity has hysteresis.
+pid: ff1b707a-5f77-4485-8936-fec7364b9f32
+body: |2-
+  "The default Velocity value for notes created in the MIDI Editor is taken from the last selected event"
+misc:
+- Had_ID_Before_Import

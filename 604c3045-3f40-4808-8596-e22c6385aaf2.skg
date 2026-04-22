@@ -1,0 +1,7 @@
+title: They resemble case expressions.
+pid: 604c3045-3f40-4808-8596-e22c6385aaf2
+body: |2-
+  if <case> -> <result>;
+     <case> -> <result>;
+     ...
+  end.

@@ -1,0 +1,7 @@
+title: this probably works
+pid: 6927e39c-0ba3-4b07-9f62-f5c36c0e12ec
+body: |2-
+  There's a VST_PATH shell variable,
+  so probably the same procedure works for VST
+  as [[id:6fafebf2-4a90-4f75-8b5d-a6593dc515f0][the procedure for LV2]],
+  changing each instance of the string VST to the string LV2.

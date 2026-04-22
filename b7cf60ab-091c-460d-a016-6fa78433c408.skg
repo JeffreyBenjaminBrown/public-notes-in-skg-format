@@ -1,0 +1,8 @@
+title: 'QSeq: speed when asking for multiple variables that determined a given one'
+pid: b7cf60ab-091c-460d-a016-6fa78433c408
+body: |2-
+  For varPossibilities, just use the unconditional found values.
+  For the input-output criteria, just use VarTest.
+contains:
+- d09861ea-fe23-4683-ade0-1b9fef36b585
+- db33ef8f-b100-4b23-b05f-dbe442b9876c

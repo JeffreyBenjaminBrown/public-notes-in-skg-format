@@ -1,0 +1,9 @@
+title: it's still content
+pid: 69191fe3-5b73-4587-ac40-ede846083b50
+body: |2-
+  For each formerly-and-still-content child,
+  if it was present in the saved image,
+  although its order among its brothers may have changed,
+  restore its content,
+  because it might have containerward paths, aliases, etc.
+  that would otherwise not be rendered.

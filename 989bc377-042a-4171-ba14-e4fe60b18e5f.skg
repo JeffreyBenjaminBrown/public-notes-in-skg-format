@@ -1,0 +1,6 @@
+title: DONE Attributes are not unique per owner!
+pid: 989bc377-042a-4171-ba14-e4fe60b18e5f
+body: |2-
+  This suggests they aren't:
+  "A person can have more than one attribute of type full-name. Every instance of attribute will get to the results."
+  https://typedb.com/docs/typedb/2.x/development/best

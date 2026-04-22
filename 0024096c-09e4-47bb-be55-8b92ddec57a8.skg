@@ -1,0 +1,5 @@
+title: closed [] ranges
+pid: 0024096c-09e4-47bb-be55-8b92ddec57a8
+body: |2-
+  1..3
+  includes both endpoints.

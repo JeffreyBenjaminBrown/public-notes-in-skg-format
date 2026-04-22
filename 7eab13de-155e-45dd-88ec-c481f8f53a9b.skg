@@ -1,0 +1,7 @@
+title: TODO ? use lists rather than sets until needed
+pid: 7eab13de-155e-45dd-88ec-c481f8f53a9b
+body: |2-
+  e.g. in HExprToAddrs, or the RLookup functions.
+  That is, unless set fusion works as well.
+contains:
+- b396c24e-188a-41b8-b8d6-9cd71551a826

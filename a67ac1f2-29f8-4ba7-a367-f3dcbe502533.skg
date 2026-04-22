@@ -1,0 +1,6 @@
+title: Not polymorphic, because
+pid: a67ac1f2-29f8-4ba7-a367-f3dcbe502533
+body: |2-
+  a setting list does not have to be the same length as the original:
+  if it's shorter, the other elements are kept.
+  (If it's longer, the extra elements are ignored.)

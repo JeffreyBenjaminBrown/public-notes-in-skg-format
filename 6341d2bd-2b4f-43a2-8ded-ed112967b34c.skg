@@ -1,0 +1,7 @@
+title: extend graph language
+pid: 6341d2bd-2b4f-43a2-8ded-ed112967b34c
+body: |2-
+  parameters (on, amp)
+  functions
+  function patterns
+  scale patterns

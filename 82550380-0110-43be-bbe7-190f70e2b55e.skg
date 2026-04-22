@@ -1,0 +1,9 @@
+title: unit-interval Rational patterns
+pid: 82550380-0110-43be-bbe7-190f70e2b55e
+body: |2-
+  No new definitions needed --
+    fmap (/ 10) "0 2 5 10 15"
+  The result can then be multiplied by the number of scale degrees,
+  even as the scale varies.
+  Then quantized to an integer.
+  Then harmony rules applied, ala adjustVoices and avoidDiffsMod.

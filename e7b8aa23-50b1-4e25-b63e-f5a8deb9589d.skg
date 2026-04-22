@@ -1,0 +1,4 @@
+title: the condition
+pid: e7b8aa23-50b1-4e25-b63e-f5a8deb9589d
+body: |2-
+  "you need to specify lifetime parameters for functions or structs that use references"

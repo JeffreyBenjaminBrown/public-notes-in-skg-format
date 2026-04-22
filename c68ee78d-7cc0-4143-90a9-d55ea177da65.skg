@@ -1,0 +1,14 @@
+title: '19\50 x 2\50: 25-edo frets, octavess (2,6) and (4,-13), 13-limit 2x8'
+pid: c68ee78d-7cc0-4143-90a9-d55ea177da65
+body: |2-
+  [ 0 steps; 1 % 1 ; string 0 ; fret 0
+  , 50 steps; 2 % 1 ; string 2 ; fret 6
+  , 29 steps; 3 % 2 ; string 1 ; fret 5
+  , 16 steps; 5 % 4 ; string 0 ; fret 8
+  , 40 steps; 7 % 4 ; string 2 ; fret 1
+  , 8 steps; 9 % 8 ; string 0 ; fret 4
+  , 23 steps; 11 % 8 ; string 1 ; fret 2
+  , 35 steps; 13 % 8 ; string 1 ; fret 8
+  , 45 steps; 15 % 8 ; string 1 ; fret 13
+misc:
+- Had_ID_Before_Import

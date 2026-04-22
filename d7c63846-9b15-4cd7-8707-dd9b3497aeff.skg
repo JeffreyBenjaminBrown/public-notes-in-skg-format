@@ -1,0 +1,5 @@
+title: TODO ? define not just Sets, but Set-valued functions of Substs
+pid: d7c63846-9b15-4cd7-8707-dd9b3497aeff
+body: |2-
+  Example (for a singleton Subst): define "ancestors-via-is" as a function of a Var v: It finds everything v' such that (v is v') or (v' is v), then every v'' such that (v'' is v') or (v' is v'') for one of the v's, etc.
+  This allows the set-valued function of v to be referred to by subsequent Queries, without having to recompute the set.

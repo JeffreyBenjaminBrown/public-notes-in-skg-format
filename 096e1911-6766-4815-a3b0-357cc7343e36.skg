@@ -1,0 +1,10 @@
+title: IO
+pid: 096e1911-6766-4815-a3b0-357cc7343e36
+body: |2-
+  >  sequenceA ([pure 1, pure 2, pure 3] :: [IO Int]) >>= print
+  [1,2,3]
+
+  > x <- sequenceA $ [putStrLn "1" >> return 1, return 2]
+  1
+  > x
+  [1,2]

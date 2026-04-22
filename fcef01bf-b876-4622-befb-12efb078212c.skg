@@ -1,0 +1,14 @@
+title: this code screws up
+pid: fcef01bf-b876-4622-befb-12efb078212c
+body: |2-
+  p1 = mm 1 $ pre3 "a" [ (0, 1.5, m1 "freq" 300),
+                         (0.5, 1, m1 "on" 0 ) ]
+  p2 = mm 1 $ pre3 "b" [ (0, 1.5, m1 "freq" 360) ]
+  p3 = mm 2 $ pre3 "c" [ (0, 1, m1 "freq" 450),
+                         (1, 2, m1 "on" 0) ]
+
+  chAll $ mfl [ ("1", nBoop $ insertOns p2) ]
+  chAll $ mfl [ ("1", nBoop $ insertOns p3) ]
+  chAll $ mfl [
+    ("1", nBoop $ insertOns $ cat [p1, p2] ),
+    ("2", nBoop $ insertOns p3) ]

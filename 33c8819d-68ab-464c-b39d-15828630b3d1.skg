@@ -1,0 +1,4 @@
+title: how
+pid: 33c8819d-68ab-464c-b39d-15828630b3d1
+body: |2-
+  magick x.pdf y.bmp z.png output.pdf

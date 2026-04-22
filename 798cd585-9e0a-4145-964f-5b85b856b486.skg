@@ -1,0 +1,5 @@
+title: The table's "Projects a matching field from a union" description appears incomplete.
+pid: 798cd585-9e0a-4145-964f-5b85b856b486
+body: |2-
+  Later you clarify that case statements might run two kinds of tests; this is only one of them.
+  Is full-on pattern matching, ala Haskell or (arguably better) Erlang, on the table?

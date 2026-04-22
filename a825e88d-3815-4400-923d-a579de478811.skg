@@ -1,0 +1,11 @@
+title: atomic datatypes, not part of the schema
+pid: a825e88d-3815-4400-923d-a579de478811
+body: |2-
+  https://typedb.com/docs/typedb/2.x/fundamentals/patterns
+  long
+  double
+  boolean
+  string
+  datetime
+misc:
+- Had_ID_Before_Import

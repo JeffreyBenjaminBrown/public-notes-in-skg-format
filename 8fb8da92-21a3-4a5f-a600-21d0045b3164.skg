@@ -1,0 +1,2 @@
+title: The rx.recv call produces a future, which we await. The runtime will pause the future until it is ready. Once a message arrives, the future will resolve to Some(message) as many times as a message arrives. When the channel closes, regardless of whether any messages have arrived, the future will instead resolve to None to indicate that there are no more values and thus we should stop polling—that is, stop awaiting.
+pid: 8fb8da92-21a3-4a5f-a600-21d0045b3164

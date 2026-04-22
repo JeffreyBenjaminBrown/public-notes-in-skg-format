@@ -1,0 +1,5 @@
+title: my search, and results
+pid: 569c3480-cdf1-4bf5-bf85-ffb243233ea6
+body: |2-
+  It's not in etc, opt, usr or var.
+  sudo find etc opt usr var -name "Default.profile" > ~/no-errors-plz.txt

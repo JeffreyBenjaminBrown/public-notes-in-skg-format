@@ -1,0 +1,7 @@
+title: Define a struct
+pid: 70e0f647-3055-457f-a8e7-8202ca3a6b86
+body: |2-
+  type Vertex struct {
+      X int
+      Y int
+  }

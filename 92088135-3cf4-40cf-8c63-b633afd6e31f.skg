@@ -1,0 +1,6 @@
+title: TODO It would be easy to determine whether [[id:a71765b8-3daa-4866-abe4-77eb185b9e3b][these]] matter
+pid: 92088135-3cf4-40cf-8c63-b633afd6e31f
+body: |2-
+  By running this experiment:
+  Hide my ~/.aws folder and try running aws cli commands.
+  (It just might require restarting the Phanaeros services after replacing the .aws folder.)

@@ -1,0 +1,4 @@
+title: It is often handy to 'fold' an org node.
+pid: 87ea4921-f6eb-4ff7-8eb7-977f3e08efdc
+body: |2-
+  'fold' is Emacs-speak for 'hide the body and children of'.

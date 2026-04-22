@@ -1,0 +1,4 @@
+title: 'PITFALL: Relationship definitions do not specify what types can be members.'
+pid: 707f5be4-c3fd-42fa-843f-bbaab0cf5d46
+body: |2-
+  That's defined in statments that define entities.

@@ -1,0 +1,6 @@
+title: '`opaque` lets a public type''s fields and constructors be private.'
+pid: daf37244-02ae-4c67-b5c9-06da35d684f1
+body: |2-
+  pub opaque type Counter {
+    Counter(value: Int)
+  }

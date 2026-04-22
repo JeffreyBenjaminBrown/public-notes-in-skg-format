@@ -1,0 +1,4 @@
+title: I would like the visible name of a private link to depend on whether the view has access to the private repo.
+pid: 0877e954-1f35-494a-80f4-b8ad3ed45a10
+body: |2-
+  Seems like the name of it if you have access has to be kept in the private repo. Thus nodes should under some circumstances dictate what other nodes call them.

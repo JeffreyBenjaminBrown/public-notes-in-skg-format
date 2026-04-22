@@ -1,0 +1,5 @@
+title: Save a (time, root, pitch set) dataset.
+pid: 795c2791-7a09-439e-aecc-28f65df2247b
+body: |2-
+  where root is a monoid,
+  i.e. silence is one value

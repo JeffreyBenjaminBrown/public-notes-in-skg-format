@@ -1,0 +1,7 @@
+title: code
+pid: 779f34bd-5e8d-450a-85ec-30d03db30f66
+body: |2-
+  x.to_csv (
+    "x.csv",
+    mode = "a", # append
+    header = False )

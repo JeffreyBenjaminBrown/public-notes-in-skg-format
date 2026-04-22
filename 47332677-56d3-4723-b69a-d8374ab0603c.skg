@@ -1,0 +1,8 @@
+title: how to pass [[id:3b573192-daa3-48f5-81fc-9f0b97100d78][query parameters]] in Django's `render`
+pid: 47332677-56d3-4723-b69a-d8374ab0603c
+body: |2-
+  return render ( request,
+                  "run_make/thank_for_spec.html",
+                  { "subsample" : subsample,
+                    "user_email" :  user_email,
+                   } )

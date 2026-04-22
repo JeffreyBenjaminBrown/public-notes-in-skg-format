@@ -1,0 +1,7 @@
+title: 'PITFALL: Apache does two jobs.'
+pid: 4eb48c5e-cef8-41d6-b47d-395407250189
+body: |2-
+  It serves static pages *and* Django pages.
+contains:
+- fb435675-8435-4864-91e8-0c3b7e0cb085
+- 66f69bef-61e6-4347-bbb1-dfbb95581b26

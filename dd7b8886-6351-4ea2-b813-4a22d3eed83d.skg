@@ -1,0 +1,37 @@
+title: when I press start in it, I get this
+pid: dd7b8886-6351-4ea2-b813-4a22d3eed83d
+body: |2-
+  01:08:22.192 JACK is starting...
+  01:08:22.192 /run/current-system/sw/bin/jackd -dalsa -dhw:0 -r48000 -p1024 -n2
+  Cannot connect to server socket err = No such file or directory
+  Cannot connect to server request channel
+  jack server is not running or cannot be started
+  JackShmReadWritePtr::~JackShmReadWritePtr - Init not done for -1, skipping unlock
+  JackShmReadWritePtr::~JackShmReadWritePtr - Init not done for -1, skipping unlock
+  01:08:22.199 JACK was started with PID=2163.
+  no message buffer overruns
+  no message buffer overruns
+  no message buffer overruns
+  jackdmp 1.9.12
+  Copyright 2001-2005 Paul Davis and others.
+  Copyright 2004-2016 Grame.
+  Copyright 2016-2017 Filipe Coelho.
+  jackdmp comes with ABSOLUTELY NO WARRANTY
+  This is free software, and you are welcome to redistribute it
+  under certain conditions; see the file COPYING for details
+  JACK server starting in realtime mode with priority 10
+  self-connect-mode is "Don't restrict self connect requests"
+  audio_reservation_init
+  Acquire audio card Audio0
+  creating alsa driver ... hw:0|hw:0|1024|2|48000|0|0|nomon|swmeter|-|32bit
+  configuring for 48000Hz, period = 1024 frames (21.3 ms), buffer = 2 periods
+  ALSA: final selected sample format for capture: 32bit integer little-endian
+  ALSA: use 2 periods for capture
+  ALSA: final selected sample format for playback: 32bit integer little-endian
+  ALSA: use 2 periods for playback
+  01:08:24.323 JACK connection change.
+  01:08:24.323 Server configuration saved to "/home/jeff/.jackdrc".
+  01:08:24.323 Statistics reset.
+  01:08:24.337 Client activated.
+  01:08:24.337 Patchbay deactivated.
+  01:08:24.367 JACK connection graph change.

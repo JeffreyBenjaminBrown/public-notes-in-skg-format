@@ -1,0 +1,6 @@
+title: a link could have a personal and public title
+pid: c827203c-7456-4f17-baab-58f204c8804b
+body: |2-
+  that is, not the target, which obviously can have lots of both,
+  but rather the apearance of the link source depends on context --
+  whether the user is in public or personal mode

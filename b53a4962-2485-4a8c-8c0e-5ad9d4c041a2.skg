@@ -1,0 +1,8 @@
+title: 'step 4: test'
+pid: b53a4962-2485-4a8c-8c0e-5ad9d4c041a2
+body: |2-
+    Links like this should now work:
+  ```
+  http://jefbrown.net
+  http://www.jefbrown.net
+  ```

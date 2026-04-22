@@ -1,0 +1,7 @@
+title: linking to a non-existent process
+pid: 6362bbe3-2841-4bcb-8d94-7dd26a008258
+body: |2-
+  causes an exit signal, {'EXIT',From,noproc},
+  to be automatically generated.
+  It is as if the process terminated immediately
+  after the link operation.

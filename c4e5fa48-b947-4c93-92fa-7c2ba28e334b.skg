@@ -1,0 +1,4 @@
+title: Run from the shell, `jack_bufsize` always gives 1024.
+pid: c4e5fa48-b947-4c93-92fa-7c2ba28e334b
+body: |2-
+  regardless of how I change it in QJackCtl.

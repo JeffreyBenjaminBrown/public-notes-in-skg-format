@@ -1,0 +1,9 @@
+title: an example
+pid: 31e03d75-5ef0-4179-b489-612581dce4dc
+body: |2-
+  greet(male, Name) ->
+    io:format("Hello, Mr. ~s!", [Name]);
+  greet(female, Name) ->
+    io:format("Hello, Mrs. ~s!", [Name]);
+  greet(_, Name) ->
+    io:format("Hello, ~s!", [Name]).

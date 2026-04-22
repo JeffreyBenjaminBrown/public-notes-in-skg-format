@@ -1,0 +1,6 @@
+title: Sets are indexable!
+pid: f81da9c9-6a3c-4dd2-9fcc-ddb556d5debb
+body: |2-
+  They are like maps with () as the value type.
+contains:
+- cd65100c-7666-4cd6-86d8-f627ade5b151

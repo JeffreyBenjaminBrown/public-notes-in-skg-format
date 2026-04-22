@@ -1,0 +1,17 @@
+title: example code
+pid: 50faeed0-b515-495c-87a8-798abc9faffc
+body: |2-
+  type DcPeerIO :: StateT (PeerState) IO
+    -- newtype StateT s m a = StateT { runStateT :: s -> m (a,s) }
+
+  peerInterpreter :: DcPeerOperator (DcPeerIO next) -> DcPeerIO next
+  peerInterpreter (GetUserInput next) = do
+    userInput <- liftIO getLine
+    next userInput
+  peerInterpreter (GetState next) = get >>= next
+  peerInterpreter (DisplayMessage m next) = do
+    liftIO $ putStrLn m
+    next
+  peerInterpreter (GetRandomInt max next) = do
+    num <- liftIO $ getRandomNumber max
+    next num

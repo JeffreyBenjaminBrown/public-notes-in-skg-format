@@ -1,0 +1,14 @@
+title: The user can choose to prefer a side, and with what consequences.
+pid: 378df588-4f93-4a31-b6e8-3bed79976e8e
+body: |2-
+  The updating user might prefer a side only for purposes
+  of defining what it means for a node "to have vanished".
+
+  Beyond that, they could choose to automatically delete
+  graph targets (references) or content (imports)
+  that vanished in the preferred
+  or even to also (but not to only)
+  delete a whole node automatically
+  if it is only in the less-preferred data.
+misc:
+- Had_ID_Before_Import

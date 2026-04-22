@@ -1,0 +1,15 @@
+title: upload permissions
+pid: 0a8fff64-4147-4514-af3c-724f4e6c8250
+body: |2-
+  ???
+
+  """
+  By default, collected files receive permissions from
+  FILE_UPLOAD_PERMISSIONS and collected directories receive permissions from
+  FILE_UPLOAD_DIRECTORY_PERMISSIONS. If you would like different
+  permissions for these files and/or directories, you can subclass either of the
+  static files storage classes and specify the file_permissions_mode and/or
+  directory_permissions_mode parameters, respectively. For example:
+  """
+misc:
+- Had_ID_Before_Import

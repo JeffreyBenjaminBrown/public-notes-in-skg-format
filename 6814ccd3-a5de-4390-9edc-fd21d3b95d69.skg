@@ -1,0 +1,4 @@
+title: can bind the entire set argument to a name
+pid: 6814ccd3-a5de-4390-9edc-fd21d3b95d69
+body: |2-
+  { x, y } @ args: x + y

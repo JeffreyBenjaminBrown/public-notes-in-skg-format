@@ -1,0 +1,6 @@
+title: Avoid containment cycles.
+pid: 740c4bc7-da18-46d3-ba79-11dc6887c176
+body: |2-
+  Rooty containers should be link targets, not content.
+  This avoids cycles,
+  lets us stop searching containerward at a good place.

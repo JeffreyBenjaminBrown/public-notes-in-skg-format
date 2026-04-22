@@ -1,0 +1,12 @@
+title: 18\136 x 5\136
+pid: e2411a82-3974-4979-92c1-e7c2a62c5342
+body: |2-
+  000 steps; 1  % 1; string 0; fret 0
+  023 steps; 9  % 8; string 1; fret 1
+  044 steps; 5  % 4; string 3; fret -2
+  062 steps; 11 % 8; string 4; fret -2
+  080 steps; 3  % 2; string 5; fret -2
+  095 steps; 13 % 8; string 5; fret 1
+  110 steps; 7  % 4; string 5; fret 4
+  123 steps; 15 % 8; string 6; fret 3
+  136 steps; 2  % 1; string 7; fret 2

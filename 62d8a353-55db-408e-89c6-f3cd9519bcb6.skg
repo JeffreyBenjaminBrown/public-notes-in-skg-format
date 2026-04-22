@@ -1,0 +1,8 @@
+title: '`or` on pattern matches'
+pid: 62d8a353-55db-408e-89c6-f3cd9519bcb6
+body: |2-
+  case number {
+    2 | 4 | 6 | 8 -> "This is an even number"
+    1 | 3 | 5 | 7 -> "This is an odd number"
+    _ -> "I'm not sure"
+  }

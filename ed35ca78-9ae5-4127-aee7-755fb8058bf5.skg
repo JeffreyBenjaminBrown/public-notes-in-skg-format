@@ -1,0 +1,7 @@
+title: max 15-limit stretch of 611 c
+pid: ed35ca78-9ae5-4127-aee7-755fb8058bf5
+body: |2-
+  That's across 9 frets, from 5:4 to 11:4:
+
+  MTV> 9 * 12 / (53 / 3)
+  6.113207547169811

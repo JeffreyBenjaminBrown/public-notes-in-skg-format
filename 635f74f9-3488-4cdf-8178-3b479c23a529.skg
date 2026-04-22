@@ -1,0 +1,9 @@
+title: what I want instead
+pid: 635f74f9-3488-4cdf-8178-3b479c23a529
+body: |2-
+  is to use a folder in my home directory of my choosing.
+  I can't figure out how to do that --
+  if I changed "typedb-data" to "./typedb-data"
+  or "/home/jeff/typedb-data"
+  I get an error like this:
+    docker: Error response from daemon: failed to create task for container: failed to create shim task: OCI runtime create failed: runc create failed: unable to start container process: exec: "/opt/typedb-all-linux-x86_64/typedb": stat /opt/typedb-all-linux-x86_64/typedb: no such file or directory:  unknown.

@@ -1,0 +1,4 @@
+title: 'PITFALL: "hz" seems to conflict with "slide"'
+pid: ddc36a33-e605-48eb-9682-c1f5f83c7d4f
+body: |2-
+  But when slide=0, hz comes through.

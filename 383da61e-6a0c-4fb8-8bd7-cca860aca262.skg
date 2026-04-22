@@ -1,0 +1,7 @@
+title: it's no longer content
+pid: 383da61e-6a0c-4fb8-8bd7-cca860aca262
+body: |2-
+  If something that was content is no longer content,
+  change its relationship to None.
+  (It will thus be rendered before the content,
+  just like everything else that is not content.)

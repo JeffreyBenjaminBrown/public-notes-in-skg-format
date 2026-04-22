@@ -1,0 +1,4 @@
+title: a quote
+pid: f2b1dfe1-a575-4914-ab35-b5d8a8adfd1c
+body: |2-
+  "similar to [[id:ce8cbd61-4465-4452-ae19-753b6a227ddd][handle_cast/2]] and in fact returns the same tuples. The difference is that this callback is only there for messages that were sent directly with the ! operator and special ones like init/1's timeout, monitors' notifications and 'EXIT' signals."

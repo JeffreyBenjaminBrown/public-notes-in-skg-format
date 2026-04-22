@@ -1,0 +1,8 @@
+title: idealy
+pid: b88411cb-3669-4a54-ab23-c4c9177c56ce
+body: |2-
+  if the collateral deposited no longer covers the outstanding debt,
+  some of the collateral is liquidated.
+  Keepers buy the collateral, using DAI.
+  That DAI repays the vault’s debt and a liquidation penalty fee.
+  Any remaining goes to the vault's owner.

@@ -1,0 +1,7 @@
+title: highlight-escape-sequences
+pid: cf2ec6b4-8690-4f00-96e8-eab570cdd6da
+body: |2-
+  Installed from MELPA; seemed to do nothing.
+  Maybe I need to customize it
+    /(e.g. maybe `M-x customize-group hes-mode`).
+  Apparently also available from GNU itself (per package-list-packages) but I don't know how to use such packages in my emacs.nix file.

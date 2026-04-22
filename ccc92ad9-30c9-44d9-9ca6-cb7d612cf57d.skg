@@ -1,0 +1,4 @@
+title: An inheritor cannot undefine anything its ancestors define.
+pid: ccc92ad9-30c9-44d9-9ca6-cb7d612cf57d
+body: |2-
+  It can, however, redefine them.

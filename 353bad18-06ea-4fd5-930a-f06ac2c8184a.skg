@@ -1,0 +1,12 @@
+title: the idea
+pid: 353bad18-06ea-4fd5-930a-f06ac2c8184a
+body: |2-
+  Suppose there is a 50% failure rate.
+  100 users send a solicitud.
+  50 of those have to send a second one.
+  25 of those have to send a third one.
+  Etc.
+  The total number of solicitudes sent is 200.
+
+  Thus, for example, reducing the error rate from 90% to 50%
+  reduces the total time cost to users by a factor of 5.

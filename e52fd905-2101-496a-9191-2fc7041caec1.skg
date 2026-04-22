@@ -1,0 +1,7 @@
+title: 'Most of my notes are in the code, esp. these files:'
+pid: e52fd905-2101-496a-9191-2fc7041caec1
+body: |2-
+  (in descending order of importance | volume of edits)
+  polls/views.py
+  polls/templates/polls/*.html
+  polls/urls.py

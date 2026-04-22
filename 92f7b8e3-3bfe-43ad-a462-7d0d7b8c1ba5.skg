@@ -1,0 +1,12 @@
+title: '6\41 x 1\41: octave 7-1, fret width 4'
+pid: 92f7b8e3-3bfe-43ad-a462-7d0d7b8c1ba5
+body: |2-
+  00 steps; 1  % 1; string 0; fret 0
+  07 steps; 9  % 8; string 1; fret 1
+  13 steps; 5  % 4; string 2; fret 1
+  19 steps; 11 % 8; string 3; fret 1
+  24 steps; 3  % 2; string 4; fret 0
+  29 steps; 13 % 8; string 5; fret -1
+  33 steps; 7  % 4; string 6; fret -3
+  37 steps; 15 % 8; string 6; fret 1
+  41 steps; 2  % 1; string 7; fret -1

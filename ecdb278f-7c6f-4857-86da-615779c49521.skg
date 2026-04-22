@@ -1,0 +1,5 @@
+title: to instantiate and realize in one step
+pid: ecdb278f-7c6f-4857-86da-615779c49521
+body: |2-
+  https://nixos.org/nixos/nix-pills/working-derivation.html#idm140737316174000
+  bash$ nix-build simple.nix

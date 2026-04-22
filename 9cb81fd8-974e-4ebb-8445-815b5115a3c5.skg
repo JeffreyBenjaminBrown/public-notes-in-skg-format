@@ -1,0 +1,7 @@
+title: boot loader
+pid: 9cb81fd8-974e-4ebb-8445-815b5115a3c5
+body: |2-
+  alternatives
+contains:
+- 2e2425cb-a3ef-4fd4-8933-a30b74aefefd
+- 0bb4a8c9-bc18-44f1-af30-0ad35f8d24e9

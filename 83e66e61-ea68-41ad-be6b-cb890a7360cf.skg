@@ -1,0 +1,7 @@
+title: verify
+pid: 83e66e61-ea68-41ad-be6b-cb890a7360cf
+body: |2-
+  , EdoTuningReport
+      { etrEdo = 65
+      , etrTuning = Edo 65 ; StringGap 11 ; FretGap 8
+      , etrArea = 30

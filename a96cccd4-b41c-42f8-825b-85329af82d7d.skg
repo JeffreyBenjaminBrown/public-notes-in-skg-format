@@ -1,0 +1,6 @@
+title: traverse generalizes sequenceA
+pid: a96cccd4-b41c-42f8-825b-85329af82d7d
+body: |2-
+  traverse :: (Traversable t, Applicative f)
+    => (a -> f b) -> t a -> f (t b)
+  traverse f t = sequenceA (fmap f t)

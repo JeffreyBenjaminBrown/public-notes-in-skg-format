@@ -1,0 +1,4 @@
+title: C-s — persp-state-save
+pid: 683d940e-f669-41cd-93fd-2b4702c1e53b
+body: |2-
+  Save all perspectives in all frames to a file

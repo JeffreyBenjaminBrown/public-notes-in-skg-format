@@ -1,0 +1,8 @@
+title: other commands
+pid: 54ec8064-aa1d-4728-a6f0-08bf084ece7b
+body: |2-
+  nmcli radio wifi on # or off
+  nmcli device set wlan0 managed yes # maybe change wlan0
+  nmcli device wifi list
+  nmcli device wifi rescan
+  nmcli device wifi connect "SSID_NAME" password "PASSWORD"

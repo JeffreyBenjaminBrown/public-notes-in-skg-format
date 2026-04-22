@@ -1,0 +1,4 @@
+title: for better magit integration
+pid: 1c264e69-6c4f-4aef-ba48-da9009562a24
+body: |2-
+  have magit display IDs as their titles

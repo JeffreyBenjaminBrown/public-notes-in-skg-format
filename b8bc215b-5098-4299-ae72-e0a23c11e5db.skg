@@ -1,0 +1,4 @@
+title: arguments in type signatures can be named
+pid: b8bc215b-5098-4299-ae72-e0a23c11e5db
+body: |2-
+  index : (i : Fin n) -> (xs : Vect n a) -> a

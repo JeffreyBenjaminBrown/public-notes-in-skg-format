@@ -1,0 +1,5 @@
+title: A view is therefore usually of many nodes at once.
+pid: 5b944bed-76b3-45da-be26-6609733edc7c
+body: |2-
+  That is, it corresponds to no single file on disk;
+  rather, each headline corresponds to a separate .skg file.

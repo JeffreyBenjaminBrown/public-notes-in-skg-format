@@ -1,0 +1,5 @@
+title: message
+pid: 39e7fb83-ffd9-41e7-890f-17978d0c4be3
+body: |2-
+  I'd like to recreate my borg repo with a different security mode. Can it be done? The documentation for `borg init`[1] states that encryption settings are fixed at creation time, and I don't see options for continuing where an earlier repo left off.
+  [1] https://borgbackup.readthedocs.io/en/stable/usage/init.html#borg-init

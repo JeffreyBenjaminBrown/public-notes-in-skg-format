@@ -1,0 +1,5 @@
+title: simplified types
+pid: 45b663c5-90fd-472f-8db7-9a41acd3f572
+body: |2-
+  elementOf :: Traversal' s a -> Int -> Traversal' s a
+  elementOf :: Fold s a       -> Int -> Fold s a

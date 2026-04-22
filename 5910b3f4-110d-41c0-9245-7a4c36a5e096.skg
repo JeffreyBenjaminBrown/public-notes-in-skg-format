@@ -1,0 +1,4 @@
+title: then make migrations for the app, and execute them
+pid: 5910b3f4-110d-41c0-9245-7a4c36a5e096
+body: |2-
+  see [[id:00520a84-5c49-4244-b8fa-27c5bdc9b1a6][Django Database Migrations]]

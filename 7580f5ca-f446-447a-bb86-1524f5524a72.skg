@@ -1,0 +1,5 @@
+title: 'AWAITS ? two kinds of SkgnodeMap: In-flux and complete.'
+pid: 7580f5ca-f446-447a-bb86-1524f5524a72
+body: |2-
+  Ideally via an abstract type:
+    Completable T = InFlux T | Complete T

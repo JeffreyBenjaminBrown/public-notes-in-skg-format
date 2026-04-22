@@ -1,0 +1,7 @@
+title: save views
+pid: 2cb2a873-e887-4f9f-b211-947c7dd537c1
+body: |2-
+  That is, don't just save to each file in the view,
+  but save the view itself.
+  Try to make the view robust to changes
+  in the files it views.

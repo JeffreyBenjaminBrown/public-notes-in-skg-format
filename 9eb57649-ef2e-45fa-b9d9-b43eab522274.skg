@@ -1,0 +1,4 @@
+title: GHC is clever enough to derive, e.g.,
+pid: 9eb57649-ef2e-45fa-b9d9-b43eab522274
+body: |2-
+  fmap f (GetState g) = GetState (f . g)

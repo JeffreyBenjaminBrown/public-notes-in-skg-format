@@ -1,0 +1,7 @@
+title: Async code must be run from a "runtime".
+pid: d6e8feee-acba-4230-ab54-b9d56e84c529
+body: |2-
+  e.g. the function `trpl::run()`.
+  `.await` cannot be used in `main` except within a runtime.
+contains:
+- c012c59c-f200-4756-8869-2645dc4b4882

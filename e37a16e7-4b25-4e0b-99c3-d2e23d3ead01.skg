@@ -1,0 +1,15 @@
+title: 'TODO mod 2 space 13: 2 at (5,-1), max reach 5 in 13-limit -7, 9 in 31-limit, nice 4:5:6:8, bad 7:4'
+pid: e37a16e7-4b25-4e0b-99c3-d2e23d3ead01
+body: |2-
+   63d makes 7 very playable, moves it from 4c sharp to 16c flat (952c).
+   6 steps = 17 % 16  string 0 fret  3
+  16 steps = 19 % 16  string 2 fret -5  | string 0 fret 8
+  20 steps = 5 % 4    string 2 fret -3
+  29 steps = 11 % 8   string 3 fret -5
+  33 steps = 23 % 16  string 3 fret -3
+  37 steps = 3 % 2    string 3 fret -1
+  44 steps = 13 % 8   string 4 fret -4
+  51 steps = 7 % 4    string 3 fret  6 | string 5 fret -7
+  54 steps = 29 % 16  string 4 fret  1
+  60 steps = 31 % 16  string 4 fret  4
+  63 steps = 2 % 1    string 5 fret -1

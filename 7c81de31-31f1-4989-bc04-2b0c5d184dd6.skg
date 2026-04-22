@@ -1,0 +1,4 @@
+title: Once a process "acquires" the lock (see example code), any other process trying to acquire it will block until the first releases.
+pid: 7c81de31-31f1-4989-bc04-2b0c5d184dd6
+body: |2-
+  Dying appears to count as release.

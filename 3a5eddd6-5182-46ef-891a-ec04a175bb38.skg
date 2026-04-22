@@ -1,0 +1,6 @@
+title: A simple solution
+pid: 3a5eddd6-5182-46ef-891a-ec04a175bb38
+body: |2-
+  In the course of binding variable X, only those bindings the binding depends on will be recorded.
+  This means, for instance, that there might be one value of X dependent on a binding for Y and not on Z, and another binding of X dependent on Z but not on Y.
+  When the user asks for a binding of X that depends on the binding of Y, any binding of X that does not depend on Y will be skipped.

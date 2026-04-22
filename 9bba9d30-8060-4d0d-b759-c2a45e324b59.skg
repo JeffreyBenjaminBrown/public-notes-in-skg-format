@@ -1,0 +1,4 @@
+title: Simplify the Emacs transmission.
+pid: 9bba9d30-8060-4d0d-b759-c2a45e324b59
+body: |2-
+  Just send the text with its properties. Let Rust figure out everything else. It will no longer be procedural, subjeect to cursor and other errors.

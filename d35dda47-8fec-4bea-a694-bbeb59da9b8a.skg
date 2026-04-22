@@ -1,0 +1,5 @@
+title: might be called if its parent (spawner) dies
+pid: d35dda47-8fec-4bea-a694-bbeb59da9b8a
+body: |2-
+  That happens if and only if
+  the gen_server is trapping exits.

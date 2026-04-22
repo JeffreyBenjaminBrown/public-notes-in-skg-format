@@ -1,0 +1,4 @@
+title: 'DONE silly : ` — persp-switch-by-number'
+pid: 09d63943-196a-4994-b083-26787b94bd36
+body: |2-
+  Switch to perspective by number, or switch quickly using numbers 1, 2, 3.. 0 as prefix args; note this will probably be most useful with persp-sort set to 'created

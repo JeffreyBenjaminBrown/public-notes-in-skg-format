@@ -1,0 +1,4 @@
+title: overlays -- better than one config.nix blob?
+pid: 81ef4439-d32b-4104-befd-0ec73e884ee4
+body: |2-
+  https://www.reddit.com/r/NixOS/comments/9swtg3/do_you_put_all_packages_you_install_into/e8s4u9f/

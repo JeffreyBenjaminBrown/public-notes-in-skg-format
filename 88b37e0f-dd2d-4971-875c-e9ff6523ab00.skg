@@ -1,0 +1,4 @@
+title: jump to the position stored in a register
+pid: 88b37e0f-dd2d-4971-875c-e9ff6523ab00
+body: |2-
+  C-x r j <name>

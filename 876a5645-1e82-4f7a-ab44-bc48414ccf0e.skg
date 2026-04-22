@@ -1,0 +1,8 @@
+title: How exit messages are treated by default.
+pid: 876a5645-1e82-4f7a-ab44-bc48414ccf0e
+body: |2-
+  serial
+contains:
+- 0a6afebd-bef4-4594-b98a-dde1cb6b4d04
+- 9976f2fa-470a-48d2-8db1-01ffc4d49da8
+- d00ef601-9f7f-488d-807d-e82895fd4aca

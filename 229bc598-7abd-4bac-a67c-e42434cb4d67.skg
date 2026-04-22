@@ -1,0 +1,5 @@
+title: TODO read about macros
+pid: 229bc598-7abd-4bac-a67c-e42434cb4d67
+body: |2-
+  If they offer an interface like M-x in Emacs,
+  then I can use them when the shorctut I hoped for is unavailable.

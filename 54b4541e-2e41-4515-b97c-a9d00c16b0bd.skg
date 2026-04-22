@@ -1,0 +1,9 @@
+title: 'audio plugin scanning problem : manually installed ones found, Nix-built ones not found'
+pid: 54b4541e-2e41-4515-b97c-a9d00c16b0bd
+contains:
+- 86128580-cc10-4279-87b6-8c869dc44b8e
+- 18c042cb-971e-4fa5-95e9-f787e4d0c7af
+- 85648ec7-891d-487f-8730-64232db6b435
+- 2b3f0881-baf9-4417-bd9b-34fb1643fe05
+misc:
+- Had_ID_Before_Import

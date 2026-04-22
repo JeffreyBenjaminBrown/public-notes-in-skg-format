@@ -1,0 +1,6 @@
+title: get a list of all models
+pid: 801573d1-9bc1-4fd2-8395-cfe3a769236c
+body: |2-
+  from django.db import connection
+  tables = connection.introspection.table_names()
+  seen_models = connection.introspection.installed_models(tables)

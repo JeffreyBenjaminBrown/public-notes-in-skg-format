@@ -1,0 +1,5 @@
+title: _Empty is user-extensible
+pid: 249d3a80-c8a0-450a-bf65-a3d26b80fba0
+body: |2-
+  class AsEmpty a where
+    _Empty :: Prism' a ()

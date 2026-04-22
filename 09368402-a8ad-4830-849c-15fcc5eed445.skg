@@ -1,0 +1,14 @@
+title: '99 5 11: 8 frets 9 strings for 31-limit'
+pid: 09368402-a8ad-4830-849c-15fcc5eed445
+body: |2-
+  [ 99 steps = 2 % 1 : string 9 fret 0
+  , 58 steps = 3 % 2 : string 3 fret 5
+  , 32 steps = 5 % 4 : string 2 fret 2
+  , 80 steps = 7 % 4 : string 5 fret 5
+  , 45 steps = 11 % 8 : string 5 fret - 2
+  , 69 steps = 13 % 8 : string 4 fret 5
+  , 9 steps = 17 % 16 : string - 1 fret 4
+  , 25 steps = 19 % 16 : string 0 fret 5
+  , 52 steps = 23 % 16 : string 2 fret 6
+  , 85 steps = 29 % 16 : string 5 fret 6
+  , 94 steps = 31 % 16 : string 9 fret - 1

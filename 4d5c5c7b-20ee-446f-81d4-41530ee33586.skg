@@ -1,0 +1,7 @@
+title: syntax
+pid: 4d5c5c7b-20ee-446f-81d4-41530ee33586
+body: |2-
+  select person_id, count(*)
+  from facebook_event_checkin
+  group by person_id
+  having count(*) > 2         /* filters the groups */

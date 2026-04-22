@@ -1,0 +1,5 @@
+title: simple usage
+pid: aeba561b-59fc-4d01-b30b-56d97ee94951
+body: |2-
+  `M-x org-tidy-mode` completely hides all properties drawers.
+  Calling it again undoes that.

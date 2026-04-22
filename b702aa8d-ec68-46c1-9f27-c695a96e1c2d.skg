@@ -1,0 +1,14 @@
+title: generics in Python
+pid: b702aa8d-ec68-46c1-9f27-c695a96e1c2d
+body: |2-
+  from typing import Dict, TypeVar
+
+  K = TypeVar("K")
+  V = TypeVar("V")
+
+  def myLookup ( d : Dict[K,V],
+                 k : K
+               ) -> V:
+    return d[k]
+misc:
+- Had_ID_Before_Import

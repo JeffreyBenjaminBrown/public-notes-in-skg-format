@@ -1,0 +1,7 @@
+title: Reapply shaving cream to a given area after each stroke.
+pid: 5ce783d7-ab88-433b-a212-ee17f8b62b87
+body: |2-
+  A single stroke of the razor requires
+  re-applying shaving cream to that area.
+  Can do multiple strokes before reapplying,
+  but each must be on a different spot.

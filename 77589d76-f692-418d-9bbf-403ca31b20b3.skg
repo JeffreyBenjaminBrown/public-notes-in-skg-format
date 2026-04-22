@@ -1,0 +1,7 @@
+title: DONE if that makes my config read-only
+pid: 77589d76-f692-418d-9bbf-403ca31b20b3
+body: |2-
+  cd ~/nix/jbb/config
+  sudo chown jeff *
+  chgrp users *
+  chmod 666 *

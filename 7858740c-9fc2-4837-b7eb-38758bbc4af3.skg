@@ -1,0 +1,6 @@
+title: visit the view
+pid: 7858740c-9fc2-4837-b7eb-38758bbc4af3
+body: |2-
+  e.g. visit http://127.0.0.1:8000/polls/
+    or equivalently, http://localhost:8000/polls/
+  ("polls" is one of my pages.)

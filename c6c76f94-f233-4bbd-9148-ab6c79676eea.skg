@@ -1,0 +1,4 @@
+title: void
+pid: c6c76f94-f233-4bbd-9148-ab6c79676eea
+body: |2-
+  a subtype of undefined intended for use as a return type.

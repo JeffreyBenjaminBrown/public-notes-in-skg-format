@@ -1,0 +1,7 @@
+title: 'PITFALL: 65d plays better with some other harmonics, and is harder to fret'
+pid: c8ffcfad-3cb4-4c0d-a723-8b73cc8d1ddc
+body: |2-
+  The patent 7 is 52\65, error of -9c, lies at (4,0).
+  The second-best 7 is 53\63, error 9.5c, but at (5,-6) or (3,7).
+    (3,7) actually plays well with the other fret positions.
+  But that only matters when playing it with harmonics with substantial positive error, which include only 13, 17 and maybe 29.

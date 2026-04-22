@@ -1,0 +1,13 @@
+title: 'loopAt n : stretch sample to fit n cycles'
+pid: 0127ad8c-44eb-4c3e-acfa-5a010e98d290
+body: |2-
+  #+begin_src haskell
+    d1 $ stack [
+      loopAt 8 $ sound "bev",
+      every 4 (fast 2 . (<~) (1/4))
+        $ slow 4 $ palindrome $ fast 4
+        $ s "bd [sn:1*2 [[hc*2] [bd,lt*2]]/2]/2",
+      slow 4 $ (1/4) <~ s "gabba sn:1"
+        |*| speed "0.5 0.25"
+        |*| amp 0.2 ]
+  #+end_src

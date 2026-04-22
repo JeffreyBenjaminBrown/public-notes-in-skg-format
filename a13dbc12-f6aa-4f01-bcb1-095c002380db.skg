@@ -1,0 +1,7 @@
+title: It won't do bash scripting.
+pid: a13dbc12-f6aa-4f01-bcb1-095c002380db
+body: |2-
+  Open a file ending in .sh
+    and there's no syntax highlighting.
+  Try o put "#!/bin/bash" at the top
+    and you can't even go to the next line.

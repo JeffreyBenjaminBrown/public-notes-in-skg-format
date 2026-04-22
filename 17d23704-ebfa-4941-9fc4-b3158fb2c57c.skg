@@ -1,0 +1,6 @@
+title: mod-wsgi
+pid: 17d23704-ebfa-4941-9fc4-b3158fb2c57c
+body: |2-
+  -apt install libapache2-mod-wsgi-py3
+  pip3 install mod-wsgi
+    requires apxs, which is in the `apache2-dev` apt repo

@@ -1,0 +1,9 @@
+title: some demo code
+pid: f5aab0bb-bf2f-44b3-9e4e-e651ba321db3
+body: |2-
+  Test it via
+    pytest "test.py"
+contains:
+- 1820b8df-9771-4470-b0c9-c2ffb1bb8961
+- 44f03c0f-1d25-400d-9a91-ec31de9d6ac9
+- b2c8141d-bea3-4fb7-9619-761d4c1e796e

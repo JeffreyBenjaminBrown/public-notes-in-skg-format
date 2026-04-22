@@ -1,0 +1,6 @@
+title: building and running outside Visual Studio
+pid: 05533e2b-7a05-467d-92ca-f3c48c7aa01a
+body: |2-
+  cd <project root>
+  dotnet build .
+  dotnet run .

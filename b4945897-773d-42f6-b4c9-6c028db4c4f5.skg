@@ -1,0 +1,5 @@
+title: '"%1 ->" is the linear alternative to ->'
+pid: b4945897-773d-42f6-b4c9-6c028db4c4f5
+body: |2-
+  e.g.
+    id :: a %1 -> a

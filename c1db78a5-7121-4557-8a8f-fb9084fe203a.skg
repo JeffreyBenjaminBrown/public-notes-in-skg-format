@@ -1,0 +1,4 @@
+title: pdf-view-restore - remember your place
+pid: c1db78a5-7121-4557-8a8f-fb9084fe203a
+body: |2-
+  addition to PDF Tools. saves the current position in a PDF to resume reading at that place even after the buffer has been closed.

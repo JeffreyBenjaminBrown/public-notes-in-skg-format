@@ -1,0 +1,6 @@
+title: as haskell
+pid: 8fac59b4-27fb-45ec-9532-3e3fd56954bc
+body: |2-
+  ratio edo note = 2**(note/edo)
+  note edo ratio = edo * (log ratio / log 2)
+  cents edo note = 1200 * note / edo

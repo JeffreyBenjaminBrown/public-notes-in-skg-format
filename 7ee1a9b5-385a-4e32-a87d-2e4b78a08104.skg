@@ -1,0 +1,5 @@
+title: 'SOLVED: mysterious wifi connection problems'
+pid: 7ee1a9b5-385a-4e32-a87d-2e4b78a08104
+body: |2-
+  can come from whitespace after password.
+  Open "configure" in KNetworkManager and go to Security to fix.

@@ -1,0 +1,5 @@
+title: a field's arguments depend on the subtype of Field chosen
+pid: dcc45e03-e37b-4e4b-b8c6-071d54aa5ffc
+body: |2-
+  Some Field classes have required arguments.
+  Each Field can be given an optional human-readable name as its first arg.

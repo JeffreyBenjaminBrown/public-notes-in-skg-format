@@ -1,0 +1,7 @@
+title: 'PITFALL: Snapping for ruler markers, regions not separately configurable.'
+pid: b7d01932-b36f-4436-9581-61a364e645a6
+body: |2-
+  "will follow cursor snap settings."
+  That is, they are not separately configurable.
+misc:
+- Had_ID_Before_Import

@@ -1,0 +1,8 @@
+title: Consider using a REST API rather than an FFI in Emacs.
+pid: c632bb06-65b6-44f7-89b9-31831288f571
+body: |2-
+  External (non-emacs; probably Rust) server runs a small web server (using something like actix-web, rocket, or warp).
+  Emacs uses its built-in HTTP functionality (url.el or request.el) to make calls.
+  Data is typically exchanged as JSON.
+misc:
+- Had_ID_Before_Import

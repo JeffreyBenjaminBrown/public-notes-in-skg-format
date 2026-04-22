@@ -1,0 +1,7 @@
+title: signature
+pid: 148d868a-bbc7-42c0-b520-39e1489e54eb
+body: |2-
+  -- Real signature
+  pre :: Getting (First a) s a -> IndexPreservingGetter s (Maybe a)
+  -- Specialized
+  pre :: Fold s a -> Getter s (Maybe a)

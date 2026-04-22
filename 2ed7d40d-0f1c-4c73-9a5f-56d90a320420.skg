@@ -1,0 +1,4 @@
+title: In the other case, find the two closest sites such that one partner works at one and the other works at the other. Call these two sites H and L -- H being the site assigned to the the worker with the higher burden, and L the other one.
+pid: 2ed7d40d-0f1c-4c73-9a5f-56d90a320420
+body: |2-
+  Consider what would happen if instead they shared H. Now this reduces to the first case -- find the optimal way to split H between them.

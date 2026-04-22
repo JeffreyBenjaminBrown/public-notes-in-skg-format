@@ -1,0 +1,6 @@
+title: syntax example
+pid: e0117eda-d8ed-44be-b9b7-f995d695db64
+body: |2-
+  GET / HTTP/1.1
+  Host: example.com
+  Authorization: Basic bWFnZ2llOnN1bW1lcnM=

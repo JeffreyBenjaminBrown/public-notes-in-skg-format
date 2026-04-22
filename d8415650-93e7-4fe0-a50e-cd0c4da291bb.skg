@@ -1,0 +1,5 @@
+title: passwd jeff
+pid: d8415650-93e7-4fe0-a50e-cd0c4da291bb
+body: |2-
+  Do this as root when I first log in.
+  Thereafter I can log in as jeff.

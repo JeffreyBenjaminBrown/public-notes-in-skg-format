@@ -1,0 +1,8 @@
+title: Closures capture values from their environment in three ways
+pid: 86562bc0-d251-4f86-a1a2-646c1437e73d
+body: |2-
+  just like a function
+contains:
+- 7846d8ec-bbda-4d69-aaa1-8323e5bfe6df
+- 83aa51bd-a434-4298-ac93-50b27b02c3a6
+- 9977c818-9da4-48b2-b0fe-5648be4bb483

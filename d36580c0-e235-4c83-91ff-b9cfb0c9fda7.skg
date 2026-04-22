@@ -1,0 +1,5 @@
+title: 'PITFALL: The secret access key is only visible on creation.'
+pid: d36580c0-e235-4c83-91ff-b9cfb0c9fda7
+body: |2-
+  If I immediately ingest it into my .aws config (e.g. via `aws configure`)
+  then it'll be stored (in plain text!) in my ~/.aws folder.

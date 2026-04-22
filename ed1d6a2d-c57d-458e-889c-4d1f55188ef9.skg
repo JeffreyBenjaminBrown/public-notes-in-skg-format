@@ -1,0 +1,17 @@
+title: '17-lim: 2, 13 and 15 span many strings, otherwise decent'
+pid: ed1d6a2d-c57d-458e-889c-4d1f55188ef9
+body: |2-
+  Pr.pPrint $ bestLayout' 15 58 13 4
+   0 \58; 1 % 1 ;   str 0 ; fr 0
+  58 \58; 2 % 1 ;   str 6 ; fr - 5
+                =   str 2 ; fr 8
+  34 \58; 3 % 2 ;   str 2 ; fr 2
+  19 \58; 5 % 4 ;   str 3 ; fr - 5
+  15 \58; 6 % 5 ;   str -1  fr 7   -- both axes freaky
+                =   str 3   fr - 6 -- nice
+  47 \58; 7 % 4 ;   str 3 ; fr 2
+  10 \58; 9 % 8 ;   str 2 ; fr - 4
+  27 \58; 11 % 8 ;  str 3 ; fr - 3
+  41 \58; 13 % 8 ;  str 5 ; fr - 6
+  53 \58; 15 % 8 ;  str 5 ; fr - 3
+   5 \58; 17 % 16 ; str 1 ; fr - 2

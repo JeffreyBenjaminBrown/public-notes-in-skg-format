@@ -1,0 +1,4 @@
+title: apt upgrade again
+pid: 0dbe85c1-1611-4554-878c-f7ee618529f1
+body: |2-
+  sudo apt update && sudo apt upgrade -y

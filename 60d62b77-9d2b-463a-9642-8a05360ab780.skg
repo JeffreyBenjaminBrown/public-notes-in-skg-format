@@ -1,0 +1,8 @@
+title: to increase magnification \ ChromeOS
+pid: 60d62b77-9d2b-463a-9642-8a05360ab780
+body: |2-
+  alternatives
+contains:
+- 75f54629-779e-4e5b-a280-cabd97c9e8f6
+- b26071bf-d2cc-4468-9c4e-23266f94b20a
+- 4bb7c523-8cae-4c84-8244-11a92273033b

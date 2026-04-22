@@ -1,0 +1,7 @@
+title: will compile
+pid: 6f9691cd-09ba-4cfc-a888-8014a24a9265
+body: |2-
+  enum List {
+      Cons(i32, Box<List>),
+      Nil,
+  }

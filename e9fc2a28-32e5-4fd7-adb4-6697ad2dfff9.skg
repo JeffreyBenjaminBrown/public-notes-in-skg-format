@@ -1,0 +1,5 @@
+title: krush
+pid: e9fc2a28-32e5-4fd7-adb4-6697ad2dfff9
+body: |2-
+  krush   : dry-wet (0 for dry)
+  kcutoff : cutoff of the krush filter

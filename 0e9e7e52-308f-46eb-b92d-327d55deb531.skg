@@ -1,0 +1,4 @@
+title: submodule update vs. submodule add
+pid: 0e9e7e52-308f-46eb-b92d-327d55deb531
+body: |2-
+  """One major difference between "submodule update" and "submodule add" is that "update" checks out a specific commit, rather than the tip of a branch."""

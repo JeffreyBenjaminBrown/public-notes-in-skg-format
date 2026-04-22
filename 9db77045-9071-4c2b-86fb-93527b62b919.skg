@@ -1,0 +1,11 @@
+title: perspective mode for Emacs
+pid: 9db77045-9071-4c2b-86fb-93527b62b919
+body: |2-
+  https://github.com/nex3/perspective-el#usage
+contains:
+- cfcd5bb4-d994-4b0e-8d9a-ee344b643b84
+- d9294f12-1fcc-4fe8-8d13-87f5cb2d044c
+- 2c0303e4-f2f3-44eb-bb42-ba4c1bf638ed
+- cd196a20-3199-41f8-b3de-3637398e5e6f
+misc:
+- Had_ID_Before_Import

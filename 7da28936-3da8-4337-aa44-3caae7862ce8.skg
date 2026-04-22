@@ -1,0 +1,12 @@
+title: example 2, building on the first
+pid: 7da28936-3da8-4337-aa44-3caae7862ce8
+body: |2-
+    * humanity
+    ** R2 it as this
+    *** fallen
+    *** [link to not-really-an-id][1] R1 about it
+
+    * [node with not-really-an-id][1] about considering humanity as fallen
+    ** it as this
+    *** [not-really-an-id][1] about it
+    *** color

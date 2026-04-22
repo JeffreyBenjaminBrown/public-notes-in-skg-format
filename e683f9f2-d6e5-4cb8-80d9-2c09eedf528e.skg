@@ -1,0 +1,5 @@
+title: reset Guardian
+pid: e683f9f2-d6e5-4cb8-80d9-2c09eedf528e
+body: |2-
+  When the error happens, accept the option to turn off 6DOF tracking,
+  then reset it in Settings.

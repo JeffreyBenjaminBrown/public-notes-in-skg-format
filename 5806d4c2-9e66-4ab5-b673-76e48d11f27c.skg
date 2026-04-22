@@ -1,0 +1,4 @@
+title: TODO Is (#maybe _) different from (#question _)?
+pid: 5806d4c2-9e66-4ab5-b673-76e48d11f27c
+body: |2-
+  (#question _) seems more general -- it permits non-boolean members.

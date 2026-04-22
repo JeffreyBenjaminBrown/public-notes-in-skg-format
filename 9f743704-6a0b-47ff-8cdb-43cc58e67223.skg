@@ -1,0 +1,6 @@
+title: example
+pid: 9f743704-6a0b-47ff-8cdb-43cc58e67223
+body: |2-
+  data Nat    = Z   | S Nat           -- Natural numbers
+                                      -- (zero and successor)
+  data List a = Nil | (::) a (List a) -- Polymorphic lists

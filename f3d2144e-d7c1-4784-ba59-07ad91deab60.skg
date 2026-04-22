@@ -1,0 +1,4 @@
+title: Use `M-x customize` to set `psc-ide-purs-executable`
+pid: f3d2144e-d7c1-4784-ba59-07ad91deab60
+body: |2-
+  to the special Nix-shell path to `purs` version 0.14.4.

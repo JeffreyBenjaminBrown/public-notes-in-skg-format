@@ -1,0 +1,23 @@
+title: experiments
+pid: 2ce626d5-430f-47da-b365-b1cdb7da8939
+body: |2-
+  #+BEGIN_SRC haskell
+  d1 $ slow 3 $ s "superzow" |*| n "-36 -24 -12 0 12 24 36"
+
+  d1 $ slow 3 $ s "superzow" |*| n "-36 -24 -12 0 12 24 36"
+    |*| slide (-10)
+
+  d1 $ slow 3 $ s "superzow" |*| n "-36 -24 -12 0 12 24 36"
+    |*| slide 0.01
+    |*| detune 0.1
+
+  d1 $ slow 3 $ s "superzow" |*| n "-36 -24 -12 0 12 24 36"
+    |*| slide 1
+    |*| sustain 3
+    |*| decay 1
+
+  d1 $ slow 3 $ s "superzow" |*| n "-36 -24 -12 0 12 24 36"
+    |*| sustain 2
+    |*| decay 0
+    |*| slow 4 (accelerate "0 0.4")
+  #+END_SRC

@@ -1,0 +1,7 @@
+title: If v is small but vx is big.
+pid: 32a8db03-3cdc-4c56-bc40-ff8d1f5c8946
+body: |2-
+  gamma = 1 / sqrt( 1 - v^2 / c^2 ) = 1
+  so x' = -vt
+  but t' = t - vx / c^2 < t
+  Thus, for two far-away planets slowly drifting apart, what feels like a second on one planet looks like it took less than a second on the other.

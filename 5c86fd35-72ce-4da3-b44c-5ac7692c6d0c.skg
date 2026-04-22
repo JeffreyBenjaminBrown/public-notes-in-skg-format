@@ -1,0 +1,5 @@
+title: observational and interventional distributions
+pid: 5c86fd35-72ce-4da3-b44c-5ac7692c6d0c
+body: |2-
+  Given enough i.i.d. data, the observational distribution is completely estimable.
+  The interventional distribution is the distribution conditional on forcing one of the variables, and requires a causal understanding in addition to observational data.

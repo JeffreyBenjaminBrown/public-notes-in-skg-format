@@ -1,0 +1,6 @@
+title: if I don't have internet access from within it
+pid: d236894a-5a11-4224-a818-01b99b06edac
+body: |2-
+  it might be that my computer is only permitted to connect
+  through a proxy, in which case I'll need to
+  [[id:bbae8005-b7ad-45a2-b095-7ea2f2efa403][configure Linux (in this case WSL) to use an internet proxy.]]

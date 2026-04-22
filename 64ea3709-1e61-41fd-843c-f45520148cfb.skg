@@ -1,0 +1,4 @@
+title: the file that triggers it
+pid: 64ea3709-1e61-41fd-843c-f45520148cfb
+body: |2-
+  ~/nix/jbb/custom-packages/libuv/default.nix

@@ -1,0 +1,9 @@
+title: 'setting with it: doesn''t bother recording the default value'
+pid: c728db9c-546a-42f4-9456-4d804293608a
+body: |2-
+  "it maps the default value back to Nothing, which ‘at’ will be exclude from the map"
+
+  > favouriteFoods & at "Popeye" . non "Pizza" .~ "Spinach"
+  fromList [("Garfield","Lasagna"),("Leslie","Waffles"),("Popeye","Spinach")]
+  > favouriteFoods & at "Popeye" . non "Pizza" .~ "Pizza"
+  fromList [("Garfield","Lasagna"),("Leslie","Waffles")]

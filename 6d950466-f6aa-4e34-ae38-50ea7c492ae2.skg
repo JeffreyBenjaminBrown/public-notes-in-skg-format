@@ -1,0 +1,6 @@
+title: an overview of this propsal
+pid: 6d950466-f6aa-4e34-ae38-50ea7c492ae2
+body: |2-
+  The extreme expressivity of the query language, and the extremely broad nature of the index, will permit a wide variety of desirable applications. In the next section I will sketch [[id:b3b34f14-5215-4f40-93c8-c235ddfd25ca][some potential applications]], and in the process, introduce some of Shyg's key architectural ideas. Then I will describe [[id:a1f04e1e-9d39-43a7-a384-a575a57968df][Shyg's architecture]]. After that I will examine Shyg's technical and economic [[id:1aced678-ca00-4f07-9890-708584914048][feasibility]], including open questions. Last, I will describe in the project's budget requirements. (And then there are footnotes.)
+
+  If the promises in the first section seem outlandish, perhaps consider skipping to the [[id:a1f04e1e-9d39-43a7-a384-a575a57968df][architecture section]] to see how I plan to do it. And if the architectural overview seems too easy, perhaps consider skipping to the [[id:1aced678-ca00-4f07-9890-708584914048][feasibility section]], where I describe plainly the hard problems I foresee.

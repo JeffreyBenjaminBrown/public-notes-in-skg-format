@@ -1,0 +1,4 @@
+title: Stopping recording does not stop playback if ...
+pid: 644a0c7f-b077-4690-a1fe-e6eb128cadc9
+body: |2-
+  ... if playback was ongoing before recording started.

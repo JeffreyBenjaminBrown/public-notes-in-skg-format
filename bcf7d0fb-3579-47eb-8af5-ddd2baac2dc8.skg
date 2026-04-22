@@ -1,0 +1,8 @@
+title: to parse some columns as dates when calling read_csv
+pid: bcf7d0fb-3579-47eb-8af5-ddd2baac2dc8
+body: |2-
+  pd.read_csv (
+    "data/history.csv",
+    parse_dates = [ "time, favorite time" ] )
+misc:
+- Had_ID_Before_Import

@@ -1,0 +1,7 @@
+title: If neither is specific
+pid: b2c4e4d4-0e9e-4c88-82a1-44dc41fd73c4
+body: |2-
+  Fuck that. Just return what's been getting returned already,
+  which is just the first-order (ignoring transitivity) relatinoships.
+  To return all the transitive relationships
+  would be both hard for the programmer and useless for the user.

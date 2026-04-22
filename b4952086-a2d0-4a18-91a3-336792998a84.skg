@@ -1,0 +1,4 @@
+title: What if I just send a 31-tuple every time?
+pid: b4952086-a2d0-4a18-91a3-336792998a84
+body: |2-
+  If messaging between Vivid and SC is a bottleneck, this might speed that up.

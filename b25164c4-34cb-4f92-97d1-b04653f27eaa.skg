@@ -1,0 +1,7 @@
+title: purpose
+pid: b25164c4-34cb-4f92-97d1-b04653f27eaa
+body: |2-
+  It defines things -- Python libraries and other packages --
+  that will be imported from NixOS
+  (and they need not part of my NixOS config!),
+  rather than installed locally via virtualenv.

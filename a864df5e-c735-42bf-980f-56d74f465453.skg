@@ -1,0 +1,7 @@
+title: 'PITFALL: Media and their envelopes can get out of sync.'
+pid: a864df5e-c735-42bf-980f-56d74f465453
+body: |2-
+  quote (modulo newlines):
+  the option "Move envelope points with media items" (toggled on/off by clicking on the toolbar envelope tool) will determine whether ...
+misc:
+- Had_ID_Before_Import

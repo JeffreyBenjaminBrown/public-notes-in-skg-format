@@ -1,0 +1,6 @@
+title: hasn't worked
+pid: 7a28e7b0-2202-4e03-9c83-981243db7268
+body: |2-
+  I tried to put these settings right after the line
+    powerManagement.enable = true;
+    but it generates errors.

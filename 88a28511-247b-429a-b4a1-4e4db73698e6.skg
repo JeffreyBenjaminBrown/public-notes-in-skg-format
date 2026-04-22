@@ -1,0 +1,5 @@
+title: use the `when` keyword.
+pid: 88a28511-247b-429a-b4a1-4e4db73698e6
+body: |2-
+  old_enough_to_drive(X) when X >= 16 -> true;
+  old_enough_to_drive(_) -> false.

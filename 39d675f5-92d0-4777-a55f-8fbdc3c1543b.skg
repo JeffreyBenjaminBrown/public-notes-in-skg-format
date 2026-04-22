@@ -1,0 +1,9 @@
+title: magit (Emacs mode)
+aliases:
+- magit
+pid: 39d675f5-92d0-4777-a55f-8fbdc3c1543b
+contains:
+- e8fd84d8-618e-4ffc-9976-5a806ff4c89c
+- e57211a5-3b1c-450e-a7a7-9ed70f235223
+misc:
+- Had_ID_Before_Import

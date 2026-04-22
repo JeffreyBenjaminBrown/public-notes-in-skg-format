@@ -1,0 +1,7 @@
+title: 11 strings => range of 1200 + 1148 cents
+pid: a298e7ec-f0e6-43db-8551-876bd7e793e3
+body: |2-
+  MTV> (11-1) * 9 * 12 / 46 -- 11 strings => almost 2 octaves
+    23.47826086956522
+  MTV> mod ((11-1) * 9) 46 -- string 11 is a fret below the octave
+    44

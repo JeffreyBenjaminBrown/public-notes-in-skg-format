@@ -1,0 +1,5 @@
+title: lambda syntax
+pid: 3d9cc310-3fd9-4fb9-bc8a-c19e754ccd9d
+body: |2-
+  (funcall (lambda (arg) (do-something-to arg))
+          '(1 2 3))

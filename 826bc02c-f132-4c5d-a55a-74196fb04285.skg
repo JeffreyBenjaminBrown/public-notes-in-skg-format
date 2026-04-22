@@ -1,0 +1,7 @@
+title: synopsis
+pid: 826bc02c-f132-4c5d-a55a-74196fb04285
+body: |2-
+  Makes a strong-looking case that
+    strict-wapper (library)
+  is an easier and better solution than
+    (!), strict (library), seq, deepseq, nothunks

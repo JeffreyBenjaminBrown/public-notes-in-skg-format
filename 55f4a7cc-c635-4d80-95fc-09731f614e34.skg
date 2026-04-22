@@ -1,0 +1,6 @@
+title: because it won't let you change the ID of an existing user
+pid: 55f4a7cc-c635-4d80-95fc-09731f614e34
+body: |2-
+  at least not by modifying configuration.nix.
+  (It'll compile the changes,
+  and announce that it won't apply that change.)

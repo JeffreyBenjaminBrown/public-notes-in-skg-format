@@ -1,0 +1,4 @@
+title: for events that are handled the same from every state
+pid: 3f83d191-1b55-486a-a3ed-052e6bc244af
+body: |2-
+  (So it seems strange that StateName is an argument ...)

@@ -1,0 +1,5 @@
+title: 'PITFALL: work rootward'
+pid: 40668cac-504e-4f2b-bcf2-fa057870177f
+body: |2-
+  This has to be done starting from the leaves.
+  Their containers cannot be modified until they exist.

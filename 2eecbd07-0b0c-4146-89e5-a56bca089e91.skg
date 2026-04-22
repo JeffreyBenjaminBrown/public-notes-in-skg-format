@@ -1,0 +1,4 @@
+title: Names can be overloaded.
+pid: 2eecbd07-0b0c-4146-89e5-a56bca089e91
+body: |2-
+  Note that we have [in the declaration of Vector] used the same constructor names as for List. Ad-hoc name overloading such as this is accepted by Idris, provided that the names are declared in different namespaces

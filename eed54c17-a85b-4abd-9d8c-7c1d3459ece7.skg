@@ -1,0 +1,22 @@
+title: Shyg will be a distributed hypergraph index and query protocol.
+pid: eed54c17-a85b-4abd-9d8c-7c1d3459ece7
+body: |2-
+  Shyg will be an open protocol for creating and querying a distributed index of natural language content. The project will initially launch with one client, but because the protocol will be open, anyone will be free to build other clients.
+
+  There will be no client-server distinction; every client will also be a server. Together, the clients will host a (single) distributed hypergraph index, continuously building it and responding to each others' queries about it.
+
+  All the important architectural ideas in Shyg predate it. Most have already been made into popular services:
+
+  - the personal knowledge base (OneNote, Evernote, ...)
+  - online publishing (X, Squarespace, Wikipedia, JStor, ...)
+  - search (Google, Apple Spotlight, ...)
+  - federated sharing (BitTorrent, Mastodon, ...)
+  - automated crawling and parsing of documents (Google, GraphRAG, ...)
+
+  And even of the more obscure technical components of Shyg, there exist implementions:
+
+  - the ontology (WordNet, DBpedia, ...)
+  - the hypergraph index (TypeDB, HypergraphDB, ...)
+  - a simple hypergraph query language (Hash)
+
+  That last component, [[id:c62f00f7-4e2a-4a58-80d7-9996ea27372d][Hash]], I wrote myself, albeit without support for federated queries. I intend to rewrite it it in TypeQL, the query language for [[id:992b9536-2345-415c-a41e-15b95ff3cbb3][TypeDB]], an open-source hypergraph database. Unlike TypeQL, Hash resembles natural language.

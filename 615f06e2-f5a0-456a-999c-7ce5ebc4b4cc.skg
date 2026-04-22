@@ -1,0 +1,4 @@
+title: run this
+pid: 615f06e2-f5a0-456a-999c-7ce5ebc4b4cc
+body: |2-
+  Quarks.install("SuperDirt")

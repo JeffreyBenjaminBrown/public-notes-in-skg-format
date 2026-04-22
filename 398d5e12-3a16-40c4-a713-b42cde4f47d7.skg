@@ -1,0 +1,8 @@
+title: Processes can terminate themselves.
+pid: 398d5e12-3a16-40c4-a713-b42cde4f47d7
+body: |2-
+  exit(Reason)               ->   Reason
+  erlang:error(Reason)       ->  {Reason,Stack}
+  erlang:error(Reason, Args) ->  {Reason,Stack}
+
+  `erlang:error/1-2` [[id:ab30f280-1683-4003-89eb-c94a7dc4997a][emulates a runtime crash]].

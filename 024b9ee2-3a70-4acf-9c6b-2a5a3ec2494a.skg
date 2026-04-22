@@ -1,0 +1,4 @@
+title: 'PITFALL: Diagonal layouts don''t work well on the monome'
+pid: 024b9ee2-3a70-4acf-9c6b-2a5a3ec2494a
+body: |2-
+  because it's a square grid, not a hex one, so the diagonal is 1.4 times as long as the horizontal.

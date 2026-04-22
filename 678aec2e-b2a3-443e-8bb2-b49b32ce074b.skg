@@ -1,0 +1,4 @@
+title: Conclusions must respect the schema
+pid: 678aec2e-b2a3-443e-8bb2-b49b32ce074b
+body: |2-
+  "e.g., we can’t give an attribute to an instance that can’t own that attribute type"

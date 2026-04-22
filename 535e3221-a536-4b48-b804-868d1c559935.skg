@@ -1,0 +1,7 @@
+title: it focuses the value in a Just, or the default value
+pid: 535e3221-a536-4b48-b804-868d1c559935
+body: |2-
+  >>> Nothing ^. non "default"
+  "default"
+  >>> Just "value" ^. non "default"
+  "value"

@@ -1,0 +1,13 @@
+title: nixos-rebuild (command)
+aliases:
+- nixos-rebuild
+- rebuild NixOS
+pid: e1eda15a-df86-4050-b150-e8034ae49019
+contains:
+- d9035a28-1e67-44cd-a3bd-15136e2275c3
+- dfa8c841-68b2-4c0b-90e7-3ffea4ed8c7f
+- 28e17846-4fe5-4d39-a7e5-e94e3573467d
+- b1aff0b9-73ac-40e1-9ae0-dced145b506d
+- ffff9fbb-016c-497d-93c4-e143953c5e06
+misc:
+- Had_ID_Before_Import

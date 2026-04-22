@@ -1,0 +1,9 @@
+title: 'packages.nix: I added these lines'
+pid: b4c4c137-34d1-421c-bb81-d510e121710c
+body: |2-
+     # For feeding the mic into Cheese (for webcam videos)
+     # PITFALL: This borks a lot of my audio.
+     # There's an alsa emulator for pulse wchich might work better.
+     pavucontrol # Pulse Audio Volume Control, needed for audio in Cheese
+  # according to this kid: https://www.youtube.com/watch?v=M0B0-SilJw4
+     pulseaudio # I'm just guessing I need this; nobody said so

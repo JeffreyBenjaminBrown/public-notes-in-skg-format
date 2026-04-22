@@ -1,0 +1,13 @@
+title: TODO ? Ask Claude for more?
+pid: 06d9b467-71a0-4290-9558-d0e776a679b5
+body: |2-
+  Find link triples in which each member is delicious.
+  It is valid for part of a triple to be ?,
+  if that is the most delicious considering also word labels.
+
+  Hey Claude please fill this out so the graph is pretty,
+  by collecting from data/real/public?
+  You'll have to translate ideas into subgraphs --
+  often an idea is an arrowlike triple,
+  but as the higher data in the following org-mode bucket show,
+  it's not necessarily even naturally expressible as a graph.

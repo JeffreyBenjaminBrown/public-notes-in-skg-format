@@ -1,0 +1,4 @@
+title: to get all the data (not the schema)
+pid: c6b0c2f9-8a82-4f05-b05b-6a2319229adc
+body: |2-
+  match $x isa $t; get $x

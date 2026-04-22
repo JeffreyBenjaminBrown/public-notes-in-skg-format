@@ -1,0 +1,13 @@
+title: elaboration on the nutshell
+pid: 2e3d1e43-6d8a-4f3e-88dc-39df78e2627b
+body: |2-
+  That top node, a "deletion justifier collection" (DJC) node,
+    describes the diff of its parent,
+    the "node with deletions to justify" (NWDJ).
+  The DJC's children are "deletion justifiers" (DJs).
+  Each DJ has a "new container" child like C,
+    and a collection like D of nodes d that were deleted from the NWDJ,
+    such that each d is contained (whether newly or not) in C.
+  All the nodes deleted from the NWDJ would be shown,
+    not just among the NWDJ's contents with a "was deleted" glyph,
+    but also grouped under the DJs (whose contents can overlap).

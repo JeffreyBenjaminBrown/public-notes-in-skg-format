@@ -1,0 +1,5 @@
+title: name a new configuration with `-p`
+pid: e520c881-d149-4cfd-ab11-df014fcfbd90
+body: |2-
+  For instance,
+  sudo nixos-rebuild switch -p no_music_config_although_packages

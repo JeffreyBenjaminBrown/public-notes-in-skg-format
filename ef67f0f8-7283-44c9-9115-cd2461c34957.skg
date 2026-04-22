@@ -1,0 +1,6 @@
+title: configure AWS CLI
+pid: ef67f0f8-7283-44c9-9115-cd2461c34957
+body: |2-
+  Just like "file://cli.org", section "install, configure the AWS CLI".
+  Don't be confused by the git tutorial --
+  the keys used by CodeCommit are the same keys used by the CLI in other contexts.

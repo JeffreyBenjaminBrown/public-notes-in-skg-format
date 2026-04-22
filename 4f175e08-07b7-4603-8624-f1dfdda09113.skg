@@ -1,0 +1,5 @@
+title: query
+pid: 4f175e08-07b7-4603-8624-f1dfdda09113
+body: |2-
+  select id, plate_number from drivers_license
+    where plate_number like "%H42W%"

@@ -1,0 +1,5 @@
+title: causal and mutilated causal models
+pid: 377772b2-1080-477e-8c4a-f36dc93cf4d7
+body: |2-
+  "Once we have a causal diagram, we can emulate the effect of intervention by mutilating the causal network: deleting all edges that lead into nodes in a do operator."
+  Each diagram is just a directed graph on variables in the distribution.

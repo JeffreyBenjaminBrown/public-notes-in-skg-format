@@ -1,0 +1,15 @@
+title: 'my jumpMod'''' : stackable changes, as long as they are executed in order'
+pid: 057b5a18-5f80-4539-9ff5-ef015f26e30d
+body: |2-
+  #+BEGIN_SRC haskell
+  d1 $ (1/32) <~ ( s "numbers" |*| n (slow 8 $ run 8) )
+
+  d2 $ sound $ stack
+    [ "[bd*2 bleep sn:1 hc*2]/4"
+    , "gabba/8"
+    , "[~ hh]*4" ]
+
+  do
+     jumpMod'' 2 8 0 $ sound "[bd,<hc hh>*8]"
+     jumpMod'' 2 8 7 $ sound "bd*4"
+  #+END_SRC

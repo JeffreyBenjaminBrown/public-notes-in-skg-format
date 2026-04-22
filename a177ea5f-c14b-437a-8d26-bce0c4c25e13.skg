@@ -1,0 +1,8 @@
+title: append into an 'inserted blind' child
+pid: a177ea5f-c14b-437a-8d26-bce0c4c25e13
+body: |2-
+  The label of that should go to
+  a node that's part of a 'built-into-skg' data source,
+  which explains its meaning.
+misc:
+- Had_ID_Before_Import

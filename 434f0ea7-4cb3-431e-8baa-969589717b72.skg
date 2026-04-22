@@ -1,0 +1,4 @@
+title: matching an entity
+pid: 434f0ea7-4cb3-431e-8baa-969589717b72
+body: |2-
+  match $p isa person, has full-name $f;

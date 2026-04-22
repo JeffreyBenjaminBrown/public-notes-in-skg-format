@@ -1,0 +1,7 @@
+title: example
+pid: bfc30ca2-18d9-438b-8646-43a6d9115244
+body: |2-
+  {'src/*', [ debug_info,
+              {i, "src"},
+              {i, "include"},
+              {outdir, "ebin"}]}.

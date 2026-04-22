@@ -1,0 +1,8 @@
+title: This probably is not required.
+pid: 34c29b0a-022b-4e9e-8131-b242c7da9b89
+body: |2-
+  Set `ugenPluginsPath` [[id:b45a1d6d-3cef-472e-9c4f-44b8296bd17e][as required by my strange NixOS setup]].
+
+  s.options.ugenPluginsPath =
+    "/home/jeff/.local/share/SuperCollider/Extensions/";
+  s.boot;

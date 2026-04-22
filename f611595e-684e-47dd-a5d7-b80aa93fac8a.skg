@@ -1,0 +1,6 @@
+title: 'PITFALL: sudo apt install -y pulseaudio-module-jack'
+pid: f611595e-684e-47dd-a5d7-b80aa93fac8a
+body: |2-
+  That's not part of the KX instructions, but I needed to.
+  Found it here:
+  https://www.linuxmusicians.com/viewtopic.php?t=11535

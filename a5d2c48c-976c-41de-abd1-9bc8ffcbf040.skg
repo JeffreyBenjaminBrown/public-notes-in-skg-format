@@ -1,0 +1,10 @@
+title: Build your own social media feed.
+pid: a5d2c48c-976c-41de-abd1-9bc8ffcbf040
+body: |2-
+  Users could easily program their own social media feeds in Shyg. Those feeds will (presumably, usually) not be designed to maximize engagement, which will reduce some of the psychological and social harm social media currently causes.
+
+  Moreover, the degree and ease of customization in those feeds will be unprecedented. For instance, "things my friends have published, ordered by recency, excluding sports commentary and anything that Mom thought was sad", will be a trivial query. Or (useful for internet-famous people): "responses to my posts, ordered by the responder's follower count, minus anything ad-hominem".
+
+  A Shyg-powered social media feed could incorporate content from all kinds of different sources -- traditional social media sites, blogs, traditional news media, personal web pages, periodic firmk financial statements, etc.
+misc:
+- Had_ID_Before_Import

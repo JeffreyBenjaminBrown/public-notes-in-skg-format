@@ -1,0 +1,12 @@
+title: varieties
+pid: c65e6ca3-aefe-4797-8d2c-6486a8eca4ac
+body: |2-
+  mapM_ has a monad constraint, so Penner prefers these
+  traverse_ :: (Foldable t, Applicative f) => (a -> f b) -> t a -> f ()
+  for_      :: (Foldable t, Applicative f) => t a -> (a -> f b) -> f ()
+
+  The Fold equivalents are these:
+  traverseOf_ :: Functor f => Fold s a -> (a -> f r) -> s -> f ()
+  forOf_ :: Functor f => Fold s a -> s -> (a -> f r) -> f ()
+
+  There are also traverseOf and foldOf, which don't discard their result.

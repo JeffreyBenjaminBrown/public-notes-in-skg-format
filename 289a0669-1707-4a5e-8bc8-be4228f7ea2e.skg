@@ -1,0 +1,4 @@
+title: distributing queries
+pid: 289a0669-1707-4a5e-8bc8-be4228f7ea2e
+body: |2-
+  Because the index will be bigger than any one user's system, queries (with the exception of queries directly solely at that user's data) will need to be answered by the community. Merely getting this done does not seem too hard, but optimizing the process will be. In a naive implementation, every query would be processed by every user. It would be smarter, though, to cache popular results, and to shard the index such that certain users specialize in certain kinds of queries -- again, with enough redundancy that queries do not have to wait for a few critical users to be online.

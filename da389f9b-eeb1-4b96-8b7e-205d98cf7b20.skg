@@ -1,0 +1,10 @@
+title: type
+pid: da389f9b-eeb1-4b96-8b7e-205d98cf7b20
+body: |2-
+  failing :: (Conjoined p, Applicative f)
+          => Traversing  p f s t a b
+          -> Over p f s t a b
+          -> Over p f s t a b
+  -- Specialized signatures
+  failing :: Fold s t a b -> Fold s t a b -> Fold s t a b
+  failing :: Traversal s t a b -> Traversal s t a b -> Traversal s t a b

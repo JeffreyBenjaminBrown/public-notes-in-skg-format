@@ -1,0 +1,5 @@
+title: Prisms compose
+pid: 9dd767ff-763c-4e5c-92df-04021950e5b0
+body: |2-
+  >>> _Just . _Left # 1337
+  Just (Left 1337)

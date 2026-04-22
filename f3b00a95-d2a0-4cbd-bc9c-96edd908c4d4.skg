@@ -1,0 +1,4 @@
+title: why that's better than using `review`
+pid: f3b00a95-d2a0-4cbd-bc9c-96edd908c4d4
+body: |2-
+  `review` returns a function, thus can’t be composed in an optics path.

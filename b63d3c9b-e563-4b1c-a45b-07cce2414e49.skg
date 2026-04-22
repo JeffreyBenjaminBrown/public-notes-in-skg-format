@@ -1,0 +1,5 @@
+title: the pipe "|" feeds one filter into another
+pid: b63d3c9b-e563-4b1c-a45b-07cce2414e49
+body: |2-
+  e.g.
+    curl $site | jq '.[0] | {message: .commit.message, name: .commit.committer.name}'

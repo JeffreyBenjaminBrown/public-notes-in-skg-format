@@ -1,0 +1,4 @@
+title: reading the type signatures of optics
+pid: 92e9efeb-a655-449f-903a-ed2fd9e8c546
+body: |2-
+  "If you see Functor f it’s probably a lens."

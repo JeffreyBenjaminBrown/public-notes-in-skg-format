@@ -1,0 +1,12 @@
+title: language example
+pid: bee0b66f-a890-46f1-90be-712d79c468a5
+body: |2-
+  As a root or child of any node,
+  the user should be able to insert a 'remote insertion' node.
+  Each &-separated item in it is a title,
+  or if it includes "/" characters, a contentward path to a terminus
+  (so "a / b / c" represents a terminus c,
+  such that there exist nodes matching the search terms a, b and c
+  where a contains b and b contains c.
+contains:
+- c2a54a23-9b19-495c-8321-f9f41a4c24e9

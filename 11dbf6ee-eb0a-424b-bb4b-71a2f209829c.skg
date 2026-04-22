@@ -1,0 +1,4 @@
+title: sudo badblocks -svn -b 512 -c 65536 /dev/sdb
+pid: 11dbf6ee-eb0a-424b-bb4b-71a2f209829c
+body: |2-
+  The -b and -c options make it faster.

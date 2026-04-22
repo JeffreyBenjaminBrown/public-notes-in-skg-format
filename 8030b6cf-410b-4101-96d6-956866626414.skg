@@ -1,0 +1,4 @@
+title: update system-minimal and system-<target> in nix/jbb
+pid: 8030b6cf-410b-4101-96d6-956866626414
+body: |2-
+  before copying it to the new system

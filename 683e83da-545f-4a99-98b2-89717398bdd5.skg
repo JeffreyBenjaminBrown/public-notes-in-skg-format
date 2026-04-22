@@ -1,0 +1,17 @@
+title: '112 5 22: square, needs 7 strings, 3 and 5 on same string'
+pid: 683e83da-545f-4a99-98b2-89717398bdd5
+body: |2-
+  another octave at (1,18)
+  22.4 frets per octave
+   , etrTuning = Edo 112 ; StringGap 22 ; FretGap 5
+   , etrArea = 48
+   , etrLayout =
+       [ 0 steps; 1 % 1 ; string 0 ; fret 0
+       , 112 steps; 2 % 1 ; string 6 ; fret - 4
+       , 66 steps; 3 % 2 ; string 3 ; fret 0
+       , 36 steps; 5 % 4 ; string 3 ; fret - 6
+       , 90 steps; 7 % 4 ; string 5 ; fret - 4
+       , 19 steps; 9 % 8 ; string 2 ; fret - 5
+       , 51 steps; 11 % 8 ; string 3 ; fret - 3
+       , 78 steps; 13 % 8 ; string 4 ; fret - 2
+       , 102 steps; 15 % 8 ; string 6 ; fret - 6

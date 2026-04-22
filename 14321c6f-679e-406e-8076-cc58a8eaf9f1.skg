@@ -1,0 +1,7 @@
+title: 'later: track edit times for nodes on screen'
+pid: 14321c6f-679e-406e-8076-cc58a8eaf9f1
+body: |2-
+  Don't save a file if all of its (first-generation) content is older on screen than on disk.
+  When first put on screen, each headline should be given the age of the source file.
+misc:
+- Had_ID_Before_Import

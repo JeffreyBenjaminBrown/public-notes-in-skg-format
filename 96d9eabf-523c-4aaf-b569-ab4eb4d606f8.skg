@@ -1,0 +1,14 @@
+title: query
+pid: 96d9eabf-523c-4aaf-b569-ab4eb4d606f8
+body: |2-
+  select p.id, p.name, count(*)
+  from facebook_event_checkin f
+  join person p
+    on f.person_id = p.id
+  where date > 20170000 and
+        date < 20180000 and
+        ( person_id = 78881 or
+          person_id = 90700 or
+          person_id = 99716 )
+  group by person_id
+  having count(*) > 2

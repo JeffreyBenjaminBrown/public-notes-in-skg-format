@@ -1,0 +1,6 @@
+title: explainability
+pid: 7cde6ac4-0fcb-4fc9-8959-08a7b3f9174a
+body: |2-
+  TypeDB can explain how it arrives at conclusions using inference.
+  See "explain query" here:
+  https://typedb.com/docs/typedb/2.x/development/infer

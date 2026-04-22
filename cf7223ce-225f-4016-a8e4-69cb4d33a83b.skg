@@ -1,0 +1,12 @@
+title: '7\46 x 4\46: bad-ish 3:2, bad-ish split from 3:2 to 5:4'
+pid: cf7223ce-225f-4016-a8e4-69cb4d33a83b
+body: |2-
+  [ 0  steps; 1 % 1;  string 0; fret 0
+  , 8  steps; 9 % 8;  string 0; fret 2
+  , 15 steps; 5 % 4;  string 1; fret 2
+  , 27 steps; 3 % 2;  string 1; fret 5
+  , 21 steps; 11 % 8; string 3; fret 0
+  , 37 steps; 7 % 4;  string 3; fret 4
+  , 32 steps; 13 % 8; string 4; fret 1
+  , 42 steps; 15 % 8; string 6; fret 0
+  , 46 steps; 2 % 1;  string 6; fret 1

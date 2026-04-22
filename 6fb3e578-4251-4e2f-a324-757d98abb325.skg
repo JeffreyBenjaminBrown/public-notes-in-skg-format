@@ -1,0 +1,5 @@
+title: TODO point out transactional fragility
+pid: 6fb3e578-4251-4e2f-a324-757d98abb325
+body: |2-
+  Each save is to three "media": the filestore, TypeDB and Tnativy.
+  If any one of them fails, things probably get confusing.

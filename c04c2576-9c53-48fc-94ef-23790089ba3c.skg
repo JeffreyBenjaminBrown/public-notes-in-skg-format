@@ -1,0 +1,4 @@
+title: the error
+pid: c04c2576-9c53-48fc-94ef-23790089ba3c
+body: |2-
+  trace: Warning: `stdenv.lib` is deprecated and will be removed in the next release. Please use `lib` instead. For more information see https://github.com/NixOS/nixpkgs/issues/108938

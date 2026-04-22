@@ -1,0 +1,10 @@
+title: '"methods" are functions with "receiver types"'
+pid: 1e10f327-9fe3-4394-9f0e-5a9097271568
+body: |2-
+  This makes them like class methods from Python.
+contains:
+- e3875f50-45ae-4a2b-a74e-220043d94c1c
+- b802f7ec-a884-450a-8256-c3c70c844f4b
+- 4c805410-c76f-4e23-938c-497de80cfd39
+- ee3e54f6-b505-4460-b9a2-40da296289c9
+- 3fa1c69d-2671-4a15-b613-c0eee73e86c5

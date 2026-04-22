@@ -1,0 +1,23 @@
+title: dense fret map, but awkward 9:8
+pid: 9498d5cd-1cf8-4826-aefe-5b1664488771
+body: |2-
+  Area 6x5 in the 29-limit -17.27, or 7x9 in the full 31-limit.
+  Beautiful major chord alignment.
+  The awkward 9:8 means an awkward split from 4:3 to 3:2.
+  , 65 steps; 2 % 1 ; string 5 ; fret 0
+  , 38 steps; 3 % 2 ; string 2 ; fret 3
+  , 21 steps; 5 % 4 ; string 1 ; fret 2
+  , 52 steps; 7 % 4 ; string 4 ; fret 0
+    second best:             3        7
+  , 11 steps; 9 % 8 ; string - 1 ; fret 6
+  , 30 steps; 11 % 8 ; string 2 ; fret 1
+  , 46 steps; 13 % 8 ; string 2 ; fret 5
+  , 59 steps; 15 % 8 ; string 3 ; fret 5
+  , 6 steps; 17 % 16 ; string - 2 ; fret 8
+  , 16 steps; 19 % 16 ; string 0 ; fret 4
+  , 26 steps; 21 % 16 ; string 2 ; fret 0
+  , 34 steps; 23 % 16 ; string 2 ; fret 2
+  , 42 steps; 25 % 16 ; string 2 ; fret 4
+  , 49 steps; 27 % 16 ; string 1 ; fret 9
+  , 56 steps; 29 % 16 ; string 4 ; fret 1
+  , 62 steps; 31 % 16 ; string 2 ; fret 9

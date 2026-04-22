@@ -1,0 +1,6 @@
+title: Polyploidy generates fork-merge pairs.
+pid: 45e848e3-aabc-4787-aa92-95ebff672197
+body: |2-
+  The graph looks like a path that forks into two,
+  and then those two sides rejoin.
+  The two forks correspond to the mother's and father's versions.

@@ -1,0 +1,9 @@
+title: hash table indexes
+pid: 9cb907dc-43a5-49cd-a6cc-08665628a9f8
+body: |2-
+  From each (kmer,offset) pair,
+  apply the hash function to the kmer to find a "bucket" (list of such pairs),
+  then append (or prepend; doesn't matter) the pair to that bucket.
+contains:
+- cc902b1a-179b-40a9-8f7d-42b74fb029eb
+- 0eee5ef0-6639-4a4f-8158-76d19fde1bb6

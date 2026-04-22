@@ -1,0 +1,4 @@
+title: '"synchronized": have mtv-lang play the LED pattern in time to the DAW'
+pid: 07017def-7ad9-43d6-8d25-aa52a9f28ac8
+body: |2-
+  Start the DAW, listen, start an mtv-lang LED pattern at the appropriate time.

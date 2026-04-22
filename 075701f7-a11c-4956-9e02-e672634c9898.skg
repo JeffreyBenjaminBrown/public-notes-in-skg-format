@@ -1,0 +1,7 @@
+title: alternatives
+pid: 075701f7-a11c-4956-9e02-e672634c9898
+body: |2-
+  I had better luck with `lsof`.
+contains:
+- e16c8fc3-6c73-4704-8e90-c5a403cc5493
+- 385e1710-7e73-48dc-a2ac-177e3eeaf0fa

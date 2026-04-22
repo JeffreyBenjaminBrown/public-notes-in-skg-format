@@ -1,0 +1,15 @@
+title: algorithm
+pid: 81c573bf-20ba-4d53-b9dd-aaec7009b11a
+body: |2-
+  For X: do it.
+  For Y: do it.
+  For Z: For each possible binding of Y
+    for each C among the children of Y
+      for each possible binding of X -- At this point the subst'n uses 2 vars.
+        test whether X == Y
+        if at any point they are equal, abort
+      if that innermost loop never aborted
+        add* the following association the Z-result:
+          (Var "C" = C) -> (Var "Y" = Y)
+          * where by "add" I mean use insertWith to add (Var "Y" = Y) to the
+           set of possible bindings that make (Var "C" = C) valid..

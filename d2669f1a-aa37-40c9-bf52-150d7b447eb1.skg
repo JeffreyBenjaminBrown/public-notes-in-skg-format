@@ -1,0 +1,7 @@
+title: Paired end sequencing
+pid: d2669f1a-aa37-40c9-bf52-150d7b447eb1
+body: |2-
+  permits sequences to be read from both ends.
+  Doubles (roughly?) the lengths of reads.
+  Some reads will have a missing chunk in the middle,
+  but even then it helps to know the two end sequences are close to each other.

@@ -1,0 +1,7 @@
+title: safer open and save
+pid: fa56601a-ae8b-4019-84a7-62b280fe2b31
+body: |2-
+  To write, first run `git status`.
+  If anything is modified, ask "are you sure? Your repo has uncommitted changes; saving this data might clobber them."
+
+  If it's not a repo, ask, "Are you sure you don't want to turn that data into a Git repo first?"

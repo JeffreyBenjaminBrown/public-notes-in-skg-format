@@ -1,0 +1,5 @@
+title: what it's shorthand for
+pid: 128be64d-749b-421b-8800-a669e6bcc3c7
+body: |2-
+  anonymous arity-1 functions that do nothing but
+  hand their argument to a higher-arity function

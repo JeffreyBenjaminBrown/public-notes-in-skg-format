@@ -1,0 +1,5 @@
+title: This is encoded via "Phred+33"
+pid: bf154b47-dba4-454e-9634-8a3a57b360ac
+body: |2-
+  which converts Q to an 8-bit ASCII character,
+  by rounding Q to the nearest int and adding 33.

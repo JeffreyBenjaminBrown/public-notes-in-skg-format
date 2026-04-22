@@ -1,0 +1,4 @@
+title: ufw
+pid: caf5be05-e6e5-4806-8aad-6e3cf686ac01
+body: |2-
+  Installing it via apt causes python3.7 to be installed.

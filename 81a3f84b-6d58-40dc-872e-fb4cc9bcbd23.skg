@@ -1,0 +1,7 @@
+title: Test for membership with two-value assignment.
+pid: 81a3f84b-6d58-40dc-872e-fb4cc9bcbd23
+body: |2-
+  elem, ok = m[key]
+  If key is in m, ok is true. If not, ok is false.
+contains:
+- d5924e0b-0d14-4e6e-968a-f4257236e966

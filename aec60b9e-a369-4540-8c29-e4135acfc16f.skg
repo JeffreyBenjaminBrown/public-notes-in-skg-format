@@ -1,0 +1,7 @@
+title: to configure the monome using serialosc
+pid: aec60b9e-a369-4540-8c29-e4135acfc16f
+body: |2-
+  Some of how to do this is documented in Montevideo:
+    git@github.com:JeffreyBenjaminBrown/montevideo
+  in this file:
+    Montevideo/Monome/README.md

@@ -1,0 +1,4 @@
+title: Each Erlang needs a ".erlang.cookie" file.
+pid: de8d4ce8-45e4-451a-8ed4-4a98a46f486e
+body: |2-
+  It should be the same atom. (Max length 255 chars.)

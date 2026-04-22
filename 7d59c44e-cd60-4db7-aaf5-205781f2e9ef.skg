@@ -1,0 +1,6 @@
+title: Make St polymrphic in the synth?
+pid: 7d59c44e-cd60-4db7-aaf5-205781f2e9ef
+body: |2-
+  That seems easier, but ugly --
+  it would be more natural if the synth was a constructor,
+  not a type.

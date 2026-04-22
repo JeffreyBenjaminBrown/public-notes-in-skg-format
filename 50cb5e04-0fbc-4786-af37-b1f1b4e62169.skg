@@ -1,0 +1,5 @@
+title: Non-alphanumeric characters in both keys and values are "percent encoded"
+pid: 50cb5e04-0fbc-4786-af37-b1f1b4e62169
+body: |2-
+  https://developer.mozilla.org/en-US/docs/Glossary/percent-encoding
+  "this is the reason why this type is not suitable to use with binary data (use multipart/form-data instead)"

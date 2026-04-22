@@ -1,0 +1,5 @@
+title: extending a definitive view from a removed node R
+pid: af7777c2-8619-415a-9961-3d7dd2f29db7
+body: |2-
+  one of whose children C is removed too,
+  and such that C has a removed child and a non-removed child

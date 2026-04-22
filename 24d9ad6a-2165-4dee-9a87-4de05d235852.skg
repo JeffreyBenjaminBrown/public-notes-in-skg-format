@@ -1,0 +1,12 @@
+title: PITFALL web endpoint formatting depends on region
+pid: 24d9ad6a-2165-4dee-9a87-4de05d235852
+body: |2-
+  A website's endpoint takes one of two almost identical forms,
+  depending on the region:
+    bucket-name.s3-website-region.amazonaws.com
+    bucket-name.s3-website.region.amazonaws.com
+                          ^
+                    the difference
+  In my case it's these:
+        jefbrown.net.s3-website-us-east-1.amazonaws.com
+  under.jefbrown.net.s3-website-us-east-1.amazonaws.com

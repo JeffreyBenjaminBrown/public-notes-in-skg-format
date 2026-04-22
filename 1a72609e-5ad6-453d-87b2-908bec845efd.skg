@@ -1,0 +1,5 @@
+title: a 1\36 component makes 72-edo theoretically possible
+pid: 1a72609e-5ad6-453d-87b2-908bec845efd
+body: |2-
+  Play a note and the one adjacent to it,
+  and program a MIDI effect that sends their midpoint.

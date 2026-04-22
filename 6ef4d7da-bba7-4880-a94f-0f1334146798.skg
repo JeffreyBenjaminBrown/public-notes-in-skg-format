@@ -1,0 +1,6 @@
+title: what I'm trying now
+pid: 6ef4d7da-bba7-4880-a94f-0f1334146798
+body: |2-
+  usermod -aG www-data appuser
+  chmod -R +777 /var
+  /log/apache2

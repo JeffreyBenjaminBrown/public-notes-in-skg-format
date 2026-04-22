@@ -1,0 +1,10 @@
+title: a context should not serve double-duty as content
+pid: 10a3e51b-06fd-4029-b858-6c923f23a05f
+body: |2-
+  If file F contains heading H with link L to file G,
+  then in order to view the L context there,
+  make a new, separate heading "X G"
+  for the new context.
+  "X G" should be a view-child of H.
+  This probably duplicates some text (the label in L and the title of G), but it clarifies what gets saved where.
+  If that duplicated text is long, the user can choose to disguise its second appearance with a short label ("it" would work if there's only one link in H, or an integer corresponding to the link's order in H if there are many).

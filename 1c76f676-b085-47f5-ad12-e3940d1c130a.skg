@@ -1,0 +1,6 @@
+title: most operators are not builtin
+pid: 1c76f676-b085-47f5-ad12-e3940d1c130a
+body: |2-
+  e.g. `not` is not builtin.
+  Instead see the module
+    gleam/bool

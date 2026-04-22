@@ -1,0 +1,4 @@
+title: show date but not time, with numbers separated by dashes
+pid: 0f73be94-b4ea-4b55-99ac-13e344a2f774
+body: |2-
+  date +"%Y-%m-%d"

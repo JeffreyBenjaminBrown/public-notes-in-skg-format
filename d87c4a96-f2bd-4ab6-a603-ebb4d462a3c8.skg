@@ -1,0 +1,5 @@
+title: Optimize only the big things.
+pid: d87c4a96-f2bd-4ab6-a603-ebb4d462a3c8
+body: |2-
+  Find a good algorithm,
+  but don't both making special cases of that algorithm faster.

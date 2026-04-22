@@ -1,0 +1,4 @@
+title: DONE Do TypeDB from Rust in Docker
+pid: 5cc108b2-a4b3-4869-a1db-d4a84026b769
+body: |2-
+  TypeDB has no C++ driver yet.

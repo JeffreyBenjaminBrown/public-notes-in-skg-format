@@ -1,0 +1,8 @@
+title: example
+pid: 0e027d16-696b-48aa-94c8-afeda4538c02
+body: |2-
+  "We find the maximum show by comparing them on their critic scores, then fmap into the Maybe result to get just the title since that’s all we care about."
+
+  >>> import Data.Ord (comparing)
+  >>> _title <$> maximumByOf folded (comparing _criticScore) tvShows
+  Just "How I Met Your Mother"

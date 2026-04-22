@@ -1,0 +1,6 @@
+title: Configure the redirect
+pid: 846fada3-eb84-47a1-ab61-24310866b5ba
+body: |2-
+  Go to Properties -> Static Website Hosting.
+  Choose Redirect. Enter the name of the target.
+  Choose HTTP.

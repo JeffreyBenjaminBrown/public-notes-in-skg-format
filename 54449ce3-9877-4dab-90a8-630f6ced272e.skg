@@ -1,0 +1,10 @@
+title: some prompts designed to get ChatGPT to describe its internal state
+pid: 54449ce3-9877-4dab-90a8-630f6ced272e
+body: |2-
+  serial
+    that is, pass these to ChatGPT in serial
+contains:
+- 5184bec9-fc00-4ee6-b7e0-40220e11cd1f
+- cdbc4137-dad6-4982-84ac-4870e98890db
+misc:
+- Had_ID_Before_Import

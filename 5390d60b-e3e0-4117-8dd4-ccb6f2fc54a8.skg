@@ -1,0 +1,5 @@
+title: fn indefinitize_content_subtree
+pid: 5390d60b-e3e0-4117-8dd4-ccb6f2fc54a8
+body: |2-
+  /// TODO : This will need complication to properly handle
+  ///   sharing-related nodes among the input node's descendents.

@@ -1,0 +1,7 @@
+title: to find all numbers in code
+pid: 7d037c89-4349-4587-8b2e-9e61c2231b6c
+body: |2-
+  In tmux, run
+    egrep "[0-9]+" -r build -r common -r draw -r regime *.py -C 5 --exclude="*test*"
+  and then read that screen. (Dumping it to a file would mean losing the colors,
+  which makes the reading process much slower.)

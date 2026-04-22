@@ -1,0 +1,7 @@
+title: link bidirectionality
+pid: e2aa1f30-86f7-4503-a4a2-399ec3b94d3c
+body: |2-
+  If F links to G and vice-versa,
+  that should be visible from either link.
+  Use the "left right arrow" symbol ↔
+  (`C-x 8 RET left right ar RET")

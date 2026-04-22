@@ -1,0 +1,4 @@
+title: 'PITFALL : Concrete descendents must override everything'
+pid: 6ee8f34c-3a1c-4ee0-af96-ef3df9c4aae2
+body: |2-
+  that any inherited-from MustInherit class defines.

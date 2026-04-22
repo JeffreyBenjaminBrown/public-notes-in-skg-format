@@ -1,0 +1,7 @@
+title: 'Mosh: Never dies, solves latency problem, but sacrifices screen history.'
+pid: 4c93a9b2-66ce-4f44-ad28-f2a38a7096db
+body: |2-
+  Good: faster response, automatic reconnect.
+  Bad: Screen history is (inaccurate? limited?).
+    Tmux fixes this, but at the cost of the fast response,
+    at which point why not just use ET.

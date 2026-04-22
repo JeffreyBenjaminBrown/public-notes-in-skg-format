@@ -1,0 +1,4 @@
+title: Often (always?) that's a list of required callbacks.
+pid: 463c933f-9709-4821-88c1-77bf8d2c25c6
+body: |2-
+  e.g. the gen_server does this when used as a behavior-constraining module.

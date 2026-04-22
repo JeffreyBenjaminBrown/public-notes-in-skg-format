@@ -1,0 +1,4 @@
+title: For billing, an AMI counts toward S3 usage
+pid: 8e5455d2-bb88-4d62-ad58-d18816342db6
+body: |2-
+  though they are not directly accessible from S3.

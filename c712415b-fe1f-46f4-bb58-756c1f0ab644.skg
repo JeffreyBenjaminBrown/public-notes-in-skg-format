@@ -1,0 +1,7 @@
+title: '`code_change`'
+pid: c712415b-fe1f-46f4-bb58-756c1f0ab644
+body: |2-
+  code_change(OldVsn, State, Extra) ->
+    %% Insert here: Code to convert state (and more)
+    %% during code change.
+    {ok, NewState}.

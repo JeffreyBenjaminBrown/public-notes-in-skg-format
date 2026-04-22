@@ -1,0 +1,4 @@
+title: data can be "selectively retrieved"
+pid: aa3888ab-4c74-405f-ac1b-fe49e70b90d8
+body: |2-
+  with "S3 Select"

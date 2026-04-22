@@ -1,0 +1,5 @@
+title: to toggle "send from track to Master"
+pid: 1616092e-5e70-45db-b42a-f6502dd9b7c9
+body: |2-
+  Hold Alt while clicking Route.
+  Works with multi-track selections too.

@@ -1,0 +1,6 @@
+title: 'PITFALL: Lists can be improper (not null-terminated).'
+pid: 45a81d7e-9a82-4887-9e3f-ac08f8561e79
+body: |2-
+  [1 | 2] creates something that behaves kind of like a list,
+  but it doesn't end with [], and as a result (for some reason)
+  some uses break. For instance [1 | 2] ++ [2,3] is not defined.

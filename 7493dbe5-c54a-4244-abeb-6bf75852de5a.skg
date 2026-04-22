@@ -1,0 +1,8 @@
+title: 'table: use'
+pid: 7493dbe5-c54a-4244-abeb-6bf75852de5a
+body: |2-
+         uses lens fold trav
+  optics
+  lens        x    x    x
+  fold             x
+  trav             x    x

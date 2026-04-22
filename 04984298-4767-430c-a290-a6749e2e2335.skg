@@ -1,0 +1,8 @@
+title: it's nice to write
+pid: 04984298-4767-430c-a290-a6749e2e2335
+body: |2-
+  If S is not a containment root,
+  the reason S links to T can often be clarified
+  by including a link recursively contained in S
+  to something recursively contained in T.
+  (There might be other reasons to do it, too.)

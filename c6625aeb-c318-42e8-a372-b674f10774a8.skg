@@ -1,0 +1,5 @@
+title: The type checker can fill in values, not just types
+pid: c6625aeb-c318-42e8-a372-b674f10774a8
+contains:
+- dbfad0f8-b3f4-40ac-bc7b-e857ae287567
+- e3d17aad-b2fe-4e48-a751-553facf1050b

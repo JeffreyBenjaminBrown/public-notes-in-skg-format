@@ -1,0 +1,4 @@
+title: Erlang writes functions as "name/arity".
+pid: b45dd785-5de4-4ff4-9d03-753f5742452d
+body: |2-
+  e.g. `print/1` for a print function with one argument.

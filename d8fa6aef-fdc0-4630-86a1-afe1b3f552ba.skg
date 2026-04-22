@@ -1,0 +1,7 @@
+title: to create an AMI from an EC2 instance
+pid: d8fa6aef-fdc0-4630-86a1-afe1b3f552ba
+contains:
+- c1c8609d-59d0-4427-b042-f70c1a4ed981
+- 8681d953-7fc5-4f4b-8b07-f6ff0d8418e3
+misc:
+- Had_ID_Before_Import

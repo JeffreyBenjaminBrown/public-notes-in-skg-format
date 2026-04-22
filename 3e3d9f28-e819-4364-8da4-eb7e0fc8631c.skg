@@ -1,0 +1,5 @@
+title: Lenses are Foldss
+pid: 3e3d9f28-e819-4364-8da4-eb7e0fc8631c
+body: |2-
+  (1,2) ^.. _2
+  toListOf (folded . _2) (S.fromList [(1,2), (3,4)])

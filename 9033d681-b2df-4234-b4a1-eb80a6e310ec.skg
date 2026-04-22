@@ -1,0 +1,5 @@
+title: to cut and concatenate pages with pdftk
+pid: 9033d681-b2df-4234-b4a1-eb80a6e310ec
+body: |2-
+  pdftk input.pdf cat 1-7 9 11-end output merged.pdf
+  pdftk big.pdf cat 5-6 output middle.pdf

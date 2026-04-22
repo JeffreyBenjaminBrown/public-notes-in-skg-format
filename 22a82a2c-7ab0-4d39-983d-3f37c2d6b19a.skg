@@ -1,0 +1,4 @@
+title: 'PITFALL: sometimes, sets are converted to strings'
+pid: 22a82a2c-7ab0-4d39-983d-3f37c2d6b19a
+body: |2-
+  Namely, if they contain an "outPath" field.

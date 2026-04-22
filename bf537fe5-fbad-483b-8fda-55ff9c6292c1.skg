@@ -1,0 +1,5 @@
+title: The functions in Hash.HLookup deserve complication for transitivity.
+pid: bf537fe5-fbad-483b-8fda-55ff9c6292c1
+body: |2-
+  Hash, after all, is the query language,
+  and in that language transitive search is a distinct concept.

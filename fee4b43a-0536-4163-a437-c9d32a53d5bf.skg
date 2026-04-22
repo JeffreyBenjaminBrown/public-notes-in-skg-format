@@ -1,0 +1,8 @@
+title: STALE RESUME at
+pid: fee4b43a-0536-4163-a437-c9d32a53d5bf
+body: |2-
+  in this page:
+    https://idris2.readthedocs.io/en/latest/tutorial/multiplicities.html
+  find one of these quotes:
+    A similar intuition applies for data types.
+    data Lin : Type -> Type where

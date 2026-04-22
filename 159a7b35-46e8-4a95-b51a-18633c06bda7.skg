@@ -1,0 +1,5 @@
+title: It would be helpful if, in the "Data Model" section, "Elements" came before "Terms" and "Types".
+pid: 159a7b35-46e8-4a95-b51a-18633c06bda7
+body: |2-
+  The tables in the Terms and Types subsections were baffling until I had read the Elements one. For instance, they refer to "element references", which are only introduced in "Elements".
+  If you don't want to change the order, it would help to announce before the Terms and Types subsections that they'll be spelled out later, in Elements.

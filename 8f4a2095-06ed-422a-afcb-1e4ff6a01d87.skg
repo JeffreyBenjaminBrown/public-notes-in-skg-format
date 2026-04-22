@@ -1,0 +1,10 @@
+title: using two goroutines
+pid: 8f4a2095-06ed-422a-afcb-1e4ff6a01d87
+body: |2-
+  func fanIn ( input1, input2 <-chan string )
+             <-chan string {
+    c := make (chan string)
+    go func() { for { c <- <- ipnut1 } }()
+    go func() { for { c <- <- ipnut2 } }()
+    return c
+  }

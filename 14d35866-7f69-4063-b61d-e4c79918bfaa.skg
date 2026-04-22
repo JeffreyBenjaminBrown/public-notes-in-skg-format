@@ -1,0 +1,7 @@
+title: view a non-title node, internal to a file
+pid: 14d35866-7f69-4063-b61d-e4c79918bfaa
+body: |2-
+      (org-roam-db-query-to-buffer
+  [:select [id title file level pos todo priority scheduled deadline properties olp]
+          :from nodes
+  :where (= id "e663a892-7596-49c4-8b2e-d9fd9efb6cb2")])

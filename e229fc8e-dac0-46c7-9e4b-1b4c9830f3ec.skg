@@ -1,0 +1,7 @@
+title: replace/supplement Content by reading
+pid: e229fc8e-dac0-46c7-9e4b-1b4c9830f3ec
+body: |2-
+  If the parent node is not mightcontainmore,
+  replace them all from disk,
+  preceded by non-content nodes
+  (which probably all retain their previous order).

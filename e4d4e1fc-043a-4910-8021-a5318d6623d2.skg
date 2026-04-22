@@ -1,0 +1,7 @@
+title: What about a subscribee's subscribees?
+pid: e4d4e1fc-043a-4910-8021-a5318d6623d2
+body: |2-
+  rather than Subscribee,
+  could be 'in theirs and not yours',
+  with nodes and its own SubscribeeCol.
+  Easiest to generalize: "[name]'s and not [grandparent, subscriber?'s name]'s"

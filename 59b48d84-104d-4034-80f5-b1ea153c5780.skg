@@ -1,0 +1,5 @@
+title: should permit the user to create an "other sources" branch
+pid: 59b48d84-104d-4034-80f5-b1ea153c5780
+body: |2-
+  Seeing what still links to [what the deleted link targeted]
+  can reassure the user that the deletion is good.

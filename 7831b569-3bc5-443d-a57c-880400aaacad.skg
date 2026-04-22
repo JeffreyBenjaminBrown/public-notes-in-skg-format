@@ -1,0 +1,7 @@
+title: Change the shortcut for restoring or for searching in Tmux
+pid: 7831b569-3bc5-443d-a57c-880400aaacad
+body: |2-
+  because it's too easy to restore instead of searching,
+  and thereby lose the history.
+misc:
+- Had_ID_Before_Import

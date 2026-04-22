@@ -1,0 +1,6 @@
+title: configure git
+pid: 332ebec1-21d6-4b00-98eb-b4454eb2bd7a
+body: |2-
+  git config --global user.email "jeffbrown.the@gmail.com"
+  git config --global user.name "JeffreyBenjaminBrown"
+  git config --global credential.helper cache

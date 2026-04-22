@@ -1,0 +1,12 @@
+title: code
+pid: 82adc55d-42eb-4236-8a4a-d4f195600316
+body: |2-
+  # definitions
+  from urllib import parse
+  url = "http://www.example.org/default.html?ct=32&op=92&item=98"
+  url_parts = ( parse.urlsplit ( url )
+                . query )
+
+  # IO
+  parse.parse_qs         ( url_parts )
+  dict ( parse.parse_qsl ( url_parts ) )

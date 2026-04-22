@@ -1,0 +1,5 @@
+title: TODO ? could introduce type TransRole = TransLeft | TransRight
+pid: 9c74404d-653f-4fa8-9acb-6ad23517a1ab
+body: |2-
+  to limit the possible values in the list argument of PTrans (because,
+  e.g., RoleMember 3 or RoleTplt make no sense)

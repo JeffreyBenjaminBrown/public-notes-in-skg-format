@@ -1,0 +1,8 @@
+title: build the .jar natively, copy it to docker-smsn
+pid: 0fea6e7e-b3b9-4689-9591-ce4fe05bbe76
+body: |2-
+  Run this from the root folder of the smsn/ code:
+    gradle :smsn-server:shadowJar
+  Somehwere, that will build a file that matches this regex:
+    smsn-server-*-all.jar
+  Copy that to be a sibling of the Dockerfile.

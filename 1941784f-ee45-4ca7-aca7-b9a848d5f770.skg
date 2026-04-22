@@ -1,0 +1,5 @@
+title: '"Keeper"'
+pid: 1941784f-ee45-4ca7-aca7-b9a848d5f770
+body: |2-
+  Automated agents that bid in Dai for the collateral
+  from liquidated vaults.

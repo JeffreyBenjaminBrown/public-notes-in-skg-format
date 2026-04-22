@@ -1,0 +1,4 @@
+title: 'folding :: Foldable f => (s -> f a) -> Fold s a'
+pid: a477e1b7-aec2-4dc8-880e-761dba84378c
+contains:
+- 66b18ccc-184e-47cd-b74b-b87720ae3064

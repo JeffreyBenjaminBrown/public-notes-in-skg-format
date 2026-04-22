@@ -1,0 +1,5 @@
+title: 'To put a git submodule in a git module:'
+pid: 2f1b7a2e-fe21-446a-81fa-e39ad288077f
+body: |2-
+  git submodule add <path to remote repo> [folder name]
+  git submodule add git@github.com:ofiscal/utilities ofiscal_utils

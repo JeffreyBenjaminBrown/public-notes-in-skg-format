@@ -1,0 +1,8 @@
+title: 'PITFALL: The definition of the host object does not (necessarily? ever?) know about its contents from other tables.'
+pid: 41c773b1-cc60-4289-8d5a-17aa4a3c2f69
+body: |2-
+  For instance, in the tutorial's example "polls" app,
+  there are Question and Choice types.
+  Every Choice includes a field that is a Question.
+  Thus every Question has (potentially) multiple Choices associated with it,
+  but the definition of the Question type refers nowhere to Choice.

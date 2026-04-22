@@ -1,0 +1,5 @@
+title: Alias
+pid: 60788f71-e46c-4ca3-9c78-02f6c886ae58
+body: |2-
+  { text: String,
+    diff: Option<FieldDiffStatus> },

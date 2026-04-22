@@ -1,0 +1,5 @@
+title: code that seems at least grammatically correct
+pid: c0c1b5cf-d988-4e47-adbe-0354509d44d2
+body: |2-
+  --patterns-from /mnt/d/borg-repo/include.txt \
+  --exclude-from  /mnt/d/borg-repo/exclude.txt

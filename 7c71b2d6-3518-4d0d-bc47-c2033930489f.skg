@@ -1,0 +1,5 @@
+title: use tax.co.web/paths.json
+pid: 7c71b2d6-3518-4d0d-bc47-c2033930489f
+body: |2-
+  commands.sh already uses it,
+  but Python doesn't.

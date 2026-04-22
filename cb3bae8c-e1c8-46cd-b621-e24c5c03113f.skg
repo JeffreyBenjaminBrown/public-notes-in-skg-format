@@ -1,0 +1,4 @@
+title: 'PITFALL: Does not mention all the apk-installable requirements.'
+pid: cb3bae8c-e1c8-46cd-b621-e24c5c03113f
+body: |2-
+  sudo apk add build-base texinfo ncurses-dev gnutls

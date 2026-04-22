@@ -1,0 +1,7 @@
+title: the commands I used
+pid: 1d0ae997-be8f-4a93-8159-ed0bc6a44fba
+body: |2-
+  These depend on the names I found using `df -hT` and `lsblk`.
+contains:
+- b972c398-5700-4b11-be8d-f95aaf4fd9b0
+- 89305636-5e40-4111-9a8c-799028714538

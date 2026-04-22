@@ -1,0 +1,4 @@
+title: if using BIOS
+pid: 0bb4a8c9-bc18-44f1-af30-0ad35f8d24e9
+body: |2-
+  sudo You_must_set_the_option boot.loader.grub.device to specify on which disk the GRUB boot loader is to be installed

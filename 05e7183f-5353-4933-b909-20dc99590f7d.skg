@@ -1,0 +1,4 @@
+title: DONE figure out what causes apt to install python3.7
+pid: 05e7183f-5353-4933-b909-20dc99590f7d
+body: |2-
+  It's apache, ufw, mod-wsgi, and pip.

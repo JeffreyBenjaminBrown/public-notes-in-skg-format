@@ -1,0 +1,5 @@
+title: visit note by id
+pid: 662e27e0-5967-40c3-9bd5-d56d85be8ed3
+body: |2-
+  C-c o
+  smsn-open-note-prompt

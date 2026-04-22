@@ -1,0 +1,4 @@
+title: document the precedence order of the language
+pid: 655ae665-bf32-4a02-92c0-f2c3738f66ed
+body: |2-
+  and mention that you can use parens liberally to make it more obvious

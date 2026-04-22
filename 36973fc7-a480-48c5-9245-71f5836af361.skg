@@ -1,0 +1,9 @@
+title: Edits to a foreign node.
+pid: 36973fc7-a480-48c5-9245-71f5836af361
+body: |2-
+  Creates a lens.
+  It begins as whatever the user tried to save,
+  plus an overrides relationship to the foreign node,
+  plus a subscribes-to relationship to the foreign node,
+  plus hides relationships to the intersection
+  of its content and the foreign node's.

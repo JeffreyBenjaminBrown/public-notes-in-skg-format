@@ -1,0 +1,4 @@
+title: Aggregate queries can contain non-aggregate result columns that are not in the GROUP BY clause.
+pid: f5a9096f-99bf-42f4-ab0c-e6e619bac24e
+body: |2-
+  https://www.sqlite.org/quirks.html

@@ -1,0 +1,4 @@
+title: Choose someone (the "swap target") to find swaps for.
+pid: 60569136-cd22-40cd-b049-26396d80fcaa
+body: |2-
+  Cycle between targeting the most burdened, the least burdened, and a random agent.

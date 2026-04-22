@@ -1,0 +1,6 @@
+title: crawling the web, and users' own private data
+pid: b21816ae-34f5-48a8-9a7d-aba7563700f5
+body: |2-
+  The Shyg index will require crawling the web. There exist numerous popular web-scraping frameworks. Shyg will use one of them.
+
+  Shyg will also index the private data of users who choose to do that. It will not require a web framework, just the ability to read files. There already exist open-source solutions, such as Apache Tika, for parsing a wide variety of document formats (like PDF and Word, which will be particularly important). Shyg will use one of them.

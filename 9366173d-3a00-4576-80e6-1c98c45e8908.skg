@@ -1,0 +1,4 @@
+title: Make a slice from an array.
+pid: 9366173d-3a00-4576-80e6-1c98c45e8908
+body: |2-
+  a[low : high] // low is included, high is excluded

@@ -1,0 +1,5 @@
+title: package attributes can be overridden
+pid: 38497d4b-0773-4c2d-9b20-304cb8a4af3d
+body: |2-
+  e.g. to change the source code
+  use overrideAttrs

@@ -1,0 +1,5 @@
+title: 'ordinary cut/copy/paste : omits bullet (not link) IDs'
+pid: ed6586b0-351e-4bc9-9c52-d5deb6fbac5f
+body: |2-
+  Omit IDs from cut portions so that they can't be
+  pasted multiple times, which would cause invalid state.

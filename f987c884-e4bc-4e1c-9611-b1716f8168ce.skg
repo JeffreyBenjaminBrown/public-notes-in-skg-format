@@ -1,0 +1,5 @@
+title: sumOf, productOf
+pid: f987c884-e4bc-4e1c-9611-b1716f8168ce
+body: |2-
+  sumOf :: Num n => Fold s n -> s -> n
+  productOf :: Num n => Fold s n -> s -> n

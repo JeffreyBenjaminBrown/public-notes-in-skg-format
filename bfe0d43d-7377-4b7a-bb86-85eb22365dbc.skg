@@ -1,0 +1,6 @@
+title: '[T, T]'
+pid: bfe0d43d-7377-4b7a-bb86-85eb22365dbc
+body: |2-
+  tuples, which are fixed-length but mutable
+contains:
+- 41da0cf5-cb57-4feb-a9a2-79e40f0ac6e3

@@ -1,0 +1,5 @@
+title: if connecting does not automatically bring me to a "captive portal" to accept terms of use
+pid: 331eaeba-7aa8-4805-9cfb-7d5b5aae4b08
+body: |2-
+  try visiting an http (not https) site, e.g.
+    http://sfvlug.org

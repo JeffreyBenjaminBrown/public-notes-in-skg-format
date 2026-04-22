@@ -1,0 +1,6 @@
+title: create the relation
+pid: 61e112f3-cecd-47de-b596-5615ee0ea7e2
+body: |2-
+  It has n fields -- binary ones have 2, etc.
+  Each fields can include a type specification.
+  It has aliases.

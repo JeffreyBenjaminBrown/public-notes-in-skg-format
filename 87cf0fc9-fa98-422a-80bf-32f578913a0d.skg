@@ -1,0 +1,8 @@
+title: 'bug: can''t type the letter `x` in shell'
+pid: 87cf0fc9-fa98-422a-80bf-32f578913a0d
+body: |2-
+  This happened to me <2022-09-05 Mon>.
+  It happened in both Konsole and XTerm.
+  I solved it by deleting ~/.bash_history, closing the terminal and starting another.
+misc:
+- Had_ID_Before_Import

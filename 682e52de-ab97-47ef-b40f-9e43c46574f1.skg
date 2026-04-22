@@ -1,0 +1,7 @@
+title: automatic parsing from NL to graph
+pid: 682e52de-ab97-47ef-b40f-9e43c46574f1
+body: |2-
+  When you input a statement,
+  Hode should parse it automatically into elements,
+  display the elements with IDs next to each one,
+  and let you easily add more relationships between them.

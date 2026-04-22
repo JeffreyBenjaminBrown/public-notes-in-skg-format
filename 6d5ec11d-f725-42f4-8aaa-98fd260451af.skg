@@ -1,0 +1,4 @@
+title: don't worry about foreign moves of already incorporated nodes
+pid: 6d5ec11d-f725-42f4-8aaa-98fd260451af
+body: |2-
+  If they moved something but you merged it with something of your own, maybe don't show the move, because you already placed it and you're already tracking it.

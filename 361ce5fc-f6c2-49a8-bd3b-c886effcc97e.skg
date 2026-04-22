@@ -1,0 +1,2 @@
+title: '`exit/2 :: PID -> Reason -> IO ()` lets one process kill another.'
+pid: 361ce5fc-f6c2-49a8-bd3b-c886effcc97e

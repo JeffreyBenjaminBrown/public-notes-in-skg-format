@@ -1,0 +1,4 @@
+title: Hash
+pid: 2a27088c-a218-494a-aa97-6c13440816d2
+body: |2-
+  [[id:c62f00f7-4e2a-4a58-80d7-9996ea27372d][Hash]] is an open-source, user-friendly query language resembling ordinary speech. I implemented it in Haskell a few years ago. I will rewrite it in TypeQL.

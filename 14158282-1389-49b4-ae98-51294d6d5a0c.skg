@@ -1,0 +1,4 @@
+title: '"NUL Characters Are Allowed In Text Strings"'
+pid: 14158282-1389-49b4-ae98-51294d6d5a0c
+body: |2-
+  https://www.sqlite.org/quirks.html

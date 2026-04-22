@@ -1,0 +1,6 @@
+title: Use the LIKE keyword (instead of "=") with wildcards.
+pid: f2858b7a-d027-428e-b636-9d7886557dad
+body: |2-
+  SELECT DISTINCT city
+  FROM crime_scene_report
+  WHERE city LIKE 'I%';

@@ -1,0 +1,9 @@
+title: dictionary comprehension (with filter)
+pid: b408b71a-d3d3-45cc-8eb1-fef8003c1d1a
+body: |2-
+  # This evaluates to {1:2}.
+  { k:v
+    for k,v in ( { 1:2,
+                   3:None }
+                 . items() ) # IMPORTANT
+    if not(v is None) }

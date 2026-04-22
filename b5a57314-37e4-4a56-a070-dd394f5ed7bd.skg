@@ -1,0 +1,7 @@
+title: acceptable return values
+pid: b5a57314-37e4-4a56-a070-dd394f5ed7bd
+body: |2-
+  {ok, StateName, Data}
+  {ok, StateName, Data, Timeout}
+  {ok, StateName, Data, hibernate}
+  {stop, Reason}

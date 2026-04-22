@@ -1,0 +1,6 @@
+title: lock = 0
+pid: fc4d5f9a-ac3a-4f3d-ae67-988ff765381e
+body: |2-
+  In {0,1}.
+  0 => delaytime is absolute.
+  1 => delaytime is a multiple of cps.

@@ -1,0 +1,4 @@
+title: panic = "super hush" \\ TidalCycles
+pid: 7fa2f746-423d-4e1e-a395-59e61bfd3ea6
+body: |2-
+  Ends patterns *and* kills all synths and samples.

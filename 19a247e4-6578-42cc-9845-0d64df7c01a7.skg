@@ -1,0 +1,21 @@
+title: steps-and-frequencies table
+pid: 19a247e4-6578-42cc-9845-0d64df7c01a7
+body: |2-
+  0  steps;  1 % 1;  string 0; fret 0
+  46 steps;  2 % 1;  string 5; fret 1
+  27 steps;  3 % 2;  string 3; fret 0
+  15 steps;  5 % 4;  string 1; fret 3
+                  or string 2; fret -3
+  37 steps;  7 % 4;  string 4; fret 1
+  8  steps;  9 % 8;  string 1; fret -1
+  21 steps; 11 % 8;  string 2; fret 3
+  32 steps; 13 % 8;  string 3; fret 5
+  42 steps; 15 % 8;  string 4; fret 6
+  4  steps; 17 % 16; string 0; fret 4
+  11 steps; 19 % 16; string 1; fret 2
+  18 steps; 21 % 16; string 2; fret 0
+  24 steps; 23 % 16; string 2; fret 6
+  30 steps; 25 % 16; string 3; fret 3
+  35 steps; 27 % 16; string 4; fret -1
+  39 steps; 29 % 16; string 4; fret 3
+  44 steps; 31 % 16; string 5; fret -1

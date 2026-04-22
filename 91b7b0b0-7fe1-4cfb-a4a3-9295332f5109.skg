@@ -1,0 +1,7 @@
+title: if desired, check the migration
+pid: 91b7b0b0-7fe1-4cfb-a4a3-9295332f5109
+body: |2-
+  View the SQL it translates into:
+    python manage.py sqlmigrate <app-name> 0001
+  Check for problems automatically:
+    python manage.py check

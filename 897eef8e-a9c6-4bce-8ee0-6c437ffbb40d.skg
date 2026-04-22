@@ -1,0 +1,11 @@
+title: then it ends with two warnings
+pid: 897eef8e-a9c6-4bce-8ee0-6c437ffbb40d
+body: |2-
+  propagated-build-inputs: /nix/store/n1zmgjn34ql72vpnn9wxpdpwlp27y5wl-hsndfile-vector-0.5.2/nix-support/propagated-build-inputs
+  /nix/store/4c9qqa1vaii26173mxy5kc2rbjb9mwbc-Diff-0.4.0/nix-support:
+  propagated-build-inputs: /nix/store/n1zmgjn34ql72vpnn9wxpdpwlp27y5wl-hsndfile-vector-0.5.2/nix-support/propagated-build-inputs
+  /nix/store/dsnc8bw6lvwz7zya696cmzg6ivb5qd7l-ghc-8.10.3/nix-support:
+  propagated-build-inputs: /nix/store/n1zmgjn34ql72vpnn9wxpdpwlp27y5wl-hsndfile-vector-0.5.2/nix-support/propagated-build-inputs
+  Warning: haddock-interfaces: /nix/store/xxwl41w9ylh5lmyv33dd1cdziqkx4xc0-writer-cps-transformers-0.5.6.1/share/doc/x86_64-linux-ghc-8.10.3/writer-cps-transformers-0.5.6.1/html/writer-cps-transformers.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /nix/store/xxwl41w9ylh5lmyv33dd1cdziqkx4xc0-writer-cps-transformers-0.5.6.1/share/doc/x86_64-linux-ghc-8.10.3/writer-cps-transformers-0.5.6.1/html doesn't exist or isn't a directory
+  Adding generated Local/ShakeConfig.hs

@@ -1,0 +1,5 @@
+title: apply/3
+pid: 5288aa2d-84eb-4a63-a1e7-8071ff5e54cb
+body: |2-
+  apply (Module, Function, Args)
+  seems to run Module:Function against Args.

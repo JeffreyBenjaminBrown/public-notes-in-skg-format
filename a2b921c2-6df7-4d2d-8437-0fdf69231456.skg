@@ -1,0 +1,7 @@
+title: configure credentials for the repo
+pid: a2b921c2-6df7-4d2d-8437-0fdf69231456
+body: |2-
+  THese can be Git credentials, SSH credentials, or something else.
+contains:
+- c5ce32b9-3e14-473f-9be6-c62b5fce7170
+- 98074858-c5a0-423e-a761-0cf045599f08

@@ -1,0 +1,6 @@
+title: type synonyms
+pid: 513632ba-83db-4367-a764-8b45f15db3b4
+body: |2-
+  type MyFloat float64
+misc:
+- Had_ID_Before_Import

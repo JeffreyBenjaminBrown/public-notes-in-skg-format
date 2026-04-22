@@ -1,0 +1,12 @@
+title: experiments
+pid: 674aefd1-8635-4c2f-ad54-3bc4aaff0f60
+body: |2-
+  #+BEGIN_SRC haskell
+  setcps 0.4
+
+  d1 $ s "superhoover" |*| n "-36 -24 -12 0 12 24 36"
+
+  d1 $ slow 1 $ s "superhoover"
+    |*| n ("0 2.7 7" )
+    |*| slide (2)
+  #+END_SRC

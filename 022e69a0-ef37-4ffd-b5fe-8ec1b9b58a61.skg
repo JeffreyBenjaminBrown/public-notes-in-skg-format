@@ -1,0 +1,9 @@
+title: overall memory usage
+pid: 022e69a0-ef37-4ffd-b5fe-8ec1b9b58a61
+body: |2-
+  S.ficheros                                             Tamaño Usados  Disp Uso% Montado en
+  /dev/disk/by-uuid/243cff74-f15c-4532-93dc-f651dee7eee7   226G    74G  141G  35% /
+
+  35G	home
+  40G	nix/store
+  74G	total

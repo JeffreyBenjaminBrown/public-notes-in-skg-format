@@ -1,0 +1,12 @@
+title: for Notes, certainly not
+pid: 9146a977-9f0e-4d88-b753-2c5ed37c5364
+body: |2-
+     For instance, in Dispatch.Dispatch.dispatchLoop,
+     they appear not to be used:
+  evs0 :: [(Time, Action)]
+           = concatMap f $ M.elems mqs' where
+           f :: Museq String Action
+             -> [(Time, Action)] -- start times and actions
+           f m = map (\ev -> ((ev^.evStart), (ev^.evData))) evs
+             where evs = arc time0 tempoPeriod startRender
+  		(startRender + frameDuration) m

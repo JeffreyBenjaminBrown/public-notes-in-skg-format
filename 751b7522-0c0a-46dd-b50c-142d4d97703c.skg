@@ -1,0 +1,9 @@
+title: it takes two path-to-the-focus arguments
+pid: 751b7522-0c0a-46dd-b50c-142d4d97703c
+body: |2-
+  >>> let numbers = ([(1, 2), (3, 4)], [5, 6, 7])
+  >>> :t numbers
+  numbers :: ( [(Int, Int)]
+             , [Int] )
+  >>> numbers ^.. beside (traversed . both) traversed
+  [1, 2, 3, 4, 5, 6, 7]

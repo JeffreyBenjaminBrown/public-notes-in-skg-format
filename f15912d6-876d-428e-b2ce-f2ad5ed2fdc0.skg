@@ -1,0 +1,10 @@
+title: syntax
+pid: f15912d6-876d-428e-b2ce-f2ad5ed2fdc0
+body: |2-
+  receive
+    Pattern1 -> Expr1;
+    ...
+    Pattern when Guard -> Expr2
+  after <delay in ms> ->
+    Expression2
+  end

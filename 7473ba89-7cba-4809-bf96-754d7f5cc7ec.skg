@@ -1,0 +1,6 @@
+title: later, a "sort program" buffer
+pid: 7473ba89-7cba-4809-bf96-754d7f5cc7ec
+body: |2-
+  Specific to a given VExpr, applied to its children.
+  Shows every TR, and a checkbox next to the one curently ordering the list.
+  The checkbox can be moved.

@@ -1,0 +1,6 @@
+title: It's too hard. Never mind.
+pid: bd205b9b-4e68-4e33-9f24-c81517e6f732
+body: |2-
+  I'm using Debian 11.
+  Installing a Python above 3.9 in Debian 11 requires either building from source or using an unusual apt repo. Source looks ugly. Adding apt gives me problems, I think maybe because deadsnakes does not have a repo for Debian 11 ("bullseye").
+  The latest Debian is 12, but for that it's not easy to install Haskell, which I need.

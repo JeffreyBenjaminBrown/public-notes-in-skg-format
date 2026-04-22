@@ -1,0 +1,20 @@
+title: table
+pid: a074d6c1-caba-4088-8dce-0bbcda74bbd1
+body: |2-
+  00 steps; 01 % 01 ; string 0 ; fret 0
+  04 steps; 17 % 16 ; string 3 ; fret - 4
+  08 steps; 09 % 08 ; string 1 ; fret 0
+  12 steps; 19 % 16 ; string 4 ; fret - 4
+  16 steps; 05 % 04 ; string 2 ; fret 0
+  20 steps; 21 % 16 ; string 5 ; fret - 4
+  23 steps; 11 % 08 ; string 1 ; fret 3
+  26 steps; 23 % 16 ; string 2 ; fret 2
+  29 steps; 03 % 02 ; string 3 ; fret 1
+  32 steps; 25 % 16 ; string 4 ; fret 0
+  35 steps; 13 % 08 ; string 5 ; fret - 1
+  38 steps; 27 % 16 ; string 6 ; fret - 2
+  40 steps; 07 % 04 ; string 5 ; fret 0
+  43 steps; 29 % 16 ; string 6 ; fret - 1
+  45 steps; 15 % 08 ; string 5 ; fret 1
+  48 steps; 31 % 16 ; string 6 ; fret 0
+  50 steps; 02 % 01 ; string 5 ; fret 2

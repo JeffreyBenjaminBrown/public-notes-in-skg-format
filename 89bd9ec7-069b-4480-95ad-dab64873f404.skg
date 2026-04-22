@@ -1,0 +1,22 @@
+title: '17\80 x 5\80: 31-lim arguably -5 -7 -9 -21 -27'
+pid: 89bd9ec7-069b-4480-95ad-dab64873f404
+body: |2-
+  Pr.pPrint $ bestLayout' 31 80 17 5
+  Stick mostly to the positives frets.
+  [ 0 steps; 1 % 1 ; string 0 ; fret 0
+  , 80 steps; 2 % 1 ; string 5 ; fret - 1
+  , 47 steps; 3 % 2 ; string 1 ; fret 6
+  # , 26 steps; 5 % 4 ; string 3 ; fret - 5
+  # , 65 steps; 7 % 4 ; string 5 ; fret - 4
+  # , 14 steps; 9 % 8 ; string 2 ; fret - 4
+  , 37 steps; 11 % 8 ; string 1 ; fret 4
+  , 56 steps; 13 % 8 ; string 3 ; fret 1
+  , 73 steps; 15 % 8 ; string 4 ; fret 1
+  , 7 steps; 17 % 16 ; string 1 ; fret - 2
+  , 20 steps; 19 % 16 ; string 0 ; fret 4
+  # , 31 steps; 21 % 16 ; string 3 ; fret - 4
+  , 42 steps; 23 % 16 ; string 1 ; fret 5
+  , 52 steps; 25 % 16 ; string 1 ; fret 7
+  # , 60 steps; 27 % 16 ; string 5 ; fret - 5
+  , 69 steps; 29 % 16 ; string 2 ; fret 7
+  , 76 steps; 31 % 16 ; string 3 ; fret 5

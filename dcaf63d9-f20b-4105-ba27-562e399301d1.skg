@@ -1,0 +1,10 @@
+title: replace foreign node with overriding subscriber
+pid: dcaf63d9-f20b-4105-ba27-562e399301d1
+body: |2-
+  Purely a view operation; does not change the graph.
+  (But because the overriding subscriber is in the local graph,
+    the local graph now indicates that
+    this substitution happens in every view.)
+  In the view, the foreign node is replaced
+    with a new local overriding subscriber,
+    and an indication that that's what the replacement is.

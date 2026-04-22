@@ -1,0 +1,4 @@
+title: head mismatch
+pid: 5439dd08-2302-4792-b1ba-86f0258e7723
+body: |2-
+  "It's possible your function has more than one head, and each of them has a different arity. Don't forget that different arity means different functions, and you can't interleave function declarations that way. This error is also raised when you insert a function definition between the head clauses of another function"

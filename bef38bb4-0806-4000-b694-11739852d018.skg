@@ -1,0 +1,11 @@
+title: wait for something to close before closing
+pid: bef38bb4-0806-4000-b694-11739852d018
+body: |2-
+  17:43 in [[id:4bc1d8e4-2c04-4cbe-bcae-c9e97debe74a][Advanced Go Concurrency Patterns]]
+
+  func (s* sub) Close() error {
+    errc := make ( chan error ) // Make a channel to transmit errors.
+    s.closing <- errc  // Send the errc channel over the s.closing channel
+    return <-errc // Wait for a (hopefully nil) response over errc.
+                  // Return that value.
+  }

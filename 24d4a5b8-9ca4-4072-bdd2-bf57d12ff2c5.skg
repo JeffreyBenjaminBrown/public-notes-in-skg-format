@@ -1,0 +1,7 @@
+title: what happened
+pid: 24d4a5b8-9ca4-4072-bdd2-bf57d12ff2c5
+body: |2-
+  I couldn't compile the OTP repo. Someone recommended more recent versions. So I [[id:c15685f2-54d8-40dd-a49c-d87ec0bd5034][installed via my nixpkgs clone]] the packages gleam and rebar3, and commented them out of my Nix config.
+  But that wasn't recent enough, and I could not easily add a new Nix package for the newest Gleam.
+misc:
+- Had_ID_Before_Import

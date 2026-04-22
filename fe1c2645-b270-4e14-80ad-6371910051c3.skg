@@ -1,0 +1,5 @@
+title: callPackage is simpler
+pid: fe1c2645-b270-4e14-80ad-6371910051c3
+body: |2-
+  If the arguments to use are equal to their names,use it.
+  See all-packages.nix (in the nixpkgs repo) for examples.

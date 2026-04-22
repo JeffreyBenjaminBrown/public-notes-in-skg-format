@@ -1,0 +1,14 @@
+title: relative links
+pid: f530851e-6672-49b2-b9f1-51c7d5b1a58d
+body: |2-
+  polls/index.html has a passage like this (minus the comment)
+      <ul>
+      {% for question in latest_question_list %}
+        <!--
+        This would work too, but absolute links are hard to refactor.
+        <li><a href="/polls/{{ question.id }}/">{{ question.question_text }}</a></li>
+        The next line is better. It relies on the "detail" line in polls/urls.py.
+        -->
+        <li><a href="{% url 'detail' question.id %}">{{ question.question_text }}</a></li>
+      {% endfor %}
+      </ul>

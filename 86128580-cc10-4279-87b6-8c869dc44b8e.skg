@@ -1,0 +1,6 @@
+title: a solution?
+pid: 86128580-cc10-4279-87b6-8c869dc44b8e
+body: |2-
+  I don't know why this worked, but I echoed LV2_PATH to screen in Bash, replaced each : with a ;, replaced the Reaper LV2 scanning path (in Reaper > Preferences > Plugins > LV2/CLAP), and rescanned. Now it finds drumgizmo.
+misc:
+- Had_ID_Before_Import

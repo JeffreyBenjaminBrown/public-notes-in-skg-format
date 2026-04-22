@@ -1,0 +1,7 @@
+title: Partitions of that drive sometimes end in pN rather than N
+pid: 202246b8-a5c6-40b5-9bf6-40c8937fecb3
+body: |2-
+  where N is some low integer.
+  I suspect the `p` is inserted when the name of the drive ends in a number
+  -- e.g. `nvme0n1` becomes `nvme0n1p2`
+  where `sda` would have just become `sda2`.

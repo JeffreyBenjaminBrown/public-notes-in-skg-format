@@ -1,0 +1,10 @@
+title: Nil interface values are useless.
+pid: cd585c02-cce4-400b-8631-e06de60c2952
+body: |2-
+  No method can be called on them,
+  because Go would not know which implementation to use.
+  In order to do anything with it,
+  the interface value must be assigned ("hold"?)
+  a concrete value.
+  Confusingly, [[id:b5b23820-92a3-4d79-b2b5-e33eb15632f2][even if the assigned value is a nil pointer,
+  the interface value becomes non-nil]].

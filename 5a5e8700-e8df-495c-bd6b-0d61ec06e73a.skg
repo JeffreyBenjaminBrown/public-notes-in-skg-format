@@ -1,0 +1,9 @@
+title: 128 (3,22)
+pid: 5a5e8700-e8df-495c-bd6b-0d61ec06e73a
+body: |2-
+  [ 128 steps = 2 % 1: string 5 fret 6
+  , 103 steps = 7 % 4: string 4 fret 5
+  , 90 steps = 13 % 8: string 3 fret 8
+  , 75 steps = 3 % 2: string 3 fret 3
+  , 59 steps = 11 % 8: string 2 fret 5
+  , 41 steps = 5 % 4: string 2 fret -1

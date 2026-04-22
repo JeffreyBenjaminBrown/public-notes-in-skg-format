@@ -1,0 +1,4 @@
+title: start_link is synchronous.
+pid: b5aef83b-89fd-44b7-b6a0-fcbe87ba0e72
+body: |2-
+  Returns only after all child processes have started.

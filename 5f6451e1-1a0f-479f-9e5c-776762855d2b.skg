@@ -1,0 +1,8 @@
+title: Why would quantizing `tri` to multiples of 1/10 give a constant waveform?
+pid: 5f6451e1-1a0f-479f-9e5c-776762855d2b
+body: |2-
+  #+BEGIN_SRC haskell
+    -- compare
+    d1 $ s "supersaw*12" |* n (                tri)
+    d1 $ s "supersaw*12" |* n (quantize (1/10) tri) -- problem
+  #+END_SRC

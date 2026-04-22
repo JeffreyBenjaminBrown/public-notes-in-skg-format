@@ -1,0 +1,6 @@
+title: the free rider problem
+pid: f150e3be-3e87-4cc2-9b18-cf961b33f7eb
+body: |2-
+  Scanning the web, hosting the index, and responding to queries will require computing resources. If users are not rewarded for doing these things, they may opt not to. This suggests that the priority the community gives to a query should depend on the query issuer's prior contributions to the community.
+
+  I expect designing governance mechanisms for such details to be complicated but not difficult.

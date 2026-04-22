@@ -1,0 +1,16 @@
+title: '99 15 13: (7 string, 4 frets) octave brick in 17-lim + 23'
+pid: 8ff06324-bb80-4115-987e-e17f6dce50d4
+body: |2-
+  [ 99 steps = 2 % 1 : string 3 fret 4
+  , 58 steps = 3 % 2 : string 1 fret 3
+  , 32 steps = 5 % 4 : string - 1 fret 3
+  , 80 steps = 7 % 4 : string 5 fret 1
+  , 45 steps = 11 % 8 : string 0 fret 3
+  , 69 steps = 13 % 8 : string 3 fret 2
+  , 9 steps = 17 % 16 : string 3 fret - 2
+  , 25 steps = 19 % 16 : string - 5 fret 6
+  , 52 steps = 23 % 16 : string 4 fret 0
+  , 85 steps = 29 % 16 : string 10 fret - 3
+  , 94 steps = 31 % 16 : string - 2 fret 8
+misc:
+- Had_ID_Before_Import

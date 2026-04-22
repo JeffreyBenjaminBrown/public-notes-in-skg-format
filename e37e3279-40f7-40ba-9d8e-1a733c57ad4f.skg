@@ -1,0 +1,5 @@
+title: TODO ? security
+pid: e37e3279-40f7-40ba-9d8e-1a733c57ad4f
+body: |2-
+  AWS so far does not seem to care if people in different places
+  log in to the same User. But maybe it would if we did it simultaneously.

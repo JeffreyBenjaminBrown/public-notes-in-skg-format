@@ -1,0 +1,5 @@
+title: 'to remove handlers: gen_event:delete_handler'
+pid: 6ccaca65-b106-4060-8d4f-0edde2750935
+body: |2-
+  gen_event:delete_handler( Manager, Handler, Args)
+  Calls `Handler:terminate( Args, State )`.

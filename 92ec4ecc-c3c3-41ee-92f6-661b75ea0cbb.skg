@@ -1,0 +1,13 @@
+title: or, within python
+pid: 92ec4ecc-c3c3-41ee-92f6-661b75ea0cbb
+body: |2-
+  This is buggy, because it uses multiple keys.
+  Instead must create a single composite key.
+    in tax.co, see python/hand_test/composite_index.py
+
+  from csv_diff import load_csv, compare
+  diff = compare(
+    load_csv("data/recip-10/people_3_income_taxish.detail.2018.csv",
+             key=["household","household-member"] ),
+    load_csv("no-dep-exempt/people_3_income_taxish.detail.2018.csv",
+             key=["household","household-member"] ) )

@@ -1,0 +1,4 @@
+title: 'nuance: things go out of scope at their last use, even before that context ends'
+pid: 0c4c5754-64dc-4c7d-a954-a21221b1650a
+contains:
+- a65f63ed-9926-438f-944f-c2c90582fbcf

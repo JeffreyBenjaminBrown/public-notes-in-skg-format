@@ -1,0 +1,4 @@
+title: skip recording unneeded dependent bindings
+pid: f4d1d370-29bf-4b6f-b18d-650f4a0dc1cb
+body: |2-
+  You can tell from reading a Program's [ (VarFunc, Query) ] argument which elements of the Substs will never be referred to; those would not have to be recorded.

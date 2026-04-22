@@ -1,0 +1,8 @@
+title: DONE Rebuild `repeated` each time the document is rebuilt.
+pid: 1daaa9e6-3560-46b2-b4a6-67f3ffed52d9
+body: |2-
+      That is, the fourth step of the following is important.
+  - Rust creates the flag, sends it to Emacs.
+  - Emacs preserves it, sends it back to Rust.
+  - Rust uses it to update the graph.
+  - Rust then discards it and re-derives it from the data.

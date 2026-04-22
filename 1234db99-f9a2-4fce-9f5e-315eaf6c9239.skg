@@ -1,0 +1,4 @@
+title: join paths in filesystem
+pid: 1234db99-f9a2-4fce-9f5e-315eaf6c9239
+body: |2-
+  (file-name-concat &args)

@@ -1,0 +1,8 @@
+title: emacs-overlays on NixOS
+pid: a7081bc6-bfdb-49f1-9ae5-17da276cf9ca
+body: |2-
+  https://github.com/nix-community/emacs-overlay#latest-master-each-rebuild
+contains:
+- 32fb3260-ef66-4c93-827a-9d809c691c00
+misc:
+- Had_ID_Before_Import

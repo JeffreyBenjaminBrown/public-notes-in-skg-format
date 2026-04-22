@@ -1,0 +1,11 @@
+title: gen_statem
+pid: 64676a30-1b85-40b0-a4d6-451554b77136
+body: |2-
+  https://erlang.org/doc/design_principles/statem.html
+contains:
+- cba49262-5d4d-4bb3-91eb-b921c2749d6a
+- 82886b82-f043-4c7c-a35f-d28c6b28e56c
+- 67f969aa-b133-42eb-bbae-0a567a4609bb
+- 14a39c65-eb68-486a-a2c3-3d4f27253d77
+- 3541b431-e9f6-427f-9b6a-c282fc2dc440
+- d6131c82-f4df-404b-9dd7-6c07a6c3d659

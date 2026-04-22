@@ -1,0 +1,7 @@
+title: If a target has many source links, categorizing them would make looking sourceward easier.
+pid: 229700c2-f1e0-491d-9876-9a9ddd3d0035
+body: |2-
+  A simple solution:
+  When viewing link sources, show the whole path from the source node to the source link (which is an org-descendent of the node). Where two such paths are textually the same, merge them.
+contains:
+- c6b9d65b-8c5e-49ce-b9bf-0cb963e7159c

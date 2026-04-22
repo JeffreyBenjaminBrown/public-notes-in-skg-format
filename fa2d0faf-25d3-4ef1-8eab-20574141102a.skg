@@ -1,0 +1,7 @@
+title: Download my repos.
+pid: fa2d0faf-25d3-4ef1-8eab-20574141102a
+body: |2-
+  Cloning from http or https works,
+  but for pushing and pulling I'll need the ssh addresses instead,
+  which look like
+  git@github.com:JeffreyBenjaminBrown/notes-in-org-format-on-tech

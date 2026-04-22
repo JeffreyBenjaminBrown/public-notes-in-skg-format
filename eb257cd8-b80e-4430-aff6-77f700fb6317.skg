@@ -1,0 +1,6 @@
+title: Create a simple tree of expressions.
+pid: eb257cd8-b80e-4430-aff6-77f700fb6317
+body: |2-
+  As simple as this 7-node tree,
+  where prefixes are parents:
+  A AA AB AAA AAB ABA ABB

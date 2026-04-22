@@ -1,0 +1,12 @@
+title: '8\46 x 9\46: flat, tight, bad 5-lim'
+pid: 71230b54-2b51-4079-9669-8f448de1be7e
+body: |2-
+  [ 0  steps; 1 % 1;  string 0; fret 0
+  , 27 steps; 3 % 2;  string 0; fret 3
+  , 8  steps; 9 % 8;  string 1; fret 0
+  , 15 steps; 5 % 4;  string 3; fret -1
+  , 42 steps; 15 % 8; string 3; fret 2
+  , 32 steps; 13 % 8; string 4; fret 0
+  , 21 steps; 11 % 8; string 6; fret -3
+  , 37 steps; 7 % 4;  string 8; fret -3
+  , 46 steps; 2 % 1;  string 8; fret -2

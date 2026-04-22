@@ -1,0 +1,4 @@
+title: '"like gen_server:handle_call`'
+pid: cd7d4dbe-f55c-46f6-87d5-1cdc94620c2b
+body: |2-
+  Does that mean its inputs are (Request, From, State)?

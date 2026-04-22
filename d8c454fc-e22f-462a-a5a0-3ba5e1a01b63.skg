@@ -1,0 +1,7 @@
+title: 'WART: sidestepping the Python, virtualenv, NixOS headache'
+pid: d8c454fc-e22f-462a-a5a0-3ba5e1a01b63
+body: |2-
+  AWS suggests using a virtualenv to install Django from pip.
+  Python and virtualenv are confusing on NixOS:
+    https://nixos.wiki/wiki/Python
+  So I'm just using Docker -- specifically tax.co.

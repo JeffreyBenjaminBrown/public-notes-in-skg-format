@@ -1,0 +1,4 @@
+title: multi-term - Multiple terminals, and more useable.
+pid: 6021fc93-6881-4bed-a2fa-f9bc2634a84f
+body: |2-
+  In particular, will kill a process when you exit the terminal.

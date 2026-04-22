@@ -1,0 +1,6 @@
+title: 'PITFALL: Depends on the syntax table'
+pid: 39608a0a-06e4-4f06-86e6-282a1bb04471
+body: |2-
+  So, e.g., in org-mode it might not work,
+  whereas in lisp mode it does,
+  over the same text.

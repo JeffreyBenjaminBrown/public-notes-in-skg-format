@@ -1,0 +1,13 @@
+title: '"Do notation" doesn''t even have to be for monads!'
+pid: 81dc74be-50d0-49bd-a701-0e730e755233
+body: |2-
+  https://idris2.readthedocs.io/en/latest/tutorial/interfaces.html
+
+  The translation of do notation is entirely syntactic, so there is no need for the (>>=) and (>>) operators to be the operator defined in the Monad interface. Idris will, in general, try to disambiguate which operators you mean by type, but you can explicitly choose with qualified do notation, for example:
+
+  m_add : Maybe Int -> Maybe Int -> Maybe Int
+  m_add x y = Prelude.do
+                 x' <- x -- Extract value from x
+                 y' <- y -- Extract value from y
+                 pure (x' + y') -- Add them
+  The Prelude.do means that Idris will use the (>>=) and (>>) operators defined in the Prelude.

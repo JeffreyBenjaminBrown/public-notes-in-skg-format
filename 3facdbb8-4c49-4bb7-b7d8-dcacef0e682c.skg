@@ -1,0 +1,12 @@
+title: '87 2 19: 13-lim 0-area 5x6, diagonal, bad 15'
+pid: 3facdbb8-4c49-4bb7-b7d8-dcacef0e682c
+body: |2-
+  [ 0 steps; 1 % 1 ; string 0 ; fret 0
+  , 87 steps; 2 % 1 ; string 5 ; fret - 4
+  , 51 steps; 3 % 2 ; string 3 ; fret - 3
+  , 28 steps; 5 % 4 ; string 2 ; fret - 5
+  , 70 steps; 7 % 4 ; string 4 ; fret - 3
+  , 15 steps; 9 % 8 ; string 1 ; fret - 2
+  , 40 steps; 11 % 8 ; string 2 ; fret 1
+  , 61 steps; 13 % 8 ; string 3 ; fret 2
+  , 79 steps; 15 % 8 ; string 5 ; fret - 8

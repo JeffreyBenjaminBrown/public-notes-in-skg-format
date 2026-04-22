@@ -1,0 +1,8 @@
+title: the reasoning
+pid: 4b91a92e-e5c3-48a5-aa06-60a08400bde1
+body: |2-
+  Presumably, if a user created node O,
+  and O overrides foreign node F,
+  it is because the user cares about F.
+  Therefore they would probably like to be informed
+  if the author of F adds content to it.

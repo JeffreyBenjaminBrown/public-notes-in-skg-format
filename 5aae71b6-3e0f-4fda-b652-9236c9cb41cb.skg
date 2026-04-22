@@ -1,0 +1,8 @@
+title: Channel number might rise.
+pid: 5aae71b6-3e0f-4fda-b652-9236c9cb41cb
+body: |2-
+      quote
+      Note 2: Actions are available in the Actions List (see Chapter 15) to ensure that when an item is glued, its
+  channels will be increased if necessary to accommodate the output of any item FX. For example, if the action
+  Item: Glue items (auto increase channel count with take FX) is applied to an item with FX which use two
+  channels for output, then that item will be rendered in stereo (two channels) when glued.

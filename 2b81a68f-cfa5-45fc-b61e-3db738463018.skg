@@ -1,0 +1,8 @@
+title: Preassigned voices also have voice names.
+pid: 2b81a68f-cfa5-45fc-b61e-3db738463018
+body: |2-
+  The `voice name` for `d1`, for instance, is `1`.
+  Sometimes a preassigned voice needs to be referred to via its name
+  -- e.g. when using `xfade`.
+misc:
+- Had_ID_Before_Import

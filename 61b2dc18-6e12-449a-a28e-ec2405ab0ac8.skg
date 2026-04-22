@@ -1,0 +1,4 @@
+title: Fn
+pid: 61b2dc18-6e12-449a-a28e-ec2405ab0ac8
+body: |2-
+  "applies to closures that don’t move captured values out of their body and that don’t mutate captured values, as well as closures that capture nothing from their environment. These closures can be called more than once without mutating their environment, which is important in cases such as calling a closure multiple times concurrently."

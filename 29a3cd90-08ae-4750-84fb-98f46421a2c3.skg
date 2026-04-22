@@ -1,0 +1,8 @@
+title: enable community packages
+pid: 29a3cd90-08ae-4750-84fb-98f46421a2c3
+body: |2-
+  Edit
+    /etc/apk/repositories
+  and uncomment the line with the community repo.
+misc:
+- Had_ID_Before_Import

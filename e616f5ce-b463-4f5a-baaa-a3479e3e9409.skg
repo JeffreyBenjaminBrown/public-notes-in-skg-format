@@ -1,0 +1,23 @@
+title: layout
+pid: e616f5ce-b463-4f5a-baaa-a3479e3e9409
+body: |2-
+  0 steps; 1 % 1 ; string 0 ; fret 0
+  103 steps; 2 % 1 ; string 5 ; fret 1
+  60 steps; 3 % 2 ; string 3 ; fret 0
+  # 33 steps; 5 % 4 ; string 0 ; fret 11
+  83 steps; 7 % 4 ; string 4 ; fret 1
+  18 steps; 9 % 8 ; string 0 ; fret 6
+    # The second-best plays better with the 3%2,
+    # and is easier to play, at (1,-1).
+  # 47 steps; 11 % 8 ; string 1 ; fret 9
+  72 steps; 13 % 8 ; string 3 ; fret 4
+  # 93 steps; 15 % 8 ; string 3 ; fret 11
+  9 steps; 17 % 16 ; string 0 ; fret 3
+  26 steps; 19 % 16 ; string 1 ; fret 2 -- +5c, the only misfit
+  40 steps; 21 % 16 ; string 2 ; fret 0
+  54 steps; 23 % 16 ; string 3 ; fret - 2
+  66 steps; 25 % 16 ; string 3 ; fret 2
+  78 steps; 27 % 16 ; string 3 ; fret 6 -- probably won't use; see 9%8
+  88 steps; 29 % 16 ; string 5 ; fret - 4
+                    = string 0 ; fret - 5
+  98 steps; 31 % 16 ; string 4 ; fret 6

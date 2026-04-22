@@ -1,0 +1,8 @@
+title: TODO sometimes Qjackctl does not take over
+pid: 7d46aa22-c643-4eab-a0ad-07658053380c
+body: |2-
+  I can start Qjackctl, and still I can play youtube videos.
+contains:
+- 6b02ad20-4be2-4156-a892-b814d58af338
+- dd7b8886-6351-4ea2-b813-4a22d3eed83d
+- 25132cf3-91bc-4b4e-bce0-b8f9e5ea23ad

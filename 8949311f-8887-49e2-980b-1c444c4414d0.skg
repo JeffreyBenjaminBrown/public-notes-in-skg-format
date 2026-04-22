@@ -1,0 +1,28 @@
+title: the question
+pid: 8949311f-8887-49e2-980b-1c444c4414d0
+body: |2-
+  I'm running Django and Apache from this[1] Docker container. The code it's running is here[2].
+
+  When I run locally, by (basically) running
+  ```
+  docker run --name tax.co.web -it                   \
+    -p 8000:8000                                     \
+    -d -h 127.0.0.1                                  \
+    ofiscal/tax.co:latest
+  ```
+  everything seems to work.
+
+  If I connected it to the internet:
+  ```
+  docker run --name tax.co.web -it                   \
+    -p 8000:8000                                     \
+    -d -h 127.0.0.1                                  \
+    -p 443:443                                       \
+    -p 80:80                                         \
+    ofiscal/tax.co:latest
+  ```
+
+
+
+  [1] https://hub.docker.com/r/ofiscal/tax.co
+  [2] https://github.com/ofiscal/tax.co.web

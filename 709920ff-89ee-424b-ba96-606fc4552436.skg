@@ -1,0 +1,5 @@
+title: Ownership is defined using keywords "has" and "owns".
+pid: 709920ff-89ee-424b-ba96-606fc4552436
+body: |2-
+  "has" in an object definition,
+  "owns" in a type definition.

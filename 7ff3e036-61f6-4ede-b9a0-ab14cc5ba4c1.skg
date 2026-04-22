@@ -1,0 +1,5 @@
+title: To do things like `tmux ls` from outside of tmux
+pid: 7ff3e036-61f6-4ede-b9a0-ab14cc5ba4c1
+body: |2-
+  Pass the `-L` argument to `tmux` *before*
+  the tmux command (e.g. ls, kill-session, etc.)

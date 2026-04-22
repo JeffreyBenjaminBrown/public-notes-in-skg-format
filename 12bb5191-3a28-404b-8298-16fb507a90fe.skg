@@ -1,0 +1,6 @@
+title: example
+pid: 12bb5191-3a28-404b-8298-16fb507a90fe
+body: |2-
+  // @strict: false
+  let o = { x: "hi", extra: 1 }; // ok
+  let o2: { x: string } = o; // ok

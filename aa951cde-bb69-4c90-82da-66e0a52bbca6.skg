@@ -1,0 +1,8 @@
+title: examples
+pid: aa951cde-bb69-4c90-82da-66e0a52bbca6
+body: |2-
+  explain
+  infer
+  parallel
+  prefetch
+  *timeout* (various options)

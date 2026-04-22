@@ -1,0 +1,6 @@
+title: degradeBy x = drop event with probability x
+pid: 1ea6c024-b0a1-4270-ae14-28e1226a7451
+body: |2-
+  #+BEGIN_SRC haskell
+    d1 $ degradeBy 0.3 $ sound "tink*16"
+  #+END_SRC

@@ -1,0 +1,6 @@
+title: syntax
+pid: 45db031e-ce61-4b88-99a5-4541dfd3928a
+body: |2-
+  Variables
+    start with a $ for a "concept variable",
+    or    with a ? for a "value variable".

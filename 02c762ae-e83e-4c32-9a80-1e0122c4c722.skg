@@ -1,0 +1,10 @@
+title: It only works if there's a corresponding entry in urls.py
+pid: 02c762ae-e83e-4c32-9a80-1e0122c4c722
+body: |2-
+  For instance, this would let it work:
+
+  urlpatterns = [
+    path( 'thank-for-spec/<subsample>/<user_email>',
+      views.thank_for_spec,
+      name='thank-for-spec'),
+    ... ]

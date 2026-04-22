@@ -1,0 +1,10 @@
+title: example
+pid: 5babc3e7-6da0-4981-993c-45c64f3eb7c7
+body: |2-
+  Consider a Euclidean (3,8) rhythm
+  with a kick on the first of those three beats,
+  then two snares.
+  I'd like to be able to rotate those events
+  *aonly among those* three beats -- something like
+    rotate ( bd ~ ~ sn ~ ~ sn ~ )
+           = sn ~ ~ bd ~ ~ sn ~

@@ -1,0 +1,7 @@
+title: where
+pid: 08f80f1a-4a9f-48b6-b66b-958d2b292d23
+body: |2-
+  W = width in pixels
+  H = height in pixels
+  X = how far right of top-left corner to start, in pixels
+  Y = how far below top-right corner to start, in pixels

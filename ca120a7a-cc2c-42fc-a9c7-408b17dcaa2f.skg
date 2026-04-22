@@ -1,0 +1,12 @@
+title: desktop environment
+aliases:
+- display manager
+- window manager
+- graphical user interface
+pid: ca120a7a-cc2c-42fc-a9c7-408b17dcaa2f
+contains:
+- 5e905d0f-a5a4-43ce-80be-15de222cfd14
+- bbf72aeb-0170-4e3f-ad8b-8a4dbf4991d5
+- 4530a7d2-69a2-43ba-8a1c-931069d1cd52
+misc:
+- Had_ID_Before_Import

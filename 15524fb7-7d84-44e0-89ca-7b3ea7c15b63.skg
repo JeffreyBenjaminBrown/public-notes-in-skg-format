@@ -1,0 +1,5 @@
+title: '? "Platforms, like stdenv.hostPlatform, no longer have a platform attribute. It has been (mostly) flattened away:'
+pid: 15524fb7-7d84-44e0-89ca-7b3ea7c15b63
+body: |2-
+  platform.gcc is now gcc
+  platform.kernel* is now linux-kernel.*

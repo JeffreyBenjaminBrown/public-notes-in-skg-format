@@ -1,0 +1,7 @@
+title: console IO
+pid: 73c834bd-42a1-4789-96df-fc7634091cbc
+body: |2-
+  Dim name = Console.ReadLine()
+  Dim currentDate = DateTime.Now
+  Console.WriteLine(
+    $"Hello, {name}, on {currentDate:d} at {currentDate:t}")

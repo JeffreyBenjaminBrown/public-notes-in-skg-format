@@ -1,0 +1,6 @@
+title: '`reachable` will be easier to implement than `transitiveRels`'
+pid: 2951d697-f594-4281-a358-04ec5374b3f2
+body: |2-
+  When running `reachable`,
+  which takes no fixed terminal arguments,
+  you want the whole lot (including starting points).

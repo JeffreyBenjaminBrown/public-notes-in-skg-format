@@ -1,0 +1,12 @@
+title: '55 7 23: 0-area 3x7, balanced octave (3,-2), 3:2 and 5:4 on same string'
+pid: 67151424-1236-432a-838c-62061260da90
+body: |2-
+  ( Edo 55 ; StringGap 23 ; FretGap 7
+      [ 0 steps; 1 % 1 ; string 0 ; fret 0
+      , 55 steps; 2 % 1 ; string 3 ; fret - 2
+      , 32 steps; 3 % 2 ; string 2 ; fret - 2
+      , 18 steps; 5 % 4 ; string 2 ; fret - 4
+      , 44 steps; 7 % 4 ; string 1 ; fret 3
+      , 9 steps; 9 % 8 ; string 1 ; fret - 2
+      , 25 steps; 11 % 8 ; string 2 ; fret - 3
+      , 39 steps; 13 % 8 ; string 2 ; fret - 1

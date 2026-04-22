@@ -1,0 +1,11 @@
+title: Namespace the files to avoid duplicate name problems.
+pid: 4802c07c-441d-4102-96f5-52d0d0e57c07
+body: |2-
+  e.g. by putting them in
+    <app name>/static/<app name>/
+  rather than in
+    <app name>/static/
+  and then referring to them using the namespace, as in
+    href = "{% static 'polls/style.css' %}"
+contains:
+- 9576070a-72ca-4783-a744-3d7ad5f5da6a

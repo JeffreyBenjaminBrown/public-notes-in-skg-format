@@ -1,0 +1,10 @@
+title: NAH - Make pasting modify the copy of the pasted text that's still in the kill ring.
+pid: 0b6321e4-d215-489c-8cd6-067baf9eb1ce
+body: |2-
+  way too hard
+contains:
+- b684c844-bc25-47fa-bb5e-fe7f261abde9
+- 12d20de4-a11c-4962-8e5f-a3b123fa8bfd
+- 97f25f37-65c2-460a-8bbb-4d317f07bc38
+misc:
+- Had_ID_Before_Import

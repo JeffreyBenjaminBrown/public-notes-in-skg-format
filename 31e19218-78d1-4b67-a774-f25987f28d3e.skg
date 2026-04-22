@@ -1,0 +1,8 @@
+title: for me to process
+pid: 31e19218-78d1-4b67-a774-f25987f28d3e
+body: |2-
+  "Control buses" let me slide notes, according to @polymoprhic.engine:
+
+  d1 $ s "theremin" # freqbus 0 (segment 128 $ smooth "200 200 300 300")
+misc:
+- Had_ID_Before_Import

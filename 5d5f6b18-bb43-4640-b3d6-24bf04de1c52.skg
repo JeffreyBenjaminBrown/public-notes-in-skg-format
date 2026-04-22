@@ -1,0 +1,4 @@
+title: 'PITFALL: The paths should not begin with a leading slash.'
+pid: 5d5f6b18-bb43-4640-b3d6-24bf04de1c52
+body: |2-
+  Hence "home/" below, not "/home/".

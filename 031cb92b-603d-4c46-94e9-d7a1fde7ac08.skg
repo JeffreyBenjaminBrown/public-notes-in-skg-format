@@ -1,0 +1,4 @@
+title: 'PITFALL: Send/receive over a nil channel blocks.'
+pid: 031cb92b-603d-4c46-94e9-d7a1fde7ac08
+body: |2-
+  (You might expect a panic.)

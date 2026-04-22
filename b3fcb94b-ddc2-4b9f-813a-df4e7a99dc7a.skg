@@ -1,0 +1,6 @@
+title: present link target options
+pid: b3fcb94b-ddc2-4b9f-813a-df4e7a99dc7a
+body: |2-
+  To follow a link with multiple targets,
+  a page is returned with links to each,
+  and an explanatory banner that the ID was duplicated.

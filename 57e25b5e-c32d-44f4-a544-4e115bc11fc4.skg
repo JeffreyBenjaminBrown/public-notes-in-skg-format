@@ -1,0 +1,5 @@
+title: mono => interruption
+pid: 57e25b5e-c32d-44f4-a544-4e115bc11fc4
+body: |2-
+  In mono mode (whether inert or persistent),
+  when a new chord is pressed, the old one is released.

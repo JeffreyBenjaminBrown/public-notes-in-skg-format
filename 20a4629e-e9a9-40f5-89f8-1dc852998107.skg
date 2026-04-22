@@ -1,0 +1,4 @@
+title: add a comma to show plurality, even if only one member is listed
+pid: 20a4629e-e9a9-40f5-89f8-1dc852998107
+body: |2-
+  singleton (without a comma) lists and sets seem equivalent

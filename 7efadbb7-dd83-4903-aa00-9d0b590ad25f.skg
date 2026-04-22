@@ -1,0 +1,12 @@
+title: test descriptions can nest
+pid: 7efadbb7-dd83-4903-aa00-9d0b590ad25f
+body: |2-
+  In fact tests can nest without descriptions too,
+  but there's not much reason to do that.
+
+  quickCheck $ do
+    describe "Duck properties" $ do
+      describe "Walks like a duck"  prop_1
+      describe "Quacks like a duck" prop_2
+    describe "Cow properties" $ do
+      ...

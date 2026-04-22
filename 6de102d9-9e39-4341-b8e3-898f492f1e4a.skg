@@ -1,0 +1,15 @@
+title: '104 5 33: Great! Except no unisons and far 13.'
+pid: 6de102d9-9e39-4341-b8e3-898f492f1e4a
+body: |2-
+  The patent 13:8 is too just to swap for a worse one.
+  [ 0 steps; 1 % 1 ; string 0 ; fret 0
+  , 104 steps; 2 % 1 ; string 3 ; fret 1
+  , 61 steps; 3 % 2 ; string 2 ; fret - 1
+  , 33 steps; 5 % 4 ; string 1 ; fret 0
+  , 84 steps; 7 % 4 ; string 3 ; fret - 3
+  , 18 steps; 9 % 8 ; string 1 ; fret - 3
+  , 48 steps; 11 % 8 ; string 1 ; fret 3
+  , 73 steps; 13 % 8 ; string 1 ; fret 8
+  , 94 steps; 15 % 8 ; string 3 ; fret - 1
+misc:
+- Had_ID_Before_Import

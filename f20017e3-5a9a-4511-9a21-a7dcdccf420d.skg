@@ -1,0 +1,8 @@
+title: syntactic sugar
+pid: f20017e3-5a9a-4511-9a21-a7dcdccf420d
+body: |2-
+  these equivalent expressions :
+    (x ** p)
+    ( x : a  ** p)
+    ((x : a) ** p)
+  is the type of a pair of A and P, where the name x can occur inside p

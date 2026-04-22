@@ -1,0 +1,4 @@
+title: install some packages
+pid: badf8a71-267d-47f4-bdc2-1ba0448b7d5b
+body: |2-
+  apk add wpa_supplicant font-terminus encfs emacs sudo

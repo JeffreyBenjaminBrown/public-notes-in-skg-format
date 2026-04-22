@@ -1,0 +1,9 @@
+title: Is this how to write cardinality constraints on roles in TypeDB?
+pid: 2608f577-ab0a-4df7-9eba-b6f3042abbde
+body: |2-
+  i.e. is this diff a good idea
+contains:
+- 00e47f61-782c-463e-a0da-6c47943222ab
+- 2e93ddc3-1034-4173-ae41-ddb0af7aefde
+misc:
+- Had_ID_Before_Import

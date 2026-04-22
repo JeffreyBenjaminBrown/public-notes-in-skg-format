@@ -1,0 +1,4 @@
+title: then that element is evaluated
+pid: 53d8ad8c-f6cb-466c-9aaf-d6a850cf2b69
+body: |2-
+  potentially many times, until arriving at a non-symbol.

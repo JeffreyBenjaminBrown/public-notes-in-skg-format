@@ -1,0 +1,5 @@
+title: Use + to specify multiple conditions on an argument.
+pid: dbd7cad1-9803-4641-98c9-1895be1778f8
+body: |2-
+  pub fn notify(item: &(impl Summary + Display)) {
+  pub fn notify<T: Summary + Display>(item: &T) {

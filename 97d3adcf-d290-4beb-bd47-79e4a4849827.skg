@@ -1,0 +1,10 @@
+title: pattern matching over a set in a function argument
+pid: 97d3adcf-d290-4beb-bd47-79e4a4849827
+body: |2-
+  These are equivalent:
+    nix-repl> mul = s: s.a*s.b
+    nix-repl> mul = { a, b }: a*b
+
+  Both yield this:
+    nix-repl> mul { a = 3; b = 4; }
+    12

@@ -1,0 +1,6 @@
+title: '? reading nonstandard separators'
+pid: cec22620-646e-4cec-b561-970de716cafc
+body: |2-
+  I couldn't actually get this to work.
+  https://stackoverflow.com/a/55972242/916142
+  (setq csv-separators '("\t"))

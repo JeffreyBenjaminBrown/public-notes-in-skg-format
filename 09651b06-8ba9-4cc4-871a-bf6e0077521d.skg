@@ -1,0 +1,7 @@
+title: thread v. process
+pid: 09651b06-8ba9-4cc4-871a-bf6e0077521d
+body: |2-
+  https://erlang.org/doc/getting_started/conc_prog.html
+  """
+  the term "process" is usually used when the threads of execution share no data with each other and the term "thread" when they share data in some way. Threads of execution in Erlang share no data, that is why they are called processes).
+  """

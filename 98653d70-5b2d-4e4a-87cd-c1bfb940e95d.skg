@@ -1,0 +1,7 @@
+title: which strategy to use
+pid: 98653d70-5b2d-4e4a-87cd-c1bfb940e95d
+body: |2-
+  If the f for which we need a g is between two fs for which we already do,
+  then I like the interpolating strategy best.
+  If it is out of that range,
+  I might like the non-interpolating strategy better.

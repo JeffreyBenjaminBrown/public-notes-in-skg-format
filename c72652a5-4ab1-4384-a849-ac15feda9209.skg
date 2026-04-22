@@ -1,0 +1,11 @@
+title: scheme
+pid: c72652a5-4ab1-4384-a849-ac15feda9209
+body: |2-
+     undefine
+
+     <label>
+         [sub <ancestor type label>]
+  [(, owns <attribute type label> [@annotation])...]
+  [(, plays <relation type label>:<role>)...];
+contains:
+- 1a688e08-2097-4781-b418-a4272941c603

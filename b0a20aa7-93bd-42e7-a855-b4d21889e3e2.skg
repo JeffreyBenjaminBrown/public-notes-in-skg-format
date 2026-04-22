@@ -1,0 +1,6 @@
+title: someone else rec's
+pid: b0a20aa7-93bd-42e7-a855-b4d21889e3e2
+body: |2-
+  Private variables would be typically hode-state--* (too dashes). Public names are usually single-dashed.
+
+  If you have a bunch of internal variables representing some state, I don't think you should be shy of using structures (with defstruct) or classes. Defstruct is convenient since you get bunch of default methods so you don't have to type them yourself.

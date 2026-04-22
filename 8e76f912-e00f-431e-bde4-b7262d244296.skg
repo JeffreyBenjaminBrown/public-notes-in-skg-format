@@ -1,0 +1,4 @@
+title: title
+pid: 8e76f912-e00f-431e-bde4-b7262d244296
+body: |2-
+  Onluy when run by `cron`, Python call to subprocess.run() does nothing

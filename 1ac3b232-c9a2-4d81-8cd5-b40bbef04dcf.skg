@@ -1,0 +1,14 @@
+title: two-dimensional real tattoo
+pid: 1ac3b232-c9a2-4d81-8cd5-b40bbef04dcf
+body: |2-
+  Suppose
+  dur :: Float
+  v0s :: [ Float ], ordered ascending, in [0,dur)
+  v1s :: [ [ Float ] ],
+    same length as v0s,
+    with the values in the ith list in [v0s !! i, v0s !! i+1).
+  We need to then define a function
+    f :: (Int, Int) -> Float
+    such that f (a,b) is (v0s !! a) + (v1s !! b),
+    but that works even if a > length  v0s
+                        or b > length (v1s !! a)

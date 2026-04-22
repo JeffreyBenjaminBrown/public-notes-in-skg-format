@@ -1,0 +1,5 @@
+title: 'PITFALL: The `delete` statement needs an `isa` clause.'
+pid: 6669c779-a9a2-4e6a-bbd9-c90100202699
+body: |2-
+  It's not obvious to me why that should be needed.
+  It doesn't help narrow down what you're deleting.

@@ -1,0 +1,10 @@
+title: '28\99 x 15\99: weird but tight 9-limit +15'
+pid: 70ba2bb7-7e81-49d6-b345-9a5d0263ddec
+body: |2-
+  [ 0 steps; 1 % 1 ; string 0 ; fret 0
+  , 99 steps; 2 % 1 ; string 3 ; fret 1
+  , 58 steps; 3 % 2 ; string 1 ; fret 2
+  , 32 steps; 5 % 4 ; string - 1 ; fret 4
+  , 80 steps; 7 % 4 ; string 5 ; fret - 4
+  , 17 steps; 9 % 8 ; string - 1 ; fret 3
+  , 90 steps; 15 % 8 ; string 0 ; fret 6

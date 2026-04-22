@@ -1,0 +1,6 @@
+title: fn update_memory_for_saved_view
+pid: e473f630-15c3-4bd0-89f6-3d2cc2599c49
+body: |2-
+  If viewuri_from_request_result is Err, that should be a failure.
+  See comment:
+  // TODO : Instead, unwind the entire save and report the error.

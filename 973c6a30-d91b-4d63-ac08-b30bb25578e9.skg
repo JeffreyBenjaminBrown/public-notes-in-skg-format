@@ -1,0 +1,5 @@
+title: to instantiate only, or realize only
+pid: 973c6a30-d91b-4d63-ac08-b30bb25578e9
+body: |2-
+  nix-instantiate
+  nix-store -r

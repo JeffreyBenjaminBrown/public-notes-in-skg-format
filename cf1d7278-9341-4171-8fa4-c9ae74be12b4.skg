@@ -1,0 +1,9 @@
+title: TypeDB should report constraint violations to Skg.
+pid: cf1d7278-9341-4171-8fa4-c9ae74be12b4
+contains:
+- dc45953e-ea31-4ed9-9a73-9da9fd1f5660
+- 30d83212-e64d-488c-9406-93b7bf4cab89
+- 90be2224-892d-4a9b-894a-1f99257c1f96
+- 4b874907-3422-40e1-86ea-71bbdc63792f
+misc:
+- Had_ID_Before_Import

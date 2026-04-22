@@ -1,0 +1,11 @@
+title: query
+pid: 5997026b-0f6a-4e04-8186-d8c56784a55f
+body: |2-
+  select check_in_date as date,
+         membership_id as mid,
+         person_id as pid
+  from get_fit_now_check_in c
+  join get_fit_now_member m
+    on c.membership_id = m.id
+  where date = 20180109
+    and mid LIKE "48Z%"

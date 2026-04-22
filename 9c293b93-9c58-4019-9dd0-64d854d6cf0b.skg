@@ -1,0 +1,5 @@
+title: paste
+pid: 9c293b93-9c58-4019-9dd0-64d854d6cf0b
+body: |2-
+  If pasting, remove the IDs from the copy that remains in the kill-ring, if it had one.
+  Don't assume the top kill-ring entry was pasted.

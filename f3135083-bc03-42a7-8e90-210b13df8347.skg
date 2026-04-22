@@ -1,0 +1,7 @@
+title: from *outside* the folder, run
+pid: f3135083-bc03-42a7-8e90-210b13df8347
+body: |2-
+    mount /dev/sdXN target/
+  where X is probably a low letter,
+  N is probably a low integer,
+  and target/ is the folder to mount to.

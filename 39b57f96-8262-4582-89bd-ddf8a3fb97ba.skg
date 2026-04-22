@@ -1,0 +1,4 @@
+title: if a line has exactly one org-roam link, count it as a diff-brother to other such lines
+pid: 39b57f96-8262-4582-89bd-ddf8a3fb97ba
+body: |2-
+  a diff-brother being a deletion or insertion that looks like it might correspond

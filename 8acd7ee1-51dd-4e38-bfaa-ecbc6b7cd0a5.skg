@@ -1,0 +1,6 @@
+title: TODO ? back-references for searches encoded as Exprs
+pid: 8acd7ee1-51dd-4e38-bfaa-ecbc6b7cd0a5
+body: |2-
+  When a new node is added that matches an extant search,
+  the search will find it, but (without further work)
+  it will not find the search as a neighbor.

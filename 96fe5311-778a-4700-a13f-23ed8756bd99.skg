@@ -1,0 +1,4 @@
+title: show lots of rows
+pid: 96fe5311-778a-4700-a13f-23ed8756bd99
+body: |2-
+  pd.options.display.min_rows = 500

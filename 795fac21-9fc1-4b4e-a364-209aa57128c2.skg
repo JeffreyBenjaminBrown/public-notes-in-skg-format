@@ -1,0 +1,6 @@
+title: '"Maker collateral vault"'
+pid: 795fac21-9fc1-4b4e-a364-209aa57128c2
+body: |2-
+  = a collateralized debt position,
+  where any MKR-holder approved Ethereum asset is the collateral,
+  and the DAI is borrowed against that.

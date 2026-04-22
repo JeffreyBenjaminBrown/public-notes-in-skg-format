@@ -1,0 +1,6 @@
+title: how to send text from a text buffer to GHCI
+pid: d57cc76c-530e-4f0d-9db7-af8d76b7858e
+body: |2-
+  Highlight text in any buffer (it doesn't have to end in .tidal)
+  and send it to the shell buffer by running
+  `send-highlighted-region-to-receiver-buffer`.

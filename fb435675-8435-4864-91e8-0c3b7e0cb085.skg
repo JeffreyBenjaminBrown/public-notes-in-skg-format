@@ -1,0 +1,21 @@
+title: 'See this part of my apache2.conf:'
+pid: fb435675-8435-4864-91e8-0c3b7e0cb085
+body: |2-
+  ```
+  WSGIPythonPath /mnt
+  <Directory /mnt>
+    # Gives Apache access to `wsgi.py` and the rest of my code,
+    # for serving the Django pages.
+    # In particular, ensures that "import mysite" works.
+    Require all granted
+  </Directory>
+
+  # The wsgi script (above) should not be a filetree descendent of DocumentRoot (below),
+  # because if it were, a visitor could download the code for the site.
+  DocumentRoot /mnt/polls/static
+  <Directory /mnt/polls/static>
+    # Gives Apache access to the `content` mentioned above,
+    # for serving static (non-Django) pages.
+    Require all granted
+  </Directory>
+  ```

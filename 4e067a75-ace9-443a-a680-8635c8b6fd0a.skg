@@ -1,0 +1,4 @@
+title: to disable blinking cursor
+pid: 4e067a75-ace9-443a-a680-8635c8b6fd0a
+body: |2-
+  (setq visible-cursor nil) ;; Dumb name! It just stops blinking.

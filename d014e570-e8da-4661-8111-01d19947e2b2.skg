@@ -1,0 +1,11 @@
+title: how to collect garbage in NixOS
+pid: d014e570-e8da-4661-8111-01d19947e2b2
+body: |2-
+  The sudo is important -- otherwise lots of stuff survives.
+
+  sudo nix-collect-garbage --delete-older-than 3d
+    # keep the last week
+  sudo nix-collect-garbage -d
+    # keep only latest config
+misc:
+- Had_ID_Before_Import

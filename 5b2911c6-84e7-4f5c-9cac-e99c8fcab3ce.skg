@@ -1,0 +1,6 @@
+title: 'PITFALL: velocity: too sensitive'
+pid: 5b2911c6-84e7-4f5c-9cac-e99c8fcab3ce
+body: |2-
+  [0.5,  0.8] is a useful range.
+  At 1 it's loud but tinny.
+  Below 0.5 it sounds good but too quiet; needs an amp boost.

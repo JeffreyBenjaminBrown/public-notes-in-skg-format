@@ -1,0 +1,6 @@
+title: dot-lookup syntax is overloaded
+pid: 3e977fda-4042-4141-b4c2-a93727e03df7
+body: |2-
+  The (.) operator first tries one kind of lookup, then another ...
+
+  "The template system uses dot-lookup syntax to access variable attributes. In the example of {{ question.question_text }}, first Django does a dictionary lookup on the object question. Failing that, it tries an attribute lookup – which works, in this case. If attribute lookup had failed, it would’ve tried a list-index lookup."

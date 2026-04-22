@@ -1,0 +1,8 @@
+title: functions as arguments look funny
+pid: c69c2409-05f3-45e1-b7c3-94a21116ea05
+body: |2-
+  pub fn twice ( f: fn(t) -> t,
+                 x: t )
+                 -> t {
+    f ( f ( x ) )
+  }

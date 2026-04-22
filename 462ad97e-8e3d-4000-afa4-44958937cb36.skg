@@ -1,0 +1,8 @@
+title: how to review contributions to nixpkgs
+aliases:
+- NixOS review process for contributions
+pid: 462ad97e-8e3d-4000-afa4-44958937cb36
+body: |2-
+  https://nixos.org/manual/nixpkgs/unstable/#chap-reviewing-contributions
+misc:
+- Had_ID_Before_Import

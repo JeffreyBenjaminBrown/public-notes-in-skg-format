@@ -1,0 +1,8 @@
+title: example
+pid: 8513567d-fdcb-4c2b-adc7-027179a7a00e
+body: |2-
+  match
+    $f isa file, has size-kb $s;
+    ?mb = $s/1024;
+    ?mb > 1;
+  Each result of this match will include $f, $s and ?mb.

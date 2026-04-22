@@ -1,0 +1,7 @@
+title: the problem
+pid: c56e2ab3-c686-488c-a394-799da1cf212d
+body: |2-
+  I got this when migrating to 21.05.
+  The problem was that audio.nix had
+  an argument list like this at the top:
+    {config, lib, pkgs, options, modulesPath}:

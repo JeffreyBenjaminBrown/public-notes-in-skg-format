@@ -1,0 +1,20 @@
+title: '104 5 28: (4,3) octave, 11-limit in 6x3, worthless 13:8'
+pid: 8e7fcc98-a8ec-4ff9-8adb-c5a7415650b5
+body: |2-
+  [ 0 steps; 1 % 1 ; string 0 ; fret 0
+  , 104 steps; 2 % 1 ; string 4 ; fret 3
+  , 61 steps; 3 % 2 ; string 1 ; fret 2
+  , 33 steps; 5 % 4 ; string 1 ; fret 1
+  , 84 steps; 7 % 4 ; string 0 ; fret 3
+  , 18 steps; 9 % 8 ; string - 2 ; fret 1
+  , 48 steps; 11 % 8 ; string 4 ; fret 1
+  , 73 steps; 13 % 8 ; string 9 ; fret 1
+  , 94 steps; 15 % 8 ; string 2 ; fret 3
+  , 9 steps; 17 % 16 ; string - 15 ; fret 3
+  , 26 steps; 19 % 16 ; string - 6 ; fret 2
+  , 41 steps; 21 % 16 ; string - 3 ; fret 2
+  , 54 steps; 23 % 16 ; string - 6 ; fret 3
+  , 67 steps; 25 % 16 ; string - 9 ; fret 4
+  , 79 steps; 27 % 16 ; string - 1 ; fret 3
+  , 89 steps; 29 % 16 ; string 1 ; fret 3
+  , 99 steps; 31 % 16 ; string 3 ; fret 3

@@ -1,0 +1,6 @@
+title: example
+pid: 41a4f11a-8139-4756-97f4-b2cf46e116f6
+body: |2-
+  "abc" ^. pre (ix 10) . non 'z'
+    == fromMaybe 'z' ("abc" ^? ix 10)
+    == 'z'

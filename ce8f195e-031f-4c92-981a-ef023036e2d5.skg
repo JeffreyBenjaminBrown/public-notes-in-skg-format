@@ -1,0 +1,4 @@
+title: output lifetimes
+pid: ce8f195e-031f-4c92-981a-ef023036e2d5
+body: |2-
+  = lifetimes on return values

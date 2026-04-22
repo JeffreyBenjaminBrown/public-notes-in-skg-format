@@ -1,0 +1,5 @@
+title: That broadcasts to the 8000 port on all addresses,
+pid: e0e0ded3-5c65-4a3e-89bf-3d1869bc1d44
+body: |2-
+  at least if the container was started (`docker run`) with the options
+      -p 8000:8000 -d -h 127.0.0.1

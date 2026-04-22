@@ -1,0 +1,2 @@
+title: TODO noteToFreq = ops [("freq", (*) 300 . \p -> 2**(p/12))]
+pid: 018cb4dc-10fb-4e74-8ad8-c25b88253469

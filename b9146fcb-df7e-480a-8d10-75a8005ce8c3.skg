@@ -1,0 +1,9 @@
+title: if [stmt;] condition { consequent }
+pid: b9146fcb-df7e-480a-8d10-75a8005ce8c3
+body: |2-
+  The `stmt` can define a variable local to the if-statement. It can also do IO, or presumably anything else.
+  Example:
+  if v := math.Pow(x, n); v < lim {
+    return v
+  }
+  I can't seem to make `stmt` do more than one thing -- e.g. I can't define two variables there.

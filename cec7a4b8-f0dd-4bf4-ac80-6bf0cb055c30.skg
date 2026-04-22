@@ -1,0 +1,4 @@
+title: using NixOS to test systems with networking
+pid: cec7a4b8-f0dd-4bf4-ac80-6bf0cb055c30
+body: |2-
+  https://nix.dev/tutorials/integration-testing-using-virtual-machines

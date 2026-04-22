@@ -1,0 +1,5 @@
+title: to run the script at /path/to/script
+pid: 142c0c90-330d-4878-a3bc-679682465b93
+body: |2-
+  docker exec -it tax.co.web bash /path/to/script
+  Will be run from the container's default folder.

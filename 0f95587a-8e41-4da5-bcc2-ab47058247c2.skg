@@ -1,0 +1,6 @@
+title: The SmSN URI scheme is not.
+pid: 0f95587a-8e41-4da5-bcc2-ab47058247c2
+body: |2-
+  It only (52*2 + 10)^16 = 4e28 unique URIs.
+  If everyone had 100,000 notes as above,
+  there would almost certainly be a collision.

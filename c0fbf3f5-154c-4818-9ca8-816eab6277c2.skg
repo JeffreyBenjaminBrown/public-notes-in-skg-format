@@ -1,0 +1,5 @@
+title: adding, dividing, multiplying
+pid: c0fbf3f5-154c-4818-9ca8-816eab6277c2
+body: |2-
+  >>> 100 ^. adding 50
+  150

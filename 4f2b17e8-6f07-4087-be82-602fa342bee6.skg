@@ -1,0 +1,6 @@
+title: what I sent Bran when he asked
+pid: 4f2b17e8-6f07-4087-be82-602fa342bee6
+body: |2-
+  Shyg would differ from AI by being explicit, legible information. You can see what's known, you can verify it, recognize errors. You can see how results are computed, rather than trying to trust an oracle. Both AI and Google are oracular -- sometimes it's clear that Google is not finding what you want, or not front-loading it, and it's known that AI hallucinates, without any recognition that it is doing so.
+
+  That's not to say Shyg won't contain dubious information, but the provenance of that information, and all sorts of commentary about it, will be indexed alongside, which should make it much easier to determine trustworthiness.

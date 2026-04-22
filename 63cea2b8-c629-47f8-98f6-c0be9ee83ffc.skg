@@ -1,0 +1,10 @@
+title: the idea
+pid: 63cea2b8-c629-47f8-98f6-c0be9ee83ffc
+body: |2-
+  The result has all the content of both nodes,
+  and both IDs.
+  Links to either node now go to the merged node.
+  Merging is flat and simple -- reordering content,
+  or merging content within the merged notes
+  (potentially at different levels)
+  can only be done manually.

@@ -1,0 +1,6 @@
+title: can change their output
+pid: 93643014-5112-491c-b163-4fd9e8d53186
+body: |2-
+  >>> import Data.Char (toUpper)
+  >>> Name "Two-faced Tony" ^. to getName . to (fmap toUpper)
+  "TWO-FACED TONY"

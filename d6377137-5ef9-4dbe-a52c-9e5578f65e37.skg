@@ -1,0 +1,11 @@
+title: the subscribee tree format
+pid: d6377137-5ef9-4dbe-a52c-9e5578f65e37
+body: |2-
+  - truenode // suppose this is a subscriber
+    - subscribeeCol
+      - [truenodes] // anything here is a subscribee
+        - [truenodes] // nodes here are content of the subscribee
+        - hiddeninsubscribeecol
+          - [truenodes] // nodes here are hidden by the subscriber
+      - hiddenoutsideofsubscribeecol
+        - [truenodes]

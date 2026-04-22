@@ -1,0 +1,2 @@
+title: Queries that fetch specific column values need not read the entire row, thus improving performance
+pid: bdf8e31f-eba5-4bc7-81e4-f4d20b782101

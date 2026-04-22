@@ -1,0 +1,7 @@
+title: distinguish HiddenHere from RemovedHere, etc.
+pid: 755953d4-062d-4f0b-9897-449bacf420cb
+body: |2-
+  // TODO: Currently RemovedHere means both 'removed from subscribee content' and 'hidden by subscriber'. Newhere is similarly ambiguous.
+  // Better would be to introduce two new diff values, 'RemovedByHiding' and 'NewByUnhiding'. It would be dangerous to make those available where diff values are currently used, so this means adding a new type, 'Diff_Item_Hiding'.
+misc:
+- Had_ID_Before_Import

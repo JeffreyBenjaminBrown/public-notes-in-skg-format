@@ -1,0 +1,5 @@
+title: '`jumpIn('')`: change patterns in the future.'
+pid: 7b14cc65-2082-4ea6-8db3-51b416334e31
+body: |2-
+  jumpIn' is aligned to cycle boundaries;
+  jumpIn is not.

@@ -1,0 +1,5 @@
+title: Constructors with multiple fields accept a tuple of the fields
+pid: d730bcc9-4d19-4d77-b0dd-c4cb90c1a472
+body: |2-
+  >>> _Post # (["posts"], "My blog post")
+  Post ["posts"] "My blog post"

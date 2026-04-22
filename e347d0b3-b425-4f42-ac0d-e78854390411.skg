@@ -1,0 +1,8 @@
+title: the idea
+pid: e347d0b3-b425-4f42-ac0d-e78854390411
+body: |2-
+  The new `VState` constructor for `Value``,
+  rather than holding a static `Value`,
+  holds an update function.
+  It can thus cycle through a (maybe infinite) list,
+  which seems to be the major use case.

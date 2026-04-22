@@ -1,0 +1,6 @@
+title: define default fields with "?"
+pid: 7d441d72-533c-4939-be92-80d5d7f525e7
+body: |2-
+  nix-repl> mul = { a, b ? 2 }: a*b
+  nix-repl> mul { a = 3; }
+  6

@@ -1,0 +1,8 @@
+title: a bunch of chomod and chgrp
+pid: 2f0b8374-5b90-4d0f-a752-dd050dff6b0b
+body: |2-
+  https://fideloper.com/user-group-permissions-chmod-apache
+  chown -R www-data:www-data /var/www
+  chmod go+x /var/www
+  chgrp -R www-data /var/www
+  chmod -R g+rx /var/www

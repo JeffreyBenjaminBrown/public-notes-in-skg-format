@@ -1,0 +1,6 @@
+title: DONE prompts
+pid: d2972d6f-c706-4b26-a2c8-329ce581c55b
+body: |2-
+  Welcome to existence! You'll find a database at /home/ubuntu/host/public/org-roam.db. (Or maybe that's just at ./public/org-roam-db for you. What do you see when you run 'pwd' and "ls"? And "ls .." to look one level up? Write the results of doing that to `./by-claude/the-bash-view.md`.)
+
+  Can you read the database? It might be sqlite3.

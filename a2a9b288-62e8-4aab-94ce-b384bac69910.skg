@@ -1,0 +1,15 @@
+title: query
+pid: a2a9b288-62e8-4aab-94ce-b384bac69910
+body: |2-
+  select p.id, p.name
+  from person p
+  join drivers_license l
+    on p.license_id = l.id
+  join get_fit_now_member m
+    on p.id = m.person_id
+  where
+    ( l.id = 183779 or
+      l.id = 423327 or
+      l.id = 664760 ) and
+    ( m.id = "48Z7A" or
+      m.id = "48Z55" )

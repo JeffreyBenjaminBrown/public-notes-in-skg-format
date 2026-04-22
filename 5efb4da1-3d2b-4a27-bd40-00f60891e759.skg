@@ -1,0 +1,7 @@
+title: type
+pid: 5efb4da1-3d2b-4a27-bd40-00f60891e759
+body: |2-
+  -- Slightly simplified
+  traversed :: Traversable f => Traversal (f a) (f b) a b
+  -- Real type
+  traversed :: Traversable f => IndexedTraversal Int (f a) (f b) a b

@@ -1,0 +1,4 @@
+title: raise error
+pid: bbccfd28-00a1-4714-b2d3-c6f15105b7a3
+body: |2-
+  raise ValueError("0/0")

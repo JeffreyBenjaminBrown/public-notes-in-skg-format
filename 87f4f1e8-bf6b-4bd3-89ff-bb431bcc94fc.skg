@@ -1,0 +1,11 @@
+title: Aim For Longer Reads (Bioinformatics).
+pid: 87f4f1e8-bf6b-4bd3-89ff-bb431bcc94fc
+body: |2-
+  This is a tech solution, not a CS solution,
+  to the problem that repeated subsequences cause ambiguity in DNA assembly.
+contains:
+- 8f654757-0008-45ac-917e-4ddde903e428
+- d2669f1a-aa37-40c9-bf52-150d7b447eb1
+- abfad7de-8b3e-4cde-8728-93b623342311
+misc:
+- Had_ID_Before_Import

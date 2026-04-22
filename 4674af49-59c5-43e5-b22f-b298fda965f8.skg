@@ -1,0 +1,6 @@
+title: there are some list-set mismatches
+pid: 4674af49-59c5-43e5-b22f-b298fda965f8
+body: |2-
+  rightReachable, for instance, uses lists, because it's fast.
+  But it has to convert the output of hExprToAddrs to a list, using Set.toList.
+  It would be nice if a version of hExprToAddrs existed that used lists, not sets.

@@ -1,0 +1,6 @@
+title: Create an IAM user and use it from the CLI.
+pid: 08a7affe-0be6-4d00-90ba-e3fafde82b03
+body: |2-
+  Go to AWS IAM and follow the prompts.
+  Download credentials at the end.
+  Run "aws configure" from the CL and manually input those credentials. If they ask for stuff not in the credentials, refer to to preexisting credentials in my ~/.aws folder -- e.g. default region (us-east-1).

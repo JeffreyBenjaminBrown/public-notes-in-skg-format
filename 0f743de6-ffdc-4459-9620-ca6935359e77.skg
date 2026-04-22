@@ -1,0 +1,10 @@
+title: I created a personal access token
+pid: 0f743de6-ffdc-4459-9620-ca6935359e77
+body: |2-
+  giving it permissions for `repo`
+  (including all of its subcategories)
+  and `read:org`.
+
+  (Doing that is described here:
+    https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+  )

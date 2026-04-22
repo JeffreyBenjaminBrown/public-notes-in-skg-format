@@ -1,0 +1,8 @@
+title: 'PITFALL: Test with high frequencies'
+pid: dc377c57-6e80-40dc-abd2-db63ecfa8fd5
+body: |2-
+  A sine wave from SuperCollider at 200 Hz
+  is inaudible from my computer's speaker
+  (over the sound of central heating).
+
+  230 Hz is barely audible.

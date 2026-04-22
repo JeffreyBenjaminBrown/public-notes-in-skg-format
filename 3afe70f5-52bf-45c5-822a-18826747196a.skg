@@ -1,0 +1,4 @@
+title: example
+pid: 3afe70f5-52bf-45c5-822a-18826747196a
+body: |2-
+  duplicate : (1 x : a) -> (a, a) - this function is impossible, because the output requires using `a` twice.

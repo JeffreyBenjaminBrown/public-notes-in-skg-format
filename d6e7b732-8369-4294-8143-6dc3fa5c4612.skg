@@ -1,0 +1,11 @@
+title: do at every doctor's appointment
+pid: d6e7b732-8369-4294-8143-6dc3fa5c4612
+body: |2-
+  ask (them to)
+contains:
+- d1e9a789-d80c-48b5-9cbb-43b40eaec8b6
+- 943cc3dd-f83d-4c33-bac4-4966ade56dd3
+- c0fbbb13-6aa1-474b-8665-24a83aaa7d01
+- 42192b64-bf89-44e3-9d79-4344aef3dacc
+misc:
+- Had_ID_Before_Import

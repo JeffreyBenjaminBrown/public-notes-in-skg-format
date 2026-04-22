@@ -1,0 +1,14 @@
+title: '48 2 19: 13-lim 3x14 or 2x16'
+pid: 3d0bb12d-501d-47d7-8a83-2dc7554e380f
+body: |2-
+  0 steps; 1 % 1 ;	string 0 ; fret 0
+  48 steps; 2 % 1 ;	string 2 ; fret 5
+  28 steps; 3 % 2 ;	string 0 ; fret 14
+  			string 2 ; fret -5
+  15 steps; 5 % 4 ;	string 1 ; fret - 2
+  39 steps; 7 % 4 ;	string 1 ; fret 10
+  			string 3 ; fret -9
+  8 steps; 9 % 8 ;	string 0 ; fret 4
+  22 steps; 11 % 8 ;	string 0 ; fret 11
+  			string 2 ; fret -8
+  34 steps; 13 % 8 ;	string 2 ; fret - 2

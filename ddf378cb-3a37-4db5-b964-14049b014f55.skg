@@ -1,0 +1,5 @@
+title: 'PITFALL: The extension might be ".so" -- i.e., not obvious.'
+pid: ddf378cb-3a37-4db5-b964-14049b014f55
+body: |2-
+  Pianoteq's VST plugin, for instance, is called
+    Pianoteq_8.so

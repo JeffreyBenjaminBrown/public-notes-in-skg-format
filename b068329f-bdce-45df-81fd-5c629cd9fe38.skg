@@ -1,0 +1,5 @@
+title: grant access to a computer|user using IAM
+pid: b068329f-bdce-45df-81fd-5c629cd9fe38
+body: |2-
+  CodeCommitFullAccess is a predefined permission (PITFALL: for *full* access).
+  Add it to make a superuser.

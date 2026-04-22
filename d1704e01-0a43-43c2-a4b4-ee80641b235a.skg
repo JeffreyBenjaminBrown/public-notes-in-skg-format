@@ -1,0 +1,5 @@
+title: gen_server:cast/2( Server_name, message )
+pid: d1704e01-0a43-43c2-a4b4-ee80641b235a
+body: |2-
+  For asynchronoous communication.
+  Sends `message` to the server and returns `ok`.

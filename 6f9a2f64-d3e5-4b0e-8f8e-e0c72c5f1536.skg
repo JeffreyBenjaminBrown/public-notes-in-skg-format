@@ -1,0 +1,6 @@
+title: TODO make sure all my "get" requests use `max_retries`
+pid: 6f9a2f64-d3e5-4b0e-8f8e-e0c72c5f1536
+body: |2-
+  find . -name "*.py" -print0 | xargs -0 grep -i "get *(" --color
+misc:
+- Had_ID_Before_Import

@@ -1,0 +1,4 @@
+title: is case-insensitive
+pid: 1314af95-e38c-46c8-9c52-655cf5c114fe
+body: |2-
+  except when matching strings in WHERE and LIKE clauses.

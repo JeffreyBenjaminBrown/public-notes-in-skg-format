@@ -1,0 +1,4 @@
+title: 'PITFALL: Each app can have its own rebar.config file.'
+pid: 62a17067-d83f-48b1-a574-b6c0039d79bd
+body: |2-
+  But by default there's only one.

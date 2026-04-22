@@ -1,0 +1,6 @@
+title: '`top`'
+pid: 462e4aea-93a2-4573-8993-3a5153956298
+body: |2-
+  ps | sort -des cpu | select -f 15
+  That shows the 15 processes using the most CPU,
+  heaviest first (at top of list).

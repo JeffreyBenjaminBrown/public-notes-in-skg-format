@@ -1,0 +1,4 @@
+title: mc/unmark-(next/previous)-like-this
+pid: 49d1fdb4-eacf-481b-a22c-0cd6e0e7c10d
+body: |2-
+  Remove the cursor furthest (down/up) in the buffer.

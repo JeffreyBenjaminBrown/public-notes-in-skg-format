@@ -1,0 +1,5 @@
+title: FnOnce
+pid: b5058b60-6133-4346-beb1-522f5f871b1f
+body: |2-
+  All closures implement this.
+  "applies to closures that can be called once. All closures implement at least this trait because all closures can be called. A closure that moves captured values out of its body will only implement FnOnce and none of the other Fn traits, because it can only be called once."

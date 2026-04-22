@@ -1,0 +1,4 @@
+title: the UploadedFile object
+pid: ba4a8c7e-9bbe-4e85-ab9a-f683d3f56ccc
+body: |2-
+  https://docs.djangoproject.com/en/3.1/ref/files/uploads/#django.core.files.uploadedfile.UploadedFile

@@ -1,0 +1,5 @@
+title: delete whole nodes
+pid: 318cc6f7-7d20-41df-942f-ca06ae8f45e2
+body: |2-
+  with warnings about how many children it has,
+  and how many will be orphaned

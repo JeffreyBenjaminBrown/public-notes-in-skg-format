@@ -1,0 +1,6 @@
+title: 'TODO PITFALL: Docker won''t mount an Encfs sink'
+pid: 8ed67ee7-e7ec-453d-a40e-283105c7fe8f
+body: |2-
+  That is, a folder that Encfs is funneling data into.
+misc:
+- Had_ID_Before_Import

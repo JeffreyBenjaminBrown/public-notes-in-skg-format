@@ -1,0 +1,4 @@
+title: modify views.py
+pid: 0dde5e92-0cc9-42e1-bb8d-972b8a4f1713
+body: |2-
+  see the `upload_file_*` functions in my `polls/views.py` file

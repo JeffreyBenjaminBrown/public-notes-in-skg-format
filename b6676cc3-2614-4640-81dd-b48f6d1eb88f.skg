@@ -1,0 +1,11 @@
+title: '# operator precedence'
+pid: b6676cc3-2614-4640-81dd-b48f6d1eb88f
+body: |2-
+  We can vary the number of hash symbols attached to a separator to indicate how high a relationship is.
+  This is optional, but it makes things easier to read.
+  For instance, the previous relationship could be written without parentheses as
+  `Mary ##knows Bill #likes Sue`.
+
+  When you're writing data into a `Rslt` you can use either style,
+  parentheses or multiple hashmarks, to structure an expression.
+  You can even mix them both in the same expression.

@@ -1,0 +1,5 @@
+title: focus
+pid: 464a0fab-45e6-4ec5-b4f1-738b7d9897d5
+body: |2-
+  `org_from_node_recursive` should use its `focus` argument.
+  This seems easy.

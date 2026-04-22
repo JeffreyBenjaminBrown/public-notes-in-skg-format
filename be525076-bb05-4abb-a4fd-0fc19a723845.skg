@@ -1,0 +1,7 @@
+title: How to figure out (from within NixOS) which boot config got me here.
+pid: be525076-bb05-4abb-a4fd-0fc19a723845
+body: |2-
+  https://www.reddit.com/r/NixOS/comments/lknn4k/how_to_know_which_boot_config_i_am_on_why_is_all/
+contains:
+- 73c8d9b1-1c75-4017-82db-505c1ddfadcc
+- c8c158fc-41eb-4bf4-ae06-ce2d417d116e

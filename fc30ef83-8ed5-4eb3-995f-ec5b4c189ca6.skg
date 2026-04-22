@@ -1,0 +1,6 @@
+title: spawn/3
+pid: fc30ef83-8ed5-4eb3-995f-ec5b4c189ca6
+body: |2-
+  spawn(Module, Exported_Function, Args) -> pid()
+    Module, Exported_Function :: atom
+    Args :: [term]

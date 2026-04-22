@@ -1,0 +1,8 @@
+title: definition
+pid: 0aa9ee12-8a4d-4045-a8a5-d0f46168dbb4
+body: |2-
+  A node N is marked "linked to in container"
+  if there exists another node C with nonempty contents,
+  such that a link to N is in C's title.
+  It can be heralded LC-n where n is the number of such links;
+  LC would mean LC-1.

@@ -1,0 +1,11 @@
+title: consuming a map uses both kinds
+pid: 41e53f35-2c73-43d9-9957-16c3c16705cf
+body: |2-
+  #+begin_src rust
+  let v1: Vec<i32> = vec![1, 2, 3];
+  let v2: Vec<_> =
+    v1.iter()
+    .map(|x| x + 1) // produces a new iterator
+    .collect(); // consumes the iterator, producing a collection
+  assert_eq!(v2, vec![2, 3, 4]);
+  #+end_src

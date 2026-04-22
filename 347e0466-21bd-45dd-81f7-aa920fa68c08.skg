@@ -1,0 +1,6 @@
+title: The usual comparison operators are available.
+pid: 347e0466-21bd-45dd-81f7-aa920fa68c08
+body: |2-
+  ==, !=, >, >=, <, and <=
+contains:
+- daaccb22-62f6-439f-a9c2-2ebbd6a6dd43

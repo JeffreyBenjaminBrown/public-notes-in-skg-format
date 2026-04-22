@@ -1,0 +1,5 @@
+title: 'bigger fix: consider multiple roots'
+pid: 12a2c7bc-dcc8-4ba1-8b41-a6a5d09ca05c
+body: |2-
+  Rather passing around only a single list of FileNodes,
+  pair that with a list of root IDs.

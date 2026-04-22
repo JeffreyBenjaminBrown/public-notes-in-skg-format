@@ -1,0 +1,8 @@
+title: cron fails again
+pid: 3c37d625-03fe-4bb0-8a21-e904a2d15db2
+body: |2-
+  Deleted the stored user config.
+  Made a new one from the webpage.
+  Turned off cron to save it.
+  Turned on cron.
+  It ran a little, but didn't create any data.

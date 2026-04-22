@@ -1,0 +1,4 @@
+title: Get private ip of this machine
+pid: 8545b8e1-7a36-43c4-9d86-861a30dd56e2
+body: |2-
+  ip route get 1.2.3.4 | awk '{print $7}'

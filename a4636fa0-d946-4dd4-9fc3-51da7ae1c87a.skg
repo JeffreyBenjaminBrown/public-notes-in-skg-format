@@ -1,0 +1,5 @@
+title: 'PITFALL: "Patterns don’t search GET and POST parameters, or the domain name."'
+pid: a4636fa0-d946-4dd4-9fc3-51da7ae1c87a
+body: |2-
+   For example, in a request to https://www.example.com/myapp/, the URLconf will look for myapp/. In a request to https://www.example.com/myapp/?page=3, the URLconf will also look for myapp/.
+  My guess: The stuff after the '?' becomes arguments to the function called by the function found after looking up the part before the '?'.

@@ -1,0 +1,4 @@
+title: Not every table needs a primary key
+pid: 1b59bbc1-acf0-4b19-99bd-de35625fa1db
+body: |2-
+  unless another table must refer to it.

@@ -1,0 +1,7 @@
+title: cursor movement
+pid: 589195e1-0c4a-470b-9e12-463de4bd61e2
+body: |2-
+  If in the MIDI editor,
+  pressing left or right moves the cursor by a few pixels,
+  rather than a grid unit,
+  it's probably [[id:ea1beefe-1ad4-44fc-b883-58d049b3e5c3][because focus is on the arrange view]].

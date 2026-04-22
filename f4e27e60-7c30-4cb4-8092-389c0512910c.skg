@@ -1,0 +1,13 @@
+title: how to use a Windows-only plugin in Linux
+aliases:
+- yabridge
+- yabridgectl
+pid: f4e27e60-7c30-4cb4-8092-389c0512910c
+body: |2-
+  This applies at least to VST plugins,
+  but I suspect it works for other formats, too.
+contains:
+- 7a4ab453-0971-406d-ba42-882f6ffa2d30
+- baf712ad-1208-43a8-9f71-e32cb32158c8
+misc:
+- Had_ID_Before_Import

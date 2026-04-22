@@ -1,0 +1,5 @@
+title: sample code
+pid: c0075c6a-24af-4af1-85ae-6a4c0006ab4b
+body: |2-
+  see the "index" viewpattern in `<project-root>/<app-name>//urls.py`,
+  and the "polls" urlpattern in `<project-root>/<site-name>/urls.py`.

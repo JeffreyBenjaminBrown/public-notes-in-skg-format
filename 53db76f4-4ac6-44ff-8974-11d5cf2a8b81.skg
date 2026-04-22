@@ -1,0 +1,9 @@
+title: It even works in the shell.
+pid: 53db76f4-4ac6-44ff-8974-11d5cf2a8b81
+body: |2-
+    6> self().
+    <0.41.0>
+    7> exit(self()).
+    ** exception exit: <0.41.0>
+    8> self(). %% Now it's a new process.
+    <0.285.0>

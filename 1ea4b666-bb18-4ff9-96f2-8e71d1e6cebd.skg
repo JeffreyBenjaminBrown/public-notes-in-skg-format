@@ -1,0 +1,4 @@
+title: Each await hands control back to the runtime.
+pid: 1ea4b666-bb18-4ff9-96f2-8e71d1e6cebd
+body: |2-
+  "Each await point—that is, every place where the code uses the await keyword—represents a place where control is handed back to the runtime."

@@ -1,0 +1,6 @@
+title: 'state: Use recursion to model it.'
+pid: 659a8ae6-6500-40fd-9044-133402fb900a
+body: |2-
+  Recursion can do anything state could.
+contains:
+- 4a4ff0a9-ce8d-43be-8934-61ac398582c9

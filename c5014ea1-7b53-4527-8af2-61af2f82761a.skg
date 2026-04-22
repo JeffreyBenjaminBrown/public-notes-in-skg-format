@@ -1,0 +1,7 @@
+title: then "extend the filesystem" to use it
+pid: c5014ea1-7b53-4527-8af2-61af2f82761a
+body: |2-
+  https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/recognize-expanded-volume-linux.html
+contains:
+- 33febdad-4d04-46fe-b321-93ddf09ed3a5
+- 1d0ae997-be8f-4a93-8159-ed0bc6a44fba

@@ -1,0 +1,6 @@
+title: Headlines with IDs are not considered linked to from the containing file with an ID.
+pid: 1a8c0b21-d8e1-4520-9595-4a6fac418a06
+body: |2-
+  This makes sense -- it means `links` really tracks only links,
+  which you can jump like hypertext,
+  and not org-mode containment.

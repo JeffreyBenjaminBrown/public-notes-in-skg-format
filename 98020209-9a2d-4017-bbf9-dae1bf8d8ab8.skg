@@ -1,0 +1,9 @@
+title: foldOf and FoldMapOf
+pid: 98020209-9a2d-4017-bbf9-dae1bf8d8ab8
+body: |2-
+  I don't really know why to use them.
+  The section about them (begins on p. 103, "Combining results")
+  doesn't really give a good reason.
+contains:
+- b39529c3-fa98-4a5b-9b71-244fa74697b3
+- 7983802d-666d-4145-a954-b5945b0022d9

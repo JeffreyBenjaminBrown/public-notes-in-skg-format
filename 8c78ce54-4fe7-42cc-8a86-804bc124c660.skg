@@ -1,0 +1,8 @@
+title: Create an IAM user and give them access to an S3 bucket.
+pid: 8c78ce54-4fe7-42cc-8a86-804bc124c660
+body: |2-
+  serial
+contains:
+- 7d3f8fac-8329-40c8-aeb8-a90dcb9340c7
+- 13a701d9-1a68-448b-8251-fb8d2178240d
+- 25ecd990-cf7b-4e85-85b1-59c2b78ecd89

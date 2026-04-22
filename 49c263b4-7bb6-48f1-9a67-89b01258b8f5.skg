@@ -1,0 +1,4 @@
+title: list all archives
+pid: 49c263b4-7bb6-48f1-9a67-89b01258b8f5
+body: |2-
+  borg list /path/to/borg/repo

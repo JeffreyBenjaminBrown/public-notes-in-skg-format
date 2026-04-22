@@ -1,0 +1,10 @@
+title: basic syntax
+pid: 311e5e89-25e2-4818-b501-c21fd79e9398
+body: |2-
+  #+begin_src rust
+  fn main() {
+      let list = vec![1, 2, 3];
+      let only_borrows = || println!("From closure: {list:?}");
+      only_borrows();
+  }
+  #+end_src

@@ -1,0 +1,7 @@
+title: they can be faster than the obvious equivalent
+pid: 28ae0249-1f55-48dd-a8f1-81870ad3071d
+body: |2-
+  This is why, e.g., one would write
+    has f s
+  rather than
+    not null $ s ^.. f

@@ -1,0 +1,4 @@
+title: but this one silently mounts and persists data!
+pid: 5b1ecbc3-abeb-4c26-84a7-fb98a278437c
+body: |2-
+  /var/lib/docker/volumes/typedb-data/_data/typedb-all-linux-x86_64/server/data

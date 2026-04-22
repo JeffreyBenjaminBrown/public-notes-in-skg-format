@@ -1,0 +1,4 @@
+title: TODO How are the times used?
+pid: 45d3c837-829b-4b8a-af9c-c68c7c066e2c
+body: |2-
+  Somehow the times are used to determine when to see if t he hash has changed. If it has, the file is reparsed and the tables are updated accordingly.

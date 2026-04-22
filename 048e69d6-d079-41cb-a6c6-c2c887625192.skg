@@ -1,0 +1,4 @@
+title: spectral comb filter
+pid: 048e69d6-d079-41cb-a6c6-c2c887625192
+body: |2-
+  comb :: number of teeth and width of the comb filter

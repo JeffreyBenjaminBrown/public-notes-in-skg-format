@@ -1,0 +1,12 @@
+title: layout
+pid: b53bb5cf-3610-4d32-a540-67f1eeb34c5d
+body: |2-
+  [ 0 steps; 1 % 1 ; string 0 ; fret 0
+  , 63 steps; 2 % 1 ; string 3 ; fret 4
+  , 37 steps; 3 % 2 ; string 1 ; fret 4
+  , 20 steps; 5 % 4 ; string 2 ; fret - 1
+  , 51 steps; 7 % 4 ; string 3 ; fret 2
+  , 11 steps; 9 % 8 ; string - 1 ; fret 4
+  , 29 steps; 11 % 8 ; string - 1 ; fret 7
+  , 44 steps; 13 % 8 ; string 2 ; fret 3
+  , 57 steps; 15 % 8 ; string 3 ; fret 3

@@ -1,0 +1,36 @@
+title: the error I get
+pid: 7e7ad3c9-0169-4af3-9daf-e6e886630a77
+body: |2-
+  after building for more than an hour:
+
+  make[2]: 'vmlinux' is up to date.
+    CC      arch/x86/boot/a20.o
+    CC      arch/x86/boot/cmdline.o
+    AS      arch/x86/boot/copy.o
+    HOSTCC  arch/x86/boot/mkcpustr
+    CC      arch/x86/boot/cpuflags.o
+    CC      arch/x86/boot/cpucheck.o
+    CC      arch/x86/boot/early_serial_console.o
+    CC      arch/x86/boot/edd.o
+    LDS     arch/x86/boot/compressed/vmlinux.lds
+    AS      arch/x86/boot/compressed/head_64.o
+    VOFFSET arch/x86/boot/compressed/../voffset.h
+    CC      arch/x86/boot/compressed/string.o
+    CC      arch/x86/boot/compressed/cmdline.o
+    CC      arch/x86/boot/compressed/error.o
+    OBJCOPY arch/x86/boot/compressed/vmlinux.bin
+    RELOCS  arch/x86/boot/compressed/vmlinux.relocs
+  Unsupported relocation type: R_X86_64_PLT32 (4)
+  make[4]: *** [../arch/x86/boot/compressed/Makefile:118: arch/x86/boot/compressed/vml
+  inux.relocs] Error 1
+  make[3]: *** [../arch/x86/boot/Makefile:111: arch/x86/boot/compressed/vmlinux] Error
+   2
+  make[2]: *** [arch/x86/Makefile:245: bzImage] Error 2
+  make[1]: *** [Makefile:150: sub-make] Error 2
+  make: *** [Makefile:24: __sub-make] Error 2
+  builder for '/nix/store/jnf08s29n2cm0nc2v3dwiglzgykp8n3i-linux-4.9.35-rt25.drv' fail
+  ed with exit code 2
+  cannot build derivation '/nix/store/nbmvjyrvf2qfa3adwgdbjqx2jaam1fyi-nixos-system-jb
+  b-dell-19.09.1850.5dc4d071ffe.drv': 1 dependencies couldn't be built
+  error: build of '/nix/store/nbmvjyrvf2qfa3adwgdbjqx2jaam1fyi-nixos-system-jbb-dell-1
+  9.09.1850.5dc4d071ffe.drv' failed

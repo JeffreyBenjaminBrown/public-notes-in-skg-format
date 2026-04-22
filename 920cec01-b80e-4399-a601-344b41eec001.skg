@@ -1,0 +1,5 @@
+title: insert
+pid: 920cec01-b80e-4399-a601-344b41eec001
+body: |2-
+  insert into tbl1 values ("a",2),
+                          ("b",3);

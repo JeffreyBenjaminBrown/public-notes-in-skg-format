@@ -1,0 +1,5 @@
+title: type constructor and data constructor
+pid: 4e149d8d-2e99-4aac-92b6-ec62b55b0e69
+body: |2-
+  Nat and List are type constructors.
+  Nil is a data constructor.

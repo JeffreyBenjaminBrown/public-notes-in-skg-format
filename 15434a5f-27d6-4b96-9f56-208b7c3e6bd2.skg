@@ -1,0 +1,4 @@
+title: add key-value pairs to one
+pid: 15434a5f-27d6-4b96-9f56-208b7c3e6bd2
+body: |2-
+  dict.Add("A", "uppercase letter A")

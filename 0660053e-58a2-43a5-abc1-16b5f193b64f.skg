@@ -1,0 +1,11 @@
+title: Android phone, to mount filesystem to Linux
+aliases:
+- Linux, to mount Android filesystem to
+pid: 0660053e-58a2-43a5-abc1-16b5f193b64f
+body: |2-
+  serial
+contains:
+- 008bcc4d-795f-4279-853d-0ed9bdda8cf7
+- 47709fc9-7534-489b-83b1-a3d9f852c8b1
+misc:
+- Had_ID_Before_Import

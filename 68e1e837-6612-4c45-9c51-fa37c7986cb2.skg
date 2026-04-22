@@ -1,0 +1,6 @@
+title: how Hode could help
+pid: 68e1e837-6612-4c45-9c51-fa37c7986cb2
+body: |2-
+  Hode provides a query language that makes it easy to collect data about a source -- not just what they've said, but what they've said about what, how those statements relate to other sources, what they've said about other sources, what those sources have said about them, what other kinds of (public) communication those supporting sources share with who, etc.
+  These are the kinds of vetting that newspapers have to do when deciding whether to use testimony from anynomous sources. Many newspapers do amazing work, but their resources are limited.
+  Hode won't make any more information available, but it could automate aspects of investigation that would otherwise be prohibitively time-consuming.

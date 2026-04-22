@@ -1,0 +1,4 @@
+title: 'djf : 1-parameter filter, in [0,1]'
+pid: 7373750f-1548-461e-a544-b7a2c07ec350
+body: |2-
+  0 = low pass, 1 = high pass

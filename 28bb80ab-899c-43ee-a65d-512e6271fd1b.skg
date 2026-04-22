@@ -1,0 +1,12 @@
+title: 'research: their current state'
+pid: 28bb80ab-899c-43ee-a65d-512e6271fd1b
+body: |2-
+  actNew, actSend, and actFree all look up a synth, which might fail.
+  They log errors only if there's a lookup failure.
+  Two of them return ways to insert or delete the synth,
+    which could be factored out into a function from New or Free to synthdefs.
+  One creates it, one destroys it; both could be a separate super function.
+contains:
+- 07f5c90a-76d9-47bf-a178-a44f9d54e864
+- 97ade98f-1b1c-4119-80cb-144959152da3
+- bc202f6c-0df9-4b88-8d7e-805dfc536e6e

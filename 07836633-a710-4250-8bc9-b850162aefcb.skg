@@ -1,0 +1,7 @@
+title: The ? operator concisely propagates errors to callers.
+pid: 07836633-a710-4250-8bc9-b850162aefcb
+contains:
+- edffc031-47dc-4961-b5b0-76061f4a91d2
+- 4372ea3a-5e67-4fa7-bbd1-fae172f37972
+- 859489bc-537a-4986-a6d9-e990de25a5bf
+- b7115853-2d7e-4659-9ca9-3edb69ee412c

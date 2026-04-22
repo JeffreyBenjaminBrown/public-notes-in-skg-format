@@ -1,0 +1,17 @@
+title: what that does
+pid: 9624daa9-2cf9-4f8f-a3cf-f7dc0a7f436b
+body: |2-
+  """
+  If more than MaxR number of restarts occur in the last MaxT seconds,
+  the supervisor terminates all the child processes and then itself.
+  The termination reason for the supervisor itself in that case will be shutdown.
+
+  When the supervisor terminates, then the next higher-level supervisor takes
+  some action. It either restarts the terminated supervisor or terminates itself.
+
+  The intention of the restart mechanism is to prevent a situation where a
+  process repeatedly dies for the same reason, only to be restarted again.
+
+  The keys intensity and period are optional in the supervisor flags map. If they
+  are not given, they default to 1 and 5, respectively.
+  """

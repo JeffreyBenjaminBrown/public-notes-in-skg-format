@@ -1,0 +1,29 @@
+title: code example
+pid: 60cda66f-0e56-4028-9cab-a12d1da1d2d7
+body: |2-
+  jeff@jbb-dell:bk$ tree
+  .
+  ├── 1
+  │   ├── a
+  │   └── b
+  ├── 12
+  │   ├── c
+  │   ├── d
+  │   └── e
+  └── sink
+
+  3 directories, 5 files
+  jeff@jbb-dell:bk$ find 1* -type f -exec mv -t sink {} +
+  jeff@jbb-dell:bk$ tree
+  .
+  ├── 1
+  ├── 12
+  └── sink
+      ├── a
+      ├── b
+      ├── c
+      ├── d
+      └── e
+
+  3 directories, 5 files
+  jeff@jbb-dell:bk$

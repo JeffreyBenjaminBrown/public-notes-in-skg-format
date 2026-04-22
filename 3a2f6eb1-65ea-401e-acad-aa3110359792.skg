@@ -1,0 +1,7 @@
+title: use it with Emacs
+pid: 3a2f6eb1-65ea-401e-acad-aa3110359792
+body: |2-
+  alternatives
+contains:
+- abc74ffc-26f2-4232-98c9-578ae2c97132
+- b1c82648-9ee8-4464-b9fa-01898a6ba32f

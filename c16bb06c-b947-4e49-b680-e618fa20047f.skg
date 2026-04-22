@@ -1,0 +1,14 @@
+title: 'TODO 94 2 17: fret span of 8 in the 29-limit, octave (6,-4)'
+pid: c16bb06c-b947-4e49-b680-e618fa20047f
+body: |2-
+  [ 94 steps = 2 % 1 : string 6 fret - 4
+  , 55 steps = 3 % 2 : string 3 fret 2
+  , 30 steps = 5 % 4 : string 2 fret - 2
+  , 76 steps = 7 % 4 : string 4 fret 4
+  , 43 steps = 11 % 8 : string 3 fret - 4
+  , 66 steps = 13 % 8 : string 4 fret - 1
+  , 8 steps = 17 % 16 : string 0 fret 4
+  , 23 steps = 19 % 16 : string 1 fret 3
+  , 49 steps = 23 % 16 : string 3 fret - 1
+  , 81 steps = 29 % 16 : string 5 fret - 2
+  , 90 steps = 31 % 16 : string 4 fret 11

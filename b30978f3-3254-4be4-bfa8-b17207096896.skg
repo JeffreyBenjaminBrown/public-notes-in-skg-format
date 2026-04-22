@@ -1,0 +1,4 @@
+title: 'TODO | SKIPPED: mutexes and locks'
+pid: b30978f3-3254-4be4-bfa8-b17207096896
+body: |2-
+  https://go.dev/tour/concurrency/9

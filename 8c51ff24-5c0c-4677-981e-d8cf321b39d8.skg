@@ -1,0 +1,10 @@
+title: velocity   = 1,
+pid: 8c51ff24-5c0c-4677-981e-d8cf321b39d8
+body: |2-
+      0 is lowest, negative is louder, 10 squeals
+  #+BEGIN_SRC lisp
+  d1 $ stack [ s "supervibe" |*| n 0
+               |*| velocity "~ -1 0 1 10"
+               |*| amp      "1 1  1 1 0.3"
+             , s "bd" ]
+  #+END_SRC

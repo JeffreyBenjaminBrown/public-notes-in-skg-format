@@ -1,0 +1,4 @@
+title: to get all instantiated types
+pid: 5dabd67d-0b88-49b5-909f-32a804165fe3
+body: |2-
+  match $x isa $t; get $t;

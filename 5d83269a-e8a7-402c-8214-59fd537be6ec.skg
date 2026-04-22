@@ -1,0 +1,6 @@
+title: When a process goes down, its monitor receives a message of the form
+pid: 5d83269a-e8a7-402c-8214-59fd537be6ec
+body: |2-
+  {'DOWN', MonitorReference, process, Pid, Reason}
+contains:
+- cac7b800-f386-47e0-9cde-0e7cba38c718

@@ -1,0 +1,8 @@
+title: At is like Ixed but allows insertion, deletion
+pid: e390a880-cfa4-4226-80dd-dc56981bdfa3
+body: |2-
+  class At where
+    at :: Index m -> Lens' m (Maybe (IxValue m))
+  "To insert or replace an element we can set a value wrapped in Just; to delete we can set the focus to Nothing."
+contains:
+- 8301496e-3780-480d-94bd-d967d9591eaf

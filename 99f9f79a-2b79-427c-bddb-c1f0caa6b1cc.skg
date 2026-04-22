@@ -1,0 +1,5 @@
+title: splice an evaluated list into the backquoted one
+pid: 99f9f79a-2b79-427c-bddb-c1f0caa6b1cc
+body: |2-
+  such that the result is a list all at one level,
+  not a nested one

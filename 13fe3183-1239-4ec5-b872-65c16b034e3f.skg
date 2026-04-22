@@ -1,0 +1,6 @@
+title: how that differs from standard find-grep
+pid: 13fe3183-1239-4ec5-b872-65c16b034e3f
+body: |2-
+  -L = follow symlinks
+  no "-type f" clause
+  -name "*.org"

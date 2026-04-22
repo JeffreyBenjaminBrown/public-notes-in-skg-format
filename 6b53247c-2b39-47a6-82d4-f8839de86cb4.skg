@@ -1,0 +1,9 @@
+title: what it does
+pid: 6b53247c-2b39-47a6-82d4-f8839de86cb4
+body: |2-
+     The line
+  -v typedb-data:/opt/
+     in the above command causes a folder called `typedb-data`
+     to be created in
+       /var/lib/docker/volumes
+     rather than the folder from where the command is run.

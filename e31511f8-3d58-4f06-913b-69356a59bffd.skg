@@ -1,0 +1,10 @@
+title: The symbol := cannot be used in a local function definition. Which means that it can be used to interleave let bindings and local definitions without introducing ambiguities.
+pid: e31511f8-3d58-4f06-913b-69356a59bffd
+body: |2-
+  foldMap : Monoid m => (a -> m) -> Vect n a -> m
+  foldMap f = let fo : m -> a -> m
+                  fo ac el = ac <+> f el
+                  initial := neutral
+                   --     ^ this indicates that `initial` is a separate binding,
+                   -- not relevant to definition of `fo`
+             in foldl fo initial

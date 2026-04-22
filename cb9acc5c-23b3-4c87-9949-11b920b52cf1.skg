@@ -1,0 +1,9 @@
+title: its rendering into org-roam
+pid: cb9acc5c-23b3-4c87-9949-11b920b52cf1
+body: |2-
+    #+title: music
+    * / & [[id:0a6dcf44-6c2c-432a-90a7-babfbb3e0b7d][justice]] & [[id:1e0eb0bc-1d40-4a78-9c81-dbcef73d005e][distance]] /
+    ** the edge where ideas deserve not formal encoding yet in music
+       :PROPERTIES:
+       :ID:       eec10382-0ce9-4326-a1c7-f2ff477f19f0
+       :END:

@@ -1,0 +1,5 @@
+title: code I was using for it
+pid: 38017c77-c40a-4d87-9fc7-7f7865a03e7d
+body: |2-
+  ;; avy : jump around
+  (global-set-key (kbd "C-;") 'avy-goto-char-2)

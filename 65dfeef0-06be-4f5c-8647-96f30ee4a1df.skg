@@ -1,0 +1,10 @@
+title: 'fm-f:'
+pid: 65dfeef0-06be-4f5c-8647-96f30ee4a1df
+body: |2-
+  factors of 2: from 1/32 to 8
+  num and denom: both from 1 to 8 is enough
+    but scale the result to be in [1,2)
+  tiny scale: from *1 to *1.05 or *1.1, but (very?) logarithmic
+    1.001 sounds pleasantly distinct from 1;
+    1.0001 is indistinguishable;
+    1.1 is totally messed up

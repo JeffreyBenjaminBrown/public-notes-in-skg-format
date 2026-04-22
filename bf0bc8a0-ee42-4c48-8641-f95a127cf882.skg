@@ -1,0 +1,5 @@
+title: '1'
+pid: bf0bc8a0-ee42-4c48-8641-f95a127cf882
+body: |2-
+  Everyone has to keep a repo with every snapshot they've seen of someone else's notes. The simplest but less space-efficient way would be to clone the whole history.
+  Links to someone's data can either encode the source commit, or (better) their org-roam db can encode the most recent commit of every id. Either of these permits them to delete links without breaking your references to their data.

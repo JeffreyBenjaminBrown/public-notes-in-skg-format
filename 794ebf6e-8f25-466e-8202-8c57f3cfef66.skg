@@ -1,0 +1,4 @@
+title: make-local-variable
+pid: 794ebf6e-8f25-466e-8202-8c57f3cfef66
+body: |2-
+  affects just the current buffer

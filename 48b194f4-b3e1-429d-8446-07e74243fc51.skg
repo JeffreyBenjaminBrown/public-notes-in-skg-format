@@ -1,0 +1,6 @@
+title: mark links to relationship templates with something like a leading ~
+pid: 48b194f4-b3e1-429d-8446-07e74243fc51
+body: |2-
+  Indicate whenever a link to that relationship is being used as a relationship.
+contains:
+- e33ffb57-384a-4ab1-81fe-dbf3e4b39ee6

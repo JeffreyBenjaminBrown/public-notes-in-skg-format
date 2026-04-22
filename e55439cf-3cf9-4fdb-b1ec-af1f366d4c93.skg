@@ -1,0 +1,7 @@
+title: the reverse of that
+pid: e55439cf-3cf9-4fdb-b1ec-af1f366d4c93
+body: |2-
+  if
+    Just a = preview myPrism s
+  then
+    s = review myPrism a

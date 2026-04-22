@@ -1,0 +1,6 @@
+title: back-button
+pid: 303c53d3-9f22-4721-b61a-58ce4aabd0d4
+body: |2-
+  "Visual navigation through mark rings in Emacs"
+  Through global and (buffer-)local mark rings.
+  Leaves visible marks at each spot.

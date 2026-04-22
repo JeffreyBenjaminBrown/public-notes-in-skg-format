@@ -1,0 +1,9 @@
+title: 'Implicit arguments, given with the forall declaration, are not given in applications of index; their values can be inferred from the types of the Fin n and Vect n a arguments. Any name beginning with a lower case letter which appears as a parameter or index in a type declaration, which is not applied to any arguments, will always be automatically bound as an implicit argument; this is why data type names cannot begin with a lower case letter. Implicit arguments can still be given explicitly in applications, using {a=value} and {n=value}, for example:'
+pid: 18d13c5b-a9b2-4bae-b1bf-4b3054dda106
+body: |2-
+
+  index {a=Int} {n=2} FZ (2 :: 3 :: Nil)
+  In fact, any argument, implicit or explicit, may be given a name. We could have declared the type of index as:
+
+  index : (i : Fin n) -> (xs : Vect n a) -> a
+  It is a matter of taste whether you want to do this — sometimes it can help document a function by making the purpose of an argument more clear.

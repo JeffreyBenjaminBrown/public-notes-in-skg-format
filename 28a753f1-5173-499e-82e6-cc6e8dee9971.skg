@@ -1,0 +1,7 @@
+title: '? how to make variable collision avoidance easier?'
+pid: 28a753f1-5173-499e-82e6-cc6e8dee9971
+body: |2-
+  Consider QAnd [ Find child of some x, Test equal to no x].
+  That's an existential find followed by a universal test over the same variable. The find binds x, then the Test deletes that binding.
+  The solution is to change the varName in the Test. This puts, however,
+  an annoying burden on the user.

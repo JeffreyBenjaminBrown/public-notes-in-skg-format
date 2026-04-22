@@ -1,0 +1,4 @@
+title: Point out that for each graph G, there exists exactly one graph G_S such that the third element of every triple in G(D) is an element from G_S(D).
+pid: e952669e-ba53-41b9-a399-0b6235d7c2b0
+body: |2-
+  From the definition in the first paragraph of the section titled "Graphs", that's not obvious.

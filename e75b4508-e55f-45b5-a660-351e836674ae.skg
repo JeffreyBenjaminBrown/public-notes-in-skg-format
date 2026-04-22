@@ -1,0 +1,8 @@
+title: TODO Why does the definition of Functor use 0, while Monad's doesn't?
+pid: e75b4508-e55f-45b5-a660-351e836674ae
+body: |2-
+  https://idris2.readthedocs.io/en/latest/tutorial/interfaces.html#functors-and-applicatives
+  interface                  Functor (0 f : Type -> Type) where
+    map  : (m : a -> b) -> f a -> f b
+  interface Applicative m => Monad   (m   : Type -> Type) where
+   (>>=) : m a -> (a -> m b) -> m b

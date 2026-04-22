@@ -1,0 +1,8 @@
+title: syntax
+pid: 5c81abd4-fdee-455a-ba13-0773dc80472e
+body: |2-
+  func split (sum int) (x, y int) {
+    x = sum * 4 / 9
+    y = sum - x
+    return
+  }

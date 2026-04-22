@@ -1,0 +1,7 @@
+title: the commands
+pid: f5099dca-5b3e-45f9-b58d-679fec79616c
+body: |2-
+  C-c .              ;; writes date
+  M-x org-time-stamp ;; writes date
+     C-u C-c .              ;; writes date and time
+     C-u M-x org-time-stamp ;; writes date and time

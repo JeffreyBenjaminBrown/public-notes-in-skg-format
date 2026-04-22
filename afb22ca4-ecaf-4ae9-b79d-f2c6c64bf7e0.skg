@@ -1,0 +1,11 @@
+title: '"Serving files uploaded by a user during development"'
+pid: afb22ca4-ecaf-4ae9-b79d-f2c6c64bf7e0
+body: |2-
+  """
+  During development, you can serve user-uploaded media files from
+  MEDIA_ROOT using the django.views.static.serve() view.
+
+  This is not suitable for production use! For some common deployment
+  strategies, see Deploying static files.
+  ...
+  """

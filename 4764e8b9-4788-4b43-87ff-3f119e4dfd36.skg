@@ -1,0 +1,9 @@
+title: string splice with $
+pid: 4764e8b9-4788-4b43-87ff-3f119e4dfd36
+body: |2-
+  For instance, this function splices the string "name" into another:
+  makeVirtualHost = name:
+    { hostName = name;
+      documentRoot = "/sites/${name}";
+      adminAddr = "alice@example.org";
+    };

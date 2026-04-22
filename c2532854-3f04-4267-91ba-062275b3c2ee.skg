@@ -1,0 +1,9 @@
+title: gnome-disk-utility (application)
+aliases:
+- disks (Linux application)
+pid: c2532854-3f04-4267-91ba-062275b3c2ee
+contains:
+- e552e53d-edba-40b8-966c-1d7ad3436b42
+- 982f48ba-9ed5-4c21-bcaf-a6b8c3571e85
+misc:
+- Had_ID_Before_Import

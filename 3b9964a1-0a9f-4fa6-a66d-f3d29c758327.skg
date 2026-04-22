@@ -1,0 +1,22 @@
+title: where the intervals lie
+pid: 3b9964a1-0a9f-4fa6-a66d-f3d29c758327
+body: |2-
+    The 13-limit fits in 2x15.
+   0 steps;  1 % 1 ;  string 0 ; fret 0
+  72 steps;  2 % 1 ;  string 2 ; fret 9
+  42 steps;  3 % 2 ;  string 2 ; fret - 6
+  23 steps;  5 % 4 ;  string 1 ; fret - 2
+  58 steps;  7 % 4 ;  string 2 ; fret 2
+  12 steps;  9 % 8 ;  string 0 ; fret 6
+  33 steps; 11 % 8 ;  string 1 ; fret 3
+  50 steps; 13 % 8 ;  string 2 ; fret - 2
+  65 steps; 15 % 8 ;  string 3 ; fret -8
+   6 steps; 17 % 16 ; string 0 ; fret 3
+  18 steps; 19 % 16 ; string 0 ; fret 9
+  28 steps; 21 % 16 ; string 0 ; fret 14 -- or bend at fret 0
+                      string 2 ; fret -13
+  38 steps; 23 % 16 ; string 2 ; fret -8
+  46 steps; 25 % 16 ; string 2 ; fret -4
+  54 steps; 27 % 16 ; string 2 ; fret 0
+  62 steps; 29 % 16 ; string 2 ; fret 4
+  69 steps; 31 % 16 ; string 3 ; fret -6

@@ -1,0 +1,7 @@
+title: Shadowing can be resolved through qualification.
+pid: bb1b00ee-2894-46c4-8b3f-6cf3cf324e19
+body: |2-
+  That is, shadowing of something in an outer scope
+  by something of the same name in an inner scope.
+contains:
+- c4d5d90b-0d15-4d31-b4f3-57cd9b4210b9

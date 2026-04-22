@@ -1,0 +1,4 @@
+title: swap current window with top window
+pid: 5b6d74c8-3d86-4c97-ace6-479857357e78
+body: |2-
+  swap-window -t 0

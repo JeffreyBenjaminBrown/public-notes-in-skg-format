@@ -1,0 +1,8 @@
+title: json.dumps() turns data into a JSON string
+pid: c2c851ae-4ec0-4b79-b6f6-510d8f20aced
+body: |2-
+  >>> x = json.dumps( {"a" : [1,2,3], "b" : {"c" : 5, "d" : [6,7] } } )
+  >>> x
+  '{"a": [1, 2, 3], "b": {"c": 5, "d": [6, 7]}}'
+  >>> type(x)
+  <class 'str'>

@@ -1,0 +1,5 @@
+title: stale ? To avoid redundant tree-climbing
+pid: c4136ac9-0701-416c-92d4-c42df36397fb
+body: |2-
+  Recursive calls to a function that evaluates something at an ExprImg by first evaluating it along each of its branches could be expensive.
+  It could be avoided by making the ImgExpr abstract, a functor over some parameter a that is paired with each constructor.

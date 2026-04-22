@@ -1,0 +1,4 @@
+title: '[[id:401c33ce-2d69-4c28-9b27-ca7fcc85ba22][The Deref trait]] abstracts over both.'
+pid: af00304c-de78-40c4-be1b-4ae073ef857a
+body: |2-
+  although not all smart pointers implement it

@@ -1,0 +1,5 @@
+title: search-backward string &optional limit noerror count
+pid: 2228bc47-6570-4891-8c30-2eb6b5abe45e
+body: |2-
+  is like search-forward, but looks backward,
+  and leaves point at the *start* of the match.

@@ -1,0 +1,18 @@
+title: 'Local method (project-specific, what I did):'
+pid: ffafb1de-a484-40b6-914d-b3c94f4194dd
+body: |2-
+  I modified the docker-compose.yml file to tell Docker Compose to use a safe, non-conflicting subnet just for that project:
+
+  networks:
+    default:
+      driver: bridge
+      ipam:
+        config:
+          - subnet: 172.31.0.0/24
+
+  Then I recreated the containers and network:
+
+  docker compose down
+  docker compose up -d
+
+      This changes the subnet only for that Compose project, avoiding interference with real-world WiFi networks like MinCIT Invitados.

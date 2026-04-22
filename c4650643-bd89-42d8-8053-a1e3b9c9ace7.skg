@@ -1,0 +1,11 @@
+title: 'is hard to imagine many cases where the /= method will be anything other than the negation of the result of applying the == method. It is therefore convenient to give a default definition for each method in the interface declaration, in terms of the other method:'
+pid: c4650643-bd89-42d8-8053-a1e3b9c9ace7
+body: |2-
+
+  interface Eq a where
+      (==) : a -> a -> Bool
+      (/=) : a -> a -> Bool
+
+      x /= y = not (x == y)
+      x == y = not (x /= y)
+  A minimal complete implementation of Eq requires either == or /= to be defined, but does not require both.

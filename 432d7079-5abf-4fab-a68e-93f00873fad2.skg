@@ -1,0 +1,4 @@
+title: create
+pid: 432d7079-5abf-4fab-a68e-93f00873fad2
+body: |2-
+  create table tbl1 (one text, two int);

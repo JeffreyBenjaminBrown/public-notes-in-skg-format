@@ -1,0 +1,5 @@
+title: the problem
+pid: 63f607f1-bb40-4207-b14e-e2c179f0fdfc
+body: |2-
+  This line appears not to work in ~/bin/exclude-for-borg.txt:
+    sh:/home/jeff/Documents/REAPER Media/**/*.[wW][aA][vV]$

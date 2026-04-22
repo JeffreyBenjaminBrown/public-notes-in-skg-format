@@ -1,0 +1,11 @@
+title: TODO Should I use mono5?
+pid: 0a65a14b-cf01-47d9-9eb3-a1feefbf406b
+body: |2-
+    I'm using mono4 right now,
+    in my ~/code/vb/shell.nix file:
+
+  with import <nixpkgs> { };
+
+  mkShell {
+    buildInputs = [ roslyn mono4 ];
+  }

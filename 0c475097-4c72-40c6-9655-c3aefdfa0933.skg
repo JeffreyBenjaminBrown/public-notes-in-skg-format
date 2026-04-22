@@ -1,0 +1,4 @@
+title: Call the script using "." (rather than, say, "bash").
+pid: 0c475097-4c72-40c6-9655-c3aefdfa0933
+body: |2-
+  This runs the script "in the current environment".

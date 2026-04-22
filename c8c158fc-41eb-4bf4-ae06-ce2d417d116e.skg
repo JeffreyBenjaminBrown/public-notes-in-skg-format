@@ -1,0 +1,5 @@
+title: maybe, print the derivation itself
+pid: c8c158fc-41eb-4bf4-ae06-ce2d417d116e
+body: |2-
+  Go to the folder, then run
+    nix show-derivation $(pwd)

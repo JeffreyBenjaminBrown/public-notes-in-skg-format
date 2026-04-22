@@ -1,0 +1,7 @@
+title: '"Themes" and "layouts" are deep.'
+pid: 9b9675ff-e9ab-4b23-b911-39e7e13e94a4
+body: |2-
+  They include which controls are displayed.
+  "Layouts" might be a subcomponent of "themes".
+contains:
+- 6cfece12-9d16-4d5a-a252-862b1457baf9

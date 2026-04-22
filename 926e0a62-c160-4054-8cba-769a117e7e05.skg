@@ -1,0 +1,7 @@
+title: like this
+pid: 926e0a62-c160-4054-8cba-769a117e7e05
+body: |2-
+  {-# LANGUAGE DeriveFunctor #-}
+  data DcNodeOperator state error next =
+    ...
+    deriving (Functor)

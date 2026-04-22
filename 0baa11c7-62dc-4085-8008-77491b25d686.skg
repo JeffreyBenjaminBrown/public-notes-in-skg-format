@@ -1,0 +1,11 @@
+title: listen for a while then stop
+pid: 0baa11c7-62dc-4085-8008-77491b25d686
+body: |2-
+  timeout := time.After ( 1 * time.Second )
+  for { select {
+    case ...
+    case ...
+    case <- timeout: // we can't define `timeout` here,
+                     // because it's reevaluated each time
+       // the select statement is.
+      ...

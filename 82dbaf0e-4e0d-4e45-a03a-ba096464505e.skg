@@ -1,0 +1,8 @@
+title: Slice literals & array literals.
+pid: 82dbaf0e-4e0d-4e45-a03a-ba096464505e
+body: |2-
+  An array literal: [3]bool{true, true, false}
+  A slice literal:   []bool{true, true, false}
+  Both create the same array.
+misc:
+- Had_ID_Before_Import

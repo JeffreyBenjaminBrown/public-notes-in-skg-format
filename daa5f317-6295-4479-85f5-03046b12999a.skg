@@ -1,0 +1,7 @@
+title: 'fromList :: [a] -> Pattern a, appending "slowly"'
+pid: daa5f317-6295-4479-85f5-03046b12999a
+body: |2-
+  That is, appending one event from thelist per cycle.
+  #+BEGIN_SRC haskell
+    d1 $ s "sn:1*2" |*| speed (fromList [1,2,3])
+  #+END_SRC

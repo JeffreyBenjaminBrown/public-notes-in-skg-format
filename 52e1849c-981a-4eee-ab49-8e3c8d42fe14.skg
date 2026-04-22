@@ -1,0 +1,14 @@
+title: When it has to stop, should return one of these.
+pid: 52e1849c-981a-4eee-ab49-8e3c8d42fe14
+body: |2-
+  {stop, Reason, NewData}
+  {stop, Reason}
+   Stop the server with reason Reason.
+     If the NewData field is used, first
+   update the server data.
+
+  {stop_and_reply, Reason, NewData, ReplyActions}
+  {stop_and_reply, Reason, ReplyActions}
+    Same as the stop values,
+    but first execute the given [[id:3541b431-e9f6-427f-9b6a-c282fc2dc440][TransitionActions]]
+    that may only be reply actions.

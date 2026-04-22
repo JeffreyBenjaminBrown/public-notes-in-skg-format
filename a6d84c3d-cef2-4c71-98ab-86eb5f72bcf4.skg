@@ -1,0 +1,5 @@
+title: if the installer fails to partition for the boot loader
+pid: a6d84c3d-cef2-4c71-98ab-86eb5f72bcf4
+body: |2-
+  Manually delete the existing partition with fdisk,
+  then try installing again.

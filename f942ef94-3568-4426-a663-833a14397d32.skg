@@ -1,0 +1,8 @@
+title: SUPPOSE throughout these notes that at the root of the project
+pid: f942ef94-3568-4426-a663-833a14397d32
+body: |2-
+  there's manage.py,
+  there's a folder called "site"
+    (in my sample code, this corresponds to <project-root>/<site-name>/)
+  and there's a folder call "app"
+    (in my sample code, this corresponds to polls/)

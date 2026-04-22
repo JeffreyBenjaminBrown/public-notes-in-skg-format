@@ -1,0 +1,8 @@
+title: if (command history|paste|backspace) misbehaves in `conda python3` in Docker
+pid: bd7363b0-401a-498e-9fe3-5d291c955cb3
+contains:
+- 14bc68bc-0124-4bc3-8fe8-18c69bcff478
+- 8f337e4b-d909-470f-810a-ac03806e12c6
+- a9dc1aa7-a376-43df-822e-a4b6573a5a11
+misc:
+- Had_ID_Before_Import

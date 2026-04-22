@@ -1,0 +1,5 @@
+title: how semantics (e.g. order of evaluation) differ across libraries
+pid: 6f859e57-f15d-47d5-a7b3-0dbb33fd1580
+body: |2-
+  "The effect semantics zoo", Alexis King:
+  https://github.com/lexi-lambda/eff/blob/8c4df4bf54faf22456354be18095b14825be5e85/notes/semantics-zoo.md

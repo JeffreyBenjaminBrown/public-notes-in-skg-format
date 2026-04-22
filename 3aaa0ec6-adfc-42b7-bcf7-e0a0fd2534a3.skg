@@ -1,0 +1,11 @@
+title: Type signatures inside function definitions need ScopedTypeVariables.
+pid: 3aaa0ec6-adfc-42b7-bcf7-e0a0fd2534a3
+body: |2-
+  https://serokell.io/blog/universal-and-existential-quantification
+
+  example :: a -> [a] -> [a]
+  example x rest = pair ++ rest
+    where
+      pair :: [a]
+      pair = [x, x]
+  It seems reasonable because it looks like both functions are referring to the same type variable a. However, GHC is actually inserting an implicit forall in both functions. In other words, each function has its own type variable a.

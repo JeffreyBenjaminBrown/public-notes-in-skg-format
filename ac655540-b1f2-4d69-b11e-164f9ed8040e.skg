@@ -1,0 +1,4 @@
+title: Typescript capitalizes boxed types, leaves primitives in lowercase
+pid: ac655540-b1f2-4d69-b11e-164f9ed8040e
+body: |2-
+  The boxed types are rarely needed.

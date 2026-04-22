@@ -1,0 +1,24 @@
+title: friendly lambdas and higher-order programming
+pid: 4f746f16-da5b-4d81-88d1-00403d886de4
+body: |2-
+    Lambda expressions and higher-order programming are much friendlier in Haskell. Compare:
+
+  ``` python
+  def f (x,y,z ):
+    return 2x + 3y / z
+
+  g = lambda z: f(1,2,z)
+  ```
+
+  ``` haskell
+  f x y z = 2x + 3y / z
+
+  g = \z -> f 1 2 z
+  ```
+
+  Or equivalently and even easier to read:
+  ``` haskell
+  f x y z = 2x + 3y / z
+
+  g = f 1 2
+  ```

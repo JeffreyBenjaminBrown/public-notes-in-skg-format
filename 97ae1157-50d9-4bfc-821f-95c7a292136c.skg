@@ -1,0 +1,12 @@
+title: 11\41 x 3\41
+pid: 97ae1157-50d9-4bfc-821f-95c7a292136c
+body: |2-
+  Frets are 88c apart.
+  0  steps;  1 % 1 ; string 0 ; fret  0
+  7  steps;  9 % 8 ; string 2 ; fret -5
+  13 steps;  5 % 4 ; string 2 ; fret -3
+  19 steps; 11 % 8 ; string 2 ; fret -1
+  33 steps;  7 % 4 ; string 3 ; fret  0
+  24 steps;  3 % 2 ; string 3 ; fret -3
+  29 steps; 13 % 8 ; string 4 ; fret -5
+  41 steps;  2 % 1 ; string 4 ; fret -1

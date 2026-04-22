@@ -1,0 +1,5 @@
+title: Case functions (e.g. upper()) work on ASCII but not on all Unicode.
+pid: 585bb03c-685d-4b27-b6da-44b2b034ec2b
+body: |2-
+  see "Does Not Do Full Unicode Case Folding By Default", here:
+  https://www.sqlite.org/quirks.html

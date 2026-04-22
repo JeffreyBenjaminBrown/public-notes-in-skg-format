@@ -1,0 +1,10 @@
+title: extend Tidal to midi, audio
+pid: 09e1bb8a-4d33-415b-a451-5591866e0d8c
+body: |2-
+  serial
+contains:
+- f248ad79-a527-4be1-ac55-fd5abd8c0e7f
+- 41b5a8cd-a543-452d-8ee8-a03b43d19f29
+- a3d62b78-be1a-49e1-8fa7-cbf8548e06b9
+- e5d47cd0-c77b-43c4-bcd1-6fef614027ad
+- 56cddcdf-0176-459f-9fbf-1827712dbed5

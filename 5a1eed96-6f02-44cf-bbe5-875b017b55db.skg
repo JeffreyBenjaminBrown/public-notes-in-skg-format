@@ -1,0 +1,5 @@
+title: leafward in-file path (LIFP)
+pid: 5a1eed96-6f02-44cf-bbe5-875b017b55db
+body: |2-
+  is the path from a title to a node,
+  if that node is in that file.

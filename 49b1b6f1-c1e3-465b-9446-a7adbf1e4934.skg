@@ -1,0 +1,9 @@
+title: fills the holes really well
+pid: 49b1b6f1-c1e3-465b-9446-a7adbf1e4934
+body: |2-
+  0 steps; 1 % 1 ; string 0 ; fret 0
+  87 steps; 2 % 1 ; string 5 ; fret 1
+  51 steps; 3 % 2 ; string 3 ; fret 0
+  28 steps; 5 % 4 ; string 2 ; fret - 3
+  70 steps; 7 % 4 ; string 4 ; fret 1
+  40 steps; 11 % 8 ; string 2 ; fret 3

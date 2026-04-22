@@ -1,0 +1,18 @@
+title: steps
+pid: 6e0784db-13d2-4057-81bd-ff164006158b
+body: |2-
+  Stop audio in ordinary apps (e.g. Spotify, browser).
+    No need to kill the app.
+  Start Qjackctl.
+    Use the following settings:
+      * ALSA
+      * hw:0 (or default)
+      * 48 kHz
+      * 256 frames / period
+      * 2 periods / buffer
+    Press start.
+    Once it's available, press play (the right-facing triangle).
+  Start SuperCollider.
+    Boot the sound engine.
+    Evaluate this expression:
+      { SinOsc.ar(440, 0, 0.5) }.play;

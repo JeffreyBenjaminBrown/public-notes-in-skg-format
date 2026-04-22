@@ -1,0 +1,8 @@
+title: converting a date to a duration
+pid: 8bc1a79c-5dc2-451f-8ee1-a3da52dd0460
+body: |2-
+  time_to_go(TimeOut={{_,_,_}, {_,_,_}}) ->
+    Now = calendar:local_time(),
+    ToGo = calendar:datetime_to_gregorian_seconds(TimeOut) -
+      calendar:datetime_to_gregorian_seconds(Now),
+    ...

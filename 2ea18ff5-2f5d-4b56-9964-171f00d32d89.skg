@@ -1,0 +1,6 @@
+title: 'Some good questions to ask:'
+pid: 2ea18ff5-2f5d-4b56-9964-171f00d32d89
+body: |2-
+  "what happens if two people do the same actions very fast?
+  What if they chain two events quickly?
+  What to do with messages not handled when changing states?

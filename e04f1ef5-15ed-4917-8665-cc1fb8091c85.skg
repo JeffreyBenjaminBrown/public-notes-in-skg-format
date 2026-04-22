@@ -1,0 +1,4 @@
+title: list all paths under path in archive
+pid: e04f1ef5-15ed-4917-8665-cc1fb8091c85
+body: |2-
+  borg list /path/to/borg/repo::archive-name /path/in/archive

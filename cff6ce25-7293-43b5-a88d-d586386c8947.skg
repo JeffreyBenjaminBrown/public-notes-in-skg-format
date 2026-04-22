@@ -1,0 +1,9 @@
+title: parsing in Python
+pid: cff6ce25-7293-43b5-a88d-d586386c8947
+body: |2-
+  I like the look of these:
+    https://pypi.org/project/parsita/ -- my favorite, judging the docs
+    https://github.com/vlasovskikh/funcparserlib
+    https://pypi.org/project/parsy/
+  and at least the spirit behind
+    https://pypi.org/project/parsec/

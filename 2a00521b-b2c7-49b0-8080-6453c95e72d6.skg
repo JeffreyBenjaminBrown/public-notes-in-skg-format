@@ -1,0 +1,5 @@
+title: Pianoteq
+pid: 2a00521b-b2c7-49b0-8080-6453c95e72d6
+body: |2-
+  copy the .so file to /usr/lib/vst
+  copy the sedded lv2 folder to /usr/lib/lv2

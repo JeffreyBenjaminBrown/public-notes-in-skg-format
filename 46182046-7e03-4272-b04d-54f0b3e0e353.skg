@@ -1,0 +1,8 @@
+title: in brief
+pid: 46182046-7e03-4272-b04d-54f0b3e0e353
+body: |2-
+  Brick's "focus" selects among named Widgets.
+  Few things can be named: lists, editors, viewports and `cached`s.
+  In particular, a strWrap cannot be.
+
+  I could wrap the strWrap in a List, but that feels awkward.

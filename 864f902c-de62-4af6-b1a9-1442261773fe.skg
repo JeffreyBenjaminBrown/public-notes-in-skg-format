@@ -1,0 +1,5 @@
+title: the JI identity
+pid: 864f902c-de62-4af6-b1a9-1442261773fe
+body: |2-
+  ghci> (16/13) * (5/4) * (13/10)
+  2.0

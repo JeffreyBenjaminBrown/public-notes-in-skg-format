@@ -1,0 +1,13 @@
+title: code to generate the parenthetical portion of the map, and more
+pid: 7b59cfc4-47de-4db3-90b4-f03d35bb6238
+body: |2-
+  import Data.List as L
+  (edo,fifth) = (46,27)
+  fifths = take edo [0..]
+  edoSteps = map (flip mod edo . (*fifth)) fifths
+  paired = zip fifths edoSteps
+  mapM_ putStrLn $ map show $ L.sortOn snd paired
+  -- see where 7 fifths arrives
+  filter ((== 7) . fst) paired
+  -- see what notes are available within 7 fifths of the origin
+  L.sortOn snd $ ( filter ((<= 7) . fst) paired ++ filter ((>= (46-7)) . fst) paired )

@@ -1,0 +1,4 @@
+title: Initializing a map requires `make` and looks dumb.
+pid: 13b3941c-33b7-4498-b8a1-bed63bd25e12
+body: |2-
+  myMap := make ( map [key] value )

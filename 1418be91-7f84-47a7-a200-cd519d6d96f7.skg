@@ -1,0 +1,16 @@
+title: x 13\46
+pid: 1418be91-7f84-47a7-a200-cd519d6d96f7
+body: |2-
+  [ 46 steps; 2 % 1;  string -4; fret -6
+                      string  9  fret  2
+  , 15 steps; 5 % 4;  string -3; fret -3
+                      string 10; fret 5  -- yuck
+  , 0  steps; 1 % 1;  string 0;  fret 0
+  , 8  steps; 9 % 8;  string 1;  fret 0
+  , 21 steps; 11 % 8; string 1;  fret -1
+  , 42 steps; 15 % 8; string 2;  fret -2
+  , 37 steps; 7 % 4;  string 3;  fret -1
+  , 32 steps; 13 % 8; string 4;  fret 0
+  , 27 steps; 3 % 2;  string 5;  fret 1
+misc:
+- Had_ID_Before_Import

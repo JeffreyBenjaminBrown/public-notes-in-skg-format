@@ -1,0 +1,11 @@
+title: TODO how to determine the root of a chord.
+pid: 4fe45d56-4515-46cd-bca8-64c797644279
+body: |2-
+  [10:18 AM, 3/24/2026] Jeff B: It's usually the one that's at the bottom of a 3:2 relationship.
+  [10:19 AM, 3/24/2026] Jeff B: I'm unaware of any algorithm, but listeners tend to converge on the same opinion.
+  [10:19 AM, 3/24/2026] Sidney Cox: Cool so probably it means "look for the closest 3:2 relationship and choose the lower of that"
+  [10:19 AM, 3/24/2026] Sidney Cox: ?
+  [10:19 AM, 3/24/2026] Jeff B: Unless it's a symmetric-ish (augmented, diminished) chord, in which case there's no obvious root out of context.
+  [10:19 AM, 3/24/2026] Sidney Cox: oh wow cool that is super helpful at resolving outstanding confusion in my head
+  [10:20 AM, 3/24/2026] Sidney Cox: Maybe this essay could be a sequel to the Michael Rubenstein one (watching now)
+  [10:21 AM, 3/24/2026] Jeff B: Yes but it's tricky. Consider a maj 6 chord, in 12-edo [0,4,7,9]. There's a 3:2 relationship from 7 to 0, and another from 4 to 9 (modulo octaves). If you call the 9 the root then you instead get a min 7 chord: [0,3,7,10]. This is genuinely ambiguous. If there's a bass playing, it can determine the root -- if it plays the 9, that's the root. But if the bass plays the 4, who knows.

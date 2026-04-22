@@ -1,0 +1,7 @@
+title: Lumatone Editor, trying to package for Nix
+pid: 0dd241ad-4b3c-4f9c-b9a3-8a50296b2622
+contains:
+- e526d36d-fc71-4b82-99e0-d354d1bd1d1d
+- ea82824e-06e4-4b0d-a234-73abd7e19091
+misc:
+- Had_ID_Before_Import

@@ -1,0 +1,6 @@
+title: The term "merge" can be confusing, because
+pid: 4d2be2ed-788d-4332-88ac-fc7ba428b009
+body: |2-
+  in some contexts below,
+  the object of the "merge" is a pair of nodes,
+  while in others it is a pair of repos containing many nodes.

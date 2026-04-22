@@ -1,0 +1,9 @@
+title: to check the DNS status of a domain
+pid: 3db3ca39-943e-44d7-9fd4-924ba0d57af0
+body: |2-
+  i.e. when its name fails to resolve
+  https://discourse.nixos.org/t/cache-nixos-org-couldnt-connect-to-server-7-because-of-ipv6-from-dns/9921/4
+contains:
+- 9e66a943-4511-4ed3-8309-50f848e34f70
+- c10e9ebc-15d8-423e-ac55-b30d4c74cc39
+- e023a098-9569-4304-8a89-40d5d4e9f834

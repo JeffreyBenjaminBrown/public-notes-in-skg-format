@@ -1,0 +1,5 @@
+title: Sometimes the compiler can infer lifetimes.
+pid: 3c84112f-04c5-47f8-9aa3-adb7aa965734
+body: |2-
+  It uses "lifetime elision rules" for this.
+  These let the coder omit some lifetime annotations.

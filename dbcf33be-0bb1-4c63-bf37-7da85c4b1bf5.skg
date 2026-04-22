@@ -1,0 +1,16 @@
+title: first, define "homogeneous meter"
+pid: dbcf33be-0bb1-4c63-bf37-7da85c4b1bf5
+body: |2-
+  A homogeneous meter is two lists of integers > 1.
+  The first list [n1, n2 ...] should be interpreted as finite,
+  and indicates that time in that meter
+  is divided into n1 pieces, each of which is divided into n2 pieces, etc.
+  The second list determines how the smallest pieces are divided,
+  and should be interpreted as repeating.
+  It describes the finest level of coordinates.
+  In the simplest case it will be a simple number, probably usually [2].
+  That indicates that all of the smallest subdivisions are binary.
+  If it is instead [2,3], that indicates that the first subdivision
+  after the finite sequence of divisions is binary,
+  then there is a tertiary division, then 2 again, then 3 again,
+  repeating forever.

@@ -1,0 +1,4 @@
+title: 2 - add an appropriate line to pkgs/top-level/all-packages.nix
+pid: 55fad62f-8787-45a1-abf2-2d91bea4bf4a
+body: |2-
+  e.g. hello-test = callPackage ../development/libraries/hello-test { };

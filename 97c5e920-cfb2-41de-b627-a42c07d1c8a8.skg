@@ -1,0 +1,12 @@
+title: '5\34 x 2\34u: octave 8-3, fret height 4'
+pid: 97c5e920-cfb2-41de-b627-a42c07d1c8a8
+body: |2-
+  00 steps; 1  % 1; string 0; fret 0
+  06 steps; 9  % 8; string 2; fret -2
+  11 steps; 5  % 4; string 3; fret -2
+  16 steps; 11 % 8; string 4; fret -2
+  20 steps; 3  % 2; string 4; fret 0
+  24 steps; 13 % 8; string 6; fret -3
+  27 steps; 7  % 4; string 7; fret -4
+  31 steps; 15 % 8; string 7; fret -2
+  34 steps; 2  % 1; string 8; fret -3

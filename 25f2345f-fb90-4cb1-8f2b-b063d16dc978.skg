@@ -1,0 +1,7 @@
+title: find files and replace something in them
+pid: 25f2345f-fb90-4cb1-8f2b-b063d16dc978
+body: |2-
+  find .                                                \
+    \( -name "*.py" -o -name "*.md" -o -name "*.org" \) \
+    -print0 | xargs -0 sed -i                           \
+    "s/old_term/new_term/g"

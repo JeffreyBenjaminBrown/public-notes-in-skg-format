@@ -1,0 +1,4 @@
+title: Excursions
+pid: f940925b-eec1-47c3-bc73-cdb788ca6a98
+body: |2-
+  It is often useful to move point temporarily within a localized portion of the program. This is called an excursion, and it is done with the save-excursion special form. This construct remembers the initial identity of the current buffer, and its value of point, and restores them after the excursion completes. It is the standard way to move point within one part of a program and avoid affecting the rest of the program,

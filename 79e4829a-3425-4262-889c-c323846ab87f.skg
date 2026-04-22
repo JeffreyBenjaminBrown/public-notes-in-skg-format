@@ -1,0 +1,4 @@
+title: '{ok, NewState, hibernate}'
+pid: 79e4829a-3425-4262-889c-c323846ab87f
+body: |2-
+  puts the event manager itself into hibernation until the next event

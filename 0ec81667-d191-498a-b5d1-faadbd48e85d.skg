@@ -1,0 +1,10 @@
+title: 'PITFALL: trailing slash => unwrapped content'
+pid: 0ec81667-d191-498a-b5d1-faadbd48e85d
+body: |2-
+  If a source argument is a folder written with a trailing /,
+  rsync will dump its contents into the destination,
+  without wrapping them in a folder named like the source.
+  For the same argument without the trailing /,
+  rsync will create or populate a subfolder of the same name.
+misc:
+- Had_ID_Before_Import

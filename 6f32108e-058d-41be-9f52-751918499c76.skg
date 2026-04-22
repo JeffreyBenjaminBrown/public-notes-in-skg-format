@@ -1,0 +1,6 @@
+title: how to undo it
+pid: 6f32108e-058d-41be-9f52-751918499c76
+body: |2-
+  Do like above, but substitute `powersave` for `performance`.
+  There are other options too:
+  https://www.kernel.org/doc/Documentation/cpu-freq/governors.txt

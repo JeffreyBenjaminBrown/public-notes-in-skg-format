@@ -1,0 +1,5 @@
+title: whatever calls init/1 blocks until it returns
+pid: 86626d91-b98c-43c6-a85f-b9bcfe3b3c4a
+body: |2-
+  It is waiting for a `ready` message
+  from the `gen_server` module.

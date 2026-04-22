@@ -1,0 +1,9 @@
+title: '`R` toggles repeat, which is dangerous during recording.'
+pid: 4c1bef5c-e2be-4964-ac55-1c477f956a85
+body: |2-
+  This (might have other effects too, but it can)
+  will cause playback to return to the start when "the end" is reached,
+  and "the end" can appear surprisingly random --
+  like, a few seconds after the last time I've recorded to.
+misc:
+- Had_ID_Before_Import

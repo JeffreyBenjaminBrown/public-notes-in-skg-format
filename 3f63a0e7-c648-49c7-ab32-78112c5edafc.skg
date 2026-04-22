@@ -1,0 +1,5 @@
+title: of paste
+pid: 3f63a0e7-c648-49c7-ab32-78112c5edafc
+body: |2-
+  Restore the IDs of the copy in the kill-ring,
+  if it ever had one.

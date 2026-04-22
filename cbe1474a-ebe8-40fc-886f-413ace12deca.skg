@@ -1,0 +1,9 @@
+title: define any type - syntax always applicable
+pid: cbe1474a-ebe8-40fc-886f-413ace12deca
+body: |2-
+     define
+
+     <label> sub <parent type label>
+  [(, abstract)]
+  [(, owns <attribute type label> [@annotation])...]
+  [(, plays <relation type label>:<role>)...];

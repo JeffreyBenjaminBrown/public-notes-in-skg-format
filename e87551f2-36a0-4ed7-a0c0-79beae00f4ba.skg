@@ -1,0 +1,10 @@
+title: .schema refs -- empty for me?
+pid: e87551f2-36a0-4ed7-a0c0-79beae00f4ba
+body: |2-
+  CREATE TABLE refs (
+    node_id NOT NULL,
+    ref NOT NULL,
+    type NOT NULL,
+    FOREIGN KEY (node_id) REFERENCES nodes (id)
+      ON DELETE CASCADE);
+  CREATE INDEX refs_node_id ON refs (node_id );

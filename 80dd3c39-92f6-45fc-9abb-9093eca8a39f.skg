@@ -1,0 +1,5 @@
+title: from the perspective of a new node
+pid: 80dd3c39-92f6-45fc-9abb-9093eca8a39f
+body: |2-
+  it should show which of its contents are new,
+  and which were brought in.

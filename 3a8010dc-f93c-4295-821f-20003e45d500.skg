@@ -1,0 +1,4 @@
+title: 'help mode: make the submode menu optional'
+pid: 3a8010dc-f93c-4295-821f-20003e45d500
+body: |2-
+  If there's only one choice in that layer, hide it.

@@ -1,0 +1,12 @@
+title: demo code
+pid: dab23502-f039-4eee-ab5f-e293c0d00376
+body: |2-
+  import requests
+  from   requests.adapters import HTTPAdapter
+  import python.constants as constants
+
+  s = requests.Session()
+  s.mount ( "", # This "prefix" argument could be a URL,
+                # but I don't see how to use it.
+            HTTPAdapter(max_retries=1 ) )
+  s.get( "https://www.buda.com/api/v2/markets/btc-cop/order_book" )

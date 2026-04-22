@@ -1,0 +1,4 @@
+title: Alt-solo will silence the soloed track's sends.
+pid: e25a9136-5d6e-4f35-a534-e8d2676f5e56
+body: |2-
+  The alternative is "solo in place", where sends are heard too.

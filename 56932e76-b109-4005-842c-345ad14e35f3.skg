@@ -1,0 +1,6 @@
+title: create a new association in Route53
+pid: 56932e76-b109-4005-842c-345ad14e35f3
+body: |2-
+  Go to that domain in Route53.
+  Choose Create Record.
+  The first three boxes are all I used, and I think I left at least one of them the way it was.

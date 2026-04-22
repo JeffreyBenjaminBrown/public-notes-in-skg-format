@@ -1,0 +1,4 @@
+title: '`M-j q` (query) shows a number in each pane'
+pid: c3be6317-5aaa-474d-bcdb-d111d602c280
+body: |2-
+  Press that number while it's visible to switch.

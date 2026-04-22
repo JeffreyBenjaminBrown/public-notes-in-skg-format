@@ -1,0 +1,9 @@
+title: using sequenceAOf to pull effects from deep to outside
+pid: 6dfdeb76-f9fa-4122-b8fb-a27209e7d4ed
+body: |2-
+  sequenceAOf :: Traversal s t (f a) a -> s -> f t
+
+  >>> sequenceAOf (both . traversed) ([Just "apples"], [Just "oranges"])
+  Just (["apples"],["oranges"])
+  >>> sequenceAOf (both . traversed) ([Just "apples"], [Nothing])
+  Nothing

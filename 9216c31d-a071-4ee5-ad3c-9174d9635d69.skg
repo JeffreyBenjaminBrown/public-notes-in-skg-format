@@ -1,0 +1,9 @@
+title: (at least some) Python functions are called from HTML without parens
+pid: 9216c31d-a071-4ee5-ad3c-9174d9635d69
+body: |2-
+  Example:
+
+  `question.choice_set.all` in the template (HTML)
+  is interpreted as the Python code `question.choice_set.all()`,
+  which returns an iterable of (Python) Choice objects
+   and is suitable for use in the {% for %} (HTML) tag.

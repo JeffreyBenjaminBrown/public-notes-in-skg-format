@@ -1,0 +1,4 @@
+title: assign to an array
+pid: ef24c1eb-0e05-4cbd-be90-5633b5ff1ea2
+body: |2-
+  a[0] = "Hello"

@@ -1,0 +1,8 @@
+title: Its first and potentially only arg specifies rows.
+pid: da3b37bf-552e-4a49-baf9-78109394e992
+body: |2-
+  It can be an index value.
+  It can be a list of index values.
+  It can be a boolean vector of the same length as the frame.
+contains:
+- 7c94bc4e-4a9b-4ec8-97c0-a0c5a2dcb3a5

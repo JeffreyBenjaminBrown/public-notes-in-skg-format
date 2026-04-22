@@ -1,0 +1,7 @@
+title: Installing wheel via the older pip.
+pid: 59647177-27ec-45b4-a9dd-460695b004e0
+body: |2-
+  Ran these commands:
+    apt install -y python-pip # not python3-pip, which is already installed
+    pip install wheel
+  It reports after the second that the wheel req is already satisfied.

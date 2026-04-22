@@ -1,0 +1,4 @@
+title: Find the site where the people assigned to it have the highest number of jobs per worker, and add the new worker.
+pid: a0cd6892-4a7a-470d-9035-adb735937c56
+body: |2-
+  Redivide the jobs so that they are as equal as possible among the workers assigned to that site.

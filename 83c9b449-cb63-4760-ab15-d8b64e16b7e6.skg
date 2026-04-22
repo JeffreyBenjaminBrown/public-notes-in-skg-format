@@ -1,0 +1,5 @@
+title: when fetching a document, check whether each node has a comment
+pid: 83c9b449-cb63-4760-ab15-d8b64e16b7e6
+body: |2-
+  and if so, display that as a first subnode,
+  called "comments by: [author]"

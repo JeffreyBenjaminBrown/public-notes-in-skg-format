@@ -1,0 +1,5 @@
+title: to reduce the display area used
+pid: f730da4e-6b85-43a1-9b50-145921ba3a7f
+body: |2-
+  e.g. simulate 14" on a 15" screen
+  https://unix.stackexchange.com/questions/622361/how-do-i-simulate-a-smaller-monitor-within-a-large-monitor

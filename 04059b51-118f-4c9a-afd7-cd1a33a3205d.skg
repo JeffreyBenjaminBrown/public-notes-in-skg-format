@@ -1,0 +1,5 @@
+title: folds v. lenses
+pid: 04059b51-118f-4c9a-afd7-cd1a33a3205d
+body: |2-
+  Lenses must focus ONE thing, Folds can focus MANY things
+  Lenses can get and set, Folds can only get.

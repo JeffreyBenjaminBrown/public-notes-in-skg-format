@@ -1,0 +1,16 @@
+title: Program.vb
+pid: 168fdf43-ca91-44f9-93b6-1187fe432bd4
+body: |2-
+  Imports System
+
+  Module Program
+      Sub Main(args As String())
+          Console.WriteLine("Hello World!")
+          Console.Write("Please enter your name: ")
+          Dim name = Console.ReadLine()
+          Dim currentDate = DateTime.Now
+          Console.WriteLine($"Hello, {name}, on {currentDate:d} at {currentDate:t}")
+          Console.Write("Press any key to continue...")
+          Console.ReadKey(True)
+      End Sub
+  End Module

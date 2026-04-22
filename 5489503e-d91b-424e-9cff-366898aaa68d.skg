@@ -1,0 +1,9 @@
+title: <project-root>/<site-name>/settings.py
+pid: 5489503e-d91b-424e-9cff-366898aaa68d
+body: |2-
+  uses SQLite by default.
+contains:
+- 07e9e14d-c564-4af3-a987-369de1da8d1c
+- f9857f94-5741-40f7-8f5e-f936146bd498
+- 19ab0c0c-5bea-48e4-8e35-9a84ddd50f8f
+- 7abf898c-27a0-4d1c-8df0-66bbc2b3a058

@@ -1,0 +1,4 @@
+title: Interestingly, ID is not a property here.
+pid: b7637fe3-478c-4893-ac88-6f6ccdd5216c
+body: |2-
+  The nodes table must link into it, not vice-versa.

@@ -1,0 +1,16 @@
+title: example 1
+pid: e8284b99-3d06-44e4-bdcd-dc2cc57a8a49
+body: |2-
+    * humanity
+    ** R2 it as this
+    *** fallen
+    *** R1 about it
+    **** Nodes like this are about the as-relationship
+         from orange to color
+    **** this one is like that one
+         the other generations in this example aren't
+    **** To be extra sure this example is understood,
+         the node titled "R1 about it" is about
+         the node titled "R2 it as this",
+         that is, is about "as" relationship
+         from humanity to fallen.

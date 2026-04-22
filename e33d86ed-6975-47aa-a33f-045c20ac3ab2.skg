@@ -1,0 +1,6 @@
+title: How to number lines in a rectangle.
+pid: e33d86ed-6975-47aa-a33f-045c20ac3ab2
+body: |2-
+  http://emacsworld.blogspot.com/2012/06/numbering-lines-and-lists-in-emacs.html
+  .   "C-x r N" starts the line at 1.
+  "C-u C-x r N" prompts for a starting value and format.

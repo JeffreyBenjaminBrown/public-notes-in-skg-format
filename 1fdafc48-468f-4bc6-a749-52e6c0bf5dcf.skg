@@ -1,0 +1,6 @@
+title: 'PITFALL: For stereo operations, look for the term "channel".'
+pid: 1fdafc48-468f-4bc6-a749-52e6c0bf5dcf
+body: |2-
+  e.g. manual section "Item Channel Mode and Channel Mapping"
+misc:
+- Had_ID_Before_Import

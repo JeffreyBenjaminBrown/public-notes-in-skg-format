@@ -1,0 +1,9 @@
+title: how to discover the Node name
+pid: 807a2089-b427-42d4-812b-55a96a908900
+body: |2-
+  In general I'm not sure,
+  but at least when running locally,
+  I can start a repl with `erl -sname bob`
+  and then I'd get this for a prompt:
+    (bob@jbb-dell)1>
+  which tells me my Node is called `jbb-dell`.

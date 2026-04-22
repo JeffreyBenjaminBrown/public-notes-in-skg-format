@@ -1,0 +1,2 @@
+title: A proof or derivation of a WFF α in an axiomatic system S is a sequence of WFFs of which the last is α itself and each WFF in the sequence is either an axiom of S or is derived from some axiom(s) or some already-derived theorem(s) or both by one of the transformation rules of S. A WFF is a theorem of S if and only if there is a proof of it in S.
+pid: 8bc80b89-7662-4e83-9839-2eb8107961d2

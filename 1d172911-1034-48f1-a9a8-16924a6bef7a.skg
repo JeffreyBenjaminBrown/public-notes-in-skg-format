@@ -1,0 +1,4 @@
+title: source <filepath>
+pid: 1d172911-1034-48f1-a9a8-16924a6bef7a
+body: |2-
+  "Run TypeQL queries in a file, which we can refer to using relative or absolute path."

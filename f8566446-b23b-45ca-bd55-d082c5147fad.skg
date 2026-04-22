@@ -1,0 +1,6 @@
+title: 'Bad idea: "[author] would place _ distant from _ (in [view])"'
+pid: f8566446-b23b-45ca-bd55-d082c5147fad
+body: |2-
+  That binds the two _s as tightly as possible, one hop.
+contains:
+- 8d8b8315-d2f8-4594-a6d7-fa7f4ff65d7e

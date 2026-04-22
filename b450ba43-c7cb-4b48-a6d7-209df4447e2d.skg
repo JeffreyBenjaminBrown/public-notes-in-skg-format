@@ -1,0 +1,6 @@
+title: 'PITFALL: It depends strongly on an unrealistic assumption'
+pid: b450ba43-c7cb-4b48-a6d7-209df4447e2d
+body: |2-
+  that we get exactly one kmer starting at every position in T.
+  We can always build the De Bruijn graph, but in practice
+  it will never be Eulerian.

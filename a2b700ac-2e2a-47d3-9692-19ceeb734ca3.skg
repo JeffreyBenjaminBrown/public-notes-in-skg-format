@@ -1,0 +1,6 @@
+title: ASR envelope
+pid: a2b700ac-2e2a-47d3-9692-19ceeb734ca3
+body: |2-
+  attack / att  :: in seconds
+  hold          :: in seconds
+  release / rel :: in seconds

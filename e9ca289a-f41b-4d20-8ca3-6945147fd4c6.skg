@@ -1,0 +1,5 @@
+title: temp
+pid: e9ca289a-f41b-4d20-8ca3-6945147fd4c6
+body: |2-
+  Vitalium seems to work like a charm. So does exporting Pianoteq audio from recorded MIDI (which I imagine is not rendered in realtime).
+  The way I installed Pianoteq was very non-nix.

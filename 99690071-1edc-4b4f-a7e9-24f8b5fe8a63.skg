@@ -1,0 +1,8 @@
+title: '*Almost* has a chromatic (1\62) axis.'
+pid: 99690071-1edc-4b4f-a7e9-24f8b5fe8a63
+body: |2-
+  That axis is diagonal in the rectangular picture below,
+  but the "wrong diagonal".
+  When it's mapped to a hexagonal grid,
+  it maps in such a way that the keys on that axis
+  are not adjacent.

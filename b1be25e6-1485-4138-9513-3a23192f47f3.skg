@@ -1,0 +1,8 @@
+title: find the possible completions given a NixOS package prefix
+pid: b1be25e6-1485-4138-9513-3a23192f47f3
+body: |2-
+  Here the prefix is "emacsPackages":
+
+  $ nix repl '<nixpkgs>'
+  > :l <nixpkgs/nixos>
+  > emacsPackages.<TAB>

@@ -1,0 +1,19 @@
+title: 'next error: "file exists"'
+pid: 319bb06b-0ad7-49ba-89d2-cd57ddfc32f5
+body: |2-
+      Nonplussed, I opened another Emacs instance and ran the wizard again. This time I got
+
+  ```
+  Debugger entered--Lisp error: (file-already-exists "File exists" "/home/jeff/org-roam.bak")
+    make-directory-internal("/home/jeff/org-roam.bak")
+    make-directory("/home/jeff/org-roam.bak" nil)
+    copy-directory("/home/jeff/org-roam" "/home/jeff/org-roam.bak")
+    org-roam-migrate-wizard()
+    funcall-interactively(org-roam-migrate-wizard)
+    call-interactively(org-roam-migrate-wizard record nil)
+    command-execute(org-roam-migrate-wizard record)
+    execute-extended-command(nil "org-roam-migrate-wizard" "or-wiz")
+    funcall-interactively(execute-extended-command nil "org-roam-migrate-wizard" "or-wiz")
+    call-interactively(execute-extended-command nil nil)
+    command-execute(execute-extended-command)
+  ```

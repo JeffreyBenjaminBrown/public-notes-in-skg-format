@@ -1,0 +1,17 @@
+title: TODO intervals on a 19\87-isomorphically tuned 43.5-edo guitar
+pid: 5fd024a2-68ff-4c04-91af-ae02a4caa750
+body: |2-
+  Max reach: 8 frets
+  (\*19) <$> [0..5] = [0,19,38,57,76,95]
+
+  28\87 = 5 % 4  = 2 strings - 5 frets
+  40\87 = 11 % 8 = 2 strings + 1 frets
+  51\87 = 3 % 2  = 3 strings - 3 frets
+  61\87 = 13 % 8 = 3 strings + 2 frets
+  70\87 = 7 % 4  = 4 strings - 3 frets
+  87\87 = 2 % 1  = 5 strings - 4 frets
+
+  16/15 = 8  \ 87 =             4 frets
+  8/7   = 17 \ 87 = 1 string  - 1 fret
+  7/6   = 19 \ 87 = 1 string
+  6/5   = 23 \ 87 = 1 string  + 2 frets

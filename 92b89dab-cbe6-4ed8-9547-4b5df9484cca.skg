@@ -1,0 +1,5 @@
+title: 'PITFALL: csvlib writes Windows-style line terminators'
+pid: 92b89dab-cbe6-4ed8-9547-4b5df9484cca
+body: |2-
+  maybe always by default?
+  [[id:214c56b0-03f1-4709-9bc9-2ec6f742fa16][how to avoid that]]

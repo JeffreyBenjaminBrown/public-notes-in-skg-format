@@ -1,0 +1,7 @@
+title: worked for me on Ubuntu
+pid: b972c398-5700-4b11-be8d-f95aaf4fd9b0
+body: |2-
+       sudo growpart /dev/xvda 1
+  # grow partition 1 of xvda
+       sudo xfs_growfs -d /
+  # grow the / folder, because that's where xvda is mounted to

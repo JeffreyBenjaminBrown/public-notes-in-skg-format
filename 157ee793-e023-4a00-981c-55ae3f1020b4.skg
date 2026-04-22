@@ -1,0 +1,5 @@
+title: Always append at the end, and order from the top.
+pid: 157ee793-e023-4a00-981c-55ae3f1020b4
+body: |2-
+  And mark the last node to be ordered.
+  More generally, keep a list of line unmbers when nodes were visited in each file. A frequent enough git commit history would have this property.

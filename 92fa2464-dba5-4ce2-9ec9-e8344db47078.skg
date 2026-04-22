@@ -1,0 +1,6 @@
+title: 10-tone scale with P4 and P5
+pid: 92fa2464-dba5-4ce2-9ec9-e8344db47078
+body: |2-
+  notes             P4    P5
+  pitch - 0 6 12 18 24 29 34 40 46 52
+  diff  -  6 6  6  6  5  5  6  6  6

@@ -1,0 +1,6 @@
+title: (.) can separate events like [] does.
+pid: 674b41c3-f5ce-4724-a26d-7c7ac6d4233d
+body: |2-
+  These are equivalent:
+  "x . y z  . a b c"
+  "x  [y z]  [a b c]"

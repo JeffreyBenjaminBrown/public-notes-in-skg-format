@@ -1,0 +1,4 @@
+title: 'I think that encoding is specified in the header, thus:'
+pid: d6300ba1-fdd5-41d1-b14e-db6ac72b265f
+body: |2-
+  Content-Type: application/x-www-form-urlencoded

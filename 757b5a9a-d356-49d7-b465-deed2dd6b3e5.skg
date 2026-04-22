@@ -1,0 +1,4 @@
+title: parsing natural language content
+pid: 757b5a9a-d356-49d7-b465-deed2dd6b3e5
+body: |2-
+  The ordinary text ingested by Shyg will need to be transformed into hypergraph data -- a parsing problem. Fortunately, there are several high-quality, open-source tools for parsing natural language into syntax trees in a context-aware manner. (Context matters because, for instance, so much writing uses pronouns and the passive voice.) The SpaCy library for Python is probably the most well-known such tool, but there are many, including some recent ones that use transformers.

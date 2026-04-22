@@ -1,0 +1,4 @@
+title: '"async" = "can be paused, resumed".'
+pid: c8b731e1-5cdd-4b16-8238-0df404b2a648
+body: |2-
+  can apply to blocks and functions

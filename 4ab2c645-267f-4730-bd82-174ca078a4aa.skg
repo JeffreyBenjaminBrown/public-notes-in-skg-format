@@ -1,0 +1,12 @@
+title: an "application" that imports both
+pid: 4ab2c645-267f-4730-bd82-174ca078a4aa
+body: |2-
+  #+BEGIN_SRC haskell
+  module Application where
+
+  import Domain
+  import Implementation -- which in turn imports Foreign
+
+  applicationBar :: OurOwnFoo -> WhatBarReturns
+  applicationBar = ourOwnBar ourOwnBarImplementation
+  #+END_SRC

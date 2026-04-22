@@ -1,0 +1,12 @@
+title: my procedure
+pid: 6b58d4d4-81e4-4a04-8858-3f463e80aab2
+body: |2-
+  Open Preferences (Ctrl-P),
+  and go to Plugins.
+  Each "path" (to VST, to LV2, etc.) is a semicolon-separated list of paths.
+  Many or all of them should be, or should at least include, the paths in the corresponding Bash variable, as in
+  #+BEGIN_SRC bash
+  [jeff@jbb-hp24-oled:~]$ echo $LV2_PATH
+  /home/jeff/.nix-profile/lib/lv2:/run/current-system/sw/lib/lv2:/etc/profiles/per-user/jeff/lib/lv2:/home/jeff/.lv2
+  #+END_SRC
+  Then I should click "rescan plugins".

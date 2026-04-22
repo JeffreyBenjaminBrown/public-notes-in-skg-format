@@ -1,0 +1,4 @@
+title: the first type argument of Getting is sometimes ignorable
+pid: 4b33019b-fca9-46de-964a-8a5952d8125d
+body: |2-
+  when I see a `Getting (Some Crazy Type) s a` I know I can substitute nearly any optic into that slot, including a `Fold s a` or a `Lens' s a`.

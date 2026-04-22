@@ -1,0 +1,19 @@
+title: triads in 12-edo
+pid: eb9abf66-84e7-4f1c-9540-ee2a0bb36ad6
+body: |2-
+  Let the 12 transpositional symmetries be labeled +0, +1, +2 ... +11
+  |orbits| = (1/12) * sum of
+    [ +0 = identity -> 12 choose 3 = 220
+    , +1            -> 0
+    , +2            -> 0
+    , +3            -> 0
+    , +4            -> 4 (there are 4 augmented chords, which are the only ones fixed under the transformation +4)
+    , +5            -> 0
+    , +6            -> 0
+    , +7            -> 0
+    , +8            -> 4 (the augmented chords again)
+    , +9            -> 0
+    , +10           -> 0
+    , +11           -> 0 ]
+    = 228 / 12
+    = 19

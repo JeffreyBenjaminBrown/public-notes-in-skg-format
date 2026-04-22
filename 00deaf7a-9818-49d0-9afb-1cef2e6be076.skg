@@ -1,0 +1,5 @@
+title: The problem
+pid: 00deaf7a-9818-49d0-9afb-1cef2e6be076
+body: |2-
+  causes that strand to get "out of sync" with the others.
+  It will one position ahead of schedule if it received only one non-terminated base.

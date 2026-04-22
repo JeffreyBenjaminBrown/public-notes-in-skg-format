@@ -1,0 +1,15 @@
+title: from /mnt
+pid: 2fa1eff5-50ce-48f1-914b-b134add64ceb
+body: |2-
+  jeff@127:/mnt$ pwd
+  /mnt
+  jeff@127:/mnt$ ls
+  apache2  commands  django  paths  system_specific  tax_co
+  jeff@127:/mnt$ python3 django/manage.py shell
+  Python 3.9.2 (default, Feb 28 2021, 17:03:44)
+  Type 'copyright', 'credits' or 'license' for more information
+  IPython 8.13.2 -- An enhanced Interactive Python. Type '?' for help.
+
+  In [1]: import run_make.views.lib as vl
+
+  In [2]:

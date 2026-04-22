@@ -1,0 +1,4 @@
+title: if pip install does not work
+pid: 0b0f4fd8-e30d-45ba-a1a9-d7d94d245377
+body: |2-
+  it might be because [[id:34ea75fa-7f37-426c-87af-cfcf5fbfe5aa][`source` is not available by default]]

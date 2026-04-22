@@ -1,0 +1,5 @@
+title: rainbow zones
+pid: b6d6becc-093c-4e59-a523-7f7bf767e9d4
+body: |2-
+  Since 4 divides 84, a note at (string 0,fret 0) appears only on strings 0 and 4.
+  84 / 4 = 21, so (0,0) is duplicated at (0,21), i.e. the octave.

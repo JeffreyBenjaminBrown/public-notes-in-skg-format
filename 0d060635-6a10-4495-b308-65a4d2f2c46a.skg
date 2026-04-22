@@ -1,0 +1,4 @@
+title: '"These functions do not move point"'
+pid: 0d060635-6a10-4495-b308-65a4d2f2c46a
+body: |2-
+  "instead, they return a position" ... "between two characters with different properties"

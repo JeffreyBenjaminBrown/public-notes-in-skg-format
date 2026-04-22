@@ -1,0 +1,5 @@
+title: DONE I packaged it for NixOS and submitted it to nixpkgs.
+pid: 1b71e61a-7527-417b-85be-47a3dcdd2bde
+body: |2-
+  https://github.com/NixOS/nixpkgs/pull/142626
+  https://discourse.nixos.org/t/trying-to-install-sc3-plugins-but-in-nixos-i-dont-understand-packaging-or-c/15433

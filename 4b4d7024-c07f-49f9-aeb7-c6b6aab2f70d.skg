@@ -1,0 +1,5 @@
+title: 'PITFALL: Macro calls look like ordinary function calls.'
+pid: 4b4d7024-c07f-49f9-aeb7-c6b6aab2f70d
+body: |2-
+  The difference is just that they are defined with defmacro,
+  rather than defun.

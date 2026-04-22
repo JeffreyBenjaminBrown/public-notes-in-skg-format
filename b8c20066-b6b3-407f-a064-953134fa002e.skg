@@ -1,0 +1,9 @@
+title: synth timbres --
+pid: b8c20066-b6b3-407f-a064-953134fa002e
+body: |2-
+  relaxed & thick, hype & thick
+  aliens (FM)
+  relaxed & muted (LPF)
+  random vibrato (program it myself in SuperCollider,
+    using the preexisting terms vibrato and vrate,
+    which might be absent from Tidal but are in SuperDirt's B3)

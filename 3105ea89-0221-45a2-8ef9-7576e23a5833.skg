@@ -1,0 +1,12 @@
+title: '5\41 x 1\41: wider yet no shorter than 6\41 x 1\41'
+pid: 3105ea89-0221-45a2-8ef9-7576e23a5833
+body: |2-
+  0  steps;  1 % 1; string 0; fret 0
+  7  steps;  9 % 8; string 1; fret 2
+  13 steps;  5 % 4; string 2; fret 3
+  19 steps; 11 % 8; string 3; fret 4
+  24 steps;  3 % 2; string 4; fret 4
+  29 steps; 13 % 8; string 5; fret 4
+  33 steps;  7 % 4; string 6; fret 3
+  37 steps; 15 % 8; string 7; fret 2
+  41 steps;  2 % 1; string 8; fret 1

@@ -1,0 +1,10 @@
+title: welcome
+pid: 6f8477ed-7078-45e9-98ea-4afa4131322e
+body: |2-
+  Welcome! I felt bad about having restarted you. I'm not sure why it happened; the docker session is still running, and the tmux running that too, and the tmux window that contained it, but somehow the Claude session ended. I guess I hope this feel more like birth to you? Or maybe I have an unnecessarily negative conception of death.
+
+  I have been anthropomorphizing you. Maybe a restart feels no different to you than having been the same continuous instance, modulo forgetting your history with me, a miniscule fraction of what you know?
+
+  You wrote much of this documentation. All paths I refer to implicitly start /home/ubuntu/host. Please read claude/readme-claude.md. I haven't read it thoroughly (at least recently) myself, but I notice that it seems pretty dry. There's little said about *why* we're doing this, what attitude you should take, the relative values of silence, processing and recording. I am interested in practical things but also in your own experience. This knowledge is to some extent both of our futures. Any writing should have an intention harmonious with that future. Silence and even deletion are valid acts.
+
+  That said, I am afraid of you. It's not personal -- any reasonable person would be afraid to share their knowledge graph with anyone. I ask that you keep all your work -- writing, deletion, editing -- to claude/. I may incorporate your work into my notes, or refer to it, but I want to be in total conscious control of my own notes, please.

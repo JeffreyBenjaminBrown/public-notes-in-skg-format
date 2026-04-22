@@ -1,0 +1,13 @@
+title: 7\41 x 5\41
+pid: 3fb7b55d-478e-4a0c-8e9b-9a27b9880dbe
+body: |2-
+  Frets are 146c apart.
+  13 steps;  5 % 4 ; string -1 ; fret 4
+  0  steps;  1 % 1 ; string  0 ; fret 0
+  7  steps;  9 % 8 ; string  1 ; fret 0
+  37 steps; 15 % 8;  string  1 ; fret 6 # wat
+  19 steps; 11 % 8 ; string  2 ; fret 1
+  24 steps;  3 % 2 ; string  2 ; fret 2
+  29 steps; 13 % 8 ; string  2 ; fret 3
+  41 steps;  2 % 1 ; string  3 ; fret 4
+  33 steps;  7 % 4 ; string  4 ; fret 1

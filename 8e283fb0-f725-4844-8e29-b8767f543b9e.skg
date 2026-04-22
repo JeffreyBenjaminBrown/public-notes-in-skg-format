@@ -1,0 +1,14 @@
+title: 'TODO 10\58 x 7\58: octave (3,4), 13-lim 4x7, 15-lim 6x7, 140c frets'
+pid: 8e283fb0-f725-4844-8e29-b8767f543b9e
+body: |2-
+  Good for a uke, etc.
+  ( Edo 58 ; StringGap 10 ; FretGap 7
+   [  0 steps;  1 % 1 ; string 0 ; fret 0
+   , 58 steps;  2 % 1 ; string 3 ; fret 4
+   , 34 steps;  3 % 2 ; string 2 ; fret 2
+   , 19 steps;  5 % 4 ; string 4 ; fret - 3
+   , 47 steps;  7 % 4 ; string 4 ; fret 1
+   , 10 steps;  9 % 8 ; string 1 ; fret 0
+   , 27 steps; 11 % 8 ; string 2 ; fret 1
+   , 41 steps; 13 % 8 ; string 2 ; fret 3
+   , 53 steps; 15 % 8 ; string 6 ; fret - 1

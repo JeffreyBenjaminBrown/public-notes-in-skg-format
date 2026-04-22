@@ -1,0 +1,6 @@
+title: enable GCC5 packages
+pid: 8e62e6d4-5748-4b3c-857c-e95c2ffa7c7e
+body: |2-
+  sudo apt-get install -y libglibmm-2.4-1v5
+  wget https://launchpad.net/~kxstudio-debian/+archive/kxstudio/+files/kxstudio-repos-gcc5_9.5.1~kxstudio3_all.deb
+  sudo dpkg -i kxstudio-repos-gcc5_9.5.1~kxstudio3_all.deb

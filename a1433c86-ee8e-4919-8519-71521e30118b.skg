@@ -1,0 +1,8 @@
+title: clear variable definitions in the shell namespace.
+pid: a1433c86-ee8e-4919-8519-71521e30118b
+body: |2-
+  #delete #clean #undefine
+contains:
+- ad7bbd82-9d51-433c-ab7c-cb9b8db711f2
+- 4795de3c-6d1b-4d10-858f-b8a1327427c5
+- d1ffe59f-8a70-4064-909b-5fc56ae3c8e0

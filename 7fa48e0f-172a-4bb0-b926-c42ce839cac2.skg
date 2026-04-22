@@ -1,0 +1,4 @@
+title: b - persp-switch-to-buffer
+pid: 7fa48e0f-172a-4bb0-b926-c42ce839cac2
+body: |2-
+  Like switch-to-buffer; includes all buffers from all perspectives; changes perspective if necessary

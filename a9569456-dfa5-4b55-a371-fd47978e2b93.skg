@@ -1,0 +1,11 @@
+title: It arguably does not reach the 23rd harmonic.
+pid: a9569456-dfa5-4b55-a371-fd47978e2b93
+body: |2-
+  23 / 16 is indistinguishable from 13 / 9,
+  and much worse approximated,
+  though not terribly -- +6c error.
+  Since 13 / 9 is such a weird unfamiliar interval,
+  I'm not sure this should be a concern.
+  Or maybe the more important concer is
+  whether the 23rd harmonic deserves to be considered *ever*.
+  I suspect the answer is no: [[id:9cdeafc9-698c-43b1-b02c-88062ea298dc][harmonic 23 is not worth it.]]

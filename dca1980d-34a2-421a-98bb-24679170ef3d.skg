@@ -1,0 +1,6 @@
+title: search-forward string &optional limit noerror count
+pid: dca1980d-34a2-421a-98bb-24679170ef3d
+body: |2-
+  Moves point to end of string, and returns position.
+  If noerror is t, and the string is not found,
+  search-forward returns nil and does nothing.

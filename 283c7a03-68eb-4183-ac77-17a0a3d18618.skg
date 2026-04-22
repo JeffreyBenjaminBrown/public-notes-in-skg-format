@@ -1,0 +1,7 @@
+title: an example
+pid: 283c7a03-68eb-4183-ac77-17a0a3d18618
+body: |2-
+  match
+    $p isa person, has full-name "Bob";
+  delete
+    $p isa person;

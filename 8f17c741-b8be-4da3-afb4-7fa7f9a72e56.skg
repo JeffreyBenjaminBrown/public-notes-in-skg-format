@@ -1,0 +1,9 @@
+title: How to use this
+pid: 8f17c741-b8be-4da3-afb4-7fa7f9a72e56
+body: |2-
+  Copy the document into an empty doc for easy numbers,
+  such that 1 is the first character of that doc.
+  Each digit in that text represents the last of its position --
+  for instance the 0 is at position 10.
+  Try evaluating each of the commands below, individually,
+  in various orders, futzing with the numbers.

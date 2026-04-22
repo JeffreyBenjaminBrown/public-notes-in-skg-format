@@ -1,0 +1,5 @@
+title: sugared
+pid: e856b607-7185-4f84-8a0a-7758797acd7b
+body: |2-
+  vec : (n : Nat ** Vect n Int)
+  vec = (2 ** [3, 4])

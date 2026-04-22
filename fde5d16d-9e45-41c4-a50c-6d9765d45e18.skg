@@ -1,0 +1,11 @@
+title: Other options are unnecessary but maybe clearer.
+pid: fde5d16d-9e45-41c4-a50c-6d9765d45e18
+body: |2-
+  {keep_state, NewData, [[id:3541b431-e9f6-427f-9b6a-c282fc2dc440][TransitionActions]]}
+  {keep_state, NewData}
+  {keep_state_and_data, [[id:3541b431-e9f6-427f-9b6a-c282fc2dc440][TransitionActions]]}
+  keep_state_and_data
+  {repeat_state, NewData, [[id:3541b431-e9f6-427f-9b6a-c282fc2dc440][TransitionActions]]}
+  {repeat_state, NewData}
+  {repeat_state_and_data, [[id:3541b431-e9f6-427f-9b6a-c282fc2dc440][TransitionActions]]}
+  repeat_state_and_data

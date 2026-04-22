@@ -1,0 +1,4 @@
+title: run the tests from the shell
+pid: 0ffe9a0d-2a55-4643-ad3e-210fe1033ac5
+body: |2-
+  python manage.py test polls

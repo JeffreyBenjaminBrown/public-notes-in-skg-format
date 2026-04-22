@@ -1,0 +1,10 @@
+title: List all my Spark Moves with a power greater than 30
+pid: 36b847e2-6445-4ef5-8e2b-199deddc7c6b
+body: |2-
+  deck
+  ^.. folded
+  . filteredBy (aura . only Spark) -- `only Spark` is like `(== Spark)`
+  . moves
+  . folded
+  . filteredBy (movePower . filtered (>30))
+  . moveName

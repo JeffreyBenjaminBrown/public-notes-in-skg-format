@@ -1,0 +1,4 @@
+title: Use yasnippet to create BEGIN_SRC / END_SRC brackets.
+pid: 19d206a8-b4f5-4f64-928c-7f62e14560c1
+body: |2-
+  `C-c y` should do it.

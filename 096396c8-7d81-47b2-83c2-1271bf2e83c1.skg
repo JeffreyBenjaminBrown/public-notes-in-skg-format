@@ -1,0 +1,5 @@
+title: Erlang is strongly but dynamically typed.
+pid: 096396c8-7d81-47b2-83c2-1271bf2e83c1
+body: |2-
+  There are no implicit conversions.
+  Type errors are only caught at runtime.

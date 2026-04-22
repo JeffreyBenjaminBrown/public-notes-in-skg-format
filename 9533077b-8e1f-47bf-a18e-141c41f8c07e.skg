@@ -1,0 +1,4 @@
+title: 'TODO restore: there used to be a way to switch to the error buffer'
+pid: 9533077b-8e1f-47bf-a18e-141c41f8c07e
+body: |2-
+  It was `M-e` or `M-E`.

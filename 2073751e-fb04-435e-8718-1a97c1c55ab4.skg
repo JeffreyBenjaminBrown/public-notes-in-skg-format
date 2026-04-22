@@ -1,0 +1,6 @@
+title: make save-buffer more permissive
+pid: 2073751e-fb04-435e-8718-1a97c1c55ab4
+body: |2-
+  Children where they shouldn't belong should be handed to a node more containerward.
+  e.g. children of an alias.
+  rather than being ignored

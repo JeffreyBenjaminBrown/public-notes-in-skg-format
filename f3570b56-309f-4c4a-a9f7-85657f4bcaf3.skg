@@ -1,0 +1,5 @@
+title: code
+pid: f3570b56-309f-4c4a-a9f7-85657f4bcaf3
+body: |2-
+  with open('readme.txt', 'w') as f:
+    f.write('readme')

@@ -1,0 +1,10 @@
+title: Sometimes struct constructors can be omitted.
+pid: a87c8ee2-8cc4-4490-891c-69b78c0378df
+body: |2-
+  type Vertex struct {
+          Lat, Long float64
+  }
+  var m = map [string] Vertex {
+    "Bell Labs": {40.68433, -74.39967},
+    "Google":    {37.42202, -122.08408},
+  }

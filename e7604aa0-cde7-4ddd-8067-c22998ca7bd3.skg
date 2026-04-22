@@ -1,0 +1,14 @@
+title: 'TODO 80 7 11: beats 80 1 11 on a keyboard'
+pid: e7604aa0-cde7-4ddd-8067-c22998ca7bd3
+body: |2-
+  [ 80 steps = 2 % 1 : string 6 fret 2
+  , 47 steps = 3 % 2 : string 3 fret 2
+  , 26 steps = 5 % 4 : string 3 fret - 1
+  , 65 steps = 7 % 4 : string 4 fret 3
+  , 37 steps = 11 % 8 : string 4 fret - 1
+  , 56 steps = 13 % 8 : string 7 fret - 3
+  , 7 steps = 17 % 16 : string 0 fret 1
+  , 20 steps = 19 % 16 : string - 2 fret 6
+  , 42 steps = 23 % 16 : string 0 fret 6
+  , 69 steps = 29 % 16 : string 5 fret 2
+  , 76 steps = 31 % 16 : string 5 fret 3

@@ -1,0 +1,5 @@
+title: do NOT replace home with what I saved
+pid: 97b48d60-6eed-45de-9fc4-fd001b8982cf
+body: |2-
+  That will delete, among maybe other hidden files,
+  the .lcoal folder, which breaks the system.

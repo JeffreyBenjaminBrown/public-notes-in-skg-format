@@ -1,0 +1,6 @@
+title: Divide the pattern into k+1 partitions to match within a radius of k.
+pid: 25fd8121-326e-4fef-9e72-48a7add6fde3
+body: |2-
+  If P occurs in T with d or fewer edits,
+  then at least one of the partitions of P occurs with no edits.
+  If any of them matches, then the "verification" is just to check the other partitions adjacent. If they match with k or fewer edits, it's a match.

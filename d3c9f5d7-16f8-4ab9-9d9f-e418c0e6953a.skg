@@ -1,0 +1,10 @@
+title: command
+pid: d3c9f5d7-16f8-4ab9-9d9f-e418c0e6953a
+body: |2-
+  for f in $(cat list-of-repositories.txt); do
+    echo $f
+    cd $f
+    git branch
+    git log | head -n 3
+    echo ""
+  done

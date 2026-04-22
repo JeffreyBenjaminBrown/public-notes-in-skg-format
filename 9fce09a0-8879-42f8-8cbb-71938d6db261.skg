@@ -1,0 +1,10 @@
+title: Create the .mp3
+pid: 9fce09a0-8879-42f8-8cbb-71938d6db261
+body: |2-
+  ffmpeg -loop 1                          \
+      -i ipnut.png                        \
+      -i audio.mp3                        \
+      -c:v libx264                        \
+      -vf "pad=ceil(iw/2)*2:ceil(ih/2)*2" \
+      -shortest                           \
+      output.png.mp4

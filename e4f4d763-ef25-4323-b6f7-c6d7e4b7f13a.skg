@@ -1,0 +1,2 @@
+title: '`supervisor:start_link(Module,Args)` calls `Module:init(Args)`.'
+pid: e4f4d763-ef25-4323-b6f7-c6d7e4b7f13a

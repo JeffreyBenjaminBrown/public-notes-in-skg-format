@@ -1,0 +1,5 @@
+title: runtime deadlock detector
+pid: 8d0b57f3-a93e-4d9d-bbdf-2d072293645d
+body: |2-
+  I believe this is built-in and non-optional --
+  if everything is asleep, Go throws an error.

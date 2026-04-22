@@ -1,0 +1,5 @@
+title: 'We might also prefer to omit the type of the first element of the pair, since, again, it can be inferred:'
+pid: e3d17aad-b2fe-4e48-a751-553facf1050b
+body: |2-
+  vec : (n ** Vect n Int)
+  vec = (_ ** [3, 4])

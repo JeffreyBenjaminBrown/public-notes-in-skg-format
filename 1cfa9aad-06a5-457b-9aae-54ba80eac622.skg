@@ -1,0 +1,4 @@
+title: Less syntactic noise.
+pid: 1cfa9aad-06a5-457b-9aae-54ba80eac622
+body: |2-
+  Where Python would have you write "f(a,b)", Haskell just needs "f a b". Where Python wants "def f(x) = return x+1", Haskell just needs "f x = x + 1" -- or, even smaller, "f = (+ 1)". It looks like math. It's way easier to read. That might sound like a minor point, but if you want to do a lot of coding, minor efficiency gains add up to the ability to do things you would never try otherwise because it would take too much time. (This is, by the way, also why keyboard shortcuts are important.)

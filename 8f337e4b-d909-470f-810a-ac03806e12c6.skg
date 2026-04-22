@@ -1,0 +1,4 @@
+title: the blame
+pid: 8f337e4b-d909-470f-810a-ac03806e12c6
+body: |2-
+  It appears to be Conda's fault, not Docker's.

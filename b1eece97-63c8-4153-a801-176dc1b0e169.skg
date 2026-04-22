@@ -1,0 +1,6 @@
+title: prepare to SSH
+pid: b1eece97-63c8-4153-a801-176dc1b0e169
+body: |2-
+  The first time, will have to make and download a key pair,
+  ending in .pem.
+  I think it needs 400 permissions (rather than 644, the default).

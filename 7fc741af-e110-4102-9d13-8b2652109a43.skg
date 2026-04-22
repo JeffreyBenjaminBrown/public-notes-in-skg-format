@@ -1,0 +1,5 @@
+title: someone rec's
+pid: 7fc741af-e110-4102-9d13-8b2652109a43
+body: |2-
+  Sticking things in symbols' property lists with put (and later retrieving those values with get) can work nicely sometimes.
+  Maybe a hash map.

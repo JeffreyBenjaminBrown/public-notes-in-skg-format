@@ -1,0 +1,5 @@
+title: TODO extract my changes in git
+pid: f3e6c992-e276-4174-82ee-ff5f572ab295
+body: |2-
+  git log jbb --author="Jeffrey Benjamin Brown" -p
+  Keep them in a way that won't conflict with anyone else's edits.

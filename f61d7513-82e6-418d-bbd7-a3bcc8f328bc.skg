@@ -1,0 +1,5 @@
+title: indicate the sort applied to each view-fork
+pid: f61d7513-82e6-418d-bbd7-a3bcc8f328bc
+body: |2-
+  e.g. in parens, following the name of the fork
+  or with a typed-in command that shows it in the reassurance window.

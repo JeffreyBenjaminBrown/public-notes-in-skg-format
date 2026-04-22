@@ -1,0 +1,10 @@
+title: list all bootable configurations \ NixOS
+aliases:
+- BIOS, list all bootable configurations \ NixOS
+- bootable configurations, list all \ NixOS
+pid: a3bb6204-5faf-4c16-86b0-f882d330f285
+contains:
+- b8d2eeda-6dbe-41f8-909d-4cf0a197319a
+- d2cc12dd-f03b-462c-8c7e-99b8b884175f
+misc:
+- Had_ID_Before_Import

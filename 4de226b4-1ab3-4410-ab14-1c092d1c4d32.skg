@@ -1,0 +1,9 @@
+title: In Bash, write it to a file.
+pid: 4de226b4-1ab3-4410-ab14-1c092d1c4d32
+body: |2-
+  From the root of the TypeDB installation, run
+
+    ./typedb console --command="database schema db-name" \
+      > output-filename.schema
+misc:
+- Had_ID_Before_Import

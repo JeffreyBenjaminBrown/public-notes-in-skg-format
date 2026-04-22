@@ -1,0 +1,7 @@
+title: TODO a smarter way, incomplete
+pid: 212702c3-df7e-4958-a0c5-b9fe961b19d1
+body: |2-
+  See [[id:60aea897-9405-4de9-8f1d-273458113f7b][sed only in lines containing pattern]]
+  So in my case it would be
+    sed -i "/^\*\** / s/<\/sub>//g" filename.md
+    sed -i "/^\*\** / s/<sub>/_/g"  filename.md

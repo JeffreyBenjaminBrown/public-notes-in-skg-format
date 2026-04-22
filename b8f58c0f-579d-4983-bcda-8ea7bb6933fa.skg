@@ -1,0 +1,6 @@
+title: Use `aconnect` to connect the keyboard to the MIDI Through.
+pid: b8f58c0f-579d-4983-bcda-8ea7bb6933fa
+body: |2-
+  Example (continued):
+
+  aconnect 20:0 14:0

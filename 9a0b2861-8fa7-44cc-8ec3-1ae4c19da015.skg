@@ -1,0 +1,7 @@
+title: 's(tep): next or down'
+pid: 9a0b2861-8fa7-44cc-8ec3-1ae4c19da015
+body: |2-
+  "Traverse" the current line.
+  Stop at the first possible occasion:
+    either in a function that is called,
+    or on the next line in the current function.

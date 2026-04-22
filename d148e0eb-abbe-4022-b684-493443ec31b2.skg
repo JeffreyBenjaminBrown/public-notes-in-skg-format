@@ -1,0 +1,4 @@
+title: pick a base command
+pid: d148e0eb-abbe-4022-b684-493443ec31b2
+body: |2-
+  use "convert" to make a copy, "mogrify" to edit in-place

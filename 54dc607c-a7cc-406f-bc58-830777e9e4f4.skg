@@ -1,0 +1,7 @@
+title: solution
+pid: 54dc607c-a7cc-406f-bc58-830777e9e4f4
+body: |2-
+  Fetching it in context should therefore
+  keep a list of visited nodes,
+  and not recurse into content when they reappear,
+  reporting "duplicated with content elsewhere".

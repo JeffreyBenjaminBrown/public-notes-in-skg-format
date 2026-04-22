@@ -1,0 +1,4 @@
+title: make the font bigger
+pid: a3c5fc08-51d5-4773-9dd0-88f826f2cc96
+body: |2-
+  setfont /usr/share/consolefonts/ter-v32.psf.gz

@@ -1,0 +1,8 @@
+title: I don't see the patchPhase step doing anything. Did it?
+pid: 16924b77-7848-46d9-afb4-9e0f3cec797d
+body: |2-
+  ```
+  [nix-nshell:/tmp/delme-serialosc/serialosc]$ ${patchPhase:-patchPhase}
+
+  [nix-shell:/tmp/delme-serialosc/serialosc]$
+  ```

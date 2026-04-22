@@ -1,0 +1,4 @@
+title: don't clobber `p`
+pid: d23426b1-875f-48cc-8795-9c200ba75c6a
+body: |2-
+  p1 etc. are free names

@@ -1,0 +1,4 @@
+title: a — persp-add-buffer
+pid: cd83fc64-6969-4b4f-a0de-fcb9314bdd15
+body: |2-
+  Query an open buffer to add to current perspective

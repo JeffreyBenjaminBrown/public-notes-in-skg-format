@@ -1,0 +1,6 @@
+title: else if text is identical to some node in the graph
+pid: 510a7d85-5436-40e0-8613-357e53ab512d
+body: |2-
+  prompt asking whether to create a new note.
+  If not, this note is replaced with that one.
+  Otherwise, do as in the next clause.

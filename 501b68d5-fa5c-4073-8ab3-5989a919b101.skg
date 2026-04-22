@@ -1,0 +1,10 @@
+title: asked Lumatone Facebook if anyone has built it with Jucer 7
+pid: 501b68d5-fa5c-4073-8ab3-5989a919b101
+body: |2-
+  Hello dear Lumatone community,
+
+  I'm trying to package the Lumatone Editor[1] for NixOS, a flavor of Linux for which the existing packaging scripts don't work. I need to build it from scratch. I am therefore trying to run the .jucer file, but it appears to have been made for Jucer version 6. Version 7, the only one available for NixOS, is unable to parse the .jucer file.
+
+  Has anyone built it with Jucer version 7? I've had no luck. It looks like the changes from 6 to 7 imply needing not just to change Lumatone's source code, but to regenerate JuceHeader.h, which requires running CMake, and the repo includes no CMake configuration. I tried making one but I really don't get it.
+
+  [1] https://github.com/hsstraub/TerpstraSysEx.2014/blob/master/Scripts/install.sh

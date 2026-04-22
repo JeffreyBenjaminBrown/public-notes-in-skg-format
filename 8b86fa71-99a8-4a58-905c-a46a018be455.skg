@@ -1,0 +1,4 @@
+title: Expressions are only evaluated if they end in a dot and then whitespace.
+pid: 8b86fa71-99a8-4a58-905c-a46a018be455
+body: |2-
+  I guess the dot without whitespace can be a conjuction.

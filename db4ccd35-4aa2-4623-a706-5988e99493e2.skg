@@ -1,0 +1,8 @@
+title: 'PITFALL: I see two more type categories, Role and RootThing'
+pid: db4ccd35-4aa2-4623-a706-5988e99493e2
+body: |2-
+  ConceptMap { map: {"x": EntityType(EntityType { label: "entity", is_root: true, is_abstract: true })}, explainables: Explainables { relations: {}, attributes: {}, ownerships: {} } },
+  ConceptMap { map: {"x": RoleType(RoleType { label: ScopedLabel { scope: "relation", name: "role" }, is_root: true, is_abstract: true })}, explainables: Explainables { relations: {}, attributes: {}, ownerships: {} } },
+  ConceptMap { map: {"x": AttributeType(AttributeType { label: "text", is_root: false, is_abstract: false, value_type: String })}, explainables: Explainables { relations: {}, attributes: {}, ownerships: {} } },
+  ConceptMap { map: {"x": RootThingType(RootThingType)}, explainables: Explainables { relations: {}, attributes: {}, ownerships: {} } },
+  ConceptMap { map: {"x": RelationType(RelationType { label: "relation", is_root: true, is_abstract: true })}, explainables: Explainables { relations: {}, attributes: {}, ownerships: {} } },

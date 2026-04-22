@@ -1,0 +1,5 @@
+title: Always make ext4 amd swap partitions.
+pid: 93f4512b-955a-48a0-8d31-074a24e623c2
+body: |2-
+  sudo mkfs.ext4 -L nixos /dev/sda1
+  sudo mkswap -L swap /dev/sda2

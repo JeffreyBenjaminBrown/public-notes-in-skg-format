@@ -1,0 +1,7 @@
+title: import syntax
+pid: ec0ebb1b-0a75-485f-abb4-93a2c5accf7a
+body: |2-
+  import (
+    "fmt"                     // stdlib, can be imported unqualifed
+    "gonum.org/v1/gonum/mat"  // not stdlib, needs qualification
+  )

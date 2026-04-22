@@ -1,0 +1,12 @@
+title: If starting SC from the command line
+pid: fe1c8db8-b62f-4c01-a18e-969a7ad71190
+body: |2-
+  then specify where to fetch extensions with the -U option.
+  Here's what I'm doing lately:
+
+  export SC_JACK_DEFAULT_INPUTS="system"
+  export SC_JACK_DEFAULT_OUTPUTS="system"
+  scsynth -u 57110 \
+          -m 1000000 \
+          -U /home/jeff/.local/share/SuperCollider/Extensions/
+  # The -m option allocates (roughly?) 1GB of memory for it.

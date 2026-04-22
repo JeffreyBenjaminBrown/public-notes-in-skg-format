@@ -1,0 +1,5 @@
+title: Killing a function kills its subfunctions.
+pid: 9e0e4115-6b38-499a-8d1d-37a45d7e0123
+body: |2-
+  This includes functions it runs via `apply`,
+  but not functions it `spawns` -- the latter are separate processes.

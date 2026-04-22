@@ -1,0 +1,4 @@
+title: if Reason fits none of those patterns, logging happens
+pid: 27259d6f-d9e1-45c4-aaca-10675cff792f
+body: |2-
+  "If any reason other than normal, shutdown or {shutdown, Term} is used when terminate/2 is called, the OTP framework will see this as a failure and start logging a bunch of stuff here and there for you."

@@ -1,0 +1,4 @@
+title: text-property-not-all start end prop value
+pid: 106cf7f2-7adf-458d-b2fb-4ccf3eb2316f
+body: |2-
+  returns non-nil if at least one character between start and end does not have a property prop with value value

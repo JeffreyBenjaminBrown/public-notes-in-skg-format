@@ -1,0 +1,6 @@
+title: the 'client'
+pid: 8e6c8dcb-d2cd-44a8-99cd-c60967b60cc4
+body: |2-
+  is an app that permits a user to view and manipulate the graph.
+  So far the only client is written for Emacs,
+  but there could be others.

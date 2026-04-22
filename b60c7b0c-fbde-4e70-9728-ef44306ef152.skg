@@ -1,0 +1,4 @@
+title: linking to another local file in Github markdown
+pid: b60c7b0c-fbde-4e70-9728-ef44306ef152
+body: |2-
+  En [otro documento](./algoritmo.md) describo el algoritmo.

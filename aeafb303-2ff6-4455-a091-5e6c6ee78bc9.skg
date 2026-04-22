@@ -1,0 +1,5 @@
+title: I didn't understand the distinction between how lambdas and primitive functions take arugments.
+pid: aeafb303-2ff6-4455-a091-5e6c6ee78bc9
+body: |2-
+  "Unlike a lambda, a primitive function has a predetermined number of arguments (its arity) [lambdas have arity too, no? maybe it's always 1 because they always take a tuple, but for any lambda you can tell immediately how many arguments it needs] to which it needs to be applied before it will reduce to a term not containing a reference to the function; until then, arguments are curried."
+  Is the distinction merely that primitive functions can be partially applied while lambdas can't be?

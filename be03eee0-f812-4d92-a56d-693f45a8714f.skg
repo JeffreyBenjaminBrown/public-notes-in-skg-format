@@ -1,0 +1,8 @@
+title: set nice level for automatic NixOS rebuild
+pid: be03eee0-f812-4d92-a56d-693f45a8714f
+contains:
+- 1c5f6592-c0ed-473c-8fe4-0c35d0a6eddf
+- 5ac1001b-762b-4ed4-b5b7-cbd5da343b81
+- 4c6b8dec-c7e2-474d-9a1b-cfeb923b370c
+misc:
+- Had_ID_Before_Import

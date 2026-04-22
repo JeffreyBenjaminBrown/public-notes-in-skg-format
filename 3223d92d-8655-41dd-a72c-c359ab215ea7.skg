@@ -1,0 +1,7 @@
+title: shortcuts
+pid: 3223d92d-8655-41dd-a72c-c359ab215ea7
+body: |2-
+  left/right   : Move time  cursor by a grid division.
+  S-left/right : Move time  cursor by a pixel.
+  S-up/down    : Move pitch cursor by a semitone.
+  M-S-up/down  : Move pitch cursor by an octave.

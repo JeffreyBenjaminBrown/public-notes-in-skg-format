@@ -1,0 +1,5 @@
+title: defining object literals
+pid: 6d0eec13-b71e-4e87-b170-d882f7256d05
+body: |2-
+  let o: { n: number; xs: object[] }
+       = { n: 1,      xs: [] };

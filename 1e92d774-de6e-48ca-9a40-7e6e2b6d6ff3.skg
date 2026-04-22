@@ -1,0 +1,4 @@
+title: the Django ModelForm class
+pid: 1e92d774-de6e-48ca-9a40-7e6e2b6d6ff3
+body: |2-
+  maps a model class’s fields to HTML form <input> elements via a Form class.

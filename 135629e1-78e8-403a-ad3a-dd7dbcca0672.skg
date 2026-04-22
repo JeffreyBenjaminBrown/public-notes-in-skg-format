@@ -1,0 +1,4 @@
+title: maybe form DAGs on the relations
+pid: 135629e1-78e8-403a-ad3a-dd7dbcca0672
+body: |2-
+  Eventually, relations could themselves form DAGs, e.g. via specialization ("is a kind of"). (Specialization might more specifically form a tree.)

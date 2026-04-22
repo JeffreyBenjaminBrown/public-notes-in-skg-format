@@ -1,0 +1,6 @@
+title: how it desugars
+pid: ed7567c3-2116-4e3d-b03e-406304b55504
+body: |2-
+  If y is a weird boxy type implementing deref,
+  then *y desugars to *(deref(y)),
+  where the second * is the ordinary deref op for ordinary refs.

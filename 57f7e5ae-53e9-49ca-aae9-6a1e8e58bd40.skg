@@ -1,0 +1,4 @@
+title: the filter
+pid: 57f7e5ae-53e9-49ca-aae9-6a1e8e58bd40
+body: |2-
+  I want a container A with a link to B to have an optional filter onto B's content, such that what passes the filter shows as B's content.

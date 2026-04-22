@@ -1,0 +1,6 @@
+title: generate-new-buffer
+pid: 5c5c7434-6504-4336-aba5-1df2779c5f95
+body: |2-
+  creates a new buffer and gives it a unique name.
+misc:
+- Had_ID_Before_Import

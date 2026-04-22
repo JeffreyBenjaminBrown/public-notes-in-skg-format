@@ -1,0 +1,17 @@
+title: 'scope, lifetimes and dangling pointers : an error'
+pid: ed5db272-e8a4-4367-9510-f6cf1e2d6c49
+body: |2-
+  #+begin_src rust
+  fn main() {
+      let r;
+      {
+          let x = 5;
+          r = &x; // Since there's no `let` on this line,
+                  // this refers to the same `r` as earlier.
+      } // x is now out of scope,
+        // so r is a dangling pointer.
+      println!("r: {r}");
+  }
+  #+end_src
+misc:
+- Had_ID_Before_Import

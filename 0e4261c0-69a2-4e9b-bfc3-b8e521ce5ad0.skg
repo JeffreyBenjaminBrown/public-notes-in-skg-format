@@ -1,0 +1,5 @@
+title: '`M-j z` (zoom) expands a pane to full screen.'
+pid: 0e4261c0-69a2-4e9b-bfc3-b8e521ce5ad0
+body: |2-
+  PITFALL: This is confusing, as it's easy to forget
+  that there are other panes in the same window.

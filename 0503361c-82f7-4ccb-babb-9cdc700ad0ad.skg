@@ -1,0 +1,10 @@
+title: Implicitly bound names are "erased" (i.e. erased at runtime).
+pid: 0503361c-82f7-4ccb-babb-9cdc700ad0ad
+body: |2-
+  so, e.g. these are equivalent:
+
+  ignoreN :              (0 n : Nat) -> Vect n a -> Nat
+  ignoreN : {0 a : _} -> (0 n : Nat) -> Vect n a -> Nat
+
+  duplicate : {0 a : _} -> (1 x : a) -> (a, a)
+  duplicate :              (1 x : a) -> (a, a)

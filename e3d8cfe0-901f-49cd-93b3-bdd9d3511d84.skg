@@ -1,0 +1,4 @@
+title: 'tab and "backtab" : jump across columns'
+pid: e3d8cfe0-901f-49cd-93b3-bdd9d3511d84
+body: |2-
+  backtab = shift-tab on, at least, windows

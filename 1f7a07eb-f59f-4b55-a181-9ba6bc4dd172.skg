@@ -1,0 +1,4 @@
+title: syntax
+pid: 1f7a07eb-f59f-4b55-a181-9ba6bc4dd172
+body: |2-
+  SELECT max(age) FROM drivers_license;

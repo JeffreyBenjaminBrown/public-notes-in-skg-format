@@ -1,0 +1,6 @@
+title: git problems
+pid: a4870b75-82f3-4a75-bd4c-c6659d2e4557
+body: |2-
+  Sometimes repos need to be re-cloned or chmodded.
+    Maybe this is because I borg-extracted as root?
+    But strangely, the hode repo did not need this.

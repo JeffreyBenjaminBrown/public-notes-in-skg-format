@@ -1,0 +1,7 @@
+title: definition
+pid: 3f2f6e14-3818-444b-ab19-4853891b6927
+body: |2-
+  pub type Result(value, reason) {
+    Ok(value)
+    Error(reason)
+  }

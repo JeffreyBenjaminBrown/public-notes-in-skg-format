@@ -1,0 +1,5 @@
+title: Row T = Map RowKey T
+pid: db3a2fb8-6335-4b32-b91b-ccc82c7492ac
+body: |2-
+  where Row might be a monome row, a piano octave, etc.
+  and T is ?free

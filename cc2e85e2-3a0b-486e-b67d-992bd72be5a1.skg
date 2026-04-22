@@ -1,0 +1,4 @@
+title: 'unsafePartsOf :: Traversal s t a b -> Lens s t [a] [b]'
+pid: cc2e85e2-3a0b-486e-b67d-992bd72be5a1
+body: |2-
+  crashes if given too few elements in the [b]

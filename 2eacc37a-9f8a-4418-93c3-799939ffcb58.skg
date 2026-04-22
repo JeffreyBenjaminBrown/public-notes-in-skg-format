@@ -1,0 +1,11 @@
+title: to build or run something other than main
+pid: 2eacc37a-9f8a-4418-93c3-799939ffcb58
+body: |2-
+    cargo {run, build} --bin executable-name
+    where executable-name is defined in a bin passage,
+    for instance
+  #+BEGIN_SRC toml
+  [[bin]] # more bin sections can be added
+  name = "not-main"
+  path = "not-main.rs"
+  #+END_SRC

@@ -1,0 +1,4 @@
+title: Mocking a function is the most obvious.
+pid: 3c722765-b264-424a-8669-bf696dcebc3c
+body: |2-
+  Use the @mock.patch decorator.

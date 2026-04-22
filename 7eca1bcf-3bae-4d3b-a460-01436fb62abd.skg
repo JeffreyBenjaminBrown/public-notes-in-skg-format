@@ -1,0 +1,4 @@
+title: They incur no overhead beyond using the heap.
+pid: 7eca1bcf-3bae-4d3b-a460-01436fb62abd
+body: |2-
+  which, recall, is slower than the stack

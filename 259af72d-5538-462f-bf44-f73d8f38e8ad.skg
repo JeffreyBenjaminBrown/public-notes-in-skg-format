@@ -1,0 +1,6 @@
+title: voice     = 0.5,  -- phase shift rate
+pid: 259af72d-5538-462f-bf44-f73d8f38e8ad
+body: |2-
+  Around 0.1 sounds like a tame cat.
+  Values around 1 exaggerate the pitch difference in the two signals.
+  Around 10 and above sounds like FM.

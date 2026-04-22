@@ -1,0 +1,7 @@
+title: Sioyek (PDF viewer)
+pid: 90466cf1-acba-4f48-86b1-8c197250231c
+body: |2-
+  Among other things, has something like Emacs's mark stack.
+  https://github.com/ahrm/sioyek#features
+misc:
+- Had_ID_Before_Import

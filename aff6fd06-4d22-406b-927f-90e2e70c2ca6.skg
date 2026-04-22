@@ -1,0 +1,4 @@
+title: code to show modes
+pid: aff6fd06-4d22-406b-927f-90e2e70c2ca6
+body: |2-
+  myPrint $ [mode 46 [0,6,12,21,27,33,39] i | i <- [0..6]]

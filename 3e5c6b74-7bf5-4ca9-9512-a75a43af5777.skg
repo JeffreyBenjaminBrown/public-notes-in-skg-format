@@ -1,0 +1,4 @@
+title: check CPU throttling state for each core
+pid: 3e5c6b74-7bf5-4ca9-9512-a75a43af5777
+body: |2-
+  (It can be done. I forget how.)

@@ -1,0 +1,5 @@
+title: index of maximum|minimum value in series
+pid: 5d66f561-c599-4ce9-95c9-793e89ae3d7d
+body: |2-
+  df["column name"] . idxmax ()
+  notice the "x" in "idxmax"

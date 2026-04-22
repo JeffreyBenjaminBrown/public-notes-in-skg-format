@@ -1,0 +1,4 @@
+title: lib
+pid: 670189a6-7728-4cf4-8b73-1df552bb7912
+body: |2-
+  a library OTP application (without supervision trees), useful for grouping together various modules, as a single application project

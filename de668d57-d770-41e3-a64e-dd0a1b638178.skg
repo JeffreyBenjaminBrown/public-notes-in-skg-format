@@ -1,0 +1,5 @@
+title: Will an iterator outlive the transaction that made it?
+pid: de668d57-d770-41e3-a64e-dd0a1b638178
+body: |2-
+  If not, and I'll need its contents,
+  dump it into a list before closing the transaction.

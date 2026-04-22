@@ -1,0 +1,4 @@
+title: if using BIOS
+pid: 4388a764-b92f-4a14-9a53-b5ade9dcde09
+body: |2-
+  In the configuration, set `boot.loader.grub.device`.

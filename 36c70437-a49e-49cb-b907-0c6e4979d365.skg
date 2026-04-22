@@ -1,0 +1,6 @@
+title: Generate double-sharps
+pid: 36c70437-a49e-49cb-b907-0c6e4979d365
+body: |2-
+  similar to generating sharps,
+  but 10 rather than 5,
+  and ## rather than #.

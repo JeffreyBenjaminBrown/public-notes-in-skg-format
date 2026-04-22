@@ -1,0 +1,4 @@
+title: '`run n` gives n events, from 0 to n-1'
+pid: 91aa669c-a9ca-435e-a5d4-364afc028baf
+body: |2-
+  d1 $ s "[[bd sn]/2, arpy*2%3]*8" |*| speed (run 8 + 1/2)

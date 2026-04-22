@@ -1,0 +1,4 @@
+title: 'PITFALL: import statements do not extend all the way to default.nix'
+pid: 778f7452-66fc-4265-b2e7-3d97273a8787
+body: |2-
+  but rather to its superdirectory

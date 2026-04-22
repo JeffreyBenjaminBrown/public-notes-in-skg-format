@@ -1,0 +1,21 @@
+title: TODO 55 4 11, area 6x4 frets in the 29-limit sans 17, octave (5,0)
+pid: 98e1458d-90ad-4d89-990d-b87aed87dd58
+body: |2-
+  55/4 = 13.75 frets per octave
+  0  steps; 1  % 1 ;  string 0 ; fret 0
+  55 steps; 2  % 1 ;  string 5 ; fret 0
+  32 steps; 3  % 2 ;  string 4 ; fret - 3
+  18 steps; 5  % 4 ;  string 2 ; fret - 1
+  44 steps; 7  % 4 ;  string 4 ; fret 0
+  9  steps; 9  % 8 ;  string 3 ; fret - 6
+  25 steps; 11 % 8 ;  string 3 ; fret - 2
+  39 steps; 13 % 8 ;  string 5 ; fret - 4
+  50 steps; 15 % 8 ;  string 6 ; fret - 4
+  5  steps; 17 % 16 ; string 3 ; fret - 7
+  14 steps; 19 % 16 ; string 2 ; fret - 2
+  22 steps; 21 % 16 ; string 2 ; fret 0
+  29 steps; 23 % 16 ; string 3 ; fret - 1
+  35 steps; 25 % 16 ; string 5 ; fret - 5
+  42 steps; 27 % 16 ; string 6 ; fret - 6
+  47 steps; 29 % 16 ; string 5 ; fret - 2
+  52 steps; 31 % 16 ; string 4 ; fret 2

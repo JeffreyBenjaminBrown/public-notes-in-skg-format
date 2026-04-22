@@ -1,0 +1,9 @@
+title: nixos-rebuild --show-trace
+pid: b7915378-690c-4708-b1f7-741b131f730b
+body: |2-
+  Alas the stack trace is confusing,
+  but this is how to find the requirement
+  (i.e. the line in my config)
+  that causes a given error.
+misc:
+- Had_ID_Before_Import

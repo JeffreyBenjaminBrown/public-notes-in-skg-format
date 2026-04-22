@@ -1,0 +1,4 @@
+title: To get help for scsynth
+pid: f1b31acc-e165-42d1-9def-e99b31d6a219
+body: |2-
+  scsynth -h` lists the options available

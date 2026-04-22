@@ -1,0 +1,6 @@
+title: step 7 - run it
+pid: 5c1edb02-9bdd-4abc-a9fc-45490573bca7
+body: |2-
+  initialState = PeerState [] 0 ""
+
+  runPeer = runStateT (iterM peerInterpreter $ peerProgram) initialState

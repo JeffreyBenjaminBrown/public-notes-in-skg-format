@@ -1,0 +1,5 @@
+title: high pass filter
+pid: 37e448ff-ccb0-4790-8a61-b101bb7d7637
+body: |2-
+  hcutoff / hpf    : cutoff amount in hertz
+  hresonance / hpq : resonance

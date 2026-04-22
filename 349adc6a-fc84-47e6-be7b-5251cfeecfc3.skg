@@ -1,0 +1,4 @@
+title: The nil slice
+pid: 349adc6a-fc84-47e6-be7b-5251cfeecfc3
+body: |2-
+  has length = capacity = 0 and no underlying array.

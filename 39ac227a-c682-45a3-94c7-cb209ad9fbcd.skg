@@ -1,0 +1,9 @@
+title: skg / a "midparent language"
+pid: 39ac227a-c682-45a3-94c7-cb209ad9fbcd
+body: |2-
+  some examples
+contains:
+- fc55bc1d-09f8-4800-92b0-c2176188d425
+- b27a96ed-1fdf-4ec4-abb8-64aa51be1486
+misc:
+- Had_ID_Before_Import

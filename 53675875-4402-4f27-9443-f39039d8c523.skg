@@ -1,0 +1,5 @@
+title: '"temporal decomposition often results in information leakage."'
+pid: 53675875-4402-4f27-9443-f39039d8c523
+body: |2-
+  If modules correspond to the stages of an operation,
+  then a change to one of them is likely to imply a change to all.

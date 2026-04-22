@@ -1,0 +1,9 @@
+title: Run this from the command line
+pid: 51059d1d-6a53-4967-8d06-98cfc61956f1
+body: |2-
+  nix-shell # Optional. Was mandatory
+            # before I upgraded to nixos-unstable.
+  npm install && npm start
+  emacs -nw # Do this from within the same nix-shell,
+            # if using nix-shell. Otherwise, the `-nw`
+     # should be optional, I imagine.

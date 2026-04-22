@@ -1,0 +1,5 @@
+title: along 'contains'
+pid: 393fc649-60fc-4b9e-9f8d-c5102a69b63f
+body: |2-
+  Lets the user show a backward view from any removed node,
+  to see where it might still exist.

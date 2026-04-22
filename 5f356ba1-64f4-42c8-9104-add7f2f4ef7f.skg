@@ -1,0 +1,8 @@
+title: Permit them to be inside `HEval`s
+pid: 5f356ba1-64f4-42c8-9104-add7f2f4ef7f
+body: |2-
+  Involves does not play nicely with pathsToIts.
+  Even the Involves that only goes 1 layer deep is confusing.
+  Once it is implemented, Paths needs to not be integers lists;
+  they will have to be lists of (Integer | Wildcard),
+  where a Wildcard stands for "any number could go here".

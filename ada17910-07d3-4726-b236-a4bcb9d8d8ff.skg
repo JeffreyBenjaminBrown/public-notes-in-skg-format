@@ -1,0 +1,10 @@
+title: the fonts I tried
+pid: ada17910-07d3-4726-b236-a4bcb9d8d8ff
+body: |2-
+  setfont ~/fonts/solar24x32.psfu -d      # Very big, but thin.
+  setfont ~/fonts/default8x16.psfu -d     # The default -- same as `setfont -d`
+  setfont ~/fonts/viscii10-8x16.psfu -d   # Smaller than the default.
+  setfont ~/fonts/latarcyrheb-sun32.psfu  # does nothing
+  setfont ~/fonts/lat4-16.psfu -d         # does nothing
+  setfont ~/fonts/UniCyr_8x16.psf -d      # does nothing
+  setfont ~/fonts/drdos8x16.psfu -d       # throws an error

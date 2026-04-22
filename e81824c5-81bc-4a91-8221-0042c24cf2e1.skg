@@ -1,0 +1,8 @@
+title: Illumination is a relation on knowledge.
+pid: e81824c5-81bc-4a91-8221-0042c24cf2e1
+body: |2-
+  {Topic, statement} illuminates {topic, statement}.
+contains:
+- 5bef9b81-fe87-446c-85d3-50999f3d0541
+misc:
+- Had_ID_Before_Import

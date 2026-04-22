@@ -1,0 +1,8 @@
+title: 'TRICKY: The conversion from s to t'
+pid: bf2d0c50-a67b-4dcd-8efd-552ca1c21207
+body: |2-
+  The reason we can get a Maybe b from a Maybe a when _Just fails is that we know the Maybe a was Nothing, so the Maybe b must be (a different-typed) Nothing also.
+    matching _Just  :: Maybe a -> Either    (Maybe b) a
+
+  Similar for _Right:
+    matching _Right :: Either c a -> Either (Either c b) a

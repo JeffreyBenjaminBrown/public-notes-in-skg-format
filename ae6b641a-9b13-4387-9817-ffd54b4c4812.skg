@@ -1,0 +1,4 @@
+title: 'coarse : "Fake audio resampling"'
+pid: ae6b641a-9b13-4387-9817-ffd54b4c4812
+body: |2-
+  "1 for original, 2 for half, 3 for a third" etc.

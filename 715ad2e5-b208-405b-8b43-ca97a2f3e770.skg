@@ -1,0 +1,7 @@
+title: what I used to have
+pid: 715ad2e5-b208-405b-8b43-ca97a2f3e770
+body: |2-
+  To add a pitch, prefix it with "p" ("put").
+  To move a small number of pitches, use "t<old pitc> h<new pitch>".
+  Example: To move the root up a half step, say "toe hoesh". The initial "t" (think "move To") indicates a move rather than a whole new pitch set is being described. The "h" separates the two vowels, because they are often identical.
+  To remove a pitch, prefix it with "k" ("kill").

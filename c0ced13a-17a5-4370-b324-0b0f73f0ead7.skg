@@ -1,0 +1,6 @@
+title: connect 8888:8888 rather than 5000:5000
+pid: c0ced13a-17a5-4370-b324-0b0f73f0ead7
+body: |2-
+  8888:8888 is what tax.co.web does, and that works when I connect to port 8000.
+  Doing this in Agora still led `pip3 install requirements.txt` in `agora-server` to report `invalid command 'bidist_wheel'`.
+  And still I can't connect.

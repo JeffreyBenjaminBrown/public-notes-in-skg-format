@@ -1,0 +1,7 @@
+title: When working normally, should return one of these.
+pid: 8a9dc3ee-6bf1-42f0-9f3f-d374c3a25722
+body: |2-
+  {next_state, NextState, NewData, [[id:3541b431-e9f6-427f-9b6a-c282fc2dc440][TransitionActions]]}
+  {next_state, NextState, NewData}
+contains:
+- fde5d16d-9e45-41c4-a50c-6d9765d45e18

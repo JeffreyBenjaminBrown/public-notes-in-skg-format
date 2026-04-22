@@ -1,0 +1,5 @@
+title: a quote
+pid: b4d7c9ec-fff3-4c85-98e9-24557c42d256
+body: |2-
+  https://idris2.readthedocs.io/en/latest/tutorial/typesfuns.html
+  Vect Nat a "declares a family of types, and so the form of the declaration is rather different from the simple type declarations above. We explicitly state the type of the type constructor Vect — it takes a Nat and a type as an argument, where Type stands for the type of types. We say that Vect is indexed over Nat and parameterised by Type."

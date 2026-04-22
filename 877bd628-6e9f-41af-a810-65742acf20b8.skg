@@ -1,0 +1,13 @@
+title: octaves
+pid: 877bd628-6e9f-41af-a810-65742acf20b8
+body: |2-
+  octave 1:	(-5,15)
+  		(3,4)
+  octave 2:	(-10,30)
+  		(-2,19)
+  		(6,8)
+  octave 3:	(-7,34)
+  		(1,23)
+  		(9,12)
+contains:
+- 148161d5-66c2-4c61-adec-03bd9ecd5bb9

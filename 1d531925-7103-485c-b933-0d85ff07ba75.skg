@@ -1,0 +1,7 @@
+title: where to add cron jobs
+pid: 1d531925-7103-485c-b933-0d85ff07ba75
+body: |2-
+  Adding files to
+    /etc/cron.d/<any file>
+  appears to be the preferred way.
+  I can ignore /etc/crontab. (Maybe editing it would be effective, but it seems unidiomatic.)

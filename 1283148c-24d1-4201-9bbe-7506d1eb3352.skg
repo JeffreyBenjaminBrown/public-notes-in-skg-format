@@ -1,0 +1,11 @@
+title: examples
+pid: 1283148c-24d1-4201-9bbe-7506d1eb3352
+body: |2-
+  > [('a', 1), ('b', 2), ('c', 3)]
+      & partsOf (traversed . _1) %~ reverse
+  [('c',1),('b',2),('a',3)]
+
+  > [('a', 1), ('b', 2), ('c', 3)]
+  & partsOf (traversed . _2)
+  %~ \xs -> (/ sum xs) <$> xs
+  [('a',0.16666), ('b',0.33333), ('c',0.5)]

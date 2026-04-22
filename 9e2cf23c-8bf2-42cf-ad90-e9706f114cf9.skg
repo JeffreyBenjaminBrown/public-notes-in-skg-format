@@ -1,0 +1,6 @@
+title: '"Type Characters" are single characters used to indicate type.'
+pid: 9e2cf23c-8bf2-42cf-ad90-e9706f114cf9
+body: |2-
+  They only identify a subset of the builtin types.
+  I *hope* they are always optional.
+  https://learn.microsoft.com/en-us/dotnet/visual-basic/reference/language-specification/lexical-grammar

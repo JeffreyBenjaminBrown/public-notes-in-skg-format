@@ -1,0 +1,5 @@
+title: they use a fresh database
+pid: b87d90de-9b6e-4fb1-8008-bd4b597ec064
+body: |2-
+  Each time a test method (smaller than a test class) runs,
+  it uses a fresh "test database" that starts empty.

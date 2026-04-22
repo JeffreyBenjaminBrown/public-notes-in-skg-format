@@ -1,0 +1,6 @@
+title: Sends and receives can be before or after fader, pan and FX.
+pid: c0d8170c-2a26-4b01-b796-7c358aedfe9f
+body: |2-
+  Three kinds: "Post Fader (Post Pan), Pre-Fader (Post FX) and Pre FX."
+misc:
+- Had_ID_Before_Import

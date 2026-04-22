@@ -1,0 +1,4 @@
+title: LeftStrings could be more polymorphic
+pid: f08da5e6-0f8b-498e-b794-fcdeb0123cae
+body: |2-
+  https://www.reddit.com/r/haskellquestions/comments/d4f6px/class_should_apply_to_a_functor_only_when_its/

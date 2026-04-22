@@ -1,0 +1,9 @@
+title: validating a date
+pid: dd16bd31-e3d5-4030-88c2-9789ad547753
+body: |2-
+  {{Y,M,D},{H,Min,S}} format
+
+  There's something builtin to validate the {Y,M,D},
+  but nothing for the {H,M,S} part.
+contains:
+- e79d2991-0e3a-401c-903e-55b8a1d67899

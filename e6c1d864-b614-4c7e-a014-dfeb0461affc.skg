@@ -1,0 +1,9 @@
+title: How to extend it to involve Emacs
+pid: e6c1d864-b614-4c7e-a014-dfeb0461affc
+body: |2-
+  Emacs reads the file as Python updates it.
+  The user does not edit the file directly,
+  but can fold, unfold, etc. directly from the text,
+  and enter Hash-like commands into a separate buffer.
+  The file includes very brief URIs, their visibility togglable,
+  allowing users to refer to nodes quickly.

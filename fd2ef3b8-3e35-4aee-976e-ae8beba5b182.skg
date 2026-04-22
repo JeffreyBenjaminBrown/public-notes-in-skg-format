@@ -1,0 +1,9 @@
+title: how
+pid: fd2ef3b8-3e35-4aee-976e-ae8beba5b182
+body: |2-
+  With the disk not mounted, run
+    sudo mlabel -i /dev/sdxnjj -s ::"LABEL HERE"
+  where sdxnjjj = the folder correspoonding to the drive,
+    where x is probably b, c or d
+          n is probably a small digit or maybe missing
+          jj should not be there (this prevents copy-paste disaster)

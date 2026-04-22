@@ -1,0 +1,5 @@
+title: valid PreviousVersion values
+pid: fbf3f88e-e1b6-4824-a748-a6dac1fed854
+body: |2-
+  either the version term itself in the case of an upgrade
+  or {down, Version} in the case of a downgrade

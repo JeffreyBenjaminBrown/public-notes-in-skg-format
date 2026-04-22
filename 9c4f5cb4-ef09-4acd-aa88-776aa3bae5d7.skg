@@ -1,0 +1,10 @@
+title: IDEA
+pid: 9c4f5cb4-ef09-4acd-aa88-776aa3bae5d7
+body: |2-
+  edit /home/jeff/.cache/borg/43a56878b0607ac798dc2c85312111391736de70ab21d33c675569a1724cf643/config
+  I found the repo ID by running
+    borg config path-to-repo ID
+  Might also want to use
+    BORG_RELOCATED_REPO_ACCESS_IS_OK=yes
+  as suggested here:
+    https://github.com/borgbackup/borg/issues/1426

@@ -1,0 +1,10 @@
+title: tuned 16\87 apart
+pid: 0445b9db-da65-49a9-aaaf-d659b4b0a305
+body: |2-
+  (*16) <$> [0..5] = [0,16,32,48,64,80,96]
+  5/4   = 28 \ 87 = 1 mod 3 = 1 string + 4 frets
+  11/8  = 40 \ 87 = 1 mod 3 = 1 string + 8 frets, or 4 strings - 8 frets
+  3/2   = 51 \ 87 = 0 mod 3 = 3 strings + 1 fret
+  13/8  = 61 \ 87 = 1 mod 3 = 4 strings - 1 fret
+  7/4   = 70 \ 87 = 1 mod 3 = 4 strings + 2 frets
+  2/1   = 87 \ 87 = 0 mod 3 = 6 strings - 3 frets

@@ -1,0 +1,2 @@
+title: Let α be any WFF. If any variable in it is now uniformly replaced by some WFF, the resulting WFF is called a substitution-instance of α. Thus [p ⊃ (q ∨ ∼r)] ≡ [∼(q ∨ ∼r) ⊃ ∼p] is a substitution-instance of (p ⊃ q) ≡ (∼q ⊃ ∼p), obtained from it by replacing q uniformly by (q ∨ ∼r). It is an important principle that, whenever a WFF is valid, so is every substitution-instance of it (the rule of [uniform] substitution).
+pid: 9b7d0000-87b3-4f7b-a85e-b422d93860ec

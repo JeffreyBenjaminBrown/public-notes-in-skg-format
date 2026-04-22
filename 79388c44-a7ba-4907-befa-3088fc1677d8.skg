@@ -1,0 +1,7 @@
+title: There are some "preassigned voices".
+pid: 79388c44-a7ba-4907-befa-3088fc1677d8
+body: |2-
+  `d1`, for instance.
+  See BootTidal.hs for their definitions.
+contains:
+- 1f2da4e9-8637-4b14-ba71-166e8aa615e7

@@ -1,0 +1,6 @@
+title: I suspect fret markers that repeat every 5 frets would be simplest.
+pid: ff66dd57-047c-4f8d-a74f-40482c60c627
+body: |2-
+  They could be more dense than every five frets --
+  for instance, two dots on every fret equal to 0 mod 5,
+  and one dot on each equal to 2 mod 5.

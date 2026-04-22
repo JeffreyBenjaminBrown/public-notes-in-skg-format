@@ -1,0 +1,6 @@
+title: 'PITFALL: magic wand effects'
+pid: 90aada2e-78e9-4130-8b32-8282d1f34911
+body: |2-
+  For some reason, when it wasn't working,
+  it helped to plug in some headphones halfway.
+  That makes me suspect messing with alsamixer could also help.

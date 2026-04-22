@@ -1,0 +1,7 @@
+title: give it password hashes
+pid: 91b3d986-51d4-407b-8cba-1eddb110fa1b
+body: |2-
+  run
+    cntlm -H
+  It should prompt me for an invisible password,
+  and then display more text to copy into cntlm.conf

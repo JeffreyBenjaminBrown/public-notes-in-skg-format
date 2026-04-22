@@ -1,0 +1,9 @@
+title: edits to the writeable branches are maximally simple
+pid: d8282842-09d9-4191-a60c-448355ab334b
+body: |2-
+  If either branch has a node added or deleted,
+  then that single relationship is added or deleted.
+  This will change the view on re-render,
+  but has no other implications for the graph.
+contains:
+- ad042fb2-0cfa-41d5-bcd8-ffa950d60a27

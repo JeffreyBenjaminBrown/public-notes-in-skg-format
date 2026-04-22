@@ -1,0 +1,19 @@
+title: DONE include this in .claude/settings.json
+pid: dfc6a4eb-ca9b-4496-ac84-d76d3c5b228c
+body: |2-
+  {
+    "alwaysThinkingEnabled": true,
+    "hooks": {
+      "Stop": [
+        {
+          "matcher": "",
+          "hooks": [
+            {
+              "type": "command",
+              "command": "/home/sound/play-beep.sh"
+            }
+          ]
+        }
+      ]
+    }
+  }

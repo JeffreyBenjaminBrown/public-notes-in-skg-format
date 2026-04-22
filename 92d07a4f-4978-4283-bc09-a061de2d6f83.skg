@@ -1,0 +1,13 @@
+title: why and how I tried it
+pid: 92d07a4f-4978-4283-bc09-a061de2d6f83
+body: |2-
+  I'm trying 1.7.10, which,
+  if I'm reading the git log correct, is commit
+    c1c16cde0c83a2b9afeaaed05a8a0d64d9a7dd6b
+  @mvdirty recommnded 1.9-dev,
+  but Tidal.Transitions doesn't work in that one.
+  That's because the changelog
+    https://hackage.haskell.org/package/tidal-1.9.4/changelog
+  mentions transitions in 1.7.10.
+  After 1.7.10 comes 1.8.0,
+  which makes me suspect 1.7.10 is stabler.

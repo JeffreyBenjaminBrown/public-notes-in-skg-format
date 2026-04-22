@@ -1,0 +1,5 @@
+title: 'PITFALL: no key pair is needed'
+pid: 32f597ee-f9db-4c7e-a2a0-e15b46a25b5a
+body: |2-
+  To SSH into an instance, you need a key pair.
+  But to control it from SSM, you don't.

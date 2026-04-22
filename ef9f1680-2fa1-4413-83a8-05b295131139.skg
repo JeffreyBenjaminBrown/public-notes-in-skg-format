@@ -1,0 +1,4 @@
+title: declared here
+pid: ef9f1680-2fa1-4413-83a8-05b295131139
+body: |2-
+  https://github.com/NixOS/nixpkgs/blob/nixos-unstable/nixos/modules/services/desktops/pipewire/pipewire.nix

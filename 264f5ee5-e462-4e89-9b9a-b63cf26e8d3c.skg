@@ -1,0 +1,12 @@
+title: 'FAILS: a declarative (NixOS) solution'
+pid: 264f5ee5-e462-4e89-9b9a-b63cf26e8d3c
+body: |2-
+  # ChatGPT said this would let me skip running
+  #   sudo modprobe -r snd-seq-dummy
+  #   sudo modprobe snd-seq-dummy ports=2
+  # to make 2 virtual ports available through a2jmidid,
+  # rather than one. It doesn't work.
+  boot.kernelModules = [ "snd-seq-dummy" ];
+  boot.extraModprobeConfig = ''
+    options snd_seq_midi max_midi_devs=2
+  '';

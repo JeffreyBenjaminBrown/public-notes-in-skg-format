@@ -1,0 +1,5 @@
+title: it creates a .drv file in /nix/store
+pid: 2de47772-6314-42e5-a433-0e31096747e0
+contains:
+- 69fe53c6-2f26-47b5-a1cc-0fb694e71c59
+- 3a439e84-c17d-472d-b128-b0a5d3ad6473

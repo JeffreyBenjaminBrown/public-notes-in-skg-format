@@ -1,0 +1,23 @@
+title: 'TODO 9\46 x 5\46: 31-lim in 6x7, 17-lim in 4x6, octave 4-2, 9.2-edo frets; guitar-bad'
+pid: d3e9851f-5276-4a8f-9cd8-e9c5417d5940
+body: |2-
+  Guitar-bad because strings have such unequal duties.
+  0  steps;  1 % 1 ;  string 0 ;   fret 0
+  15 steps;  5 % 4 ;  string 0 ;   fret 3
+  8  steps;  9 % 8 ;  string 2 ;   fret - 2
+  27 steps;  3 % 2 ;  string 3 ;   fret 0
+  32 steps; 13 % 8 ;  string 3 ;   fret 1
+  37 steps;  7 % 4 ;  string 3 ;   fret 2
+  42 steps; 15 % 8 ;  string 3 ;   fret 3
+  21 steps; 11 % 8 ;  string 4 ;   fret - 3
+  46 steps;  2 % 1 ;  string 4 ;   fret 2
+  4  steps; 17 % 16 ; string 1 ;   fret - 1
+  11 steps; 19 % 16 ; string - 1 ; fret 4
+  18 steps; 21 % 16 ; string 2 ;   fret 0
+  24 steps; 23 % 16 ; string 1 ;   fret 3
+  30 steps; 25 % 16 ; string 5 ;   fret - 3
+  35 steps; 27 % 16 ; string 5 ;   fret - 2
+  39 steps; 29 % 16 ; string 6 ;   fret - 3
+  44 steps; 31 % 16 ; string 6 ;   fret - 2
+misc:
+- Had_ID_Before_Import

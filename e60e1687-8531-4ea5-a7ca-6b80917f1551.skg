@@ -1,0 +1,6 @@
+title: using one without naming it
+pid: e60e1687-8531-4ea5-a7ca-6b80917f1551
+body: |2-
+  For Each i In {1, 2, 3}
+    Console.Write(i)
+  Next

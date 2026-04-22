@@ -1,0 +1,5 @@
+title: '"current project" can be defined by the Git folder structure'
+pid: e7115ea8-06d5-4478-a213-0a26c7297f21
+body: |2-
+  or else by EDE, which who cares what that is.
+  It ignores .gitignored files

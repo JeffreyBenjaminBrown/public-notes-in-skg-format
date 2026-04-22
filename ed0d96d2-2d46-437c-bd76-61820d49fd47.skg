@@ -1,0 +1,5 @@
+title: Buffered channels are "like mailboxes in Erlang".
+pid: ed0d96d2-2d46-437c-bd76-61820d49fd47
+body: |2-
+  Rob Pike, 13:41 here:
+    https://www.youtube.com/watch?v=f6kdp27TYZs

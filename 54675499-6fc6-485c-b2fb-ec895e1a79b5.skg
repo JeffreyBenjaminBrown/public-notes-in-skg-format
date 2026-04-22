@@ -1,0 +1,7 @@
+title: How to build a lookup table for the bad character rule.
+pid: 54675499-6fc6-485c-b2fb-ec895e1a79b5
+body: |2-
+  Given a pattern P of length |P|,
+  compute a 4x|P| matrix that says how far to skip based on which character in P
+  is the bad one (|P| choices) and which character in T it matches
+  (4 choices = |{A,C,G,T}|).

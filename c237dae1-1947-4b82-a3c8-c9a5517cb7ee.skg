@@ -1,0 +1,13 @@
+title: example
+pid: c237dae1-1947-4b82-a3c8-c9a5517cb7ee
+body: |2-
+  sp = subprocess . run (
+      [ "python3.9",
+        "python/requests/main.py", # Run this program.
+        os . path . join (         # Use this config file.
+              "users/", user_hash, "config/config.json" ),
+        "add-to-temp-queue" ],     # Take this action.
+      cwd    = tax_co_root,
+      env    = my_env,
+      stdout = subprocess . PIPE,
+      stderr = subprocess . PIPE )

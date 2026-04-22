@@ -1,0 +1,9 @@
+title: the problem
+pid: b846bef7-ca37-417b-9e67-1876476efaba
+body: |2-
+  If "_ x _ " is transitive, and one searches for "/_ #x /_",
+  the user probably just wants to see all the first-order x relationships,
+  not the compound ones.
+
+  This suggests either treating that (and similar?!) case specially,
+  or letting the user ask not to use the transitivity.

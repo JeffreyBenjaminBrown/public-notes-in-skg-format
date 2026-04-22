@@ -1,0 +1,4 @@
+title: deallocation
+pid: 84507063-e738-4ab0-87d4-05d96439554d
+body: |2-
+  "when a box goes out of scope, as b does at the end of main, it will be deallocated ... [and so will] the data it points to"

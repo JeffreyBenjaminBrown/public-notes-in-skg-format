@@ -1,0 +1,5 @@
+title: changing the definition of nonPrefix "fixes" it
+pid: 5dc289d2-e46e-4f4d-96d6-111dba29b3e1
+body: |2-
+  but undoes the reasons that I made those changes.
+  Namely, set it back to `... <* notFollowedBy alphaNumChar`

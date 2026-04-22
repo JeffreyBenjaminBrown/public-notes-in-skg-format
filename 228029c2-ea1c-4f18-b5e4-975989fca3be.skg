@@ -1,0 +1,6 @@
+title: The view from standalone file F
+pid: 228029c2-ea1c-4f18-b5e4-975989fca3be
+body: |2-
+  transcludes through all of the files "in" it.
+misc:
+- Had_ID_Before_Import

@@ -1,0 +1,14 @@
+title: Why can this closure use v without having received it as an argument?
+pid: 8ea4034e-c106-450e-b3d4-f1c3d05327f6
+body: |2-
+  use std::thread;
+
+  fn main() {
+      let v = vec![1, 2, 3];
+
+      let handle = thread::spawn(move || {
+          println!("Here's a vector: {v:?}");
+      });
+
+      handle.join().unwrap();
+  }

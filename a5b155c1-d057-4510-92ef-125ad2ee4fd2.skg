@@ -1,0 +1,10 @@
+title: An example shell.nix file
+pid: a5b155c1-d057-4510-92ef-125ad2ee4fd2
+body: |2-
+  # This is what I use for Phanaeros.
+  with import <nixpkgs> { };
+  mkShell {
+    buildInputs = [ zlib ];
+  }
+misc:
+- Had_ID_Before_Import

@@ -1,0 +1,12 @@
+title: 'TODO 10\58 x 1\58: 17-lim, octave 6s -2f'
+pid: 46c5b17c-b955-43c1-8380-36c162ea1161
+body: |2-
+  [ 0 steps; 1 % 1 ; string 0 ; fret 0
+  , 58 steps; 2 % 1 ; string 6 ; fret - 2
+  , 34 steps; 3 % 2 ; string 3 ; fret 4 -- sucks
+  , 19 steps; 5 % 4 ; string 2 ; fret - 1
+  , 47 steps; 7 % 4 ; string 5 ; fret - 3
+  , 10 steps; 9 % 8 ; string 1 ; fret 0 -- lucky; puts 4:3 next to 3:2
+  , 27 steps; 11 % 8 ; string 3 ; fret - 3
+  , 41 steps; 13 % 8 ; string 4 ; fret 1
+  , 53 steps; 15 % 8 ; string 5 ; fret 3

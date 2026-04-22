@@ -1,0 +1,11 @@
+title: vertigo (Emacs package)
+pid: 424cea04-5013-4547-8e24-65522ab90c56
+body: |2-
+  I think I prefer avy.
+contains:
+- 1fa69cf0-5dc9-490d-bb5f-b17d5a411a9d
+- 61a67fa3-73d9-4b63-9caa-e459a796c501
+- b7bf52fb-9f1d-440c-a63d-cfc13f40c077
+- 5d9429a5-e424-46c7-84b3-e19620862c84
+misc:
+- Had_ID_Before_Import

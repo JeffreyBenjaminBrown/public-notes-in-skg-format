@@ -1,0 +1,9 @@
+title: combinators
+pid: 45c05897-6167-4987-bfa8-33e10f357027
+body: |2-
+  Three ways to get the first one:
+    firstOf :: Fold s a -> s -> Maybe a
+    preview :: Fold s a -> s -> Maybe a
+    (^?)    :: s -> Fold s a -> Maybe a
+  One way for last:
+    lastOf  :: Fold s a -> s -> Maybe a

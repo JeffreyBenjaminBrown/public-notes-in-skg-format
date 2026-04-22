@@ -1,0 +1,7 @@
+title: 'PITFALL: The {}s must still be written when omitting all fields.'
+pid: 444f428c-fe1c-4aad-a9af-a03ca4f22a65
+body: |2-
+  test_is_state (_ = #state{}) ->
+    is_state;
+  test_is_state (_) ->
+    is_not_state.

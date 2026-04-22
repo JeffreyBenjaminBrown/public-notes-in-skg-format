@@ -1,0 +1,6 @@
+title: If starting from SCIDE, specify `ugenPluginsPath`
+pid: 77320c98-f4d8-4686-9d3a-d06af520cf3b
+body: |2-
+  // Execute these in serial.
+  s.options.ugenPluginsPath = "/home/jeff/.local/share/SuperCollider/Extensions/"
+  s.boot;

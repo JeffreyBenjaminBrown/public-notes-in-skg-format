@@ -1,0 +1,5 @@
+title: '"lfo" : how much the LFO affects the filter frequency'
+pid: 6a6da6a2-f198-40cd-a753-8ffcafbeeb04
+body: |2-
+  Negative values are fun, have a muted swirling effect.
+  The useful range is at least [-1,1]

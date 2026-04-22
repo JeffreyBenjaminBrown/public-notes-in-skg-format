@@ -1,0 +1,4 @@
+title: When deleted siblings went to a new common place,
+pid: b88fb905-f4f5-4f64-b8eb-340da1afc433
+body: |2-
+  the diff view should group those deletions under a midparent indicating the new common parent

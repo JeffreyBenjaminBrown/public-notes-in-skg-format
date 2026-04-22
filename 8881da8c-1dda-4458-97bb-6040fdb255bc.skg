@@ -1,0 +1,5 @@
+title: sans simplifies deletions
+pid: 8881da8c-1dda-4458-97bb-6040fdb255bc
+body: |2-
+  sans k = at k .~ Nothing
+  PITFALL: It's not an optic, so it doesn't compose with other optics.

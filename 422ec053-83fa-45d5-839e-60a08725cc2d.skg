@@ -1,0 +1,5 @@
+title: Result<T,E> is for recoverable errors.
+pid: 422ec053-83fa-45d5-839e-60a08725cc2d
+contains:
+- b307d36c-6f99-46dc-92f4-ffeb98b838c9
+- 63244e01-3a24-4f81-8cdb-4a97187b3146

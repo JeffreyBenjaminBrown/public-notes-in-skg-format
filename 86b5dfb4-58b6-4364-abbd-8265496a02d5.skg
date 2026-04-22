@@ -1,0 +1,5 @@
+title: 'the "cabal: Version mismatch between ghc and ghc-pkg" error'
+pid: 86b5dfb4-58b6-4364-abbd-8265496a02d5
+body: |2-
+  It happened when I ran `cabal repl`.
+  I solved it by deleting `dist-newstyle/` and rebuilding.

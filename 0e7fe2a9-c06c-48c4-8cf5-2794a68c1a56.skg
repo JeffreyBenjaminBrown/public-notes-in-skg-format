@@ -1,0 +1,10 @@
+title: compressing an .mp4 video
+pid: 0e7fe2a9-c06c-48c4-8cf5-2794a68c1a56
+body: |2-
+  This got a long video from my phone down from 5.2 GB to 99 MB,
+  <2025-10-26 Sun>:
+
+  ffmpeg -i 2025-10-08_casio-keys-improv.mp4               \
+    -c:v libx264 -crf 30 -preset veryslow -vf scale=640:-1 \
+    -c:a aac -b:a 96k                                      \
+    output.mp4

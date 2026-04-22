@@ -1,0 +1,5 @@
+title: built-in math functions
+pid: 3600865f-f61a-4a6f-950c-ae1b5ad93de5
+body: |2-
+  e.g. log, mod
+  https://www.sqlite.org/lang_mathfunc.html

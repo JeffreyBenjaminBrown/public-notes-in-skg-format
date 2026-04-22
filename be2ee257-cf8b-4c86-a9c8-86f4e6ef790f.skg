@@ -1,0 +1,6 @@
+title: You will want to advance different kinds of changes simultaneously, without breaking anything.
+pid: be2ee257-cf8b-4c86-a9c8-86f4e6ef790f
+body: |2-
+  Suppose you, a single coder, want to add concurrency and a user interface to your database program. Given some working base version of your code, version control lets you work on both extensions at once, in separate workspaces called "branches". They will not get in each others' way. Errors from one branch cannot be mistaken for errors from the other branch.
+
+  This becomes even more useful when multiple people are working on the code at once. The main branch never needs to suffer temporary changes that put it in a non-functional state, because those non-functional states only ever happen in other branches. And nobody needs to get confused by someone else's incomplete work, because they are never exposed to it.

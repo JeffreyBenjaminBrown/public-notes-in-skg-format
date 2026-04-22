@@ -1,0 +1,7 @@
+title: to build from an already-evaluated derivation
+pid: 56b3698d-ad93-433c-a0f6-63abc7a616c7
+body: |2-
+  run this from bash:
+    nix-store -r /nix/store/z3hhlxbckx4g3n9sw91nnvlkjvyw754p-myname.drv
+  That assumes the .drv file exists
+  (and so far I only know how to create it from the nix repl).

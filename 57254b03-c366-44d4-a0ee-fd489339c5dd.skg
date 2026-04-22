@@ -1,0 +1,10 @@
+title: code
+pid: 57254b03-c366-44d4-a0ee-fd489339c5dd
+body: |2-
+  #+begin_src rust
+  fn longest
+    <'a>
+    (x: &'a str, y: &'a str)
+     -> &'a str
+  { if x.len() > y.len() { x } else { y } }
+  #+end_src

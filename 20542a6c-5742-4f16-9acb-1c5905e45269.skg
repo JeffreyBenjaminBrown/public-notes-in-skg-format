@@ -1,0 +1,4 @@
+title: 'TODO 115 11 26: 10.45 fpo, 2.7\12 gaps, *lim7 range 2*'
+pid: 20542a6c-5742-4f16-9acb-1c5905e45269
+body: |2-
+  lim13 range 12, but drops to 6 if you ignore 11/8, or 8 if you ignore 13/8

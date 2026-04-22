@@ -1,0 +1,5 @@
+title: can accept irrelevant values
+pid: e4a8c834-73b6-474d-b6d8-aaa7d4042a42
+body: |2-
+  This function requires x and y, and ignroes anything else:
+  { x, y, ... }: x + y

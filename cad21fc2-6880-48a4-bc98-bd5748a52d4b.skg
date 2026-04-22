@@ -1,0 +1,11 @@
+title: product types in Python
+pid: cad21fc2-6880-48a4-bc98-bd5748a52d4b
+body: |2-
+  from dataclasses import dataclass
+
+  @dataclass
+  class Point:
+      x: float
+      y: float
+misc:
+- Had_ID_Before_Import

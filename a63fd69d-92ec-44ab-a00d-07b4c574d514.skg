@@ -1,0 +1,5 @@
+title: spawn_monitor/1-3 are atomic, like spawn_link/1-3.
+pid: a63fd69d-92ec-44ab-a00d-07b4c574d514
+body: |2-
+  They return a pair:
+    {Pid of new process, Ref of new monitor relationship}

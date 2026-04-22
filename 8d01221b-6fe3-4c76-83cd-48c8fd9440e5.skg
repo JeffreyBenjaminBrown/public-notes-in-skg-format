@@ -1,0 +1,8 @@
+title: Dynamic typing can make data builtin data structures slow.
+pid: 8d01221b-6fe3-4c76-83cd-48c8fd9440e5
+contains:
+- c5702c15-80d4-4a34-90f6-81acc4a3823a
+- 7776043f-0189-449b-a373-656d710b2596
+- 2437e6b8-1243-4961-b2e8-4f94f7fa7c2c
+misc:
+- Had_ID_Before_Import

@@ -1,0 +1,10 @@
+title: Holes can be named, and then inspected from the Repl
+pid: b1424398-7d9b-4c0d-a458-e860542fbbfc
+body: |2-
+  Main> :t even_rhs
+           k : Nat
+        -------------------------------------
+        even_rhs : Bool
+  even : Nat -> Bool
+        even Z = True
+        even (S k) = ?even_rhs

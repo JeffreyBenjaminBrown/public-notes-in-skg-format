@@ -1,0 +1,10 @@
+title: syntax look like Haskell
+pid: 5bfb3e7a-d142-4617-8658-859de447e8ca
+body: |2-
+  case <condition> of
+    <value> -> <result>;
+    <value> -> <result>;
+    ...
+  end
+contains:
+- 8ac61749-d4b2-4be1-980b-57d24ce71b15

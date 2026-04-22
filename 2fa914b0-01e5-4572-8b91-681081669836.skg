@@ -1,0 +1,12 @@
+title: 48 2 11
+pid: 2fa914b0-01e5-4572-8b91-681081669836
+body: |2-
+  [ 0 steps; 1 % 1;   string 0; fret 0
+  , 8 steps; 9 % 8;   string 0; fret 4
+  , 15 steps; 5 % 4;  string 1; fret 2
+  , 22 steps; 11 % 8; string 2; fret 0
+  , 28 steps; 3 % 2;  string 2; fret 3
+  , 34 steps; 13 % 8; string 2; fret 6
+  , 39 steps; 7 % 4;  string 3; fret 3
+  , 44 steps; 15 % 8; string 4; fret 0
+  , 48 steps; 2 % 1;  string 4; fret 2

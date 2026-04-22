@@ -1,0 +1,6 @@
+title: 'the purpose: separate format from content'
+pid: 15502dde-8ec2-4656-b444-da4b371626ea
+body: |2-
+  The functions in views.py ideally only describe content,
+  and leave the formatting to the templates.
+  That way the format of many views can be changed in one place.

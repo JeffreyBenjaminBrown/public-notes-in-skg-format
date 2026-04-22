@@ -1,0 +1,5 @@
+title: folds are not polymorphic
+pid: 3ff5f2ab-6131-41a4-ad21-7dba51ac5e7e
+body: |2-
+  aFold :: Fold s a
+  It focuses from an `s` to any number of `a`s.

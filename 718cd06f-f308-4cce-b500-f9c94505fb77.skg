@@ -1,0 +1,12 @@
+title: dependencies
+pid: 718cd06f-f308-4cce-b500-f9c94505fb77
+body: |2-
+  {deps, [
+          % alternatives
+          {elli, % Package, which will be downloaded from Hex
+          % A version can also be specified without a prefix like (~>).
+     "~> 3.3.0"},
+          {elli, % a source
+     {git, "git://github.com/elli-lib/elli.git", {tag, "3.3.0"}}}
+          ]
+  }.

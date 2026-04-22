@@ -1,0 +1,5 @@
+title: Enable editing, somewhat.
+pid: 66b31d6f-386f-4d9b-86fb-e79db3b4c3e1
+body: |2-
+  The title, "comments by: [author]" cannot be changed.
+  But the comments themselves can be.

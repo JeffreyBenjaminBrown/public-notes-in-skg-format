@@ -1,0 +1,5 @@
+title: example
+pid: c085187c-57b8-495a-8451-0e5880c98ca2
+body: |2-
+  The part between the brackets below (inclusive):
+  each { |x| echo $x }

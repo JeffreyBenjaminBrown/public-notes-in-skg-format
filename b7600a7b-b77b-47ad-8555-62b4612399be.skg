@@ -1,0 +1,7 @@
+title: demo
+pid: b7600a7b-b77b-47ad-8555-62b4612399be
+body: |2-
+  #+BEGIN_SRC haskell
+  d1 $ sound "[<bd hc>/2,hh*4]"
+  jumpMod 1 8 $ sound "[bd,<hc hh>*8]"
+  #+END_SRC

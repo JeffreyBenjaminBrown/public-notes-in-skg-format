@@ -1,0 +1,15 @@
+title: layout
+pid: 35452330-c6c8-4f95-b02d-dd8b5ffcf11f
+body: |2-
+  31 steps =  2 %  1 : string 4 fret 1
+  18 steps =  3 %  2 : string 3 fret - 1
+  10 steps =  5 %  4 : string 1 fret 1
+  25 steps =  7 %  4 : string 4 fret - 1
+   5 steps =  9 %  8 : string 2 fret - 3
+  14 steps = 11 %  8 : string 2 fret 0
+  22 steps = 13 %  8 : string 4 fret -2 ("string 1 fret 5")
+   3 steps = 17 % 16 : string 0 fret 1
+   8 steps = 19 % 16 : string 2 fret -3 ("string - 1 fret 5")
+  16 steps = 23 % 16 : string 1 fret 3
+  27 steps = 29 % 16 : string 3 fret 2
+  30 steps = 31 % 16 : string 3 fret 3

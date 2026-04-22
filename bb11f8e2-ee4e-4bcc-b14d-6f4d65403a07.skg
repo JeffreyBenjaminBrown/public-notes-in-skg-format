@@ -1,0 +1,5 @@
+title: the Ubuntu-NixOS user ID problem
+pid: bb11f8e2-ee4e-4bcc-b14d-6f4d65403a07
+body: |2-
+  On my KUbuntu system, "jeff" has default uid 1000;
+  on NixOS it's 1001. This creates permissions problems.

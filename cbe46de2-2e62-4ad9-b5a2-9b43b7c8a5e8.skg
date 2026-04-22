@@ -1,0 +1,7 @@
+title: Example
+pid: cbe46de2-2e62-4ad9-b5a2-9b43b7c8a5e8
+body: |2-
+  [ (X, ..)
+    (Y,              Exists [X] $ ...)
+    (W, Exists [Y] $ ForAll [X(Y)] ...)
+    (V, Exists [Y] $ Exists [X(Y)] ...) ]

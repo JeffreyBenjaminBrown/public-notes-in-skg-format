@@ -1,0 +1,7 @@
+title: another scheme
+pid: dbd48236-9f3e-45f3-984a-ab6b5f140a5a
+body: |2-
+  Step 1: Provide your initial answer
+  Step 2: Generate 5 verification questions that would expose errors in your answer
+  Step 3: Answer each verification question
+  Step 4: Provide your final, corrected answer based on verification

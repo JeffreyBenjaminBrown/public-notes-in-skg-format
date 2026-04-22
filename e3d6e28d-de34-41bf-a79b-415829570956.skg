@@ -1,0 +1,4 @@
+title: Rebuild boot menu
+pid: e3d6e28d-de34-41bf-a79b-415829570956
+body: |2-
+  sudo nixos-rebuild boot

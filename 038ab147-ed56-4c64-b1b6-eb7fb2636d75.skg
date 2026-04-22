@@ -1,0 +1,4 @@
+title: input lifetimes
+pid: 038ab147-ed56-4c64-b1b6-eb7fb2636d75
+body: |2-
+  = lifetimes on function or method parameters

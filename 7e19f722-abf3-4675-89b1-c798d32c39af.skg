@@ -1,0 +1,6 @@
+title: req's for files in cron.d
+pid: 7e19f722-abf3-4675-89b1-c798d32c39af
+body: |2-
+  "must be owned by root, and must conform to run-parts’ naming conventions (no dots, only letters, digits, underscores, and hyphens)."
+  https://unix.stackexchange.com/a/417327
+  And maybe they need `chmod 644` permissions, at least when in cron.d/.

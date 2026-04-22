@@ -1,0 +1,14 @@
+title: '7\31 x 3\31: Kite-like but easier'
+pid: dc600e28-a5cb-49b7-b0ce-5a0a158b8170
+body: |2-
+  3 steps = 17 % 16: string 0 fret 1
+  8 steps = 19 % 16: string -1 fret 5
+  10 steps = 5 % 4: string 1 fret 1
+  14 steps = 11 % 8: string 2 fret 0
+  16 steps = 23 % 16: string 1 fret 3
+  18 steps = 3 % 2: string 3 fret -1
+  22 steps = 13 % 8: string 4 fret -2
+  25 steps = 7 % 4: string 4 fret -1
+  27 steps = 29 % 16: string 3 fret 2
+  30 steps = 31 % 16: string 3 fret 3
+  31 steps = 2 % 1: string 4 fret 1

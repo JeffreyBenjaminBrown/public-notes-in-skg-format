@@ -1,0 +1,6 @@
+title: are unavailable at runtime.
+pid: 87c2644d-9e60-414b-9ff5-9b198773f9a0
+body: |2-
+  By default parameters that are not explicitly ascribed a type in an interface declaration are assigned the quantity 0. This means that the parameter is not available to use at runtime in the methods’ definitions.
+
+  For instance, Show a gives rise to a 0-quantified type variable a in the type of the show method:

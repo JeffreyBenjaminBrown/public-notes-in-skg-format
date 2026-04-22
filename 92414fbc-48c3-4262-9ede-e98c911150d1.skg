@@ -1,0 +1,12 @@
+title: TODO 17\90 x 12\90
+pid: 92414fbc-48c3-4262-9ede-e98c911150d1
+body: |2-
+  [ 0 steps; 1 % 1 ; string 0 ; fret 0
+  , 90 steps; 2 % 1 ; string 6 ; fret - 1
+  , 53 steps; 3 % 2 ; string 1 ; fret 3
+  , 29 steps; 5 % 4 ; string 1 ; fret 1
+  , 73 steps; 7 % 4 ; string 5 ; fret - 1
+  , 15 steps; 9 % 8 ; string 3 ; fret - 3
+  , 41 steps; 11 % 8 ; string 1 ; fret 2
+  , 63 steps; 13 % 8 ; string 3 ; fret 1
+  , 82 steps; 15 % 8 ; string 2 ; fret 4

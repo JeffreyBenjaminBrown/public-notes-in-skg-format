@@ -1,0 +1,9 @@
+title: they can optionally be provided explicitly
+pid: 0047a5ab-a214-463d-ae92-bedc28d79abd
+body: |2-
+  e.g. for either of these equivalent definitions:
+    index : Fin n -> Vect n a -> a
+    index : forall a, n . Fin n -> Vect n a -> a
+  we could do this:
+    index {a=Int} {n=2} FZ (2 :: 3 :: Nil)
+  The {} stuff is optional.

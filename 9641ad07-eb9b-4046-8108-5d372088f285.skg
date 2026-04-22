@@ -1,0 +1,6 @@
+title: containerward_view
+pid: 9641ad07-eb9b-4046-8108-5d372088f285
+body: |2-
+  Document that if you haven't saved the buffer,
+  the retrieved view won't include any changes
+  that that saved buffer would cause.

@@ -1,0 +1,4 @@
+title: TODO huh? > sequenceAOf traversed [ZipList [1, 2], ZipList [3, 4]]
+pid: 4ac764b8-cb18-487a-a18d-c2c1df139f12
+body: |2-
+  ZipList {getZipList = [[1,3],[2,4]]}

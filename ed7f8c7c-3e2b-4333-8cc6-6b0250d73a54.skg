@@ -1,0 +1,4 @@
+title: '`scram`'
+pid: ed7f8c7c-3e2b-4333-8cc6-6b0250d73a54
+body: |2-
+  "Accepts floats to control the width and placement of the scrambling in the spectrum"

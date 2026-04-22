@@ -1,0 +1,5 @@
+title: run `ifconfig`
+pid: c1898e4a-ef84-4143-a722-dbdfdf378199
+body: |2-
+  Actually, some people online say that's deprecated,
+  and one should use `ip` instead.

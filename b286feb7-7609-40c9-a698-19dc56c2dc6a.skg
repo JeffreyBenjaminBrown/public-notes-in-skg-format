@@ -1,0 +1,4 @@
+title: default behavior
+pid: b286feb7-7609-40c9-a698-19dc56c2dc6a
+body: |2-
+  "By default, these panics will print a failure message, unwind, clean up the stack, and quit."

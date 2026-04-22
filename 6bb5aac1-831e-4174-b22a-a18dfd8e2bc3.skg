@@ -1,0 +1,4 @@
+title: TODO use HasCallStack to mark partial functions.
+pid: 6bb5aac1-831e-4174-b22a-a18dfd8e2bc3
+body: |2-
+  https://www.tweag.io/posts/2020-04-16-exceptions-in-haskell.html

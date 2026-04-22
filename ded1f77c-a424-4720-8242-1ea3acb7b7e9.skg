@@ -1,0 +1,20 @@
+title: TODO 11\53 x 2\53
+pid: ded1f77c-a424-4720-8242-1ea3acb7b7e9
+body: |2-
+  [ 0 steps; 1 % 1 ; string 0 ; fret 0
+  , 53 steps; 2 % 1 ; string 5 ; fret - 1
+  , 31 steps; 3 % 2 ; string 3 ; fret - 1
+  , 17 steps; 5 % 4 ; string 1 ; fret 3
+  , 43 steps; 7 % 4 ; string 3 ; fret 5
+  , 9 steps; 9 % 8 ; string 1 ; fret - 1
+  , 24 steps; 11 % 8 ; string 2 ; fret 1
+  , 37 steps; 13 % 8 ; string 3 ; fret 2
+  , 48 steps; 15 % 8 ; string 4 ; fret 2
+  , 5 steps; 17 % 16 ; string 1 ; fret - 3
+  , 13 steps; 19 % 16 ; string 1 ; fret 1
+  , 21 steps; 21 % 16 ; string 1 ; fret 5
+  , 28 steps; 23 % 16 ; string 2 ; fret 3
+  , 34 steps; 25 % 16 ; string 2 ; fret 6
+  , 40 steps; 27 % 16 ; string 4 ; fret - 2
+  , 45 steps; 29 % 16 ; string 3 ; fret 6
+  , 51 steps; 31 % 16 ; string 5 ; fret - 2

@@ -1,0 +1,6 @@
+title: But this (without wildcards) gives the same results.
+pid: 8bb34cab-8507-4745-a8c9-a89884b6e244
+body: |2-
+  SELECT DISTINCT city
+  FROM crime_scene_report
+  WHERE city BETWEEN 'W' AND 'Z';

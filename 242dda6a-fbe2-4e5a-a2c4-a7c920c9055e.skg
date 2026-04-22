@@ -1,0 +1,8 @@
+title: the filetree context I was in
+pid: 242dda6a-fbe2-4e5a-a2c4-a7c920c9055e
+body: |2-
+  I made a project called http_jbb by running
+    rebar3 new umbrella hhtp_jbb
+  It put an empty config file at
+    config/sys.config
+  That's what I modified.

@@ -1,0 +1,5 @@
+title: 'to add event handlers to it: gen_event:add_handler'
+pid: 3e10c901-f8f8-4cbc-9ec3-26bc234f5cea
+body: |2-
+  gen_event:add_handler( manager, handler, HandlerArgs).
+  It calls handler:init( HandlerArgs ).

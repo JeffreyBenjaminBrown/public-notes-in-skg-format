@@ -1,0 +1,4 @@
+title: The Handle pattern simplifies IO in Haskell.
+pid: 072bf308-4069-44ef-a760-d6a763190a9b
+body: |2-
+  https://jaspervdj.be/posts/2018-03-08-handle-pattern.html

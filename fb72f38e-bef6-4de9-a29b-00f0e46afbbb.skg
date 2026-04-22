@@ -1,0 +1,7 @@
+title: deletion \ skg
+pid: fb72f38e-bef6-4de9-a29b-00f0e46afbbb
+body: |2-
+  The user can add a "delete" (when saving) tag to the metadata.
+  They will probably want to bury most of the nodes so marked underneath one such node, to avoid clutter.
+misc:
+- Had_ID_Before_Import

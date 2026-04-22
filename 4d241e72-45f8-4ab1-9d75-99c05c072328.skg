@@ -1,0 +1,20 @@
+title: '13\62 x 10\62: 31-lim in 10 frets, octave (4,1)'
+pid: 4d241e72-45f8-4ab1-9d75-99c05c072328
+body: |2-
+  0 steps; 1 % 1 ; string 0 ; fret 0
+  62 steps; 2 % 1 ; string 4 ; fret 1
+  36 steps; 3 % 2 ; string 2 ; fret 1
+  20 steps; 5 % 4 ; string 0 ; fret 2
+  50 steps; 7 % 4 ; string 0 ; fret 5
+  11 steps; 9 % 8 ; string - 3 ; fret 5
+  28 steps; 11 % 8 ; string - 4 ; fret 8
+  43 steps; 13 % 8 ; string 1 ; fret 3
+  56 steps; 15 % 8 ; string 2 ; fret 3
+  5 steps; 17 % 16 ; string - 5 ; fret 7
+  15 steps; 19 % 16 ; string - 5 ; fret 8
+  24 steps; 21 % 16 ; string - 2 ; fret 5
+  32 steps; 23 % 16 ; string 4 ; fret - 2
+  40 steps; 25 % 16 ; string 0 ; fret 4
+  47 steps; 27 % 16 ; string - 1 ; fret 6
+  53 steps; 29 % 16 ; string 1 ; fret 4
+  59 steps; 31 % 16 ; string 3 ; fret 2

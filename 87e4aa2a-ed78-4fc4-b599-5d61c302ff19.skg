@@ -1,0 +1,10 @@
+title: meteorology
+aliases:
+- weather <- meteorology
+- atmosphere <- meteorology
+pid: 87e4aa2a-ed78-4fc4-b599-5d61c302ff19
+contains:
+- 07537ce0-f2eb-4c0a-b0a3-42a21651558f
+- 7c86f661-b868-481b-90c5-2290d0ad765f
+misc:
+- Had_ID_Before_Import

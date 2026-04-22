@@ -1,0 +1,7 @@
+title: Pre-computing skips in the (short) pattern.
+pid: ebade496-b497-4ea8-bafa-bb456deb3ff9
+body: |2-
+  Build two lookup tables, one for each rule,
+  using only the short pattern P (not the long text T).
+contains:
+- 54675499-6fc6-485c-b2fb-ec895e1a79b5

@@ -1,0 +1,4 @@
+title: transaction time limit
+pid: 3c454a4d-729d-45ea-a74b-19005b333b61
+body: |2-
+  Transactions are limited to, by default, 5 minutes. This is to prevent things like memory overruns.

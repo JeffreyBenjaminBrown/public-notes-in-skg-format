@@ -1,0 +1,10 @@
+title: 'PITFALL: Accessors are integers, kind of.'
+pid: 21d5d86e-ccd4-4719-8d6f-30108df0053f
+body: |2-
+  If `name` is the second field of the record type `gobot`,
+  then this monstrosity evaluates:
+
+  104> #gobot.name.
+  2
+  105> 1 + #gobot.name.
+  3

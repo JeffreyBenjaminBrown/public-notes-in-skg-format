@@ -1,0 +1,5 @@
+title: set, modify
+pid: 8e29b32c-0e8c-4441-9bb6-01f0aaf7f613
+body: |2-
+  ("Bubbles", "Buttercup") & both .~ "Blossom"
+  [1.1, 2.2, 3.3]          & each %~ floor

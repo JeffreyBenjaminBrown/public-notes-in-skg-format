@@ -1,0 +1,5 @@
+title: TODO learn how lexing works
+pid: a9218f10-1620-4eaf-a92b-cb0ea498a2fe
+body: |2-
+  The problem is that I've absorbed the detection of parens and quotation marks
+  (and space?) into the parsers for individual terms.

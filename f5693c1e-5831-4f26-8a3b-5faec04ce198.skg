@@ -1,0 +1,21 @@
+title: Threads cannot be unsafely terminated
+pid: f5693c1e-5831-4f26-8a3b-5faec04ce198
+body: |2-
+  # except with a little hacking:
+  # https://stackoverflow.com/questions/323972/is-there-any-way-to-kill-a-thread
+
+  from time import sleep
+  from threading import Thread
+
+  class MyThread (Thread):
+    def run(self):
+      print("I'm the mythread, about to sleep.")
+      sleep(2)
+      print("I'm the mythread, just woke up. Now I die.")
+
+  def go():
+    mt = MyThread()
+    print("I'm the go().")
+    mt.start()
+    print("go() quitting now.")
+    return 1

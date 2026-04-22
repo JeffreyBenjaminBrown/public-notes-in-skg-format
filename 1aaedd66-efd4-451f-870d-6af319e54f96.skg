@@ -1,0 +1,6 @@
+title: binary
+pid: 1aaedd66-efd4-451f-870d-6af319e54f96
+body: |2-
+  > 0x[1F FF]  # Hexadecimal
+  > 0b[1 1010] # Binary
+  > 0o[777]    # Octal

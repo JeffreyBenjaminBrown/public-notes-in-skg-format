@@ -1,0 +1,4 @@
+title: It avoids copying the value on each method call.
+pid: 1b8bf5c9-420b-4487-8799-3b96e0fa458e
+body: |2-
+  That can matter for big values.

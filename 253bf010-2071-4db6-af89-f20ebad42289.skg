@@ -1,0 +1,49 @@
+title: from the nix shell
+pid: 253bf010-2071-4db6-af89-f20ebad42289
+body: |2-
+  # ###################
+  mkdir /tmp/delme-serialosc
+  cd    /tmp/delme-serialosc
+  type genericBuild # prints the genericBuild recipe to screen
+    # KoviRobi somehow read this to know what to do next.
+  ${unpackPhase:-unpackPhase}
+  cd $sourceRoot
+    # sourceRoot = ./serialosc, as stated by the output of the previous step.
+  ${patchPhase:-patchPhase}
+    # I don't see this doing anything. Did it?
+  ${configurePhase:-configurePhase}
+    # The error happens here.
+  type ${configurePhase:-configurePhase}
+      # The waf script printed from the prior step.
+      # ###########################################
+      # KoviRobi suggests evaluating each of these steps in the nix-shell,
+      # until getting to the python step.
+      # Then run that (described next) in the Python debugger, pdb.
+      runHook preConfigure;
+      if ! [ -f "${wafPath:=./waf}" ]; then
+          echo "copying waf to $wafPath...";
+          cp /nix/store/msja67ann3qlvps7jajnx5zivyl4r715-waf-2.0.18 "$wafPath";
+      fi;
+      if [ -z "${dontAddPrefix:-}" ] && [ -n "$prefix" ]; then
+          wafConfigureFlags="${prefixKey:---prefix=}$prefix $wafConfigureFlags";
+      fi;
+      if true; then
+        local flagsArray=("${flagsArray[@]}" $wafConfigureFlags "${wafConfigureFlagsArray[@]}" ${configureTargets:-configure});
+        echoCmd 'configure flags' "${flagsArray[@]}";
+        python "$wafPath" "${flagsArray[@]}";
+      fi;
+      runHook postConfigure
+
+  python -m pdb "$wafPath" "${flagsArray[@]}";
+    # Does this run {configurePhase:-configurePhase} until hitting an error?
+    # Is wafPath the same as {configurePhase:-configurePhase}?
+    # If so, how did you know that?
+
+  # from Python debugger
+  # ###################
+  continue # or cont, or just c
+  break /nix/store/lbrpma3528hq7gwn8ffbnwaxvsqah0bb-python-2.7.17/lib/python2.7/subprocess.py:1047
+  continue
+  up
+  # press Return without entering a command to repeat the previous one.
+  print(popenargs)

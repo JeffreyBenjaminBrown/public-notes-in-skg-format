@@ -1,0 +1,19 @@
+title: in role
+pid: a50e1013-b455-4759-8e41-1171331b178b
+body: |2-
+  alias: some roles
+
+  editor
+  explainer
+  investigator
+  manager
+  note-taker
+  organizer
+  question-generator
+  reconciler
+  recorder-reporter
+  reviewer
+  social integrator
+  strategy evaluator
+  summarizer
+  timekeeper

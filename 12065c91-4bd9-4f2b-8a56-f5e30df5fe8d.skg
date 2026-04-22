@@ -1,0 +1,7 @@
+title: 'Put a passage like this before any local import statements:'
+pid: 12065c91-4bd9-4f2b-8a56-f5e30df5fe8d
+body: |2-
+  import sys
+  sys.path.insert(0, '.')
+    # assuming pytest is run from the top of the project, this
+    # allows local ("python.something.something") imports to work

@@ -1,0 +1,7 @@
+title: delete a set of foreign keys
+pid: 1355695b-ae23-4fe1-8762-e5d705198f7f
+body: |2-
+  This deletes not every choice, but every choice associated with q:
+
+   c = q . choice_set . filter( choice_text__startswith = 'Conquering')
+   c . delete()

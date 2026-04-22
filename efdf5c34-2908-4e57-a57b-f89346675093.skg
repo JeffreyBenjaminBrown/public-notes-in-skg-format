@@ -1,0 +1,4 @@
+title: 'The resulting error looks like this:'
+pid: efdf5c34-2908-4e57-a57b-f89346675093
+body: |2-
+  Error (org-roam): Failed to process /home/jeff/org-roam/pers/see_an_otologo.org with error End of file during parsing, skipping...

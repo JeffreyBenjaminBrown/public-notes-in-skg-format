@@ -1,0 +1,6 @@
+title: allow unmentioned fields with an ellipsis
+pid: dee97f09-8c99-469a-adf9-5c9286890090
+body: |2-
+    nix-repl> mul = { a, b, ... }: a*b
+  Without the ellipsis, you couldn't call this:
+    nix-repl> mul { a = 3; b = 4; c = 2; }

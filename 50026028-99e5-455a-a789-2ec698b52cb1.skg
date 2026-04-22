@@ -1,0 +1,8 @@
+title: Including only the condition
+pid: 50026028-99e5-455a-a789-2ec698b52cb1
+body: |2-
+  makes `for` behave like C's `while`.
+  In that case the semicolons are optional.
+  Example:
+    sum := 1
+    for sum < 1000 { sum += sum }

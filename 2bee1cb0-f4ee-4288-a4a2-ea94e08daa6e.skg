@@ -1,0 +1,5 @@
+title: use `expose` to get a public URL for something on localhost
+pid: 2bee1cb0-f4ee-4288-a4a2-ea94e08daa6e
+body: |2-
+  I guess "expose" is a shell application?
+  "you can get a public URL for a Node application being served from localhost or 127.0.0.1 on your local machine, even if its behind a firewall or corporate network? It doesn’t require any networking config and you can do it in a single command with expose, for example expose 80 as myapi.expose.sh."

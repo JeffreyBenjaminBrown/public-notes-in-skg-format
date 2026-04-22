@@ -1,0 +1,8 @@
+title: after manually downloading the source for it
+pid: 562972c2-c11e-4c84-a345-4f282bd29a70
+body: |2-
+     In a clone of nixpkgs:
+       Put the package somewhere in pkgs/.
+  Model it after nix pill 8 section 2, at
+  /home/jeff/nix/pills/08/2-generic/
+  NOTE: Requires manually downloading the source code.

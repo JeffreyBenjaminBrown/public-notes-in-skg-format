@@ -1,0 +1,7 @@
+title: The octave at string 2 fret 7 might look awkward
+pid: bf86f218-ec46-4346-8848-14b6f1de2975
+body: |2-
+  but if this is only used in the second octave,
+  it shouldn't be a problem --
+  7 frets of 14.5-edo in the second octave is narrower than
+  3 frets of 12-edo in the first octave.

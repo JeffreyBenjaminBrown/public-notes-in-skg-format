@@ -1,0 +1,4 @@
+title: to check tables, using these PRAGMAs
+pid: f66d2a9f-7709-4c65-985b-9f70fd941f7b
+body: |2-
+  "The PRAGMA integrity_check and PRAGMA quick_check commands check the type of the content of all columns in STRICT tables and show errors if anything is amiss."

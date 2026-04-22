@@ -1,0 +1,9 @@
+title: 'merging Python dictionaries (from *within* a dictionary) :  nwrap with **'
+pid: 88971f77-9463-446d-a07b-9ff1d0f601df
+body: |2-
+  PITFALL: Later keys clobber earlier ones.
+  { **{1:2, 3:4},
+    5:6,    # NOTE: key-val pairs can be mixed in like this.
+    **{7:8} }
+misc:
+- Had_ID_Before_Import

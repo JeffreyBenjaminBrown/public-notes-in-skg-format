@@ -1,0 +1,8 @@
+title: Don't build premature structure when mapping knowledge.
+pid: 5b7900ff-1792-47d1-a55a-8435f8766baf
+contains:
+- 5b2f2c62-ac18-4b16-8643-be329e80396b
+- f9f4e080-0142-4b5e-a411-7d387778caed
+- 53a51f32-d5f6-4261-9a79-d79b4d4164fd
+misc:
+- Had_ID_Before_Import

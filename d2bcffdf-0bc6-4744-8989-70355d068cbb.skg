@@ -1,0 +1,16 @@
+title: a pretty exact computation
+pid: d2bcffdf-0bc6-4744-8989-70355d068cbb
+body: |2-
+  The Lumatone in reality is 92 cm across.
+  The longest row of buttons, based on the color picture,
+  is 602 / 811 the length of the full keyboard, i.e.
+    ( (602 / 811) * 92 = 68.3 ) cm
+
+  (That implies each key is 68.3 / 28 = 2.44 cm across.)
+
+  In the black and white image of the keys only,
+  the longest row is 1335 / 1599 the length of the full image,
+  so measured across, the full image should be
+    ((1599 / 1335) * 68.3 = 81.8) cm
+contains:
+- 5e698ad5-97fa-4b5d-9bc1-737b229b4231

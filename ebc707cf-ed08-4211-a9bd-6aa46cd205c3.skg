@@ -1,0 +1,6 @@
+title: 'pkill -f : for when a process won''t be killed by name'
+pid: ebc707cf-ed08-4211-a9bd-6aa46cd205c3
+body: |2-
+  [[id:b77f584e-12c1-45dc-a2a8-4ec2c1eb1e6a][Firefox, for instance, is like this.]]
+  In that case use `pkill`.
+    pkill -f firefox

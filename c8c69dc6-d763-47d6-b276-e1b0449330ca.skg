@@ -1,0 +1,6 @@
+title: the theorem
+pid: c8c69dc6-d763-47d6-b276-e1b0449330ca
+body: |2-
+  Given a set C of colorings:
+    |orbits| = (1 / |symmetries|) *
+               sum over each symmetry g of |colorings in C fixed by g|

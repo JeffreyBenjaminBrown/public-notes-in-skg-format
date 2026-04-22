@@ -1,0 +1,28 @@
+title: my question | the problem
+pid: 255d072b-1248-4a01-a546-d9ea6908a544
+body: |2-
+  This afternoon, apropos of nothing obvious, my screen jumped from whatever I was looking at (probably Emacs, Konsole or a web browser) to the screen lock screen, except a little faded. It stopped recognizing keystrokes.
+
+  I later discovered that the power was extremely low. The power cable had disconnected. (Sometimes my machine has problems with power settings. For a while a few weeks ago they were grayed out under KDE's Settings menu, but now they seem fine.)
+
+  I rebooted, and now it recognizes keystrokes, but if I try to log in as my normal user ("jeff") it flashes some text too fast to read and then returns me to the login screen. I took [a video of that process](https://drive.google.com/file/d/1JKGONRJbBQRZHAZavPEKzvQaG2qXC1NB/view?usp=sharing). For some reason VLC doesn't work when I'm root so I can't look at it.
+
+  I can still log in as root, so I modified my configuration to create another user called "j2". That seems to rebuild fine, except that it complains about an MIT-MAGIC-COOKIE problem:
+  ```
+  [root@jbb-hp17:/home]# sudo nixos-rebuild switch
+  building Nix...
+  building the system configuration...
+  activating the configuration...
+  warning: not applying UID change of user ‘jeff’ (1000 -> 999)
+  setting up /etc...
+  reloading user units for root...
+  reloading user units for jeff...
+  Invalid MIT-MAGIC-COOKIE-1 keyxset:  unable to open display ":0"
+  setting up tmpfiles
+  ```
+
+  After that, when I run `chpasswd j2`, it hangs until I press Ctrl-C:
+  ```
+  [root@jbb-hp17:/home/jeff]# chpasswd j2
+  ^C
+  ```

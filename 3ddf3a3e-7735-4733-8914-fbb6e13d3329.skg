@@ -1,0 +1,7 @@
+title: TODO shrink memory footprint, git-compatible, keep timestamps
+pid: 3ddf3a3e-7735-4733-8914-fbb6e13d3329
+body: |2-
+  Aggregate data into fewer files.
+  After each node ID, keep its creation date and its last modified date.
+  That way a little awk or something can find me the diff history of that node,
+  without bringinng the history of everything else with it.

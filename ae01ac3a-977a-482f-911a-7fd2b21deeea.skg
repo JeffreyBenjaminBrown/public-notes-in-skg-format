@@ -1,0 +1,8 @@
+title: 'PITFALL: Evaluation and mutability are hairy. Sequence matters.'
+pid: ae01ac3a-977a-482f-911a-7fd2b21deeea
+body: |2-
+  https://www.gnu.org/software/emacs/manual/html_node/elisp/Mutability.html
+contains:
+- b365e878-8192-4436-a7c8-a377160c7b1e
+misc:
+- Had_ID_Before_Import

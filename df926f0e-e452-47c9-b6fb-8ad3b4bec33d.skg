@@ -1,0 +1,4 @@
+title: if desired, at the end of the matched line
+pid: df926f0e-e452-47c9-b6fb-8ad3b4bec33d
+body: |2-
+  If ctrlf-show-match-count-at-eol is non-nil (the default), then this information is also shown at the end of the current line in the buffer being searched, which alleviates the problem of needing to look back and forth between the minibuffer and the buffer being searched.

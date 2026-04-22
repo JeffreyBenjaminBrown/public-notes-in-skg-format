@@ -1,0 +1,5 @@
+title: changing their names, descriptions
+pid: d36172c6-436f-4350-a42d-cab3b7f773f9
+body: |2-
+  sudo mg /boot/loader/entries/[entry].conf
+  maybe add a description

@@ -1,0 +1,13 @@
+title: a foreign library
+pid: 63f6ab46-ff58-4ac2-9e88-bd8cb6d2f592
+body: |2-
+  #+BEGIN_SRC haskell
+  module Foreign where
+
+  data Foo = Foo {..}
+
+  bar :: Foo -> WhatBarReturns
+    -- TODO: What about IO?
+    --       What if the return value needs decoding?
+  bar = ...
+  #+END_SRC

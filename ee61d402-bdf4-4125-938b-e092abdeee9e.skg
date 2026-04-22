@@ -1,0 +1,8 @@
+title: set a variable (global or local)
+pid: ee61d402-bdf4-4125-938b-e092abdeee9e
+body: |2-
+  (setq x 'value)
+contains:
+- 019a8819-f7ce-4f90-b5ee-d44eaf06864d
+misc:
+- Had_ID_Before_Import

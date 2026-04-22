@@ -1,0 +1,18 @@
+title: an example
+pid: f4ff891e-6f73-400f-aeda-df26d8d53186
+body: |2-
+  { pkgs ? import <nixpkgs> {} }:
+  (pkgs.buildFHSUserEnv {
+    name = "pipzone";
+    targetPkgs = pkgs: (with pkgs; [
+      glibc
+      python310
+      python310Packages.pip
+      python310Packages.numpy
+      python310Packages.pandas
+      virtualenv
+      zlib
+      zlib.dev
+    ]);
+    runScript = "bash";
+  }).env

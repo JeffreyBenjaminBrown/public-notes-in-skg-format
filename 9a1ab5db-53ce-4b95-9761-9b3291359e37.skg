@@ -1,0 +1,6 @@
+title: 'the following top-level files or folders:'
+pid: 9a1ab5db-53ce-4b95-9761-9b3291359e37
+body: |2-
+  db.sqlite3
+  <site-name>/ # without the <> marks
+  manage.py

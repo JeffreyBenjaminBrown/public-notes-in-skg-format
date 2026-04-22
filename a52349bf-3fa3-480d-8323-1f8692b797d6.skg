@@ -1,0 +1,4 @@
+title: futures
+pid: a52349bf-3fa3-480d-8323-1f8692b797d6
+body: |2-
+  "The futures crate is an official home for Rust experimentation for async code, and it’s actually where the Future trait was originally designed."

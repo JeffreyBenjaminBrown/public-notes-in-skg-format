@@ -1,0 +1,13 @@
+title: TODO mysteries
+pid: 5a925690-9d3b-4bc7-ab0c-0c630feb518f
+body: |2-
+  > ("abc", "def") ^.. each
+  ["abc","def"]
+  > ("abc", "def") ^.. partsOf each
+  [ ["abc","def"] ]
+  > ("abc", "def") ^..         each . traversed
+  "abcdef"
+  > ("abc", "def") ^.. partsOf each . traversed
+  ["abc","def"]
+  > ("abc", "def") ^.. partsOf (each . traversed)
+  ["abcdef"]

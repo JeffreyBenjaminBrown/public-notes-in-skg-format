@@ -1,0 +1,4 @@
+title: how keys and values are encoded
+pid: 187030d9-ad2b-4bb8-a3cb-cc428b2db16d
+body: |2-
+  "in key-value tuples separated by '&', with a '=' between the key and the value"

@@ -1,0 +1,4 @@
+title: on ordinary Linux, I think, do this
+pid: 20bc1c4f-4280-4986-8d03-a1734f8d9dc8
+body: |2-
+  sudo systemctl restart cntlm

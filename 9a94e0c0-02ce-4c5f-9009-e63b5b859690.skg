@@ -1,0 +1,7 @@
+title: What is the event loop?
+pid: 9a94e0c0-02ce-4c5f-9009-e63b5b859690
+body: |2-
+  When can I have Emacs respond to user input? Is there a callback I can call every time the user presses anything, and another to call every time a file changes?
+  How does concurrency work, if at all?
+contains:
+- b89cfe71-6772-4c1c-8bbb-0fe2a22081f8

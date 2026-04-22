@@ -1,0 +1,2 @@
+title: Static objects are copied rather than moved into "move closures".
+pid: 83c058e1-4a06-413a-b739-c78710ed21a3

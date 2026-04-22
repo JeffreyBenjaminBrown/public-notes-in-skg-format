@@ -1,0 +1,7 @@
+title: DONE from Django, use the `csv` package rather than pandas
+pid: 3daa09b9-8b82-4672-b8f9-b77d905f7010
+contains:
+- 4ca07685-5373-4c72-873d-7c643c1d22e9
+- 3ee60655-73f2-4f19-baae-bab321e36355
+misc:
+- Had_ID_Before_Import

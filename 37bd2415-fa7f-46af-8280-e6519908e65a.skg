@@ -1,0 +1,5 @@
+title: 'Motivation: Why this makes diffs easy to read.'
+pid: 37bd2415-fa7f-46af-8280-e6519908e65a
+body: |2-
+  Each move is just a single insertion-deletion pair,
+  consisting of just two lines in the diff.

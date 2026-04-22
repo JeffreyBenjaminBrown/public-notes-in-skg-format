@@ -1,0 +1,8 @@
+title: the .emacs code I was using for it
+pid: 5d9429a5-e424-46c7-84b3-e19620862c84
+body: |2-
+  ;; vertigo: jump many lines from home keys
+  (global-linum-mode)		;; always show line numbers
+  (linum-relative-global-mode)	;; make them relative
+  (global-set-key (kbd "M-p") 'vertigo-jump-up)
+  (global-set-key (kbd "M-n") 'vertigo-jump-down)

@@ -1,0 +1,8 @@
+title: TODO ? authentication for Apache via Django
+pid: 6ea959b3-ba10-4830-adbc-c031b2311fc4
+body: |2-
+  https://docs.djangoproject.com/en/3.1/howto/deployment/wsgi/apache-auth/
+  """
+  Django provides a handler to allow Apache to authenticate users directly
+  against Django’s authentication backends.
+  """

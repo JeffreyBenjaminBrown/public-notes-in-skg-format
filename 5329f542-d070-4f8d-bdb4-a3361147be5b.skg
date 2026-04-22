@@ -1,0 +1,10 @@
+title: how to convert iPython notebook files to plain python
+pid: 5329f542-d070-4f8d-bdb4-a3361147be5b
+body: |2-
+  Run from the shell
+  (I used Bash, but others surely work too)
+  this creates a new .py file from each .ipynb file:
+
+  jupyter nbconvert --to script *.ipynb
+misc:
+- Had_ID_Before_Import

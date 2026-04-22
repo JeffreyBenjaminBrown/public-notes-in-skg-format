@@ -1,0 +1,7 @@
+title: 'use defaults in, e.g., amp :: (Float -> Float) -> Museq -> Museq'
+pid: e8d9018c-5540-4e55-8480-099ed9c8d810
+body: |2-
+  This might be stale.
+  Certainly "amp" and "ampTo", which it refers to, are no longer defined.
+contains:
+- ec313a7c-6512-40bf-a495-83d1bdd90324

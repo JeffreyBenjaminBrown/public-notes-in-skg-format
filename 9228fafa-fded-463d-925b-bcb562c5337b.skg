@@ -1,0 +1,7 @@
+title: to prevent loud unisons during polyphonic merges
+pid: 9228fafa-fded-463d-925b-bcb562c5337b
+body: |2-
+  Use per-voice explicit or random phase|freq variation.
+  This way, when a polyphonic Museq is joined with another,
+  and the poly one is silent,
+  the many voices will not create huge waveform peaks.

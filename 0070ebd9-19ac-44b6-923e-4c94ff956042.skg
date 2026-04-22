@@ -1,0 +1,6 @@
+title: 'NTFS: "linux" format?'
+pid: 0070ebd9-19ac-44b6-923e-4c94ff956042
+body: |2-
+  Good for files up to (16 EiB – 1 KB) (insanely huge).
+  Works on Windows and on most Linux distributions.
+  Works on Mac but read-only.

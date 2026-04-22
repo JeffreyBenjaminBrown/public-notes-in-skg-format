@@ -1,0 +1,26 @@
+title: code to see it
+pid: 85c0d7bc-127a-4d93-9f47-6e0fc6f15513
+body: |2-
+  d = pd.DataFrame ( [
+      [np.nan,np.nan,np.nan],
+      [     1,np.nan,np.nan],
+      [     1,     1,np.nan],
+      [     1,     2,np.nan],
+      [     1,     2,1],
+      [     2,np.nan,np.nan],
+      [     2,     1,np.nan],
+      [     2,     2,np.nan],
+      [np.nan,np.nan,np.nan],
+      [     1,np.nan,np.nan],
+      [     1,     1,np.nan],
+      [     1,     2,np.nan],
+      [     1,     2,1],
+      [     2,np.nan,np.nan],
+      [     2,     1,np.nan],
+      [     2,     2,np.nan],
+      ],
+      columns = ["a","b","c"] )
+
+  ( d
+   . sort_values ( ["a","b","c"],
+                  ascending = False ) )

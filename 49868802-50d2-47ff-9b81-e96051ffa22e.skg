@@ -1,0 +1,4 @@
+title: 'temporary user burdens: query order, dependency validity'
+pid: 49868802-50d2-47ff-9b81-e96051ffa22e
+body: |2-
+  Eventually the code should be able to determine which queries depend on which others, and whether a sequential solution exists.

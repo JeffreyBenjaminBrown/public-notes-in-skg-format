@@ -1,0 +1,4 @@
+title: configure git to use diff-so-fancy
+pid: 068a41b0-2751-4fd1-8a2e-43d3c67f7fc0
+body: |2-
+  git config --global core.pager "diff-so-fancy | less --tabs=4 -RFX"

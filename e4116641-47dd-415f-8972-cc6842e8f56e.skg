@@ -1,0 +1,20 @@
+title: starting multiple timers at once, with different end times
+pid: e4116641-47dd-415f-8972-cc6842e8f56e
+body: |2-
+  #+BEGIN_SRC haskell
+  d1 $ sound $ stack
+    [ "[bd*2 bleep sn:1 hc*2]/4"
+    , "gabba/8"
+    , "[~ hh]*4" ]
+
+  jumpMod' 1 8 0 $ sound "[bd,<hc hh>*8]"
+
+  jumpMod' 1 8 7 $ sound "bd*4"
+
+  do setcps 1
+     d1 $ (1/32) <~ ( s "numbers" |*| n (slow 8 $ run 8) )
+     d2 $ s "[gabba/8, bd, hh*4]"
+
+  do jumpMod' 2 8 0 $ sound "[bd,<hc hh>*8]"
+     jumpMod' 2 8 7 $ sound "bd*4"
+  #+END_SRC

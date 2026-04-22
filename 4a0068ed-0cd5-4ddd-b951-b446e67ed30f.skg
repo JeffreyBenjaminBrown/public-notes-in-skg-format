@@ -1,0 +1,4 @@
+title: 'aliases : variables with multiple names'
+pid: 4a0068ed-0cd5-4ddd-b951-b446e67ed30f
+body: |2-
+  "make two variables synonyms, so that both variables always have the same value, and changing either one also changes the other."

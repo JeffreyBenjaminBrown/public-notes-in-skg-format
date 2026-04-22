@@ -1,0 +1,5 @@
+title: more stuff I made up
+pid: d36aea5b-79f4-4da9-9f74-4bc7fe76b603
+body: |2-
+  chown -R www-data /var/log
+  chgrp -R www-data /var/log

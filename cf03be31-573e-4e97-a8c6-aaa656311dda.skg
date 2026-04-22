@@ -1,0 +1,4 @@
+title: To SELECT multiple columns, separate them with commas.
+pid: cf03be31-573e-4e97-a8c6-aaa656311dda
+body: |2-
+  SELECT id, name FROM person LIMIT 10;

@@ -1,0 +1,19 @@
+title: Edo 140 ; StringGap 28 ; FretGap 9
+pid: bb811f15-ca48-4ec6-aef2-99d69c16b48d
+body: |2-
+  , 140 steps; 2 % 1 ; string 5 ; fret 0
+  , 82 steps; 3 % 2 ; string 1 ; fret 6
+  , 45 steps; 5 % 4 ; string 0 ; fret 5
+  , 113 steps; 7 % 4 ; string 5 ; fret - 3
+  # , 24 steps; 9 % 8 ; string - 3 ; fret 12
+  , 64 steps; 11 % 8 ; string 1 ; fret 4
+  # , 98 steps; 13 % 8 ; string - 1 ; fret 14
+  # , 127 steps; 15 % 8 ; string 1 ; fret 11
+  # , 12 steps; 17 % 16 ; string 3 ; fret - 8
+  # , 35 steps; 19 % 16 ; string - 1 ; fret 7
+  , 55 steps; 21 % 16 ; string 1 ; fret 3
+  , 73 steps; 23 % 16 ; string 1 ; fret 5
+  # , 90 steps; 25 % 16 ; string 0 ; fret 10
+  # , 106 steps; 27 % 16 ; string - 2 ; fret 18
+  , 120 steps; 29 % 16 ; string 3 ; fret 4
+  # , 134 steps; 31 % 16 ; string - 1 ; fret 18

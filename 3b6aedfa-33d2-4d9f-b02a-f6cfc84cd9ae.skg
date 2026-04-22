@@ -1,0 +1,2 @@
+title: join() blocks the (caller?) until the joining thread completes.
+pid: 3b6aedfa-33d2-4d9f-b02a-f6cfc84cd9ae

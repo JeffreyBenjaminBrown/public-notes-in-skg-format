@@ -1,0 +1,5 @@
+title: Variables starting with an underscore are normal variables, except the compiler won't complain if they're not used.
+pid: b7654dc6-7745-43f9-906f-f252b9c4b928
+body: |2-
+  Just like other variables,
+  it is not possible to bind them more than once.

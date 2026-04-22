@@ -1,0 +1,6 @@
+title: In these instructions, they are assumed to be /dev/sda<x>,
+pid: 098b2065-0173-49ff-a28f-f82197f6532a
+body: |2-
+  where <x> varies across partitions.
+  But on the tiny server it's /dev/nvme0n1p<x> --
+  note the `p` between the last 1 and the <x>.

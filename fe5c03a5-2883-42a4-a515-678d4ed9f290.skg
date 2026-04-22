@@ -1,0 +1,7 @@
+title: 'PTIFALL: stack gchi: if no libraries are available'
+pid: fe5c03a5-2883-42a4-a515-678d4ed9f290
+body: |2-
+  https://github.com/commercialhaskell/stack/issues/5037
+  This will load all non-broken modules when some are broken.
+    stack exec -- ghci -Wall
+    :l Hode.Hode

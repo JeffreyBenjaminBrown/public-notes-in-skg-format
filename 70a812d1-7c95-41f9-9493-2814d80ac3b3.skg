@@ -1,0 +1,6 @@
+title: batch add
+pid: 70a812d1-7c95-41f9-9493-2814d80ac3b3
+body: |2-
+  Toggle a checkbox window at the side of the main window.
+  Add (_isChecked :: Bool) to OtherProps.
+  Introduce an /each keyword for expression-insertion purposes.

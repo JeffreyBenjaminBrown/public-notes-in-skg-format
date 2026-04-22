@@ -1,0 +1,12 @@
+title: '5\46 left x 4\46 down: tight but way diagonal'
+pid: 3a9b12a4-7bbe-4e45-8c5e-4cae3ded4195
+body: |2-
+  [ 0  steps; 1 % 1;  string 0; fret 0
+  , 8  steps; 9 % 8;  string 0; fret 2
+  , 21 steps; 11 % 8; string 1; fret 4
+  , 15 steps; 5 % 4;  string 3; fret 0
+  , 27 steps; 3 % 2;  string 3; fret 3
+  , 32 steps; 13 % 8; string 4; fret 3
+  , 37 steps; 7 % 4;  string 5; fret 3
+  , 42 steps; 15 % 8; string 6; fret 3
+  , 46 steps; 2 % 1;  string 6; fret 4

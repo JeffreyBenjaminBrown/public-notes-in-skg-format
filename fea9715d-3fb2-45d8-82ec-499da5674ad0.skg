@@ -1,0 +1,11 @@
+title: using `select`
+pid: fea9715d-3fb2-45d8-82ec-499da5674ad0
+body: |2-
+  func fanIn ( input1, input2 <-chan string )
+             <-chan string {
+    c := make (chan string)
+  go func() { for { select {
+    case s := <-input1: c <- s
+    case s := <-input2: c <- s
+  } } } ()
+  return c

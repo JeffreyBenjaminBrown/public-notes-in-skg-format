@@ -1,0 +1,4 @@
+title: this worked <2024-06-26 Wed>
+pid: 257a4d22-11e8-4ddf-aaf0-8c585c8335ed
+body: |2-
+  pandoc --pdf-engine=pdfroff --output=README.pdf README.md

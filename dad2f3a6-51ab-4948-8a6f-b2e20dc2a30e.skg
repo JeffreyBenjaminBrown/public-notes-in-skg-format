@@ -1,0 +1,12 @@
+title: problem with Product Manager path
+pid: dad2f3a6-51ab-4948-8a6f-b2e20dc2a30e
+body: |2-
+  It wants this path to exist:
+    C:\users\jeff\Documents\IK Multimedia\IK Product Manager
+  One strange thing is that
+    /home/jeff/.wine/drive_c/users/jeff/Documents
+  is actually a symlink to the non-Wine folder
+    /home/jeff/Documents
+  Another is that when I created
+    /home/jeff/Documents/IK Multimedia/IK Product Manager
+  it still claimed not to see the path.

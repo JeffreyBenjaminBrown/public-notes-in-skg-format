@@ -1,0 +1,5 @@
+title: 'PITFALL: the idea'
+pid: 23972588-57e9-464a-85bc-e4924c83825e
+body: |2-
+  One has to include an assertion that a branch is unreachable,
+  then run mypy, which issue an error.

@@ -1,0 +1,20 @@
+title: it
+pid: c34ac87b-27a0-41d1-917a-fe1a4259cd7e
+body: |2-
+  I'm in the same boat kinda, but even more outdated on some parts. I had some AI specialization back in college, but that was before deep learning was even a thing, so we did stuff like self-organizing maps and evolutionary algorithms, but it wasn't really all that useful for much back then. Been following deep learning from the sidelines, but for work my AI work has been restricted to GOFAI until recently.
+
+  Some of the stuff I'm currently reading/watching or have recently
+
+  Practical Deep Learning, though it sounds like you may know this stuff already (https://course.fast.ai/)
+
+  Practical Deep learning part 2, more about diffusion models. Full course coming early next year (https://www.fast.ai/posts/part2-2022-preview.html)
+
+  Hugging Face course (https://huggingface.co/course/chapter1/1)
+
+  Diffusion models from hugging face https://huggingface.co/blog/annotated-diffusion https://huggingface.co/docs/diffusers/index
+
+  Andrej Karpathy's Neural Networks: Zero to Hero. He goes from the basics up to how GPT etc, so you can start wherever suits you (https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThs...)
+
+  3blue1brown's videos. I've found all his videos on neural networks and math worth watching, even for stuff that I already know, he sometimes has some new perspectives and nice animations.
+
+  brilliant.org. Nice math refresher and the courses there are almost like fun little games.

@@ -1,0 +1,5 @@
+title: by default, all constructors are linear
+pid: 8c30aa26-1a16-4d9a-b5d0-be0621d92e7a
+body: |2-
+  data Maybe a = Nothing | Just a
+  -- Just :: a %1 -> Maybe a

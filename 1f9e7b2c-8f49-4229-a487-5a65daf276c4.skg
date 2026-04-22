@@ -1,0 +1,6 @@
+title: takes a little QJackCtl configuration
+pid: 1f9e7b2c-8f49-4229-a487-5a65daf276c4
+body: |2-
+  Ardour says that to use JACK, must disable "ALSA Sequencer Support"
+  in QJackCtl under Setup > Misc:
+  https://manual.ardour.org/setting-up-your-system/setting-up-midi/midi-on-linux/

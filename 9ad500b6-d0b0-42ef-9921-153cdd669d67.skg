@@ -1,0 +1,6 @@
+title: details
+pid: 9ad500b6-d0b0-42ef-9921-153cdd669d67
+body: |2-
+  Docker automatically created an internal virtual network (br-...) using the IP range 172.18.0.0/16. But the MinCIT Invitados WiFi network also uses the 172.18.x.x range, including 172.18.0.248, the captive portal’s login address.
+
+  Because Docker registered a more general route (172.18.0.0/16) via its own internal bridge, any attempt to reach the real 172.18.0.x addresses got routed to Docker instead of the WiFi interface. Firefox couldn’t connect to the captive portal, even though the network was working and my phone could connect.

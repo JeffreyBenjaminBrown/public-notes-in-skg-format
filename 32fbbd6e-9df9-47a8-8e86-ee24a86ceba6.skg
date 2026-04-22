@@ -1,0 +1,4 @@
+title: lately
+pid: 32fbbd6e-9df9-47a8-8e86-ee24a86ceba6
+body: |2-
+  ssh -i $JBB_AWS_PEM $JBB_AWS_USER@$JBB_AWS_HOST

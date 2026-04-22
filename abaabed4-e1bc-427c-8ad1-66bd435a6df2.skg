@@ -1,0 +1,17 @@
+title: what it would look like
+pid: abaabed4-e1bc-427c-8ad1-66bd435a6df2
+body: |2-
+    * grandchild
+      * } child ;; "}" indicates reverse containment
+        * }I parent ;; I indicates has ID but is not file.
+          * } more of the ancestry
+            * }F The "F"ile containing them.
+              ;; Here begins the "recursion".
+              ;; Give this the ID "f1".
+              * R references to it ;; R indicates this is an intermediating relationship heading, not itself a heading in any .org file.
+                * a heading with a [link to F1]
+                  * } bla ...
+                    * }F a file
+                * another heading with a [link to F1]
+                  * } bla ...
+                    * }F another file

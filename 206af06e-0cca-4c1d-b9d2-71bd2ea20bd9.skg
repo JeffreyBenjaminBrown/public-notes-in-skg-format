@@ -1,0 +1,8 @@
+title: a way to trigger it
+pid: 206af06e-0cca-4c1d-b9d2-71bd2ea20bd9
+body: |2-
+  /a a # b # c # d
+  /f a # b # c # d
+  <view members>
+  /a (a # c) # (c # b)
+  /sr (/t /_ "" /_)

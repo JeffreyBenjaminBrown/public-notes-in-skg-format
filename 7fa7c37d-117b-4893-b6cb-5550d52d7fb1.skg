@@ -1,0 +1,12 @@
+title: the ontology
+pid: 7fa7c37d-117b-4893-b6cb-5550d52d7fb1
+body: |2-
+  An ontology is a formal description of knowledge consisting of a collection of relationships. There is no consensus on which kinds of relationships an ontology must include, but some examples should convey the idea.
+
+  Synonymy are antonymy are two ontological relationships familiar from grade school. Both help reduce the complexity of indexing the internet, by helping the indexer recognize equivalent statements.
+
+  Two less familiar ontological relationships are subsumption ("is-a") and meronymy ("has-a"). Subsumption relationships take the form "everything in [category] is in [bigger category]" -- for instance, a squirrel is a mammal. Meronymy relationships are of the form "everything in [category] contains something in [category]" -- for instance, a car has an engine.
+
+  As described above in "[[id:6d320931-c091-470b-a0ff-7467327060ed][search better]]", inclusion of an ontology in (or, more accurately, continuously incorporating ontological relationships into) the Shyg index will allow users to search across large categories without having to specify every member of each category.
+misc:
+- Had_ID_Before_Import

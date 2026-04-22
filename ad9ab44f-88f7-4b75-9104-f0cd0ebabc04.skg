@@ -1,0 +1,7 @@
+title: an example
+pid: ad9ab44f-88f7-4b75-9104-f0cd0ebabc04
+body: |2-
+  {deps, [
+    {gleam_stdlib, "0.16.0"},
+    {gleam_otp, "0.1.6"}
+  ]}.

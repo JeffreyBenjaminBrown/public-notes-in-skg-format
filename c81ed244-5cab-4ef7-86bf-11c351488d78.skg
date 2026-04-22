@@ -1,0 +1,9 @@
+title: to delete a network connection from KDE's Network Manager
+pid: c81ed244-5cab-4ef7-86bf-11c351488d78
+body: |2-
+  Run
+    nmcli connection delete <connection name>
+  where <connection name> is what appears in the network manager GUI.
+  The name should be in parentheses, and capitalization matters.
+misc:
+- Had_ID_Before_Import

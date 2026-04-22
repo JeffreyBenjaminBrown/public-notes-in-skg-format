@@ -1,0 +1,5 @@
+title: One use for dependent pairs is to return values of dependent types where the index is not necessarily known in advance.
+pid: 19a912a9-89bd-437b-b033-9a55bfd134f8
+body: |2-
+  For example, if we filter elements out of a Vect according to some predicate, we will not know in advance what the length of the resulting vector will be:
+  filter : (a -> Bool) -> Vect n a -> (p ** Vect p a)

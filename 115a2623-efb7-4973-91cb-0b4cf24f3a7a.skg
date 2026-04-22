@@ -1,0 +1,5 @@
+title: 'PITFALL: make dynamically-sized slices with "make"'
+pid: 115a2623-efb7-4973-91cb-0b4cf24f3a7a
+contains:
+- 996a019a-73ca-4e8d-aed1-54b5153f14db
+- 7cabd979-2fe8-4f83-b65a-c398a4f10b93

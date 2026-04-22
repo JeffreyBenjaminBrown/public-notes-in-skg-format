@@ -1,0 +1,5 @@
+title: maybe a folder for each app located in the project
+pid: b250a2b0-7602-4cee-b55e-72b09fbcf6d0
+body: |2-
+  Initially there are no such folders.
+  There never need to be, because [[id:32559301-8128-44b0-a309-ca33c8909f31][apps can live anywhere on your Python path]]

@@ -1,0 +1,4 @@
+title: extract the .7z archive with "7z x <filename>"
+pid: 6131b025-e755-4601-9141-fa5761456b39
+body: |2-
+  (not "7z e" like I expected).

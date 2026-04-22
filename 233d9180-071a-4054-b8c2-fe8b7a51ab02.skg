@@ -1,0 +1,7 @@
+title: 'PITFALL: This seems to need to be done from the *options* menu.'
+pid: 233d9180-071a-4054-b8c2-fe8b7a51ab02
+body: |2-
+  That's the thing that comes up in Magit
+  when I press "S-d" (capital d).
+  And once in, saving the changes might just require "x-s",
+  not "C-x C-s" as documented below.

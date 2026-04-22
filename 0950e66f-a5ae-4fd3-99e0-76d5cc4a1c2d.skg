@@ -1,0 +1,9 @@
+title: run a static binary on NixOS
+pid: 0950e66f-a5ae-4fd3-99e0-76d5cc4a1c2d
+contains:
+- d75016c1-5be8-49b8-a4a1-4a5136be39e7
+- 2af32d02-a4ac-4949-8189-bc92b5585f31
+- 916593c0-6cf1-4a6b-9010-92c185127dae
+- 799e94b8-bcfd-49e6-9dc6-5403ac12f165
+misc:
+- Had_ID_Before_Import

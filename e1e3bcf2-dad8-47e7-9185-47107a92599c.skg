@@ -1,0 +1,10 @@
+title: delete a partition with fdisk
+pid: e1e3bcf2-dad8-47e7-9185-47107a92599c
+body: |2-
+  serial
+contains:
+- eaf9ccb8-d36f-459f-9f26-da782e144cd6
+- 76e8abf5-9ec0-4d9c-ba69-7ae0544e3d50
+- fea70b29-bc25-48fc-91f8-76ab3e01e637
+- 871d06d0-ee44-4fd4-ad65-1f7b6ef59fa0
+- f152e019-87f1-4010-8e36-e980b10b32b6

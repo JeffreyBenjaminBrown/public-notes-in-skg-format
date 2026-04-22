@@ -1,0 +1,4 @@
+title: announce the separator used in a .csv file
+pid: 6dd3f9a0-b652-4297-a866-60bcb6e9877c
+body: |2-
+  put something like "sep=;" at the top of the file

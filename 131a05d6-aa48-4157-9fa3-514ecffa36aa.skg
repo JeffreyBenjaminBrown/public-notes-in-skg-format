@@ -1,0 +1,7 @@
+title: from within the project, start the server, on *every* address
+pid: 131a05d6-aa48-4157-9fa3-514ecffa36aa
+body: |2-
+  python manage.py runserver 0.0.0.0:8000
+contains:
+- d9c981a2-b80b-4e23-8320-39cbb6134866
+- 14b92d14-57f7-4c46-8f16-242a0479ee90

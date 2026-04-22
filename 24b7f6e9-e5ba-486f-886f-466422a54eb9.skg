@@ -1,0 +1,5 @@
+title: 'C-s: next match'
+pid: 24b7f6e9-e5ba-486f-886f-466422a54eb9
+body: |2-
+  With prefix argument, also convert a regexp search back to a literal search.
+  If there is no search query, insert the previous one, as if you had typed M-p.

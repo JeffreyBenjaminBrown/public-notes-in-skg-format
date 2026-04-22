@@ -1,0 +1,5 @@
+title: Imported modules can be qualified.
+pid: 1734f121-33c3-454d-95a6-bd8fbed9e97f
+body: |2-
+  import unix/cat
+  import animal/cat as kitty

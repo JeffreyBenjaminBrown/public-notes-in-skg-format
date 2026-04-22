@@ -1,0 +1,5 @@
+title: Counting backward *shuold* work with negative numbers, doesn't.
+pid: 5593df0e-bc1d-443d-b53a-1719a58d5c37
+body: |2-
+  There's a known ghostscript bug preventing it
+  from working for me as of <2025-11-04 Tue>.

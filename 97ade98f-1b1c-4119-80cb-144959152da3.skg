@@ -1,0 +1,8 @@
+title: '`actFree reg when (Free _ name)`'
+pid: 97ade98f-1b1c-4119-80cb-144959152da3
+body: |2-
+  if it doesn't find `name` in `reg`, logs an error and returns `id`.
+  If it does, it
+    schedules an amp=0 message for its "when" argument,
+    schedules a free message for shortly thereafter,
+    and returns a way to delete the synth.

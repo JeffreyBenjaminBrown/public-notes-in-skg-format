@@ -1,0 +1,4 @@
+title: package dependencies can be overridden
+pid: 9b4ef673-4397-44b6-ba6e-d609b1664701
+body: |2-
+  environment.systemPackages = [ (pkgs.emacs.override { gtk = pkgs.gtk3; }) ];

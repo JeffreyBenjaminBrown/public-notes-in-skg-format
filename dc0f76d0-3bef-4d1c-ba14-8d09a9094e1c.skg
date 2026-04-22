@@ -1,0 +1,11 @@
+title: create a partition with fdisk
+pid: dc0f76d0-3bef-4d1c-ba14-8d09a9094e1c
+body: |2-
+  serial
+contains:
+- 42a27355-27bd-422f-9fea-735ca4e855e1
+- 712c6ad4-7d24-4172-967e-b8a7f0bb9c16
+- 0ccfaeb6-5ae2-4e53-971f-ba77eaf40198
+- 3b7d22d8-296a-481c-973b-c543597a9562
+- e79ee052-558c-46e9-aa8c-695068aeb9d7
+- 3bfed3d7-c020-4392-929a-a14b9add1302

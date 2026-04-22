@@ -1,0 +1,5 @@
+title: 'EASY: the "don''t show X in maybe X" problem'
+pid: 89f26601-30bb-491c-b82f-29bd6f4f4134
+body: |2-
+  Just add some more indicators to _columnHExprs:
+    not, maybe, and warning

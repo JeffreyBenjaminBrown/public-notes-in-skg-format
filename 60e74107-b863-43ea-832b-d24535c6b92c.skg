@@ -1,0 +1,9 @@
+title: A min-heap is a good model when messages have differing priorities.
+pid: 60e74107-b863-43ea-832b-d24535c6b92c
+body: |2-
+  The built-in mailbox is a list.
+  If messages are to be stored and then later read in priority order,
+  it would make sense to store them in a min-heap (tree),
+  such that the largest or smallest is always cheap to find and delete,
+  and insertion is cheap too.
+  The `gbtrees` library is one option.

@@ -1,0 +1,7 @@
+title: '"User functions" may just forward arguments to a client.'
+pid: d913d311-d9d7-4e98-b39a-d45d51640ed1
+body: |2-
+  At least that's true in the toy examples I've seen.
+  There will be some looping client process,
+  and the "user functions" (called from the repl)
+  do nothing but send messages to the client.

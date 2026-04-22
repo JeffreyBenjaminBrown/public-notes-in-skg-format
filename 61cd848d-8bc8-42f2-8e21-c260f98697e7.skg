@@ -1,0 +1,10 @@
+title: Pattern synonyms
+pid: 61cd848d-8bc8-42f2-8e21-c260f98697e7
+body: |2-
+  {-# LANGUAGE PatternSynonyms #-}
+
+  pattern F :: Int -> Int -> Foo
+  pattern F f s = Foo f s
+
+  Which abbreviates a frequently used constructor.
+  Works in pattern matches too.

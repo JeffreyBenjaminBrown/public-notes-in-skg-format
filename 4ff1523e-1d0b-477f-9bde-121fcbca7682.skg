@@ -1,0 +1,15 @@
+title: code example
+pid: 4ff1523e-1d0b-477f-9bde-121fcbca7682
+body: |2-
+  func main() {
+      ch := make(chan int, 2) // This buffer has depth 2.
+      ch <- 3
+      fmt.Println(<-ch) // Buffers can be emptied before they are full.
+      ch <- 1
+      ch <- 2
+      fmt.Println(<-ch)
+      fmt.Println(<-ch)
+      ch <- 4
+      ch <- 5
+      ch <- 6 // This breaks the program -- the buffer is full.
+  }

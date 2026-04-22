@@ -1,0 +1,7 @@
+title: format
+pid: 8b5fc731-0777-4798-92f1-99effa04234b
+body: |2-
+  sudo mkfs.ext4 -L theFileSystem /dev/sdap1 # theFileSystem is an arbitrary name
+  sudo mkswap -L swap /dev/sdap2
+contains:
+- 2140c57d-7161-43a7-9843-188613573e26

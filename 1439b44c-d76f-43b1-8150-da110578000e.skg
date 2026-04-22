@@ -1,0 +1,21 @@
+title: a generic method implementation
+pid: 1439b44c-d76f-43b1-8150-da110578000e
+body: |2-
+  #+begin_src rust
+  struct Point<T> {
+      x: T,
+      y: T,
+  }
+
+  impl<T> Point<T> {
+      fn x(&self) -> &T {
+          &self.x
+      }
+  }
+
+  fn main() {
+      let p = Point { x: 5, y: 10 };
+
+      println!("p.x = {}", p.x());
+  }
+  #+end_src

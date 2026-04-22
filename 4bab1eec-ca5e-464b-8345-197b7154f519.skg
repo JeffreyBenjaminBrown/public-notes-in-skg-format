@@ -1,0 +1,7 @@
+title: each time a new model is added
+pid: 4bab1eec-ca5e-464b-8345-197b7154f519
+body: |2-
+  When you add new apps to INSTALLED_APPS,
+  be sure to run
+    manage.py migrate,
+  optionally making migrations for them first with manage.py makemigrations.

@@ -1,0 +1,15 @@
+title: Nultiplicities can be inspected in the repl.
+pid: 14e92d09-a5f8-4953-9a88-5ea18d751a63
+body: |2-
+  append : Vect n a -> Vect m a -> Vect (n + m) a
+  append xs ys = ?append_rhs
+  …we can look at the hole append_rhs:
+
+  Main> :t append_rhs
+   0 m : Nat
+   0 a : Type
+   0 n : Nat
+     ys : Vect m a
+     xs : Vect n a
+  -------------------------------------
+  append_rhs : Vect (plus n m) a

@@ -1,0 +1,16 @@
+title: '44 2 11: area 28'
+pid: e0f0aec3-7a85-4b90-98e9-567f0f72df34
+body: |2-
+  To get 44-edo on a 22-edo guitar -- which results in excellent approximations to harmonics 13, 19 and 23 -- tune each pair of adjacent strings 300 cents apart. An ordinary 12-edo tuner will do the job. Every ratio in the 2.5.7.11.13.19.29.31 subgroup lies within 4 frets of the root.
+
+  44 steps = 2 % 1   : string 4 fret  0
+  26 steps = 3 % 2   : string 2 fret  2
+  14 steps = 5 % 4   : string 2 fret -4
+  36 steps = 7 % 4   : string 4 fret -4
+  20 steps = 11 % 8  : string 2 fret -1
+  31 steps = 13 % 8  : string 3 fret -1
+   4 steps = 17 % 16 : string 0 fret  2
+  11 steps = 19 % 16 : string 1 fret  0
+  23 steps = 23 % 16 : string 1 fret -5
+  38 steps = 29 % 16 : string 2 fret -3
+  42 steps = 31 % 16 : string 4 fret -1

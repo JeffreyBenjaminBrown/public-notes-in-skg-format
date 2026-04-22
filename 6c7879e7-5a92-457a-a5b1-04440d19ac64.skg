@@ -1,0 +1,6 @@
+title: 'Stringer: like Haskell''s Show'
+pid: 6c7879e7-5a92-457a-a5b1-04440d19ac64
+body: |2-
+  type Stringer interface {
+    String() string
+  }

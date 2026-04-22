@@ -1,0 +1,5 @@
+title: the alternation is not enforced
+pid: 6085573d-b84e-40e6-9f68-81ee8d112904
+body: |2-
+  It should be that each ViewResult can only have a Host or Members as a child,
+  and vice-versa.

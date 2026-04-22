@@ -1,0 +1,4 @@
+title: TypeDB
+pid: 903d9515-076b-4806-b8d7-5723765176c5
+body: |2-
+  TypeDB, the company, provides a powerful open-source hypergraph database, also called [[id:992b9536-2345-415c-a41e-15b95ff3cbb3][TypeDB]], and a query language for it called TypeQL. The query language is somewhat hostile to non-programmers. That is fine, because another part of Shyg's stack will be:

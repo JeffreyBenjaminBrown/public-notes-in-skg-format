@@ -1,0 +1,11 @@
+title: define a function that does nothing outside of some major mode
+pid: 32f05828-a58d-482a-85da-85500cd2d3ce
+body: |2-
+     (defun jbb-org-open-at-point ()
+       (interactive)
+       (if ;; Here's the test
+           (equal "org-mode" (symbol-name major-mode))
+           (progn (call-interactively 'org-open-at-point)
+    	      (delete-other-windows))
+  (message ("jbb-org-open-at-point does nothing outside of org-mode."))
+     ))

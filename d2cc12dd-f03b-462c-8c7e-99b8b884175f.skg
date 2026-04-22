@@ -1,0 +1,4 @@
+title: the "solution"
+pid: d2cc12dd-f03b-462c-8c7e-99b8b884175f
+body: |2-
+  nix-env --list-generations

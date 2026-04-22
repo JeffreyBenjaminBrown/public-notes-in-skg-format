@@ -1,0 +1,7 @@
+title: 'PITFALL: Might need Jupyter to do certain things.'
+pid: 4bfb3aea-0214-48a2-9d59-d59c88382961
+body: |2-
+  For instance,
+  the easiest way to convert iPython notebooks
+  (.ipynb files) to other formats
+  [[id:5329f542-d070-4f8d-bdb4-a3361147be5b][is to use Jupyter]].

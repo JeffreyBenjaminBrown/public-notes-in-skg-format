@@ -1,0 +1,20 @@
+title: 'TODO 17\82 x 3\82: 23-lim -17 in 5x8'
+pid: 3e4ae47b-1057-4a9d-9c9c-18b41acc1b73
+body: |2-
+  [ 0 steps; 1 % 1 ; string 0 ; fret 0
+  , 82 steps; 2 % 1 ; string 5 ; fret - 1
+  , 48 steps; 3 % 2 ; string 3 ; fret - 1
+  , 26 steps; 5 % 4 ; string 1 ; fret 3
+  , 66 steps; 7 % 4 ; string 3 ; fret 5
+  , 14 steps; 9 % 8 ; string 1 ; fret - 1
+  , 38 steps; 11 % 8 ; string 1 ; fret 7
+  , 57 steps; 13 % 8 ; string 3 ; fret 2
+  , 74 steps; 15 % 8 ; string 4 ; fret 2
+  # , 7 steps; 17 % 16 ; string - 1 ; fret 8
+  , 20 steps; 19 % 16 ; string 1 ; fret 1
+  , 32 steps; 21 % 16 ; string 1 ; fret 5
+  , 43 steps; 23 % 16 ; string 2 ; fret 3
+  # , 53 steps; 25 % 16 ; string 1 ; fret 12
+  , 62 steps; 27 % 16 ; string 4 ; fret - 2
+  # , 70 steps; 29 % 16 ; string 2 ; fret 12
+  # , 78 steps; 31 % 16 ; string 3 ; fret 9

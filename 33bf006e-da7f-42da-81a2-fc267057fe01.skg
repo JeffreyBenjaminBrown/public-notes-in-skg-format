@@ -1,0 +1,7 @@
+title: fix default freq in moop
+pid: 33bf006e-da7f-42da-81a2-fc267057fe01
+body: |2-
+  -- TODO: This previously depended on the base frequency in
+  -- Montevideo.Monome.Config.Mtv, but that creates a cyclic project dependency
+  -- (synth -> monome -> synth).
+  -- Instead, make the default frequency a parameter of this function.

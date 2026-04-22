@@ -1,0 +1,4 @@
+title: from the command line
+pid: f1a1f3e9-8ce4-4d07-8d9f-fca1258ef49d
+body: |2-
+  erlc flags file.erl

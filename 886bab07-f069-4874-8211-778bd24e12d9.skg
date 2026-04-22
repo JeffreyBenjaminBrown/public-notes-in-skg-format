@@ -1,0 +1,4 @@
+title: Don't run from root; run from home
+pid: 886bab07-f069-4874-8211-778bd24e12d9
+body: |2-
+  Otherwise it tries to create stuff in root.

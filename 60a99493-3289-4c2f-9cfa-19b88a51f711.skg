@@ -1,0 +1,6 @@
+title: Mostly Python, not Emacs, keeps track of what things mean.
+pid: 60a99493-3289-4c2f-9cfa-19b88a51f711
+body: |2-
+  Emacs has hidden text that says which text corresponds to which graph object.
+  But Python has the representation of the buffer -- what search was run, which nodes are children of what, etc.
+  Emacs updates by reading a file Python produces, and hiding appropriate text.

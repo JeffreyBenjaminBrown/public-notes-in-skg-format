@@ -1,0 +1,5 @@
+title: 'PITFALL: permissions are tricky'
+pid: c961e7e8-d535-4a2f-86e8-edda2467d201
+body: |2-
+  The Docker image deals with them, as of version
+      ofiscal/tax.co:2020-10-16.apache-access

@@ -1,0 +1,7 @@
+title: '`_` extends the duration of the previous event'
+pid: 47d5ca64-29c5-4538-a21e-df4f4a5f2087
+body: |2-
+  "bd*2 _ sn" = "bd bd sn"
+contains:
+- 8d35a2c4-f2cf-41ed-828c-6d23281a5370
+- 7bb78017-ea41-44bd-917e-c636c4f9a321

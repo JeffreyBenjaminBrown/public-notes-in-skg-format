@@ -1,0 +1,8 @@
+title: Let users mark up each other's writing.
+pid: f7a610c6-ed71-495c-a6b3-5a2e773f1f96
+body: |2-
+  Editing seems problematic,
+  because it might break all the comemnts pointing to something.
+  But there could be relationships like
+  "X thinks A is equivalent to B and clearer,"
+  and "X thinks A is unnecessary for purposes of understanding B."

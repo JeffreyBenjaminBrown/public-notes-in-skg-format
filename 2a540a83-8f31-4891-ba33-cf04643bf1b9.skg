@@ -1,0 +1,4 @@
+title: it needs configuration (once) after installation
+pid: 2a540a83-8f31-4891-ba33-cf04643bf1b9
+body: |2-
+  Just run "winecfg" from Bash.

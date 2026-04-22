@@ -1,0 +1,5 @@
+title: inherit x y ...
+pid: 8e2a3c7d-2467-48d9-a2ce-5c98886fec6c
+body: |2-
+  has the same effect as writinng "x = x; y = y; ...".
+  It's used for handing an argument unchanged from the Nix expression to the builder.

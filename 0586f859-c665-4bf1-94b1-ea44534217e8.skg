@@ -1,0 +1,4 @@
+title: TODO What happens if you ask it to report confidence intervals* with every answer?
+pid: 0586f859-c665-4bf1-94b1-ea44534217e8
+body: |2-
+  (*) even informal ones, like "I'm not sure, I suspect, I believe ..." could be interesting -- maybe making the advice more useful if they are accurate, maybe triggering an interesting self-reflection in the AI.

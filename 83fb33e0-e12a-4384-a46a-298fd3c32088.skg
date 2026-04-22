@@ -1,0 +1,5 @@
+title: The idea
+pid: 83fb33e0-e12a-4384-a46a-298fd3c32088
+body: |2-
+  Normal execution causes each call of a function to hand its result to a caller. For instance, if you descend into a tree, you have to then ascend through it to return the final result.
+  By contrast, a `throw` deep in the tree will skip straight to the nearest frame with a `catch` clause.

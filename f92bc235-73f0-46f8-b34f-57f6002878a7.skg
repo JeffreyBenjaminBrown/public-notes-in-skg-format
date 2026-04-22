@@ -1,0 +1,12 @@
+title: The ?MODULE macro returns the current module's name.
+pid: f92bc235-73f0-46f8-b34f-57f6002878a7
+body: |2-
+  It's useful, e.g., for writing a helper function in module M
+  that spawns another function also defined in module M:
+
+  start(FoodList) ->
+      spawn( ?MODULE,
+   	  fridge2,
+   	  [FoodList] ).
+misc:
+- Had_ID_Before_Import

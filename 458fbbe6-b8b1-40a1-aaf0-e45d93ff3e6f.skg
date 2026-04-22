@@ -1,0 +1,5 @@
+title: two simple ones
+pid: 458fbbe6-b8b1-40a1-aaf0-e45d93ff3e6f
+body: |2-
+  log(n*d)
+  sopfr(n*d) -- sopfr is the sum of prime factors

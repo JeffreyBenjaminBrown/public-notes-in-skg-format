@@ -1,0 +1,13 @@
+title: a solution
+pid: 1e8741bc-6e0e-427d-b6d2-607778119ead
+body: |2-
+  #+BEGIN_SRC bash
+  #!/bin/sh
+
+  dirname=$(pwd)
+  find $dirname -type f | sed 's_.*/__' | sort |  uniq -d |
+  while read fileName
+  do
+      find $dirname -type f | grep "$fileName"
+  done
+  #+END_SRC bash

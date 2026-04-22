@@ -1,0 +1,20 @@
+title: '99 15 28: 0-idx 6 strings x 8 frets for 13-limit, straight'
+pid: 90d2619e-79dc-4eb0-b2a5-b88e483988b7
+body: |2-
+  [ 0 steps; 1 % 1 ; string 0 ; fret 0
+  , 99 steps; 2 % 1 ; string 3 ; fret 1
+  , 58 steps; 3 % 2 ; string 1 ; fret 2
+  , 32 steps; 5 % 4 ; string - 1 ; fret 4
+  , 80 steps; 7 % 4 ; string 5 ; fret - 4
+  , 17 steps; 9 % 8 ; string - 1 ; fret 3
+  , 45 steps; 11 % 8 ; string 0 ; fret 3
+  , 69 steps; 13 % 8 ; string 3 ; fret - 1
+  , 90 steps; 15 % 8 ; string 0 ; fret 6
+  , 9 steps; 17 % 16 ; string 3 ; fret - 5
+  , 25 steps; 19 % 16 ; string - 5 ; fret 11
+  , 39 steps; 21 % 16 ; string 3 ; fret - 3
+  , 52 steps; 23 % 16 ; string 4 ; fret - 4
+  , 64 steps; 25 % 16 ; string - 2 ; fret 8
+  , 75 steps; 27 % 16 ; string 0 ; fret 5
+  , 85 steps; 29 % 16 ; string - 5 ; fret 15
+  , 94 steps; 31 % 16 ; string - 2 ; fret 10

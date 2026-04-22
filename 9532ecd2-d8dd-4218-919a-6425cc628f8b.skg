@@ -1,0 +1,20 @@
+title: '13\74 x 11\74: strange, octave 4s 2f, 31-lim -19 -21 in 8x6'
+pid: 9532ecd2-d8dd-4218-919a-6425cc628f8b
+body: |2-
+   0 steps; 1 % 1 ; string 0 ; fret 0
+  74 steps; 2 % 1 ; string 4 ; fret 2
+  43 steps; 3 % 2 ; string 5 ; fret - 2
+  24 steps; 5 % 4 ; string 1 ; fret 1
+  60 steps; 7 % 4 ; string 8 ; fret - 4
+  13 steps; 9 % 8 ; string 1 ; fret 0
+  34 steps; 11 % 8 ; string 6 ; fret - 4
+  52 steps; 13 % 8 ; string 4 ; fret 0
+  67 steps; 15 % 8 ; string 6 ; fret - 1
+  6 steps; 17 % 16 ; string 3 ; fret - 3
+  # 18 steps; 19 % 16 ; string 9 ; fret - 9
+  # 29 steps; 21 % 16 ; string 9 ; fret - 8
+  39 steps; 23 % 16 ; string 3 ; fret 0
+  48 steps; 25 % 16 ; string 2 ; fret 2
+  56 steps; 27 % 16 ; string 6 ; fret - 2
+  63 steps; 29 % 16 ; string 4 ; fret 1
+  71 steps; 31 % 16 ; string 8 ; fret - 3

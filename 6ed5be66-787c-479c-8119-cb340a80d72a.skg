@@ -1,0 +1,10 @@
+title: 'node contains branch in view: rel for Skg'
+aliases:
+- ternary rather than binary containment relationship
+pid: 6ed5be66-787c-479c-8119-cb340a80d72a
+contains:
+- 080d1181-1cb4-4c21-a125-f0e64c31cfc1
+- d7efc668-7795-461d-9e8d-ccfb62878195
+- e8e2cb00-82e4-43cc-a270-1e23ae3d1f5f
+misc:
+- Had_ID_Before_Import

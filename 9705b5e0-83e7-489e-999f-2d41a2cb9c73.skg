@@ -1,0 +1,4 @@
+title: the quote
+pid: 9705b5e0-83e7-489e-999f-2d41a2cb9c73
+body: |2-
+  definitions must not refer to anything within a lower level of visibility. For example, public export definitions cannot use private or export names, and export types cannot use private names.

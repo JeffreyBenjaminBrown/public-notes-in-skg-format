@@ -1,0 +1,2 @@
+title: 'PITFALL: [[id:767b91d1-ed9d-46c7-b0ac-b93e92875985][Pandas does not verify homogeneity when appending to CSV files.]]'
+pid: 9a5f1b9b-7aa6-4eb3-8af8-9450d5e5da12

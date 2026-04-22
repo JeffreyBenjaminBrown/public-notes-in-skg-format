@@ -1,0 +1,14 @@
+title: Andronix (Linux environment for Android)
+aliases:
+- Andronix
+pid: 05d01ae3-fcc9-474f-80f2-bc0fa47896d3
+contains:
+- 9df41b2d-2c41-41e3-afd2-4810384a497c
+- d3b6cb6c-6a47-441c-92fc-656d508aa679
+- d7786b59-8588-4217-881e-9e9dbc8b5ced
+- e5b9424f-600b-4892-b7aa-781689cbde4c
+- c8e9cf99-733c-4c4a-be9d-74df10ec9965
+- 5676e227-9460-4bd4-9969-2e9f4361c01f
+- 1eaac26f-ed69-4597-ac2e-7b637532a0c9
+misc:
+- Had_ID_Before_Import

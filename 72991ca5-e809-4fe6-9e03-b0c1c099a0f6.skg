@@ -1,0 +1,7 @@
+title: channeling MIDI input through QJackCtl
+pid: 72991ca5-e809-4fe6-9e03-b0c1c099a0f6
+body: |2-
+  serial
+contains:
+- 43ce7f21-707e-4eca-92f5-8f5b4a2a91ae
+- 95a84f9a-e876-46dd-bc0c-5945103850b4

@@ -1,0 +1,4 @@
+title: '? refactor SkgnodeDiff'
+pid: ef483297-e815-4a69-bb5a-9ad861b03942
+body: |2-
+  // TODO ? Since we keep the skgnode around for deleted nodes already, why not just do that for everything, and dispense with the node_changes field?

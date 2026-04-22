@@ -1,0 +1,6 @@
+title: solution if violated
+pid: 401a1519-90f9-4e8d-a5a2-7ff084a57d46
+body: |2-
+  If N subscribes to S and also hides S from its subscriptions,
+  the first relation takes precedence, and the second is ignored:
+  S will be shown among N's subscriptions.

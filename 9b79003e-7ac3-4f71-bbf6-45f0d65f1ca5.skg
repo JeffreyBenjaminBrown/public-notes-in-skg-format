@@ -1,0 +1,4 @@
+title: '"Maker Buffer"'
+pid: 9b79003e-7ac3-4f71-bbf6-45f0d65f1ca5
+body: |2-
+  = a pool of DAI that contains the fees paid on collateral withdrawals and the proceeds from the collateral auction.

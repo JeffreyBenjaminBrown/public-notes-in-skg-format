@@ -1,0 +1,8 @@
+title: TODO crawling within an Expr
+pid: 73aee834-b400-4037-9cc9-bdb581cd24dd
+body: |2-
+  up|down to enclosing keyword (/hash, etc)
+  up|down to nearest higher binop (#, |, etc)
+  up|down, multipurpose
+    this kind goes to either of the two previous kinds of things
+  left|right in same level

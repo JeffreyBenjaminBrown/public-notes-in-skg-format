@@ -1,0 +1,9 @@
+title: some handy Haskell code
+pid: e634afc0-027d-40e7-b268-04ef93f5541b
+body: |2-
+    If you ever want to compute lots of scale modes,
+    then you might find the definition of "mode" below useful.
+  #+BEGIN_SRC haskell
+    shift n l = take (length l) $ drop n $ cycle l
+    mode n scale = (\x -> mod (x - scale !! n) 12) <$> shift n scale
+  #+END_SRC

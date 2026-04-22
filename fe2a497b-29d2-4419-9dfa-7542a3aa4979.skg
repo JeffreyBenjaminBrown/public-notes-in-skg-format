@@ -1,0 +1,14 @@
+title: 'TODO 12\58 x 1\58: 17-lim minus (arguably) 5'
+pid: fe2a497b-29d2-4419-9dfa-7542a3aa4979
+body: |2-
+  horrendous 6:5
+  [ 0 steps; 1 % 1 ; string 0 ; fret 0
+  , 58 steps; 2 % 1 ; string 5 ; fret - 2
+  , 34 steps; 3 % 2 ; string 3 ; fret - 2
+  , 19 steps; 5 % 4 ; string 1 ; fret 7
+  , 47 steps; 7 % 4 ; string 4 ; fret - 1
+  , 10 steps; 9 % 8 ; string 1 ; fret - 2
+  , 27 steps; 11 % 8 ; string 2 ; fret 3
+  , 41 steps; 13 % 8 ; string 3 ; fret 5
+  , 53 steps; 15 % 8 ; string 4 ; fret 5
+  , 5 steps; 17 % 16 ; string 0 ; fret 5

@@ -1,0 +1,4 @@
+title: The manager's state is, more specifically
+pid: 5efffceb-80f7-4b09-85cb-0c01f92b3c96
+body: |2-
+  "a list of {Module, State} pairs, where each Module is an event handler, and State is the internal state of that event handler."

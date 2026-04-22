@@ -1,0 +1,5 @@
+title: '"thing" is an invisible even-more-top-level type'
+pid: 7c877bf4-32c3-4e53-bf3e-5ff687c59257
+body: |2-
+  It is deprecated, and will disappear in future versions of TypeDB.
+  But I (jbb) find it useful for talking about entities, relationships and attributes all at once. When I do I will capitalize the word Thing.

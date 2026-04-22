@@ -1,0 +1,6 @@
+title: '`main` can return {(), Result, more}.'
+pid: 8d275d24-2e2e-41bc-ba01-ed8ed5108f35
+body: |2-
+  "The main function may return any types that implement the std::process::Termination trait, which contains a function report that returns an ExitCode"
+misc:
+- Had_ID_Before_Import

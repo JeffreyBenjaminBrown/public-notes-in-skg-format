@@ -1,0 +1,6 @@
+title: 'swapped is an iso between bifunctors:'
+pid: cff96616-79f2-46e6-a808-bb60663008e3
+body: |2-
+  wap the sides of a tuple
+  swap the labels on an Either
+  etc.

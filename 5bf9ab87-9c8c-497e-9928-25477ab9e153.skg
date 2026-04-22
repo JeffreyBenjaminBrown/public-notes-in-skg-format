@@ -1,0 +1,6 @@
+title: The special character affixes identifying a rel template must be uniform across its joints.
+pid: 5bf9ab87-9c8c-497e-9928-25477ab9e153
+body: |2-
+  e.g. for "_ gave _ to _",
+  writing "a $gave b $to c" is allowed,
+  but not "a #$gave b $to c"

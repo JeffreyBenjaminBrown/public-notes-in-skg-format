@@ -1,0 +1,4 @@
+title: if using UEFI
+pid: f2d23943-a9ad-49eb-810e-7d69315f0faf
+body: |2-
+  boot.loader.systemd-boot.enable

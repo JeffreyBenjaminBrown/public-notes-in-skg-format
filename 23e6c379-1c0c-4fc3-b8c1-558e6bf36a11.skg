@@ -1,0 +1,6 @@
+title: node_aliases
+pid: 23e6c379-1c0c-4fc3-b8c1-558e6bf36a11
+body: |2-
+  Document that if you haven't saved the buffer,
+  the retrieved aliases won't include any changes
+  that that saved buffer would cause.

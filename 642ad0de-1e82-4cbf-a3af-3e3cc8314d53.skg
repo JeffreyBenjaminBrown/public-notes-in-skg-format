@@ -1,0 +1,4 @@
+title: 'PITFALL: Where the chapter on Datalog introduces strange keywords without explanation, just keep reading.'
+pid: 642ad0de-1e82-4cbf-a3af-3e3cc8314d53
+body: |2-
+  That's the [chapter on Fixpoints](https://doc.flix.dev/fixpoints/).

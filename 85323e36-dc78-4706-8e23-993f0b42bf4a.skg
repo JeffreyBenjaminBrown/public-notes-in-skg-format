@@ -1,0 +1,4 @@
+title: searching for OR should not fail if some terms do
+pid: 85323e36-dc78-4706-8e23-993f0b42bf4a
+body: |2-
+  test hMatches and hLookup (in Hode.Hash.HLookup)

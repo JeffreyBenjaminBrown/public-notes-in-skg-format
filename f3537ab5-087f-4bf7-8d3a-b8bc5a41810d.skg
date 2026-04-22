@@ -1,0 +1,7 @@
+title: '"Any time voices start at the same time ..."'
+pid: f3537ab5-087f-4bf7-8d3a-b8bc5a41810d
+body: |2-
+  alternatives
+contains:
+- 2b9d6da3-0d57-4154-8d9f-b4f76e5e9e12
+- 2701e67c-6542-46f5-a8ad-4741f98ea5d7

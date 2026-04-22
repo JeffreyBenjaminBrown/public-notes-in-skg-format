@@ -1,0 +1,11 @@
+title: how to record it in org-roam
+pid: e9a09887-3d7d-4b9d-aa12-a246afc9508d
+body: |2-
+  At 'ideas I got from other people',
+  record two subnodes:
+  how it relates parent to child when used as a midparent
+    if parents are of one generation or the other.
+  Use that to, within each parent (in the appropriate direction)
+    connect it to the child.
+contains:
+- 43aa5200-6073-47e0-aaba-558ea14e12c4

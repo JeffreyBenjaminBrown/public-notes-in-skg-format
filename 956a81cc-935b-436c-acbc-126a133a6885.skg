@@ -1,0 +1,26 @@
+title: It's easy to test the sound of different chords.
+pid: 956a81cc-935b-436c-acbc-126a133a6885
+body: |2-
+  Testing the sound of frequency combinations like
+  - {1, 5/4, 3/2} (ordinary major chord)
+  - {1, 7/6, 3/2{ (septimal major chord)
+  will give you intuition for which ratios sound good together.
+  This experience is *extremely important*.
+  Anyone who talks about harmony but has not done it
+  does not know what they are talking about.
+
+  You could use this cheesy python synth I wrote:
+  https://github.com/JeffreyBenjaminBrown/live-midi/tree/main/code/synth_python
+
+  Or you could use other software.
+
+  Or you could have an AI make you a personalized one.
+  It's shockingly easy.
+
+  Or you could do physical experiments.
+  Stringed instruments are the most convenient for this,
+  because the relationship between frequency and string length is so predictable,
+  and string length is so easy to modify.
+  But it's much faster and easier to use software.
+contains:
+- 488b74f0-95f6-40a5-9267-26167c2c85ab

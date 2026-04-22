@@ -1,0 +1,5 @@
+title: the stop rule
+pid: 736dbd1a-bf67-4009-a21c-f5e1f7a727d1
+body: |2-
+  "n swap attempts have passed without seeing an improvement" might fail to swap.
+  "n swap attempts have passed without seeing an improvement of more than p%" would never fail to stop.

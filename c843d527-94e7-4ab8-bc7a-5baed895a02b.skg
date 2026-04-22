@@ -1,0 +1,4 @@
+title: TODO Why flush a monitoring function that's about to end anyway?
+pid: c843d527-94e7-4ab8-bc7a-5baed895a02b
+body: |2-
+  Is that because it shares a mailbox with whatever called it?

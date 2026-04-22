@@ -1,0 +1,4 @@
+title: 'SKIPPED: The simple_one_for_one strategy.'
+pid: aa37ab17-361e-44db-8d69-ade02aa32506
+body: |2-
+  A supervisor with restart strategy simple_one_for_one is a simplified one_for_one supervisor, where all child processes are dynamically added instances of the same process.

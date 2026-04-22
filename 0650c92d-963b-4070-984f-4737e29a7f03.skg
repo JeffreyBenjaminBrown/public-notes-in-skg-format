@@ -1,0 +1,7 @@
+title: Brackets inside an org link seem to confuse GitHub.
+pid: 0650c92d-963b-4070-984f-4737e29a7f03
+body: |2-
+  at least as displayed in my
+  org-roam repos with GitHub-navigable links
+misc:
+- Had_ID_Before_Import

@@ -1,0 +1,6 @@
+title: polymorphic type declarations
+pid: 888106e4-8f56-4b05-9f5d-41af6e279d06
+body: |2-
+  pub type Box(inner_type) {
+    Box(inner: inner_type)
+  }

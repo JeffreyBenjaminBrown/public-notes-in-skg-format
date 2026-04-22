@@ -1,0 +1,6 @@
+title: the recs
+pid: 5493f688-9135-4795-a341-4610b24b8bc9
+body: |2-
+  Reinstall Firmware/BIOS: If you're highly concerned about firmware-level vulnerabilities, consider flashing the BIOS with a known clean version from Lenovo's official website after purchase.
+
+  Use Open Source Firmware: Some laptops support open-source firmware like Coreboot, which replaces the proprietary BIOS/UEFI and offers greater transparency.

@@ -1,0 +1,22 @@
+title: 'Pr.pPrint $ bestLayout'' 31 58 13 2 : all but 11'
+pid: 07a454c6-9f42-4edb-bcf3-c47f7fa09e62
+body: |2-
+  The diagonal octave is annoying,
+  so I'm calling this dominated by 15x2.
+  [ 0 steps; 1 % 1 ; string 0 ; fret 0
+  , 58 steps; 2 % 1 ; string 4 ; fret 3
+  , 34 steps; 3 % 2 ; string 2 ; fret 4
+  , 19 steps; 5 % 4 ; string 1 ; fret 3
+  , 47 steps; 7 % 4 ; string 3 ; fret 4
+  , 10 steps; 9 % 8 ; string 0 ; fret 5
+  # , 27 steps; 11 % 8 ; string 1 ; fret 7
+  , 41 steps; 13 % 8 ; string 3 ; fret 1
+  # , 53 steps; 15 % 8 ; string 3 ; fret 7
+  # , 5 steps; 17 % 16 ; string - 1 ; fret 9
+  # , 14 steps; 19 % 16 ; string 0 ; fret 7
+  , 23 steps; 21 % 16 ; string 1 ; fret 5
+  , 30 steps; 23 % 16 ; string 2 ; fret 2
+  , 37 steps; 25 % 16 ; string 3 ; fret - 1
+  # , 44 steps; 27 % 16 ; string 2 ; fret 9
+  , 50 steps; 29 % 16 ; string 4 ; fret - 1
+  # , 55 steps; 31 % 16 ; string 3 ; fret 8

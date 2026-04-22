@@ -1,0 +1,7 @@
+title: the try-gauge column
+pid: 26b1f484-7dbb-46ef-a784-50caaa7c2240
+body: |2-
+  was created mostly automatically,
+  from gauge.py. But for some out-of-sample strings, that strategy didn't work,
+  so I just plugged in numbers myself. Those cases are described by the "notes"
+  column and the "row-specific notes" org heading.

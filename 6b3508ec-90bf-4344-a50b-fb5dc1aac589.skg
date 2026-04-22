@@ -1,0 +1,22 @@
+title: step 5 - use the new DSL
+pid: 6b3508ec-90bf-4344-a50b-fb5dc1aac589
+body: |2-
+  initPeer :: DcPeer ()
+  initPeer = do
+    initState
+    displayMessage "What port do you want?"
+    enteredPort <- getUserInput
+    modifyState $ port .~ (parse enteredPort)
+    state <- getState
+    displayMessage $ "Using port: " ++ show state ^. port
+
+  awaitPeers :: DcPeer [Participant]
+  awaitPeers = do
+    state <- awaitStateCondition $ (> 1) . numPeers
+    return $ state ^. peers
+
+  peerProgram :: DcPeer ()
+  peerProgram = do
+    initPeer
+    peers <- awaitPeers
+    displayMessage $ "Peers: " ++ show peers

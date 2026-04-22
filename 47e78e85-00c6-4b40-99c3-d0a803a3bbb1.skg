@@ -1,0 +1,4 @@
+title: 'SKIPPED: external (BEAM) types'
+pid: 47e78e85-00c6-4b40-99c3-d0a803a3bbb1
+body: |2-
+  https://gleam.run/book/tour/external-types.html

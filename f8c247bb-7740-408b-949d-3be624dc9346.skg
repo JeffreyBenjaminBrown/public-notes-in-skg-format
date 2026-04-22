@@ -1,0 +1,6 @@
+title: Delete old generations
+pid: f8c247bb-7740-408b-949d-3be624dc9346
+body: |2-
+  sudo nix-env -p /nix/var/nix/profiles/system \
+    --delete-generations +1
+  sudo nix-collect-garbage -d

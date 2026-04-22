@@ -1,0 +1,6 @@
+title: 'liner:'
+pid: be3ddff3-4b17-47af-867e-3219b5481766
+body: |2-
+
+  > ps | where name == Notepad2.exe | get pid.0 | kill -9 $in
+  Output

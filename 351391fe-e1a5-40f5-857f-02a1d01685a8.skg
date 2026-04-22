@@ -1,0 +1,7 @@
+title: TODO is PTree focus buggy?
+pid: 351391fe-e1a5-40f5-857f-02a1d01685a8
+body: |2-
+  When I run `st <- ui`, look through a small view-tree,
+  and then exit and study `st`, I find many nodes for which `pTreeHasFocus`
+  is `True`. This seems to contradict a comment in PTree.Initial, that
+  "If it has focus, none of its children should."

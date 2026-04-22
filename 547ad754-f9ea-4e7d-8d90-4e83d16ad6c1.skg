@@ -1,0 +1,5 @@
+title: I can for some reason ignore the VirtualHost mentioned in that passage.
+pid: 547ad754-f9ea-4e7d-8d90-4e83d16ad6c1
+body: |2-
+  according to
+  https://forum.djangoproject.com/t/do-i-need-apache-if-so-im-lost-configuring-it/4791/2

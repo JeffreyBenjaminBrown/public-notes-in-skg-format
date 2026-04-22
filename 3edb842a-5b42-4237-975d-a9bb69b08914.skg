@@ -1,0 +1,12 @@
+title: min, max
+pid: 3edb842a-5b42-4237-975d-a9bb69b08914
+body: |2-
+  maximum   :: (Foldable t, Ord a) => t a -> a
+  minimumOf :: Ord a => Fold s a -> s -> Maybe a
+
+  maximumBy :: Foldable t => (a -> a -> Ordering) -> t a -> a
+  maximumByOf :: Fold s a -> (a -> a -> Ordering) -> s -> Maybe a
+
+  and similar for minimum.
+contains:
+- 0e027d16-696b-48aa-94c8-afeda4538c02

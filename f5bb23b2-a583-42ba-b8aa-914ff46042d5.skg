@@ -1,0 +1,6 @@
+title: adjust tracking frequency
+pid: f5bb23b2-a583-42ba-b8aa-914ff46042d5
+body: |2-
+  It's on "auto" by default but can be set manually.
+  In Colombia, as in the US, the electrical frequency is 60 Hz,
+  so that's what it should be.

@@ -1,0 +1,8 @@
+title: from the perspeective of a node that in both commits
+pid: 4b0b3b5c-567c-44f2-80a4-d901d5ff700f
+body: |2-
+  it is every node that changed
+  {new, moved there, moved away, deleted}.
+  Deleted things can be seen the way they were.
+  Moved things can be seen in both ways.
+  New things just have an indicator that they are new.

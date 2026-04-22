@@ -1,0 +1,22 @@
+title: 'DONE GOOD 12\58 x 5\58: minimal SSE, 12-ish frets, good all around, and impossibly nice for 17-lim -7'
+pid: dd5168db-5f12-4716-9f83-3f863f2657a3
+body: |2-
+  For guitar, the major downside is that 6:5 and 1:1 share a string,
+  as do 5:4 and 3:2. That's only a problem for close voicings.
+  [  0 steps;  1 % 1 ;  string 0 ;   fret 0
+  , 58 steps;  2 % 1 ;  string 4 ;   fret 2
+  , 34 steps;  3 % 2 ;  string 2 ;   fret 2
+  , 19 steps;  5 % 4 ;  string 2 ;   fret - 1
+  , 47 steps;  7 % 4 ;  string 1 ;   fret 7
+  , 10 steps;  9 % 8 ;  string 0 ;   fret 2
+  , 27 steps; 11 % 8 ;  string 1 ;   fret 3
+  , 41 steps; 13 % 8 ;  string 3 ;   fret 1
+  , 53 steps; 15 % 8 ;  string 4 ;   fret 1
+  ,  5 steps; 17 % 16 ; string 0 ;   fret 1
+  , 14 steps; 19 % 16 ; string 2 ;   fret - 2
+  , 23 steps; 21 % 16 ; string - 1 ; fret 7
+  , 30 steps; 23 % 16 ; string 0 ;   fret 6
+  , 37 steps; 25 % 16 ; string 1 ;   fret 5
+  , 44 steps; 27 % 16 ; string 2 ;   fret 4
+  , 50 steps; 29 % 16 ; string 5 ;   fret - 2
+  , 55 steps; 31 % 16 ; string 5 ;   fret - 1

@@ -1,0 +1,4 @@
+title: 'PITFALL: broken (in Linux?) keyboard shortcuts'
+pid: 4e8500db-5bb3-48e6-9cb8-246a68047ac6
+body: |2-
+  e.g. F8 to jump between syntax errors

@@ -1,0 +1,7 @@
+title: 'chunk n : apply function at different places'
+pid: 3d9ae212-9e2c-447e-a4c4-4c946f487ca9
+body: |2-
+  Like iter, Divides the cycle into n pieces, and applies the function to the kth piece, incrementing k by one each cycle.
+contains:
+- b4c4518b-a2e2-47fb-8f5d-982bf6a97454
+- e4a1329a-0e46-48df-8000-d1dfd17ca45f

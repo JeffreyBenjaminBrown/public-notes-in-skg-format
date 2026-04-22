@@ -1,0 +1,4 @@
+title: '[[id:bd7363b0-401a-498e-9fe3-5d291c955cb3][if keyboard input* misbehaves in `conda python3` in Docker]]'
+pid: 6681b8a3-ef8d-4638-ab60-d6aa57f08b75
+body: |2-
+    * e.g. command history (up), paste, backspace

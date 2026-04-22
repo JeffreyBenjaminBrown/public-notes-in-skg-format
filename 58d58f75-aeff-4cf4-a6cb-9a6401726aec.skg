@@ -1,0 +1,6 @@
+title: 'PITFALL : order matters in the let clause of a comprehension \\ Haskell'
+pid: 58d58f75-aeff-4cf4-a6cb-9a6401726aec
+contains:
+- 91ef7622-7bd0-4b63-827a-b1828e45d85f
+misc:
+- Had_ID_Before_Import

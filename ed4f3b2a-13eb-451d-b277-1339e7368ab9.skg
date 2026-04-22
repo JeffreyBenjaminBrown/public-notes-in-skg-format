@@ -1,0 +1,7 @@
+title: the laborious way
+pid: ed4f3b2a-13eb-451d-b277-1339e7368ab9
+body: |2-
+  from django.http import HttpResponse
+
+  def index(request):
+      return HttpResponse("Hello, world. You're at the polls index.")

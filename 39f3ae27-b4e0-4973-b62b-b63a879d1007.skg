@@ -1,0 +1,4 @@
+title: elaboration
+pid: 39f3ae27-b4e0-4973-b62b-b63a879d1007
+body: |2-
+  "When you have a type whose size can’t be known at compile time and you want to use a value of that type in a context that requires an exact size"

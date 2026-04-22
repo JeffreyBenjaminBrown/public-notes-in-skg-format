@@ -1,0 +1,5 @@
+title: Testing db integrity
+pid: 8edc2419-f1d7-4c82-98e7-f6137d56a937
+body: |2-
+  see "Database Content Self-Tests"
+  https://www.sqlite.org/cli.html

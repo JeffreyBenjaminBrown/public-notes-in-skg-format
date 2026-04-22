@@ -1,0 +1,6 @@
+title: launch the SQLite interpreter using a db
+pid: 6bf9b3b6-63b4-4486-b5a9-e9d2e7175c44
+body: |2-
+  sqlite3 numismatist.db
+misc:
+- Had_ID_Before_Import

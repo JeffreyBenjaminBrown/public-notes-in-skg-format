@@ -1,0 +1,6 @@
+title: parse << and >> as rotation
+pid: 5c1e2e3e-4bdb-4819-98a3-6a271afa9f47
+body: |2-
+  (Type `C-x 8 [<>]` to make those symbols.)
+contains:
+- eb0430cb-f113-4729-a908-a9bcd65feb7e

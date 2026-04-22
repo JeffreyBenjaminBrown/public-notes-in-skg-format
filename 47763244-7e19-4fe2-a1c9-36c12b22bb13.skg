@@ -1,0 +1,5 @@
+title: restore data
+pid: 47763244-7e19-4fe2-a1c9-36c12b22bb13
+body: |2-
+  borg list /path/to/repo             # lists snapshots
+  borg extract/path/to/repo::snapshot

@@ -1,0 +1,4 @@
+title: 'gen_event:sync_notify/2 :: sync'
+pid: 2aa27c76-b8a8-411c-9d74-50a63f0af3e6
+body: |2-
+  "returns once all event handlers have seen and treated the new message. Until then, the event manager will keep blocking the calling process by not replying."

@@ -1,0 +1,9 @@
+title: Traits can have default implementations.
+pid: 6ee93e9f-015e-4b82-8fbd-dfa080b0fece
+body: |2-
+  #+begin_src rust
+  pub trait Summary {
+      fn summarize(&self) -> String {
+          String::from("(Read more...)")
+      } }
+  #+end_src

@@ -1,0 +1,9 @@
+title: Django won't complain if a template is missing context.
+pid: 4b0efa49-fefd-49b6-a6cb-1d43c2780b95
+body: |2-
+  For instance, if I call this:
+    return django.shortcuts.render (
+      request,
+      'run_make/thank_for_spec.html',
+      { 'user_email' :  user_email } )
+  then the "thank_for_spec" template can interpret the value of `user_email` via the weird double-bracket `{{user_email}}` syntax. If it tries also to interpret `{{user_name}}` when that was not provided, Django won't complain. The render will simply substitute an empty string.

@@ -1,0 +1,6 @@
+title: buffer nicknames
+pid: 2d3d520b-107e-407d-b019-51fa138254bb
+body: |2-
+  Let the user add a nickname to a buffer,
+  and then switch to that buffer via the nickname.
+  Begin with some auto-generated nicknames (numbers? letters?).

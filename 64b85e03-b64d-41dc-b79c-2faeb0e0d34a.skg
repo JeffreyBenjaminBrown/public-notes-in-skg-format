@@ -1,0 +1,6 @@
+title: 'PITFALL: Tail call optimization is only available in the `of` branch.'
+pid: 64b85e03-b64d-41dc-b79c-2faeb0e0d34a
+body: |2-
+  The `try` and `catch` branches are protected --
+  a reference to them must persist in case something goes wrong,
+  so the frame can't be optimized away.

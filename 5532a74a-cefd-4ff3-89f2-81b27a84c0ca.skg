@@ -1,0 +1,11 @@
+title: swap keyboard keys in Linux
+pid: 5532a74a-cefd-4ff3-89f2-81b27a84c0ca
+body: |2-
+  e.g. swap ESC and CapsLock
+contains:
+- c1f20126-ce96-4e58-a903-f7028e203e8d
+- 5fdedbc9-e95f-490b-b357-75be30d170b9
+- 49535c4c-5b3d-4f21-96d5-c287f77495e4
+- 4742b56d-2589-4c20-96a8-5d918d045d79
+misc:
+- Had_ID_Before_Import

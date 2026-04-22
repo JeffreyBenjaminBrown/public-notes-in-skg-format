@@ -1,0 +1,14 @@
+title: the story
+pid: 03f773cf-9273-4504-b9b4-21c0ea2fbf6b
+body: |2-
+  https://stackoverflow.com/a/60075311/916142
+  I enabled 2-step verification,
+  and then generated a special different password for the same email account,
+  for use with an app.
+  To Google I called the app Phanaeros,
+  but I don't think Gmail actually reads a name of my Python code,
+  which is good because it has none.
+  In the process I had to answer a lot of security emails from Gmail.
+  Some things failed and then,
+  after futzing with security prompts they generated,
+  succeeded on the next try.

@@ -1,0 +1,4 @@
+title: constraints help
+pid: 2ddda857-6ca3-47b1-b709-614ba236463f
+body: |2-
+  "Limit the number of concepts being processed by adding additional constraints to variables in match clauses."

@@ -1,0 +1,14 @@
+title: with async
+pid: 0f5c0702-814b-4099-b937-f7758c3a1723
+body: |2-
+  #+BEGIN_SRC rust
+  use trpl::Html;
+
+  async fn page_title(url: &str) -> Option<String> {
+    let response = trpl::get(url).await;
+    // The Response object only has 3 things:: HTTP status code (200, etc.), Response headers, connection to stream. The data has not been streamed yet, which is why the next variable also uses `.await`.
+    let response_text = response.text().await;
+    Html::parse(&response_text)
+      .select_first("title")
+      .map(|title_element| title_element.inner_html()) }
+  #+END_SRC

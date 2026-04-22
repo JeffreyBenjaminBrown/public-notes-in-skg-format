@@ -1,0 +1,4 @@
+title: example
+pid: cc58f710-97ca-43b5-8033-bb886c194fce
+body: |2-
+  toListOf folded (S.fromList [1..4])

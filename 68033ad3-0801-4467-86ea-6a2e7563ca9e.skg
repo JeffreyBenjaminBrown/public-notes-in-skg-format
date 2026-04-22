@@ -1,0 +1,13 @@
+title: if using UEFI
+pid: 68033ad3-0801-4467-86ea-6a2e7563ca9e
+body: |2-
+  You can safely ignore parted's informational message about needing to update /etc/fstab.
+  swap_size=64GB
+    # I'm giving this (my PUJ desktop) a lot of swap,
+    # because I'm short on RAM,
+    # and the 1 TB SDD is way more than I need.
+  sudo parted /dev/sda -- mklabel gpt
+  sudo parted /dev/sda -- mkpart primary             512MB      -$swap_size
+  sudo parted /dev/sda -- mkpart primary linux-swap -$swap_size 100%
+  sudo parted /dev/sda -- mkpart ESP fat32 1MB 512MB
+  sudo parted /dev/sda -- set 3 esp on

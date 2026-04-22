@@ -1,0 +1,23 @@
+title: my question
+pid: 736af3b6-4f0b-4bf2-85d7-466016c68747
+body: |2-
+  Clearly the part before the : is a type, and the part after is its name.
+  In the case where the url leads to an ordinary function,
+  the value matching the pattern is passed to the corresponding argument name.
+  This is the case, e.g., for the line
+      path('<int:question_id>/vote/', views.vote, name='vote'),
+  in polls/urls.py, which calls the ordinary function
+      def vote(request, question_id):
+  in polls/views.py.
+
+  But the sequence of urlconfs might end up "calling" something that's not
+  an ordinary function, but instead a subtype of the View class.
+  This is the case, e.g., in the line
+      path('<int:pk>/', # Matches an integer and
+            views.DetailView.as_view(),
+            name='detail'),
+  from polls.urls, which corresponds to the View
+      class DetailView(generic.DetailView):
+        model = Question
+        template_name = 'polls/detail.html'
+  in polls.views. And the string "pk" appears nowhere in that class def!

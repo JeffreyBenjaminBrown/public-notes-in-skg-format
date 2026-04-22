@@ -1,0 +1,17 @@
+title: Processes can be unsafely terminated.
+pid: 8e14ed25-11f6-4d2c-a666-872dcac6f9e5
+body: |2-
+  from time import sleep
+  from multiprocessing import Process
+
+  class MyProcess (Process):
+    def run(self):
+      while True:
+        print("I'm the MyProcess.")
+        sleep (0.5)
+
+  def go():
+    mt = MyProcess()
+    mt.start()
+    sleep(2)
+    mt.terminate()

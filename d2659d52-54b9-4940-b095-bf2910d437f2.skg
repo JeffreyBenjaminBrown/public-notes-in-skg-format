@@ -1,0 +1,4 @@
+title: Ttest that all IDs are distinct in the repo.
+pid: d2659d52-54b9-4940-b095-bf2910d437f2
+body: |2-
+  maybe in Rust, not TypeDB

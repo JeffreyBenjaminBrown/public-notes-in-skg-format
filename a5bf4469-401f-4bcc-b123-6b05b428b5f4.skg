@@ -1,0 +1,11 @@
+title: a little more detail
+pid: a5bf4469-401f-4bcc-b123-6b05b428b5f4
+body: |2-
+  Given a path, Django first searhes <project-root>/<site-name>/urls.py
+    for a matching prefix.
+  If the second argument is an include() expression, as in
+      path('polls/', include('polls.urls'))
+  then Django will look in the indicated file.
+  Eventually it should bottom out at an expression like
+      path('', views.index, name='index'),
+  at which point it visits the "name" function in the file that's the second arg.

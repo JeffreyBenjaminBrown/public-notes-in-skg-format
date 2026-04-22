@@ -1,0 +1,6 @@
+title: send_all_state_event/2 and sync_send_all_state_event/2-3
+pid: 2edc4db5-3116-47f3-85f4-610d4598c41b
+body: |2-
+  "Equivalent" to the previous two, but for "global" events.
+contains:
+- 6cbf5494-2944-46e0-985d-51f6a42b2e2e

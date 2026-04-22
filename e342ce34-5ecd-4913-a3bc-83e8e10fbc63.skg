@@ -1,0 +1,5 @@
+title: propertize string &rest properties
+pid: e342ce34-5ecd-4913-a3bc-83e8e10fbc63
+body: |2-
+  returns a copy of string
+  with the text properties properties added.

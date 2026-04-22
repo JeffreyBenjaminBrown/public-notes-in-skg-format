@@ -1,0 +1,5 @@
+title: '# SECURITY WARNING: don''t run with debug turned on in production!'
+pid: eeddcbaf-c5ad-4325-8e51-200f66d75379
+body: |2-
+  tax.co.web/django/ebdjango/settings.py
+  DEBUG = True

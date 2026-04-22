@@ -1,0 +1,9 @@
+title: variations on nested series of numbers
+pid: 9c91defb-133f-41fc-b357-5ea97cb44a95
+body: |2-
+  where (.) > (,)
+contains:
+- e167ad36-3714-411e-85dc-2c6d4d16cf84
+- 64663da8-727c-4bbe-bce2-2ab58375ddf5
+misc:
+- Had_ID_Before_Import

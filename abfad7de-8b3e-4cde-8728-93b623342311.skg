@@ -1,0 +1,6 @@
+title: Some technologies permit *way* longer sequences but are less accurate.
+pid: abfad7de-8b3e-4cde-8728-93b623342311
+body: |2-
+  That's because they sequence a single molecule at a time,
+  rather than a cluster of clones.
+  They're wrong around 10-15% of the time.

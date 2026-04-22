@@ -1,0 +1,8 @@
+title: syntax
+pid: 2fe83364-c90b-4ac1-99e5-a07ab45ddfff
+body: |2-
+  hh["months to save for a month"] = hh.apply(
+      lambda row: defs.months_to_save_for_a_month(
+          income = row[income],
+          spending = row[spending] ),
+      axis = "columns" )

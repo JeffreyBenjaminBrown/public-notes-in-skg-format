@@ -1,0 +1,9 @@
+title: syntax
+pid: 51a77f9e-8d16-419c-a2d5-64f1d8e7c0b7
+body: |2-
+  fun(Args1) ->
+   Expression1, Exp2, ..., ExpN;
+     ...
+     (Args3) ->
+   Expression1, Exp2, ..., ExpN
+  end

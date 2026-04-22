@@ -1,0 +1,5 @@
+title: Fork (create) them with "go".
+pid: 3131d565-fcba-470d-b0f0-bffe0a6c2848
+body: |2-
+  Use "go" to fork a process in a "goroutine":
+  go f(x, y, z)

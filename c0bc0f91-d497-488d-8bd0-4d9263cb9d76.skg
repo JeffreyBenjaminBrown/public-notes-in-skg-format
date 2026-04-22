@@ -1,0 +1,13 @@
+title: syntax
+pid: c0bc0f91-d497-488d-8bd0-4d9263cb9d76
+body: |2-
+  #+BEGIN_SRC rust
+  fn describe_state_quarter(coin: Coin) -> Option<String> {
+    let Coin::Quarter(state) = coin else {
+      return None; };
+    if state.existed_in(1900) {
+      Some(format!("{state:?} is pretty old, for America!"))
+    } else {
+      Some(format!("{state:?} is relatively new."))
+    } }
+  #+END_SRC

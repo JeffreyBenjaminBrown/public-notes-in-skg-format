@@ -1,0 +1,11 @@
+title: tests in Go
+pid: ae748d4d-eb68-4f48-b73b-af28eae5c323
+body: |2-
+  I have some example code at
+  ~/code/go/go1/greetings/greetings_test.go
+contains:
+- 1629e7b9-fdad-49d3-944a-145effb4d001
+- be75de11-1ac6-4d9c-8da5-137099b24185
+- 0818bcb5-b76c-45ca-bbc3-b9e862a56fed
+misc:
+- Had_ID_Before_Import

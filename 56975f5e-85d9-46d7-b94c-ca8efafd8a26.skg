@@ -1,0 +1,4 @@
+title: 'PITFALL: Third generations are killed by the VM.'
+pid: 56975f5e-85d9-46d7-b94c-ca8efafd8a26
+body: |2-
+  "If you load a third version of a module while a process still runs with the first one, that process gets killed by the VM, which assumes it was an orphan process without a supervisor or a way to upgrade itself. If nobody runs the oldest version, it is simply dropped and the newest ones are kept instead."

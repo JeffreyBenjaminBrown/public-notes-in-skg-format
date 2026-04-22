@@ -1,0 +1,4 @@
+title: how
+pid: 71e5cb82-8af1-4523-aa6d-413281ab7d8b
+body: |2-
+  How they should parse: The body is the first child. The child headline after it is the second child. Only its title blocks reading the list of children; the rest of it can be folded, and it can have tree content (unlike the org-body). So on for each of the others. If the level of pre-indentation changes, there is no change in its treatment.

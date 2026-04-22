@@ -1,0 +1,9 @@
+title: 'PITFALL: Namespaces'
+pid: 667851c6-a28f-4727-928b-f1d6bad712ca
+body: |2-
+  If 'mymodule' imports 'os',
+  and I want to mock the functionality of 'os'
+  in a test of 'mymodule',
+  the mock decorator must be passed 'mymodule.os', not 'os'.
+
+  Similar concerns apply, I think, when testing class methods.

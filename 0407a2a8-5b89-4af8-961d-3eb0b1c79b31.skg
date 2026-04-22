@@ -1,0 +1,5 @@
+title: fn merge_nodes
+pid: 0407a2a8-5b89-4af8-961d-3eb0b1c79b31
+body: |2-
+  /// PITFALL | TODO: If any but the first step fails,
+  ///   the resulting system state is invalid.

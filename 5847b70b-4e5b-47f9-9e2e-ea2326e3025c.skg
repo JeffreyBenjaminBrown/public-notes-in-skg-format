@@ -1,0 +1,13 @@
+title: illustration
+pid: 5847b70b-4e5b-47f9-9e2e-ea2326e3025c
+body: |2-
+  Even after I have the fftw library installed,
+  if I try to compile this with `gcc`,
+  it breaks at the import.
+
+  #include <fftw.h>
+
+  int main() {
+    printf("testing\n");
+    return 0;
+  }

@@ -1,0 +1,16 @@
+title: Commands I doubt I will use, with their default bindings.
+pid: be758010-799d-481c-9739-c011c55cc40a
+body: |2-
+  outline-forward-same-level (C-c C-f)
+  outline-backward-same-level (C-c C-b)
+  outline-hide-subtree (C-c @ C-d)
+  outline-show-children (C-c @ TAB)
+  outline-show-subtree (C-c @ C-s)
+  outline-show-entry (C-c @ C-e)
+  outline-headers-as-kill
+  outline-hide-body (C-c @ C-t)
+  outline-hide-entry (C-c @ C-c)
+  outline-hide-leaves (C-c @ C-l)
+  outline-hide-sublevels (C-c @ C-q)
+  outline-show-branches (C-c C-k)
+  outline-toggle-children

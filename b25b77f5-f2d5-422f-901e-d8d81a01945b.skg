@@ -1,0 +1,6 @@
+title: These relationships have implicit arity higher than 2.
+pid: b25b77f5-f2d5-422f-901e-d8d81a01945b
+body: |2-
+  Implicitly each relationship R includes more data --
+  specifically, the P and T in
+  "P wrote at time T that relationship R holds".

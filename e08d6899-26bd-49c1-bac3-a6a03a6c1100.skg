@@ -1,0 +1,9 @@
+title: TODO is the sccheduling a frame too conservative?
+pid: e08d6899-26bd-49c1-bac3-a6a03a6c1100
+body: |2-
+  In Dispatch.replaceAll, there's this:
+      when = nextPhase0 time0 frameDuration now + frameDuration
+        -- `when` = the end of the first not-yet-rendered frame.
+        -- TODO (speed) ? Is this conservative? Do I not need to
+        -- `(+ frameDuration)`?
+  Theere's a similar addition of a `frameDuration` in `chTempoPeriod`.

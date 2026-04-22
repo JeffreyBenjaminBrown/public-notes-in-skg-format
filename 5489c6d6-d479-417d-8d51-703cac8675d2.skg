@@ -1,0 +1,9 @@
+title: TLP (battery control service for Linux)
+pid: 5489c6d6-d479-417d-8d51-703cac8675d2
+contains:
+- 92ffdd8a-4538-4d1f-b916-70f43fcc8642
+- 1ba65ddb-688f-486f-bc13-8721d1f3e8b8
+- a2d44c1b-06d6-4259-aacf-9f4a5a3dd970
+- 35bc1753-5ad2-4e00-85f1-2e8cfa61ea8a
+misc:
+- Had_ID_Before_Import

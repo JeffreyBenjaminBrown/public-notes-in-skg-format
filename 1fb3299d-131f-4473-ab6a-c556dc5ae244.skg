@@ -1,0 +1,7 @@
+title: sorting
+pid: 1fb3299d-131f-4473-ab6a-c556dc5ae244
+body: |2-
+  SELECT * FROM drivers_license ORDER BY age ASC LIMIT 10
+contains:
+- 4063d731-5beb-4a1a-b768-7abefdbc1b18
+- 67ccf021-d730-46f6-8a9e-8e34aa9ca024

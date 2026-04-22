@@ -1,0 +1,7 @@
+title: '"a # b $ c" does not have confusable-neighbor uniqueness'
+pid: 7d79fb80-4a82-4682-80a4-168c0c3de5e2
+body: |2-
+  Here, bind order cannot be determined.
+contains:
+- 559035b7-1e82-4c6f-89f0-157b29b009ea
+- 187e3baf-0b65-42fe-99ee-56e9b4e74bf7

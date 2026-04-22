@@ -1,0 +1,4 @@
+title: a template
+pid: 72425453-24ea-4f44-97a7-e62bce1befbd
+body: |2-
+  fn(x, y) { x + y }

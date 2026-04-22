@@ -1,0 +1,10 @@
+title: 'PITFALL: It''s easy to mistake this for a failure of JACK.'
+pid: 4aa989b6-5e78-42dc-abe7-48dcdf3038ec
+body: |2-
+  But JACK is clearly working,
+  because another Reaper project is working,
+  as is SuperCollider --
+  and if I disable one of the wires in the JACK graph,
+  the stereo image is affected as would be expected.
+misc:
+- Had_ID_Before_Import

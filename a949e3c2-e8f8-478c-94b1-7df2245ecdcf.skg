@@ -1,0 +1,19 @@
+title: some example code
+pid: a949e3c2-e8f8-478c-94b1-7df2245ecdcf
+body: |2-
+  from enum import Enum, unique, auto
+
+  @unique
+  class Move (Enum):
+      Buy  = auto ()
+      ToUs = auto ()
+      Sell = auto ()
+      ToCo = auto ()
+      def next (self) -> Move:
+        # In earlier versions of Python, returning `Move` here
+        # (midway through the definition of `Move`) might require
+          # from __future__ import annotations
+        # But as of 3.10 it doesn't.
+        return Move ( ( self . value )
+                        % len ( list ( Move ) )
+                        + 1 )

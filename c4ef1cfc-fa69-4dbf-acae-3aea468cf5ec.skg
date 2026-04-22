@@ -1,0 +1,9 @@
+title: delay - can be cps-synced with `lock`
+pid: c4ef1cfc-fa69-4dbf-acae-3aea468cf5ec
+body: |2-
+  d1 $ sound "cp" # delay 0.8 # delaytime (1/6) # delayfeedback 0.6 # lock 1
+contains:
+- 1dd67812-86c9-4776-bb37-5ba73d8111a6
+- 6495b390-d520-4fe1-89f9-043cee1fb981
+- 306270cc-e3a3-43a9-8e47-0a8fb9aebb55
+- fc4d5f9a-ac3a-4f3d-ae67-988ff765381e

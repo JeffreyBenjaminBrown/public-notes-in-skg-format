@@ -1,0 +1,4 @@
+title: Defend against misinformation.
+pid: b9b7bd0a-29bb-4023-a53b-0564f93020ec
+body: |2-
+  Some of the fight against online misinformation involves tracing its origins. This is tedious manual labor, and need not be. Simple NLP could recognize citations even before LLMs. By including citation relationships in the index, and using the ontology to recognize equivalent forms of the same statement, a Shyg user could trace the history of a claim backward. A single query would suffice, whereas today one must make a separate query for each link from one domain to another (e.g. one query for the newspaper, another for a social media site the newspaper had quoted, then a new query when that site refers back to the newspaper ...)

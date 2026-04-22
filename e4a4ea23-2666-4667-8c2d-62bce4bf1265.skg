@@ -1,0 +1,7 @@
+title: the `.sln` file is the "solution" file
+pid: e4a4ea23-2666-4667-8c2d-62bce4bf1265
+body: |2-
+  It is unnecessary for building and running a project.
+  "Solution"s are collections of "Projects",
+  which according to MS Copilot (GPT-4 Turbo, I think)
+  as of <2024-02-02 Fri>, represent standalone applications.

@@ -1,0 +1,6 @@
+title: a template
+pid: 1f5ed598-3650-46e5-adf0-5f4de362ca84
+body: |2-
+  pub fn add(x: Int, y: Int) -> Int {
+    x + y
+  }

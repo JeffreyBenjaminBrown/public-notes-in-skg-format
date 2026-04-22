@@ -1,0 +1,4 @@
+title: legato is the "amount of overlap between two adjacent synth sounds. Values less than one (e.g. 0.5) will cut the sound off sooner. Values greater than one (e.g. 1.5) will cut the sound off later"
+pid: 62fcc75e-2362-4b04-bb94-d7d4c2414565
+body: |2-
+  https://tidalcycles.org/docs/reference/audio_effects/

@@ -1,0 +1,8 @@
+title: how Django matches a `urlpattern`
+pid: db0582de-2b34-41c9-a838-b5a114cfefde
+body: |2-
+  It starts at <project-name>.urls.urlpatterns(),
+  where it looks up the first part of the URL.
+  That will probably lead it to a function in another urls.py file,
+  e.g. <app-name>.urls.urlpatterns(), which might lead to yet another.
+  Eventually it bottoms out at a view -- e.g. see polls.urls.urlpatterns.

@@ -1,0 +1,4 @@
+title: From within the TypeDB console, print it to screen.
+pid: 135e6fab-f9f3-4ef0-8dd8-4cd49ad364a1
+body: |2-
+  database schema db-name

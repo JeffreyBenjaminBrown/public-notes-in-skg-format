@@ -1,0 +1,4 @@
+title: get the stack trace
+pid: 5d069db0-0027-4f5b-abf0-1c62bf945aa6
+body: |2-
+  panic ( "optional message" )

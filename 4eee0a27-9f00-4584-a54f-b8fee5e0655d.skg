@@ -1,0 +1,9 @@
+title: base commands to choose from
+pid: 4eee0a27-9f00-4584-a54f-b8fee5e0655d
+body: |2-
+  Choose based on [[id:8285b7f2-ce8d-4601-9f0a-5c95a11223e4][formats: compatibility, capacity, maybe speed]].
+  sudo mkfs.ext4  /dev/sdxnjjj  # ExFAT is the default for Linux.
+    # It doesn't seem to accept the -f option.
+  sudo mkfs.vfat  /dev/sdxnjjj # FAT32
+  sudo mkfs.ntfs  /dev/sdxnjjj # NTFS
+  sudo mkfs.exfat /dev/sdxnjjj # ExFAT

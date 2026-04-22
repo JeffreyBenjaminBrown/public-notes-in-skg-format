@@ -1,0 +1,7 @@
+title: Terraform (open-source CLI for cloud computing)
+pid: c3b5cb8e-0b24-49d8-b4c4-920f210abc83
+body: |2-
+  Covers all the majors, in particular AWS.
+  [[id:960d51ec-aad8-4337-9cd5-fb6c7ed318ec][Jeff C]] uses it to avoid the AWS WUI.
+misc:
+- Had_ID_Before_Import

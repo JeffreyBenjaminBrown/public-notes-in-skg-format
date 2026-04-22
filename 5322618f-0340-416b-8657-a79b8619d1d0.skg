@@ -1,0 +1,6 @@
+title: SOLUTION, kind of
+pid: 5322618f-0340-416b-8657-a79b8619d1d0
+body: |2-
+  Just create new shortcuts, equal to the old ones.
+  (Note that they will display differently in the action menu --
+  for instance, Shift-1 will display as ! rather than Shift-1.)

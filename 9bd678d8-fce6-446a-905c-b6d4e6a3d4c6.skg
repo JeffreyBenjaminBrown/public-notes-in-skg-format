@@ -1,0 +1,20 @@
+title: layout
+pid: 9bd678d8-fce6-446a-905c-b6d4e6a3d4c6
+body: |2-
+  [ 0 steps; 1 % 1 ; string 0 ; fret 0
+  , 109 steps; 2 % 1 ; string 5 ; fret 2
+  , 64 steps; 3 % 2 ; string 3 ; fret 1
+  , 35 steps; 5 % 4 ; string 0 ; fret 5
+  , 88 steps; 7 % 4 ; string 5 ; fret - 1
+  , 19 steps; 9 % 8 ; string 1 ; fret 0
+  , 50 steps; 11 % 8 ; string 3 ; fret - 1
+  , 76 steps; 13 % 8 ; string 4 ; fret 0
+  , 99 steps; 15 % 8 ; string 3 ; fret 6
+  , 10 steps; 17 % 16 ; string 2 ; fret - 4
+  , 27 steps; 19 % 16 ; string 4 ; fret - 7
+  , 43 steps; 21 % 16 ; string 3 ; fret - 2
+  , 57 steps; 23 % 16 ; string 3 ; fret 0
+  , 70 steps; 25 % 16 ; string 0 ; fret 10
+  , 82 steps; 27 % 16 ; string 1 ; fret 9
+  , 94 steps; 29 % 16 ; string 2 ; fret 8
+  , 104 steps; 31 % 16 ; string 4 ; fret 4

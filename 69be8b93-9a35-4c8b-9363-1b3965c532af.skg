@@ -1,0 +1,4 @@
+title: it's not really that timeForBoth_toFinish is "safer"
+pid: 69be8b93-9a35-4c8b-9363-1b3965c532af
+body: |2-
+  I'm sure there's a good way to do it -- just, like, check that it won't fuck up.

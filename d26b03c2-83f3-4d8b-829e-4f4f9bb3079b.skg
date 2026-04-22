@@ -1,0 +1,10 @@
+title: syntax
+pid: d26b03c2-83f3-4d8b-829e-4f4f9bb3079b
+body: |2-
+  select {
+    case c <- x: // If channel 'c' can receive, send x to c.
+      x, y = y, x+y
+    case <-quit: // If channel 'quit' sends anything, do this.
+      fmt.Println("quit")
+      return
+  }

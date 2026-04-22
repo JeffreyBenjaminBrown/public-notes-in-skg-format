@@ -1,0 +1,4 @@
+title: Always mount the target filesystem (i.e. where to install NixOS).
+pid: a781e740-f675-42c4-8a49-5b85de5545fb
+body: |2-
+  sudo mount /dev/disk/by-label/nixos /mnt

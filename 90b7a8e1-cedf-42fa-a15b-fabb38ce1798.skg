@@ -1,0 +1,9 @@
+title: Define "vanish" to exclude nodes added to the less-preferred data.
+pid: 90b7a8e1-cedf-42fa-a15b-fabb38ce1798
+body: |2-
+  If the preferred data is a newer version of the older,
+  and if the user modified the less-preferred data
+  before merging it with the preferred,
+  they will want to consider only nodes that were present
+  in the old data before it was modified,
+  when defining whether something "vanished".

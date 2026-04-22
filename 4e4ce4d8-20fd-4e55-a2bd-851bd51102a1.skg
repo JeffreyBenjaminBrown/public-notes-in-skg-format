@@ -1,0 +1,11 @@
+title: with automatic downloading of the source
+pid: 4e4ce4d8-20fd-4e55-a2bd-851bd51102a1
+body: |2-
+  rather than define src = the name of some file that I put there myself,
+  define
+    src = fetchurl {
+      url = ...;
+      sha256 = ...;
+    };
+  To compute sha256, download from the desired URL (but only once)
+  and run sha256sum on it.

@@ -1,0 +1,5 @@
+title: Extract the punctuation I tend toward automatically.
+pid: 39ee1346-42a8-464e-b7fd-bebb28345a18
+body: |2-
+  e.g. start with & and two words,
+  using (path to) parent if absent

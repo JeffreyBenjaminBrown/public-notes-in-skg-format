@@ -1,0 +1,9 @@
+title: '"field lookups"'
+pid: 2fa51b0d-9b14-4b1f-bfe8-1f498cfb6806
+body: |2-
+  lots of automatically created names
+  https://docs.djangoproject.com/en/3.0/topics/db/queries/#field-lookups-intro
+contains:
+- 1ed4471b-fc10-497c-9b78-b93dbaaa34c6
+- 74d111ba-3f36-4257-a66c-77da4ddfddef
+- 4ad0a61a-05e6-49f9-9d83-02a9bb92f746

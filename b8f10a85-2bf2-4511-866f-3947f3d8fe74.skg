@@ -1,0 +1,28 @@
+title: syntax and edge cases
+pid: b8f10a85-2bf2-4511-866f-3947f3d8fe74
+body: |2-
+  The "search containment path expression" is a slash-separated list.
+  That list can consist of two kinds of things:
+  - text target
+  - ellipsis
+  The text search specs generally do not need quotation marks,
+  because the slashes make their boundaries clear,
+  but they can have them.
+
+  Exception: If a text target includes "/" or "..",
+  then it needs quotation marks.
+
+  An ellipsis looks like ".." or "3 ..",
+  for any value of 3 (lol).
+  The number, if present, limits how many hops to consider.
+  If any other text appears
+  between the ellipsis and the nearest slash,
+  that's a user error. They should receive a message
+  to the effect of 'path component "trucks 3 .."
+  included the text 'trucks', which the server could not interpret',
+  for any value of 'trucks' (lol).
+
+  The server should collapse adjacent elipses into a single one:
+  'a / .. / 3 .. / b' = 'a / .. / b'
+  and
+  'a / 2 .. / 3 .. / b' = 'a / 5 .. / b'

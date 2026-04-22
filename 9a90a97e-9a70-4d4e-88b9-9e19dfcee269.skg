@@ -1,0 +1,6 @@
+title: explain changes
+pid: 9a90a97e-9a70-4d4e-88b9-9e19dfcee269
+body: |2-
+  If I change something, unless its purpose is obvious,
+  add an explanatory comment.
+  Otherwise Claude might think it's unnecessary and remove it.

@@ -1,0 +1,6 @@
+title: run `python manage.py makemigrations <app-name>`
+pid: f355bb5b-b0f9-410c-b964-edb7c2618633
+body: |2-
+  THis writes a "migration",
+  a human-readable file that describes how the DB changed,
+  to `<app-name>/migrations/0001_initial.py`.

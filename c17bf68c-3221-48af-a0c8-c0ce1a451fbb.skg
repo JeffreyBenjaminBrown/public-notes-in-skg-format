@@ -1,0 +1,11 @@
+title: nix-shell succeeds silently
+pid: c17bf68c-3221-48af-a0c8-c0ce1a451fbb
+body: |2-
+  Consider this recorded passage:
+  ```
+  [jeff@jbb-dell:~/nix/jbb-config/custom-packages/serialosc]$ nix-shell https://github.com/JeffreyBenjaminBrown/nixpkgs/archive/2bbd131811991bec9ae6b296b5cd1441640c306c.tar.gz -A serialosc --pure
+
+  [nix-shell:~/nix/jbb-config/custom-packages/serialosc]$
+  ```
+  It might look like nothing happened, but notice how the prompt has changed.
+  After running the command, I am in the nix-shell.

@@ -1,0 +1,19 @@
+title: Pr.pPrint $ bestLayout' 29 80 14 5 -- Bosanquet
+pid: 08858521-caa6-4625-a64a-678b81ce79f9
+body: |2-
+  [  0 steps;  1 %  1 ; string 0 ; fret 0
+  , 80 steps;  2 %  1 ; string 5 ; fret 2
+  , 47 steps;  3 %  2 ; string 3 ; fret 1
+  , 26 steps;  5 %  4 ; string 4 ; fret - 6
+  , 65 steps;  7 %  4 ; string 5 ; fret - 1
+  , 14 steps;  9 %  8 ; string 1 ; fret 0
+  , 37 steps; 11 %  8 ; string 3 ; fret - 1
+  , 56 steps; 13 %  8 ; string 4 ; fret 0
+  , 73 steps; 15 %  8 ; string 7 ; fret - 5
+  ,  7 steps; 17 % 16 ; string 3 ; fret - 7
+  , 20 steps; 19 % 16 ; string 0 ; fret 4
+  , 31 steps; 21 % 16 ; string 4 ; fret - 5
+  , 42 steps; 23 % 16 ; string 3 ; fret 0
+  , 52 steps; 25 % 16 ; string 3 ; fret 2
+  , 60 steps; 27 % 16 ; string 5 ; fret - 2
+  , 69 steps; 29 % 16 ; string 6 ; fret - 3

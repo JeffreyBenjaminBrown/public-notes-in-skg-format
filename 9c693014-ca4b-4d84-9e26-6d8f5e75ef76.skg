@@ -1,0 +1,12 @@
+title: The document
+pid: 9c693014-ca4b-4d84-9e26-6d8f5e75ef76
+body: |2-
+  123
+  5678
+  0
+  123
+
+  (put-text-property 6 8 'invisible 'hode-id)
+  (put-text-property 6 8 'invisible nil)
+  (next-single-property-change 7 'invisible)
+  (previous-single-property-change 7 'invisible)

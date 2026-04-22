@@ -1,0 +1,9 @@
+title: how to do it
+pid: a86cc0b9-36e4-4403-b5f1-87a37d50b7fe
+body: |2-
+  verify good wifi conncetion first
+
+  ssh-agent bash
+  ssh-add        # propmts for password
+
+  ~/nix/jbb/bash/rebuild-branches.sh

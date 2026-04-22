@@ -1,0 +1,6 @@
+title: Recognize bot networks.
+pid: 82b1a5fa-6e7e-42d7-8702-dc1df96ba6a4
+body: |2-
+  Social media platforms, cybersecurity firms, academics, media watchdogs and others frequently try to identify bot networks, by analyzing timing and coordination, linguistics, interactions with users, and more.
+
+  Shyg will permit users to choose the kinds of information to index. Storing citation relationships, and relationships like "[author] claims that [different author] is human" will facilitate the recognition of bots, by providing a unified public database and query framework for the information.

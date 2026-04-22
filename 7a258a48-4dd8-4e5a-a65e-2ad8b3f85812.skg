@@ -1,0 +1,4 @@
+title: 'example: copy a file into every folder found'
+pid: 7a258a48-4dd8-4e5a-a65e-2ad8b3f85812
+body: |2-
+  find . -type d -exec cp __init__.py {} \;

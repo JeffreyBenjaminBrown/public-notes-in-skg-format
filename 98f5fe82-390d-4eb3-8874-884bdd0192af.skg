@@ -1,0 +1,4 @@
+title: 'passwd : change a user''s password'
+pid: 98f5fe82-390d-4eb3-8874-884bdd0192af
+body: |2-
+  sudo passwd <user name>

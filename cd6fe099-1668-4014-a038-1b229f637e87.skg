@@ -1,0 +1,7 @@
+title: what those options do
+pid: cd6fe099-1668-4014-a038-1b229f637e87
+body: |2-
+  `debug_info` says to include debug info in the (compiled output?).
+    It's standard.
+  Each `i` pair indicates a folder that should be scanned for code.
+  `outdir` is where the compiled .beam files go.

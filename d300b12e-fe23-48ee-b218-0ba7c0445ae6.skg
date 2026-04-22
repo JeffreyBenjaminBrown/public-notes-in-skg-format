@@ -1,0 +1,6 @@
+title: in Python
+pid: d300b12e-fe23-48ee-b218-0ba7c0445ae6
+body: |2-
+  typedb_options = TypeDBOptions.core()  # Initialising a new set of options
+  typedb_options.infer = True  # Enabling inference in this new set of options
+  with session.transaction(TransactionType.READ, typedb_options) as transaction:

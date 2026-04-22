@@ -1,0 +1,8 @@
+title: Collapse the graph.
+pid: d7f46b34-ff36-40e5-b026-345ecb55ebb5
+body: |2-
+  Find the biggest edge (overlap).
+  If there are multiple, choose at random.
+  Merge those two nodes by concatenating them around their overlap.
+  Recompute the new node's edges.
+  Repeat until the graph has one node.

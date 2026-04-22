@@ -1,0 +1,6 @@
+title: 'PITFALL: sudo is important for the rest of this'
+pid: 494f6a1d-7573-4ac8-a536-784db0c50f70
+body: |2-
+  A lot of it will run without sudo,
+  but thereby create stuff that lives in userspace,
+  and is for some reason therefore unuseable.

@@ -1,0 +1,7 @@
+title: its contents, with some variables that need substitution
+pid: 95e71c00-33a9-4d7e-a2cd-57b85d54b33f
+body: |2-
+  [profile <profile name>]
+  user_arn = arn:aws:iam::<number>:user/<user name>
+  region = us-east-1 # This line might not be needed.
+  output = json      # This line might not be needed.

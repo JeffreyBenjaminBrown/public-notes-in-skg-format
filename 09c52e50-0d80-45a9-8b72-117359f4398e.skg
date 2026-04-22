@@ -1,0 +1,6 @@
+title: Write it.
+pid: 09c52e50-0d80-45a9-8b72-117359f4398e
+body: |2-
+  sudo dd if=/path/to/the.iso of=/dev/sdxxx bs=1M
+contains:
+- fc5b913a-4c48-4d47-9f2a-f640331b3695

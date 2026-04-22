@@ -1,0 +1,5 @@
+title: openssh will start on boot, not waiting for login
+pid: f3b3ce53-740b-4174-b6d6-d8ee59466aa1
+body: |2-
+  "Most NixOS services are configured to auto-start when the system boots by default if you enable them, openssh is one of them."
+  https://discourse.nixos.org/t/newbie-openssh-server-questions/19064/3

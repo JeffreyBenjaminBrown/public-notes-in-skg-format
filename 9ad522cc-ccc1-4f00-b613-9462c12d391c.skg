@@ -1,0 +1,9 @@
+title: why
+pid: 9ad522cc-ccc1-4f00-b613-9462c12d391c
+body: |2-
+  If an unexpected message is not matched, it will stay in the mailbox,
+  slowing the read time for any messages that follow it.
+  (jbb: Also it seems good to alert the programmer/user,
+  as in the example below,
+  to the fact that unexpected messages are being received,
+  because by default they occupy the mailbox silently.)

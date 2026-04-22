@@ -1,0 +1,13 @@
+title: 'PITFALL: The & can be omitted from pointer receivers.'
+pid: b1eb1cbc-1961-4a2c-8667-1f85740c9223
+body: |2-
+  but not for regular functions.
+  That is, if the following type signatures apply:
+    func f (*Vertex)
+    func (*Vertex) m
+    var v Vertex
+  then
+    f(&v)    // works
+    f(v)     // does not work
+    (&v).m() // works
+    v.m()    // works, due to shorthand

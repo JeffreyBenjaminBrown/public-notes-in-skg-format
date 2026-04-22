@@ -1,0 +1,11 @@
+title: Why Ubuntu > Amazon Linux.
+pid: 4c094d05-b478-47b2-95c3-173aed34abf6
+body: |2-
+  On AL I can't use:
+    Mosh
+    Eternal Terminal
+    Python > 3.7
+    Coconut (won't build on Python 3.7 without lots of work)
+    the Tmux plugins I ordinarily use
+misc:
+- Had_ID_Before_Import

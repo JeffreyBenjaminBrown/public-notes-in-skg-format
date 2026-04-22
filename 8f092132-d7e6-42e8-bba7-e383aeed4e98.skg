@@ -1,0 +1,20 @@
+title: '128 3 25: straight, identical to 87 2 17 in 15-lim, but worse for higher'
+pid: 8f092132-d7e6-42e8-bba7-e383aeed4e98
+body: |2-
+  [ 0   steps; 1  % 1 ;  string 0 ; fret 0
+  , 128 steps; 2  % 1 ;  string 5 ; fret 1
+  , 75  steps; 3  % 2 ;  string 3 ; fret 0
+  , 41  steps; 5  % 4 ;  string 2 ; fret -3
+  , 103 steps; 7  % 4 ;  string 4 ; fret 1
+  , 22  steps; 9  % 8 ;  string 1 ; fret -1
+  , 59  steps; 11 % 8 ;  string 2 ; fret 3
+  , 90  steps; 13 % 8 ;  string 3 ; fret 5
+  , 116 steps; 15 % 8 ;  string 5 ; fret -3
+  , 11  steps; 17 % 16 ; string 2 ; fret -13
+  , 32  steps; 19 % 16 ; string 2 ; fret -6
+  , 50  steps; 21 % 16 ; string 2 ; fret 0
+  , 67  steps; 23 % 16 ; string 4 ; fret -11
+  , 82  steps; 25 % 16 ; string 4 ; fret -6
+  , 97  steps; 27 % 16 ; string 4 ; fret -1
+  , 110 steps; 29 % 16 ; string 5 ; fret -5
+  , 122 steps; 31 % 16 ; string 5 ; fret -1

@@ -1,0 +1,4 @@
+title: Explain immediately upon introducing G(D)
+pid: bdfde4ea-5a0e-4c49-82d9-3aa312f82213
+body: |2-
+  that it's an implicit set, which Hydra will be able to test for membership within but not enumerate, and that it's closed under some set of type operations (a -> [a], for instance) that can vary from grpah to graph.

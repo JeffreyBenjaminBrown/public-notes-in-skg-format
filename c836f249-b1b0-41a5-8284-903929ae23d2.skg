@@ -1,0 +1,5 @@
+title: the ratio 3/2 lies on the 7th fret of a 12-edo guitar
+pid: c836f249-b1b0-41a5-8284-903929ae23d2
+body: |2-
+  2**(7/12) -> 1.49
+  log 1.49 / log 2 = 7/12

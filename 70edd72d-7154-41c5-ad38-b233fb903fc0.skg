@@ -1,0 +1,6 @@
+title: the idea
+pid: 70edd72d-7154-41c5-ad38-b233fb903fc0
+body: |2-
+  Evaluating something like this:
+    $"(x)"
+  replaces each (x) with what it evaluates to.

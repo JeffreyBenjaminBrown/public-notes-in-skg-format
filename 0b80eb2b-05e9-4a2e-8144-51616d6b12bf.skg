@@ -1,0 +1,5 @@
+title: detune  = 1, -- dramatic tone, confusing
+pid: 0b80eb2b-05e9-4a2e-8144-51616d6b12bf
+body: |2-
+  detune 0 = saw-like
+  Seems to be in a multiple of hertz, not logarithmic.

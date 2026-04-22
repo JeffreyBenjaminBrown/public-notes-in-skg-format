@@ -1,0 +1,9 @@
+title: 'PITFALL: Substitute accurate partition names into these NixOS installation instructions.'
+pid: 62d16a7f-33ab-402d-a8d2-d659a53caeac
+body: |2-
+  PITFALL: Redundant nesting. Backlinks are to the title below,
+           not the one above.
+contains:
+- 7479bf91-f0f0-4260-9c71-b6a7a94fa009
+misc:
+- Had_ID_Before_Import

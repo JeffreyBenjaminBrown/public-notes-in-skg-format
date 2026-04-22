@@ -1,0 +1,7 @@
+title: what they are
+pid: 2c2ea3d1-469d-4e06-b190-ef996c3c2ad6
+body: |2-
+  Servers host sessions, which host windows.
+  The set of windows in this session is written at the bottom of the screen.
+  Windows can be broken into panes, horizontally or vertically, and nested.
+  Panes can be "zoomed into" such that they occupy the whole screen. Nothing indicates that there are other panes surrounding a zoomed pane.

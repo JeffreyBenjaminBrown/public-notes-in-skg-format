@@ -1,0 +1,6 @@
+title: WHERE filters results.
+pid: f4a98e42-3d38-4ba1-9d3f-dae62e83a028
+body: |2-
+  SELECT * FROM person WHERE address_number = 309;
+contains:
+- d3ba9a11-c3e6-4426-a1a7-fa2d2b7da620

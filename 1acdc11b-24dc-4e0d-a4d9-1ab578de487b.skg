@@ -1,0 +1,5 @@
+title: codata
+pid: 1acdc11b-24dc-4e0d-a4d9-1ab578de487b
+body: |2-
+  It permits infinite data types, but not mutually recursive ones.
+  I didn't understand it.

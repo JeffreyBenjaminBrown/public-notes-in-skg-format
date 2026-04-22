@@ -1,0 +1,5 @@
+title: how it failed
+pid: 2d2ceb9a-bdf4-4661-9775-eb620ac598d8
+body: |2-
+  Even after disabling a lot of stuff (tests, benchmarks, git repository) in `tidal.cabal` it still said that, `cabal` complains:
+    After searching the rest of the dependency tree exhaustively, these were the goals I've had most trouble fulfilling: template-haskell, pretty, text, tidal-parse

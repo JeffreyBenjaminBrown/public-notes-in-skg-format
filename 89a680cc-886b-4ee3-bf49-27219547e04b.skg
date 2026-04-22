@@ -1,0 +1,7 @@
+title: Its typing is weak.
+pid: 89a680cc-886b-4ee3-bf49-27219547e04b
+body: |2-
+  "Datatypes are advisory rather than mandatory."
+  Standard SQL is strongly typed.
+contains:
+- 774a2647-11f6-4c9d-9406-b33d5810537b

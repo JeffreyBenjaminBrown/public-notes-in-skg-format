@@ -1,0 +1,4 @@
+title: '{} can be used to create a code block, ala Lisp''s `progn`'
+pid: 45e45830-31d4-43cf-9010-960e22a402c9
+body: |2-
+  Variables defined in a code block are available outside of it.

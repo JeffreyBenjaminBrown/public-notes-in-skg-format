@@ -1,0 +1,20 @@
+title: '13\74 x 2\74: 31-lim -19 -21 in 6x6, octave 6s -2f'
+pid: d6d07566-47eb-4190-a79d-b358ff4b38e0
+body: |2-
+  [ 0 steps; 1 % 1 ; string 0 ; fret 0
+  , 74 steps; 2 % 1 ; string 6 ; fret - 2
+  , 43 steps; 3 % 2 ; string 3 ; fret 2
+  , 24 steps; 5 % 4 ; string 2 ; fret - 1
+  , 60 steps; 7 % 4 ; string 4 ; fret 4
+  , 13 steps; 9 % 8 ; string 1 ; fret 0
+  , 34 steps; 11 % 8 ; string 2 ; fret 4
+  , 52 steps; 13 % 8 ; string 4 ; fret 0
+  , 67 steps; 15 % 8 ; string 5 ; fret 1
+  , 6 steps; 17 % 16 ; string 0 ; fret 3
+  # , 18 steps; 19 % 16 ; string 2 ; fret - 4
+  # , 29 steps; 21 % 16 ; string 3 ; fret - 5
+  , 39 steps; 23 % 16 ; string 3 ; fret 0
+  , 48 steps; 25 % 16 ; string 4 ; fret - 2
+  , 56 steps; 27 % 16 ; string 4 ; fret 2
+  , 63 steps; 29 % 16 ; string 5 ; fret - 1
+  , 71 steps; 31 % 16 ; string 5 ; fret 3

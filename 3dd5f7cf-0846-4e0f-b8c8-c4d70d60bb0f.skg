@@ -1,0 +1,9 @@
+title: 'PITFALL: Some field types need special treatment.'
+pid: 3dd5f7cf-0846-4e0f-b8c8-c4d70d60bb0f
+body: |2-
+  """
+  Some field types need some extra handling. For example, files that are
+  uploaded using a form need to be handled differently (they can be retrieved
+  from request.FILES, rather than request.POST). For details of how to handle file
+  uploads with your form, see Binding uploaded files to a form.
+  """

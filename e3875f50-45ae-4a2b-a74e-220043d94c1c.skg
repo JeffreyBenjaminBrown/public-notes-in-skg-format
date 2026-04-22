@@ -1,0 +1,6 @@
+title: 'Syntax: Put the receiver before the function name.'
+pid: e3875f50-45ae-4a2b-a74e-220043d94c1c
+body: |2-
+  func (v Vertex) Abs () float64 {
+    return math.Sqrt (v.X*v.X + v.Y*v.Y)
+  }

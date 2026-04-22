@@ -1,0 +1,7 @@
+title: TODO start apache differently
+pid: a7d0a1aa-4950-45cc-a334-c357561badfa
+body: |2-
+  PREFIX seems to be /usr/local/apache2/bin/apachectl
+
+  # vi PREFIX/conf/httpd.conf
+  PREFIX/bin/apachectl -k start

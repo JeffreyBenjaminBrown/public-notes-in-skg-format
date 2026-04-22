@@ -1,0 +1,14 @@
+title: '99 2 13: 8 strings 4 frets for 13-lim + 23'
+pid: d4771a14-c204-41b1-a5d2-abe40500bedb
+body: |2-
+  [ 99 steps = 2 % 1 : string 7 fret 4
+  , 58 steps = 3 % 2 : string 4 fret 3
+  , 32 steps = 5 % 4 : string 2 fret 3
+  , 80 steps = 7 % 4 : string 6 fret 1
+  , 45 steps = 11 % 8 : string 3 fret 3
+  , 69 steps = 13 % 8 : string 5 fret 2
+  , 9 steps = 17 % 16 : string 1 fret - 2
+  , 25 steps = 19 % 16 : string 1 fret 6
+  , 52 steps = 23 % 16 : string 4 fret 0
+  , 85 steps = 29 % 16 : string 7 fret - 3
+  , 94 steps = 31 % 16 : string 6 fret 8

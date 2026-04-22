@@ -1,0 +1,6 @@
+title: then use pandoc
+pid: ffe8b389-bbec-4899-aa92-cbc48ae0fa34
+body: |2-
+  pandoc --pdf-engine=pdfroff --output=output.pdf input.md
+contains:
+- 14755e66-020a-49dc-8d0e-56c2a1fd71d4

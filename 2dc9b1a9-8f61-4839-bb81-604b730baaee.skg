@@ -1,0 +1,5 @@
+title: pattern-match relationship members in matches
+pid: 2dc9b1a9-8f61-4839-bb81-604b730baaee
+body: |2-
+  match $a (source:$s, target:$t) isa arrow;
+  fetch $t:text;

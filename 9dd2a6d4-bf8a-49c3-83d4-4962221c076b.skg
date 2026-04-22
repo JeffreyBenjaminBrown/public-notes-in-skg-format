@@ -1,0 +1,5 @@
+title: I might need to restart my computer.
+pid: 9dd2a6d4-bf8a-49c3-83d4-4962221c076b
+body: |2-
+  (*) via `aconnect -i` or in the QJackCtl graph.
+  This happpened <2025-03-07 Fri>.

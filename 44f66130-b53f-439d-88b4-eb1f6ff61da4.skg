@@ -1,0 +1,5 @@
+title: The folder structure resembles that for templates
+pid: 44f66130-b53f-439d-88b4-eb1f6ff61da4
+body: |2-
+  e.g. create the file <app name>/static/<app name>/style.css,
+  and then refer to it as <app name>/style.css.

@@ -1,0 +1,7 @@
+title: 'goal: transitive search'
+pid: 062ec2ec-b786-4996-bdd8-4ba8b8f03d72
+body: |2-
+  If "brilliant #(is a kind of) bright",
+  I should be able to search for everything that #is bright,
+  and have brilliant things returned,
+  without needing them to be labeled bright.

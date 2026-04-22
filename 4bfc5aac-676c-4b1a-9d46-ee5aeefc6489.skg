@@ -1,0 +1,5 @@
+title: rec is more flexible
+pid: 4bfc5aac-676c-4b1a-9d46-ee5aeefc6489
+body: |2-
+  And interestingly, seldom used in all-packages.nix
+  See Nix manual section 14.3 for an example.

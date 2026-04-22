@@ -1,0 +1,4 @@
+title: the confusing quote
+pid: 22f57413-d865-4b09-9ced-5960649d9cc9
+body: |2-
+  "the type and definition are exported, and the definition can be used after it is imported. In other words, the definition itself is considered part of the module’s interface. The long name public export is intended to make you think twice about doing this."

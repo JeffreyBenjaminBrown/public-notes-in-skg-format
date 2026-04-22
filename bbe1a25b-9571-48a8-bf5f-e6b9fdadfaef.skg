@@ -1,0 +1,4 @@
+title: Shyg at the scale of a handful of people
+pid: bbe1a25b-9571-48a8-bf5f-e6b9fdadfaef
+body: |2-
+  A small group of non-programmers indexing their shared data in Shyg could process their data in ways not currently possible. One could, for example, "list everyone who was at [meeting] and has viewed [document]", or, "fetch every question addressed to me in any of the documents whose incompleteness is blocking anyone else".

@@ -1,0 +1,4 @@
+title: '"Types" as a label for the second column seems to be a misnomer.'
+pid: 86ebff20-a3f9-4a1d-aba2-4fa346473731
+body: |2-
+  Neither Atomic nor Function nor List nor anything in the Types column seems to be a type, but rather infinite sets of types. I'm not sure what the right term is for such sets, or even if the term exists.

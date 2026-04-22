@@ -1,0 +1,4 @@
+title: where are these build phases documented?
+pid: e2243cc9-d38b-4bbd-85d3-fc684388b0f8
+body: |2-
+  the ones that show up after running `type genericBuild`.

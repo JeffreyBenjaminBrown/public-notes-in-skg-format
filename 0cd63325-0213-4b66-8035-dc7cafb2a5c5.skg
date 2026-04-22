@@ -1,0 +1,4 @@
+title: to get all types
+pid: 0cd63325-0213-4b66-8035-dc7cafb2a5c5
+body: |2-
+  match $x sub $y; get $x;

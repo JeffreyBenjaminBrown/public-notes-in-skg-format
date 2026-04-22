@@ -1,0 +1,4 @@
+title: to include arity in the a node's type
+pid: a25427e2-8e0f-42ba-8956-e686d83dd234
+body: |2-
+  see digraphs-with-text/gadt.hs

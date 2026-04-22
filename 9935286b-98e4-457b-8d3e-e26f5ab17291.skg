@@ -1,0 +1,16 @@
+title: '`Result` and `panic!` are often mixed.'
+pid: 9935286b-98e4-457b-8d3e-e26f5ab17291
+body: |2-
+  #+BEGIN_SRC rust
+  use std::fs::File;
+
+  fn main() {
+    let greeting_file_result = File::open("hello.txt");
+
+    let greeting_file = match greeting_file_result {
+      Ok(file) => file,
+      Err(error) => panic!( // here
+        "Problem opening the file: {error:?}"),
+    };
+  }
+  #+end_src

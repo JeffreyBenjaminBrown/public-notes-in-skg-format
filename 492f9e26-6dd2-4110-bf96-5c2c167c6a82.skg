@@ -1,0 +1,2 @@
+title: Appending `.await` transforms a Future<T> into a T.
+pid: 492f9e26-6dd2-4110-bf96-5c2c167c6a82

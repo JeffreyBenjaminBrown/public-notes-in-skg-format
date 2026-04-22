@@ -1,0 +1,5 @@
+title: 'Constraints are, like types, first class objects in the language. You can see this at the REPL:'
+pid: 7e8cb09d-1ae2-4787-881a-a1d69ff52af7
+body: |2-
+  Main> :t Ord
+  Prelude.Ord : Type -> Type

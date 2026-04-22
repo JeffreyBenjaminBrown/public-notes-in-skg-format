@@ -1,0 +1,7 @@
+title: maybe the customizations work already
+pid: ddf29e70-73ef-4c36-a226-2c7dfd16a6ab
+body: |2-
+  See "emacs customizations" below.
+  If they can't be installed yet, then until customized,
+  run "M-x load-theme m-dark"
+  for readability.

@@ -1,0 +1,9 @@
+title: end it from the browser
+pid: 8360bd9c-a781-4cef-8bce-49fc7ff00f0f
+body: |2-
+  specifically from the EC2 console at aws.org
+contains:
+- 66de5ba2-600e-4488-8ab4-bf443d7c9c09
+- 4be7d2e5-b6b7-4142-92dd-b770f51a6fa3
+- 29b5beb9-bb03-4f2f-8355-6eb7a6a96263
+- a5cd5bb1-565f-4bfb-9fbc-40eb5ee96041

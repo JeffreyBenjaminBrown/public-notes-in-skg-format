@@ -1,0 +1,8 @@
+title: VST (audio plugin format)
+pid: 3b1c4800-713a-41a5-9a65-55d83b51d03d
+contains:
+- 13052e42-1ff6-47eb-9dc9-cbf282134f54
+- 88a5476b-99ef-4295-98d6-08c36a034596
+- 91bd33eb-cfba-49fe-a083-bedac852faeb
+misc:
+- Had_ID_Before_Import

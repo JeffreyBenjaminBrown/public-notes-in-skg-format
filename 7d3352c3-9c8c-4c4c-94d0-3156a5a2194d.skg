@@ -1,0 +1,10 @@
+title: TODO fix my dependencies in jbb-config/custom-packages
+pid: 7d3352c3-9c8c-4c4c-94d0-3156a5a2194d
+body: |2-
+  Because things change in Nixos 21.05:
+  https://nixos.org/manual/nixos/stable/release-notes.html#sec-release-21.05
+contains:
+- 98fd788f-33a7-4c73-937a-9159b7b827a1
+- 84f0b209-a06f-4b03-a2ff-611737dd9fd4
+- 1d171c60-b88b-41df-ab75-a18db4055485
+- 15524fb7-7d84-44e0-89ca-7b3ea7c15b63

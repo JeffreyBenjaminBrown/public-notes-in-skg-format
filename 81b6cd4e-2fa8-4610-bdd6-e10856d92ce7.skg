@@ -1,0 +1,7 @@
+title: the problem
+pid: 81b6cd4e-2fa8-4610-bdd6-e10856d92ce7
+body: |2-
+  I wrote one that includes libssh2, and can load it with
+    export NIXPKGS_ALLOW_UNFREE=1
+    nix-shell --impure
+  But it still complains that libssh2 isn't available.

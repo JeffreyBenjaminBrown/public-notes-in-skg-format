@@ -1,0 +1,5 @@
+title: half-open [) ranges
+pid: d887964c-8407-4011-a777-19f288fe837f
+body: |2-
+  1..<5
+  The reverse (] appears not to be available.

@@ -1,0 +1,6 @@
+title: why
+pid: 553dca37-ec2d-489a-88b6-379ae9434f5d
+body: |2-
+  so that when playing a new voice,
+  can (without finger velocity detection)
+  adapt to another voice's dynamics

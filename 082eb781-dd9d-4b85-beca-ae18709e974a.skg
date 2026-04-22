@@ -1,0 +1,13 @@
+title: 'PITFALL: "for ... of" and "for ... in" are different!'
+pid: 082eb781-dd9d-4b85-beca-ae18709e974a
+body: |2-
+  "for ... in" loops over keys/indices.
+  "for ... of" loops over values.
+
+  for (let c in consumables) {
+    row . appendChild (
+      mkCell_text (
+        "th",
+        consumables[c] ) ) // with "of" instead of "in", I could just
+                           // write 'c' instead of 'consumables[c]'
+  }

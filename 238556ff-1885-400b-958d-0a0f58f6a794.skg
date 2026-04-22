@@ -1,0 +1,13 @@
+title: examples
+pid: 238556ff-1885-400b-958d-0a0f58f6a794
+body: |2-
+  1> atom.
+  atom
+  2> atoms_rule.
+  atoms_rule
+  3> atoms_rule@erlang.
+  atoms_rule@erlang
+  4> 'Atoms can be cheated!'.
+  'Atoms can be cheated!'
+  5> atom = 'atom'.
+  atom

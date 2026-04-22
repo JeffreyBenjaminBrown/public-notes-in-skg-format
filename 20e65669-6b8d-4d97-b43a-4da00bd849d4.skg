@@ -1,0 +1,4 @@
+title: to run a file from the REPL
+pid: 20e65669-6b8d-4d97-b43a-4da00bd849d4
+body: |2-
+  exec ( open ( "./filename" ) . read () )

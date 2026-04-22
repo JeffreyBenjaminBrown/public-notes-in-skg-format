@@ -1,0 +1,7 @@
+title: a "vacancy"
+pid: 44c8f2fa-2a77-4995-90f4-a6dd4a51394a
+body: |2-
+  Indicates either a job without an agent assigned to it,
+  or an agent with no jobs assigned to them.
+  The first steps of the algorithm eliminate all vacancies,
+  in both agents and jobs.

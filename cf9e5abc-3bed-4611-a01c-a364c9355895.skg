@@ -1,0 +1,5 @@
+title: 'PITFALL: spawn/1 has a weird lambda requirement'
+pid: cf9e5abc-3bed-4611-a01c-a364c9355895
+contains:
+- ab2a65da-07b2-403c-ba35-00b01771155b
+- b56fe30d-efdd-4ec3-81b8-8b28840185bf

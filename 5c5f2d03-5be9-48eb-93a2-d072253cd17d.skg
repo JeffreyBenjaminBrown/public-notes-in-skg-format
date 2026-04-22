@@ -1,0 +1,5 @@
+title: Glue it ("to itself") so that it forgets the trimmed-out regions.
+pid: 5c5f2d03-5be9-48eb-93a2-d072253cd17d
+body: |2-
+  [[id:f3977942-afef-4cf1-9ef0-fa85c4143620][glue item(s) : C-S-g]]
+  (or use the right-click context menu)

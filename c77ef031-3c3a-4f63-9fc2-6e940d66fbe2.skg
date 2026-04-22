@@ -1,0 +1,6 @@
+title: If an auction is weak, the Maker Buffer steps in.
+pid: c77ef031-3c3a-4f63-9fc2-6e940d66fbe2
+body: |2-
+  If a liquidation does not cover the debt it was meant to cover,
+  it becomes "protocol debt",
+  and is covered by the Maker Buffer.

@@ -1,0 +1,6 @@
+title: 'Search query format: unchanged'
+pid: 619aab96-983f-49dc-bc13-512333876d84
+body: |2-
+  They look just like they used to.
+  But if "_ x _" is transitive, then searching for "/any #x y"
+  will (potentially) return more stuff.

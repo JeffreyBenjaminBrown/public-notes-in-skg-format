@@ -1,0 +1,10 @@
+title: expression blocks
+pid: 339b6b4c-d511-4616-881b-4f74b0a5af49
+body: |2-
+  Commas can separate expressions.
+  The last is returned, all are evaluated.
+
+  add(A,B) ->
+    something, // will be evaluated
+    something, // will be evaluated
+    A + B.     // will be evaluated and returned

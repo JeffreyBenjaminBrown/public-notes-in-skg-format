@@ -1,0 +1,5 @@
+title: called in response to `{stop, ...}` tuples
+pid: 0706f9d3-874e-42db-9c0e-7acf39441034
+body: |2-
+  {stop, Reason, NewState}
+  {stop, Reason, Reply, NewState}

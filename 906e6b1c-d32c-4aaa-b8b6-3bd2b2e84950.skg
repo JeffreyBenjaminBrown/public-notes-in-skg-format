@@ -1,0 +1,13 @@
+title: request a Get from Google
+pid: 906e6b1c-d32c-4aaa-b8b6-3bd2b2e84950
+body: |2-
+  inets:start().
+
+  {ok, {{Version, 200, ReasonPhrase}, Headers, Body}} =
+        httpc:request("http://www.google.com").
+
+  {ok, {{Version, 200, ReasonPhrase}, Headers, Body}} =
+        httpc:request(
+          get,
+          { "http://www.google.com", [] },
+          [], [] ).

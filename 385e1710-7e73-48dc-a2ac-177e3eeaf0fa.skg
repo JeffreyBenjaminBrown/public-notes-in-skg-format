@@ -1,0 +1,2 @@
+title: sudo fuser -vm /path/to/folder/to/unmount
+pid: 385e1710-7e73-48dc-a2ac-177e3eeaf0fa

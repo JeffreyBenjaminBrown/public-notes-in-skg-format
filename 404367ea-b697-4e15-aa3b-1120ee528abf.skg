@@ -1,0 +1,4 @@
+title: C-c C-n Create something
+pid: 404367ea-b697-4e15-aa3b-1120ee528abf
+body: |2-
+  Creates a directory if it ends in ‘/’.

@@ -1,0 +1,6 @@
+title: missing backlink
+pid: 08f73cc9-f116-4093-991d-d5ac28a10a88
+body: |2-
+  Sometimes a link does not show up in the backlinks,
+  even though I can follow it in the forward direction,
+  and even after syncing the db (`org-roam-db-sync`).

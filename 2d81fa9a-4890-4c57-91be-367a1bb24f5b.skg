@@ -1,0 +1,7 @@
+title: interactive tests
+pid: 2d81fa9a-4890-4c57-91be-367a1bb24f5b
+body: |2-
+  These use the existing database.
+contains:
+- 95eaab14-930e-4eea-a238-e03f543f8e2c
+- 51ecd8fa-78d1-4bb3-82a2-1e4e26183509

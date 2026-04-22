@@ -1,0 +1,7 @@
+title: 'PITFALL: my filetree does''t quite match the tutorial''s'
+pid: 1ff226ee-6814-4d74-8cda-be3c863dc629
+body: |2-
+  (I *think* this is right.)
+  They suggest a "mysite" folder,
+  and next to it, the "polls" (app) folder.
+  I'm doing that, but "mysite" is called "ebdjango".

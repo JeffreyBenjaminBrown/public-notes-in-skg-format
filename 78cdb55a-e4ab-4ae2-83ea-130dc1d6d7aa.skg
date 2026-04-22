@@ -1,0 +1,22 @@
+title: '99 13 28: 13-lim -7 4x5, 13-lim +21.23 4x8, +15.17.27 5x10, octave (4,-1)'
+pid: 78cdb55a-e4ab-4ae2-83ea-130dc1d6d7aa
+body: |2-
+  [  0 steps;  1 %  1 ; string 0 ; fret 0
+  , 99 steps;  2 %  1 ; string 4 ; fret - 1
+  , 58 steps;  3 %  2 ; string 3 ; fret - 2
+  , 32 steps;  5 %  4 ; string 3 ; fret - 4
+  , 80 steps;  7 %  4 ; string 1 ; fret 4    -- doh!
+  , 17 steps;  9 %  8 ; string 2 ; fret - 3
+  , 45 steps; 11 %  8 ; string 3 ; fret - 3
+  , 69 steps; 13 %  8 ; string 2 ; fret 1
+  , 90 steps; 15 %  8 ; string 6 ; fret - 6
+  ,  9 steps; 17 % 16 ; string - 2 ; fret 5
+  , 25 steps; 19 % 16 ; string 6 ; fret - 11
+  , 39 steps; 21 % 16 ; string 0 ; fret 3
+  , 52 steps; 23 % 16 ; string 0 ; fret 4
+  , 64 steps; 25 % 16 ; string 6 ; fret - 8
+  , 75 steps; 27 % 16 ; string 5 ; fret - 5
+  , 85 steps; 29 % 16 ; string 10 ; fret - 15
+  , 94 steps; 31 % 16 ; string 8 ; fret - 10
+misc:
+- Had_ID_Before_Import

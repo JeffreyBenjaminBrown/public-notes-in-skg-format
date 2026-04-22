@@ -1,0 +1,6 @@
+title: seems to start well
+pid: 0034e9b4-d0ab-41fe-8820-c442e684d557
+body: |2-
+  [jeff@jbb-dell:~/code/karya]$ tools/nix-enter
+  nix-shell --attr buildEnv --arg withDocs true --run exec /run/current-system/sw/bin/bash
+  unpacking 'https://github.com/nixos/nixpkgs/archive/2118cf551b9944cfdb929b8ea03556f097dd0381.tar.gz'...

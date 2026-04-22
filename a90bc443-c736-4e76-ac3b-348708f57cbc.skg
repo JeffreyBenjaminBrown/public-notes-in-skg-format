@@ -1,0 +1,8 @@
+title: Don't keep two similar tables in the same .org file.
+pid: a90bc443-c736-4e76-ac3b-348708f57cbc
+body: |2-
+  Rather, keep two hyperlinks in it, to two more separate files.
+  Otherwise, when searching for one table,
+  I'll often find and edit the other, which sucks.
+misc:
+- Had_ID_Before_Import

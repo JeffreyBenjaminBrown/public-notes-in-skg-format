@@ -1,0 +1,5 @@
+title: The heap is pointed-to memory.
+pid: de419b97-0375-4a0a-830b-6b9680bb45d1
+body: |2-
+  The memory allocator assigns to each pointer
+  a certain region of the heap.

@@ -1,0 +1,6 @@
+title: An axiomatic system is consistent if, whenever a WFF α is a theorem, ∼α is not a theorem
+pid: d768bfc0-8011-4cf3-853d-6cd366854e9f
+contains:
+- d8cedde2-7c9a-4cc9-80ea-63c2d573c5bb
+- 3e504c89-4a6b-4e65-9032-da4d6ead7ced
+- 138483e9-3d4e-41f1-a2e6-fada6931737f

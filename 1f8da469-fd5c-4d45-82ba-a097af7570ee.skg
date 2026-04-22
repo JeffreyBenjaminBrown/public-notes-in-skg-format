@@ -1,0 +1,7 @@
+title: DONE I no longer need to add a line to specify `ugenPluginsPath`.
+pid: 1f8da469-fd5c-4d45-82ba-a097af7570ee
+body: |2-
+  That's necessary on my system,
+  because sc3-plugins is unable to modify the SC installation
+  to let SC know it exists.
+  [[id:b45a1d6d-3cef-472e-9c4f-44b8296bd17e][Details here]].

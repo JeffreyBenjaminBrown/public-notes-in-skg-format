@@ -1,0 +1,6 @@
+title: 'PITFALL: Options are common to many functions.'
+pid: 4c556c8b-cca0-4996-ab45-5b0a7a44a523
+body: |2-
+  https://typedb.com/docs/clients/2.x/python/python-api-ref#_options_methods
+contains:
+- aa951cde-bb69-4c90-82da-66e0a52bbca6

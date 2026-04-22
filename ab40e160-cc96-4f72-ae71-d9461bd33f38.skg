@@ -1,0 +1,6 @@
+title: in SCIDE, launch this
+pid: ab40e160-cc96-4f72-ae71-d9461bd33f38
+body: |2-
+  ~/.local/share/SuperCollider/downloaded-quarks/SuperDirt/superdirt_startup.scd
+contains:
+- 1f8da469-fd5c-4d45-82ba-a097af7570ee

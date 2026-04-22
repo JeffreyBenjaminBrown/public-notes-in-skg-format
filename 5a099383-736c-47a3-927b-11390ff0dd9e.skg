@@ -1,0 +1,10 @@
+title: Types can be extended.
+pid: 5a099383-736c-47a3-927b-11390ff0dd9e
+body: |2-
+  Aspects of types can be defined,
+  without redefining the whole type.
+contains:
+- b26cfb83-052e-49be-b403-67091c3ed344
+- da393cc7-50b8-4d3f-ad02-896facaf43ea
+misc:
+- Had_ID_Before_Import

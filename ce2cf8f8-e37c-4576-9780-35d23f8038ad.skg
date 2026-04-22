@@ -1,0 +1,20 @@
+title: I've answered the question in a special case
+pid: ce2cf8f8-e37c-4576-9780-35d23f8038ad
+body: |2-
+  Namely, in the special case of the code in the polls/ project.
+
+  There, the "pk" variable clearly indicates which object to load.
+  For instance, consider the url pattern
+    path('<int:pk>/', # Matches an integer and
+          views.DetailView.as_view(),
+          name='detail'),
+
+  which correspond to the view
+    class DetailView(generic.DetailView):
+      model = Question
+      template_name = 'polls/detail.html'
+
+  In this case, "pk" must indicate which Question to load into the view.
+
+  But in general I don't know what they correspond to.
+  Maybe "pk" is the only name that will work for this kind of View?

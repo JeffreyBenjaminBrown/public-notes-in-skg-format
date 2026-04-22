@@ -1,0 +1,13 @@
+title: how
+pid: dcdc4b47-e83a-43e8-b99d-9d837f477a51
+body: |2-
+  import transformers
+  import torch
+
+  model_id = "meta-llama/Meta-Llama-3-8B"
+
+  pipeline = transformers.pipeline(
+  pipeline("Hey how are you doing today?")
+  Este es el ejemplo del pipeline
+  https://huggingface.co/meta-llama/Meta-Llama-3-8B
+  La página por si quieres ver el modelo y aja

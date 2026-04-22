@@ -1,0 +1,5 @@
+title: share order across contexts
+pid: fdd076d1-03b8-497c-8e0d-9b52053c76ff
+body: |2-
+  An "order" (priority to reader) property makes sense common to the same nodes in different contexts.
+  Esp. if they are common rel nodes like "instances".

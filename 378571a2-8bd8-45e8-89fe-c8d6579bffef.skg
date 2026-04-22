@@ -1,0 +1,11 @@
+title: phone audio interface
+pid: 378571a2-8bd8-45e8-89fe-c8d6579bffef
+body: |2-
+  It would speak using a special syntax.
+  You would need commands to navigate and shape tree,
+  follow links and backlinnks,
+  and dictate nodes.
+  Would just need an AI to transcribe,
+  code to recognize initial and terminal commands,
+  code to separate those from the ordinary text between them,
+  and code to render as Emacs.

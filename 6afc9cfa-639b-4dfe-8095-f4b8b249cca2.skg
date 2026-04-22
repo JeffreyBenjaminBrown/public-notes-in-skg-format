@@ -1,0 +1,6 @@
+title: 'move nodes across repos : directly edit the metadata'
+pid: 6afc9cfa-639b-4dfe-8095-f4b8b249cca2
+body: |2-
+  If the definitive node has a different source upon saving,
+  and it was local to begin with, both repos are updated.
+  If it was not local to begin with, the save is not allowed.

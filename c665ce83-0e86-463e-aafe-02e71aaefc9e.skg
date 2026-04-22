@@ -1,0 +1,6 @@
+title: Slice "length" and "capacity".
+pid: c665ce83-0e86-463e-aafe-02e71aaefc9e
+body: |2-
+  length = number of elements in the slice
+  capacity = number of elements in the underlying array
+  Use len(s) and cap(s) to find the length and capacity of s.

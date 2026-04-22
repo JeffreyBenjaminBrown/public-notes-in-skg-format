@@ -1,0 +1,4 @@
+title: 'From the host system (not using Docker) this is sufficient:'
+pid: 77a1e942-6b5d-44ff-b4ad-9cdcae541693
+body: |2-
+  python manage.py runserver

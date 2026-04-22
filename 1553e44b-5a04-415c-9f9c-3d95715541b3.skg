@@ -1,0 +1,5 @@
+title: computing the symbol (as well as the value) to set at runtime
+pid: 1553e44b-5a04-415c-9f9c-3d95715541b3
+body: |2-
+  `set` rather than `setq`.
+  https://www.gnu.org/software/emacs/manual/html_node/elisp/Setting-Variables.html

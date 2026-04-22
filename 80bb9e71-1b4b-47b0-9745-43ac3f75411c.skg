@@ -1,0 +1,5 @@
+title: smarter diff traversal
+pid: 80bb9e71-1b4b-47b0-9745-43ac3f75411c
+body: |2-
+  treating nodes as first class entities,
+  able to jump easily from any [change involving a node] to any of its brethren in an equivalence class, where equivalence is modulo insertion or deletion, modulo link text and any other links present in the same node, and modulo appearance as base content, subscription or unsubscription.

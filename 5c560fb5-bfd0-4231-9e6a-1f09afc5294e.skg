@@ -1,0 +1,11 @@
+title: If x is /any but y is specific (or vice-versa)
+pid: 5c560fb5-bfd0-4231-9e6a-1f09afc5294e
+body: |2-
+  Find everything that would be in "x #r y" without transitivity.
+  Call that s1.
+  For each (m1 #r y) in s1, search for "/any #r m1",
+  and call the result "m2 #r m1".
+  Call the set { m2 #r y } "s2 of y".
+  Repeat: for each m2 in (s2 of y), search for "/any #r m2",
+  and call each result "m3 #r m2" ...
+  Eventually, end up with a bunch of relationships of the form "x #r y".

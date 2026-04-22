@@ -1,0 +1,7 @@
+title: 'The insight: Given distinct sequences a and b and distinct characters x and y, there are three ways to edit (a x) into (b y)'
+pid: bf4c9e7c-c81e-4dd9-9c75-9ad95be9992e
+body: |2-
+  edist( a x, b y ) = min(
+    edist( a,b ) + 1,
+    edist( a x, b ) + 1,
+    edist( a, b y ) + 1 )

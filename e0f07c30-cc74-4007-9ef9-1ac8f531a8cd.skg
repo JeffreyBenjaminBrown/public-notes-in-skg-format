@@ -1,0 +1,4 @@
+title: Emacs
+pid: e0f07c30-cc74-4007-9ef9-1ac8f531a8cd
+body: |2-
+  Emacs is an open-source, programmable text editor born in the 70s, with an enthusiastic user base that includes myself. Extedning ("writing a package for") Emacs permitting users to query a database is well-trodden ground: the packages sql-mode, org-mode, "resilient" (for querying NoSQL databases), and many others have done it. I will write another one.

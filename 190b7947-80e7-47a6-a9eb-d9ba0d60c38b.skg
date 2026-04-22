@@ -1,0 +1,5 @@
+title: How recording is stopped deterines automatic saving.
+pid: 190b7947-80e7-47a6-a9eb-d9ba0d60c38b
+body: |2-
+  When this stops recording, the recording is saved automatically.
+  If SPC is used instead, the user is prompted to save the new tracks.

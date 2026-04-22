@@ -1,0 +1,8 @@
+title: It has "drive.file" access to my Google Drive.
+pid: 2a6a2335-e2ef-49a3-a8be-03584dc14c53
+body: |2-
+  That was the third option offered, of five:
+    / Access to files created by rclone only.
+  3 | These are visible in the drive website.
+    | File authorization is revoked when the user deauthorizes the app.
+    \ "drive.file"

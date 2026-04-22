@@ -1,0 +1,7 @@
+title: Hand the tax.co data, rather than the arbitrary data, to JS.
+pid: 5757832b-da8a-4195-8f62-0ff594ef1356
+body: |2-
+   Dictionaries *cannot* be passed from Django to JS.
+   A [ ( tax_name :: String,
+         data :: [ [Float] ]
+  ) ] should.

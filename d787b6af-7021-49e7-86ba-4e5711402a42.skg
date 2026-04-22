@@ -1,0 +1,7 @@
+title: toggle ancestry between full and only nodes with IDs
+pid: d787b6af-7021-49e7-86ba-4e5711402a42
+body: |2-
+  When the ancestry is "collapsed",
+  any hidden (that is, without IDs) headings
+  are represented as an ellipsis prefix
+  in the first displayed node that file-contains them.

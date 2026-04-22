@@ -1,0 +1,9 @@
+title: why it needs extension
+pid: 1f818d1c-3ff3-4c70-ac59-c2d6c0c460a5
+body: |2-
+  81:80 = 64:63 = 1\58,
+  so two of the four HEWM accidental distances are equal.
+  In fact so is 65/64, which is the most obvious extension to the 13-limit
+  (it's the distance between 16/13 and 5/4).
+  But it seems worth introducing a new value equal to 2\58,
+  like 27/26 (the difference between a Pyth sixth and 13/8).

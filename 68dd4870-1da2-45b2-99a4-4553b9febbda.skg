@@ -1,0 +1,4 @@
+title: restart dockerd
+pid: 68dd4870-1da2-45b2-99a4-4553b9febbda
+body: |2-
+  sudo dockerd &

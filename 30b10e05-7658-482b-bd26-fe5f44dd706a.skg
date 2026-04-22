@@ -1,0 +1,4 @@
+title: 'PITFALL : The action menu is context-dependent.'
+pid: 30b10e05-7658-482b-bd26-fe5f44dd706a
+body: |2-
+  It returns different results if your focus is on the MIDI editor window. Doing that and experimenting with some names that sounded maybe ballpark let me find all the actions.

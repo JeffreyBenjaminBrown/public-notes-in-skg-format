@@ -1,0 +1,4 @@
+title: Allows customization of which buffers are ignored
+pid: fc603973-a7b6-46c1-b6d2-0ed08322b415
+body: |2-
+  through the iflipb-*ignore* variables.

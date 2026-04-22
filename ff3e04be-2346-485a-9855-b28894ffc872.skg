@@ -1,0 +1,4 @@
+title: generics
+pid: ff3e04be-2346-485a-9855-b28894ffc872
+body: |2-
+  "When you want to own a value and you care only that it’s a type that implements a particular trait rather than being of a specific type"

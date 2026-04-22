@@ -1,0 +1,24 @@
+title: example
+pid: f9a92331-c09a-48fe-b26a-890fc28a3cdc
+body: |2-
+     Interface IList
+  Property Count() As Integer
+     End Interface
+
+     Interface ICounter
+  Sub Count(i As Integer)
+     End Interface
+
+     Interface IListCounter
+  Inherits IList
+  Inherits ICounter
+     End Interface
+
+     Module Test
+  Sub F(x As IListCounter)
+             x.Count(1)                  ' Error, Count is not available.
+             x.Count = 1                 ' Error, Count is not available.
+             CType(x, IList).Count = 1   ' Ok, invokes IList.Count.
+             CType(x, ICounter).Count(1) ' Ok, invokes ICounter.Count.
+  End Sub
+     End Module

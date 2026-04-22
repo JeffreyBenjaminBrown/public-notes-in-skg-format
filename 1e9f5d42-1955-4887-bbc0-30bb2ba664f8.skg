@@ -1,0 +1,7 @@
+title: '::'
+pid: 1e9f5d42-1955-4887-bbc0-30bb2ba664f8
+body: |2-
+  (Time -> Bool)
+  -> (Pattern a -> Pattern a)
+  -> Pattern a
+  -> Pattern a

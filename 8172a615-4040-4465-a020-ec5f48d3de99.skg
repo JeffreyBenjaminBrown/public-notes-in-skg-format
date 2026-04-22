@@ -1,0 +1,8 @@
+title: 'PITFALL, DEALBREAKER: screen zoom is buggy'
+pid: 8172a615-4040-4465-a020-ec5f48d3de99
+body: |2-
+  If you zoom into somoething (settings, say)
+  and then open a subwindow (languages, say)
+  the submenu displays very incorrectly.
+contains:
+- a66cfc66-5570-4f25-a1a9-3e1cd55a438f

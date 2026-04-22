@@ -1,0 +1,5 @@
+title: requirements.txt
+pid: 70954f5e-d2ac-42bc-8991-eee2cab1491a
+body: |2-
+  Generate it by running this:
+  pip freeze > requirements.txt

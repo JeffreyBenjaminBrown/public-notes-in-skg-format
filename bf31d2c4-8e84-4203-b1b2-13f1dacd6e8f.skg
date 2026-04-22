@@ -1,0 +1,7 @@
+title: convert dict to list
+pid: bf31d2c4-8e84-4203-b1b2-13f1dacd6e8f
+body: |2-
+  Pattern match on dict . items():
+  [ (k, v)
+    for k, v
+    in dict . items () ]

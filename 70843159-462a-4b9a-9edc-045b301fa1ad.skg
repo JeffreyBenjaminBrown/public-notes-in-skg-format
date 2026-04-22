@@ -1,0 +1,7 @@
+title: 'syntax: using inference in queries'
+pid: 70843159-462a-4b9a-9edc-045b301fa1ad
+body: |2-
+  depends on the client
+contains:
+- 2f04c655-2fcb-4449-b919-1d6c0761cc69
+- d300b12e-fe23-48ee-b218-0ba7c0445ae6

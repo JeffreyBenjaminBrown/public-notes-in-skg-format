@@ -1,0 +1,5 @@
+title: some files
+pid: d227469b-3a3f-4649-97b6-210f3b69a988
+body: |2-
+  pkgs/development/libraries/sc3-plugins/default.nix
+  pkgs/development/libraries/sc3-plugins/lily-default.nix

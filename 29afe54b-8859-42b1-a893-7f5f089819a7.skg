@@ -1,0 +1,10 @@
+title: TODO RESUME
+pid: 29afe54b-8859-42b1-a893-7f5f089819a7
+body: |2-
+  I decided the reference was too detailed,
+  and stopped at the
+  "Shadowing" section of the "General Concepts" page:
+    https://learn.microsoft.com/en-us/dotnet/visual-basic/reference/language-specification/general-concepts
+  The word "shadowing" appears a lot before that section.
+  The section begins with this text:
+    "A derived type shadows the name of an inherited type member by re-declaring it. Shadowing a name does not remove the inherited type"

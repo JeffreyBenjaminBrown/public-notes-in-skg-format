@@ -1,0 +1,6 @@
+title: brackets select some or all of it
+pid: fe54a19b-fea7-4e94-8f34-7019940a8b41
+body: |2-
+  e.g.
+    curl $site | jq '.[] | {message: .commit.message, name: .commit.committer.name}'
+  does the {} command to every result. If the [] were omitted it wouldn't work, because .commit is only a field in each result, not a top-level field.

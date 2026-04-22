@@ -1,0 +1,8 @@
+title: Using 29-edo to play 87-edo works okay.
+pid: d2847531-5e02-4f4f-ba16-cbd10582b74b
+body: |2-
+  32 \ 87 spacing => max reach of 17\29 ~   7 \ 12 and 2/1 ~ 4 open strings.
+
+  There are also these, but they seem dominated by the 43.5-edo schemes.
+  17 \ 87 spacing => max reach of 10\29 ~ 4.1 \ 12 and 2/1 ~ 6 open strings.
+  23 \ 87 spacing => max reach of 14\29 ~ 5.8 \ 12 and 2/1 ~ 5 open strings.

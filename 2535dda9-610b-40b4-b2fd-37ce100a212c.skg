@@ -1,0 +1,5 @@
+title: packages can have optional settings
+pid: 2535dda9-610b-40b4-b2fd-37ce100a212c
+body: |2-
+  nixpkgs.config.firefox.enableGoogleTalkPlugin = true;
+  PITFALL: this kind of option is not queriable

@@ -1,0 +1,4 @@
+title: shorthand for consecutive like-typed arguments
+pid: 0aabe157-85ea-4a75-b034-4dcb77fe5e0a
+body: |2-
+  "When two or more consecutive named function parameters share a type, you can omit the type from all but the last."

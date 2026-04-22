@@ -1,0 +1,6 @@
+title: ssh (secure shell)
+pid: b5622ab5-56ca-4edf-9fd3-313eebe8b0e5
+body: |2-
+  ssh  -i  <keyfile>  $JBB_AWS_USER@$JBB_AWS_HOST
+contains:
+- 32fbbd6e-9df9-47a8-8e86-ee24a86ceba6

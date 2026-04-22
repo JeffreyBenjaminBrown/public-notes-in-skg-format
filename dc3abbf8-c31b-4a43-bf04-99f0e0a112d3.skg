@@ -1,0 +1,7 @@
+title: to format some columns when reading a table from disk with read_csv
+pid: dc3abbf8-c31b-4a43-bf04-99f0e0a112d3
+contains:
+- dc9502f7-455f-4f11-ad09-b7c34e4a13dc
+- 08ceb385-3478-4803-8d4b-50a0f5d3e95e
+misc:
+- Had_ID_Before_Import

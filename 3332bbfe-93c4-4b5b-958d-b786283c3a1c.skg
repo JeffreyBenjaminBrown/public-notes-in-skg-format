@@ -1,0 +1,8 @@
+title: a match-get clause
+pid: 3332bbfe-93c4-4b5b-958d-b786283c3a1c
+body: |2-
+  # PITFALL: Maybe the first semicolon below should be a comma, or nothing.
+  match $p isa person, has full-name $f;
+  get $p, $f; # This is silly because there's no filtering;
+              # it would be more interesting to return, say, only $f.
+              # But I wanted to show that commas separate the variables.

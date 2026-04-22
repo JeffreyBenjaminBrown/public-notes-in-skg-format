@@ -1,0 +1,5 @@
+title: syntax
+pid: 3747eb9a-4de7-42b5-9243-0c08b1206691
+body: |2-
+  interface Show a where
+    show : a -> String

@@ -1,0 +1,11 @@
+title: 'example: a list comprehension that spawns stuff'
+pid: b56fe30d-efdd-4ec3-81b8-8b28840185bf
+body: |2-
+  [ spawn(fun() -> G(X) end)
+    || X <- lists:seq(1,10) ].
+
+  This, by contrast, does not work:
+  [ spawn( G(X) )
+    || X <- lists:seq(1,10) ].
+misc:
+- Had_ID_Before_Import

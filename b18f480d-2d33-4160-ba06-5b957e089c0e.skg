@@ -1,0 +1,5 @@
+title: Use element/2 to access their elements.
+pid: b18f480d-2d33-4160-ba06-5b957e089c0e
+body: |2-
+  102> element( 1, {1,2} ).
+  1

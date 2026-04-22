@@ -1,0 +1,11 @@
+title: TODO 17\68s x 6\68f - 9-lim +17 +19 (the best ones), 11-ish frets
+pid: 85a1ee92-452c-4612-922e-d8638a48216d
+body: |2-
+  [ 0 steps; 1 % 1 ; string 0 ; fret 0
+  , 68 steps; 2 % 1 ; string 4 ; fret 0
+  , 40 steps; 3 % 2 ; string 2 ; fret 1
+  , 22 steps; 5 % 4 ; string 2 ; fret - 2
+  , 55 steps; 7 % 4 ; string 5 ; fret - 5
+  , 12 steps; 9 % 8 ; string 0 ; fret 2
+  , 6 steps; 17 % 16 ; string 0 ; fret 1
+  , 17 steps; 19 % 16 ; string 1 ; fret 0

@@ -1,0 +1,14 @@
+title: 'mod 1 space 15 : reach 9, not great 4:5:6'
+pid: b6de6917-0bf0-4e0e-b0a2-0810f02b9df9
+body: |2-
+  10 steps = 17 % 16  : string 1 fret -5 | string 0 fret 10
+  29 steps = 19 % 16  : string 2 fret -1
+  38 steps = 5 % 4    : string 3 fret -7
+  54 steps = 11 % 8   : string 4 fret -6
+  62 steps = 23 % 16  : string 4 fret 2
+  69 steps = 3 % 2    : string 5 fret -6
+  83 steps = 13 % 8   : string 6 fret -7
+  95 steps = 7 % 4    : string 7 fret -10
+  101 steps = 29 % 16 : string 7 fret -4 | string 6 fret 11
+  113 steps = 31 % 16 : string 8 fret -7 | string 7 fret 8
+  118 steps = 2 % 1   : string 8 fret -2

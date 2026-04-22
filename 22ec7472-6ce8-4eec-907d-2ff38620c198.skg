@@ -1,0 +1,9 @@
+title: 'PITFALL: [[id:d1c01fb5-6fb8-48e0-b23b-a2f48bff3a62][kill top *and* bottom application bars in xfce ("the panel")]]'
+pid: 22ec7472-6ce8-4eec-907d-2ff38620c198
+body: |2-
+  For me they were essentially incompatible with xmonad,
+  because they float on top,
+  yet every window is maximized.
+  In particular this hides the tabs in a web browser.
+  (It also causes Alt-Tab (which I changed it to Super-Tab)
+  to cycle through two or three additional useless spaces.)

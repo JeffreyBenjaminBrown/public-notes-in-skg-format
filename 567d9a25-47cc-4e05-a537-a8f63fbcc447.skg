@@ -1,0 +1,12 @@
+title: borg mount - AWESOME for inspection
+pid: 567d9a25-47cc-4e05-a537-a8f63fbcc447
+body: |2-
+  mkdir /tmp/borg # a destination folder, with ordinary permissions
+
+  borg mount "$borg_ssd"::2022-04-21.hp17 /tmp/borg
+
+  # Now look around.
+  Use du to check file sizes, just like it was a normal folder -- even though it has almost no data.
+
+  # unmount it
+  fusermount -u some-folder

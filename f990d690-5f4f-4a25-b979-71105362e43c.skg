@@ -1,0 +1,5 @@
+title: '`xfade <voice name>` and `xfadeIn <number of cycles> <voice name>`'
+pid: f990d690-5f4f-4a25-b979-71105362e43c
+body: |2-
+  p "drums" $ s "bd(3,8) drum*4"
+  xfade "drums" $ s "arpy*8" # n (run 8)

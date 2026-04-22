@@ -1,0 +1,6 @@
+title: schedule a replaceAll
+pid: 38662045-e0c4-406b-a491-b9c13d8378f9
+body: |2-
+  for, say, the next cycle equal to 0 modulo 16
+contains:
+- 13069c2d-81ba-46a9-882e-005419a055dc

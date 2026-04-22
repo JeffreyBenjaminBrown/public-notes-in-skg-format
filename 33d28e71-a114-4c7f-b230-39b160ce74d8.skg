@@ -1,0 +1,16 @@
+title: Use a unique number of special characters when needed,
+pid: 33d28e71-a114-4c7f-b230-39b160ce74d8
+body: |2-
+  needed to distinguish a rel from a confusable neighbor.
+
+  The root of the tree is the relationship with more characters.
+  If the user has made it easy,
+  any n-ary relationship with n > 2
+  will use only the same kind of special character affix
+  on all of its joints ("joint-homogeneity")
+    where joints = contiguous substrings of the rel label
+  and that number will be distinct from the number used by
+  any other relationship that could be confused with it
+    ("confusable-neighbor uniqueness")
+contains:
+- 3ac2d2fa-73a9-456e-97e8-ff33e2dbb995

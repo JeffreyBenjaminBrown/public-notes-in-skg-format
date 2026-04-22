@@ -1,0 +1,20 @@
+title: the layout
+pid: c9454a76-475f-4189-9a3d-79b3513a4160
+body: |2-
+  0  steps;  1 % 1;  string 0; fret 0
+  46 steps;  2 % 1;  string 5; fret 2
+  27 steps;  3 % 2;  string 3; fret 1
+  15 steps;  5 % 4;  string 3; fret -3
+  37 steps;  7 % 4;  string 5; fret -1
+  8  steps;  9 % 8;  string 1; fret 0
+  21 steps; 11 % 8;  string 3; fret -1
+  32 steps; 13 % 8;  string 4; fret 0
+  42 steps; 15 % 8;  string 6; fret -2
+  4  steps; 17 % 16; string 2; fret -4
+  11 steps; 19 % 16; string 1; fret 1
+  18 steps; 21 % 16; string 3; fret -2
+  24 steps; 23 % 16; string 3; fret 0
+  30 steps; 25 % 16; string 3; fret 2
+  35 steps; 27 % 16; string 4; fret 1
+  39 steps; 29 % 16; string 6; fret -3
+  44 steps; 31 % 16; string 7; fret -4

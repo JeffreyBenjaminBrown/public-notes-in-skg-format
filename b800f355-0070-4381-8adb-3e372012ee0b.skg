@@ -1,0 +1,4 @@
+title: '"Move area" forward or backward "without contents"'
+pid: b800f355-0070-4381-8adb-3e372012ee0b
+body: |2-
+  Moves the region by its length.

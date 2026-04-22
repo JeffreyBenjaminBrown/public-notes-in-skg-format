@@ -1,0 +1,4 @@
+title: the requirement
+pid: 624c3772-da68-4bbe-833c-c15755ac8855
+body: |2-
+  In order to pull from GitHub*, you must have an account, and they need to verify that identity in a cryptographically secure manner.

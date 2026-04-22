@@ -1,0 +1,9 @@
+title: 'doing that for slip editing: quote'
+pid: 058516ad-6b3b-4e2e-a8c6-9327165b063f
+body: |2-
+      To slip edit several items in different tracks, select all the media items
+  required (for example, hold the Ctrl key while clicking in turn on each
+  item, or use the marquee method), then slip edit any selected item. The
+  change will be applied to all items in the selection (see left), relative to
+  their individual positions on the timeline. You can use Ctrl left drag if
+  instead of this if you want only one item to be edited.

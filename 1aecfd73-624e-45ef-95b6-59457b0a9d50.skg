@@ -1,0 +1,8 @@
+title: '`impl <trait>` syntax'
+pid: 1aecfd73-624e-45ef-95b6-59457b0a9d50
+body: |2-
+  #+begin_src rust
+  pub fn notify(item: &impl Summary) {
+      println!("Breaking news! {}", item.summarize());
+  }
+  #+end_src

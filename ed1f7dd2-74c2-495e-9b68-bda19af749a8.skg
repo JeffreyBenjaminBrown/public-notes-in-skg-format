@@ -1,0 +1,8 @@
+title: 'PITFALL: If a file has null values, it''s considered binary.'
+pid: ed1f7dd2-74c2-495e-9b68-bda19af749a8
+body: |2-
+  A problem because they can sneak in unintentionally.
+contains:
+- 30f6f8fd-40d2-43fb-b15a-8fc37f1a9a58
+misc:
+- Had_ID_Before_Import

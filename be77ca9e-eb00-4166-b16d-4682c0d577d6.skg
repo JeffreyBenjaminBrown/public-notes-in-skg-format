@@ -1,0 +1,5 @@
+title: In Reaper / Preferences / MIDI Devices, enable receipt from a2jmidid.
+pid: be77ca9e-eb00-4166-b16d-4682c0d577d6
+body: |2-
+  This creates a connection in the JACK graph,
+  so I won't need to manipulate that graph myself.

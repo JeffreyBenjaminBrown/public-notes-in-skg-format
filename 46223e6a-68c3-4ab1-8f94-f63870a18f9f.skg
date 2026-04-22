@@ -1,0 +1,16 @@
+title: any number of arguments
+pid: 46223e6a-68c3-4ab1-8f94-f63870a18f9f
+body: |2-
+  import sys
+
+  if True:
+    if sys.argv == ['']:
+      print( "We are in the REPL." )
+    else:
+      print( "`python` is evaluating a program from the command line." )
+      print( "The program name is " + sys.argv[0] )
+      if len(sys.argv) > 1:
+        print( "The 1st command-line argument given was: " + sys.argv[1] )
+        if len(sys.argv) > 2:
+          print( "The 2nd command-line argument given was: " + sys.argv[2] )
+          # etc.

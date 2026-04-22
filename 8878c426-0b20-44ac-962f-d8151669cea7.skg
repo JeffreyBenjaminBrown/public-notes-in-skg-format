@@ -1,0 +1,5 @@
+title: TODO why it's tricky
+pid: 8878c426-0b20-44ac-962f-d8151669cea7
+body: |2-
+  It would require introducing a type for checking input-output relationships.
+  Otherwise there is no record of the names used by the input and the output for validProgram to refer to.

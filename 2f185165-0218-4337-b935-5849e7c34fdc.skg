@@ -1,0 +1,4 @@
+title: 'PITFALL: The rule-label is unique.'
+pid: 2f185165-0218-4337-b935-5849e7c34fdc
+body: |2-
+  "Defining a rule with existing label will rewrite the old rule with the new one."

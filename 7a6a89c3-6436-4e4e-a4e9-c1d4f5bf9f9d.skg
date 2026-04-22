@@ -1,0 +1,5 @@
+title: importing packages
+pid: 7a6a89c3-6436-4e4e-a4e9-c1d4f5bf9f9d
+body: |2-
+  It starts empty, but knowing things like builtins.currentTime
+  :l <nixpkgs> loads all those packages.

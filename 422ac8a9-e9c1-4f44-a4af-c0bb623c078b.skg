@@ -1,0 +1,18 @@
+title: .schema nodes <- primary
+pid: 422ac8a9-e9c1-4f44-a4af-c0bb623c078b
+body: |2-
+  CREATE TABLE nodes (
+    id NOT NULL PRIMARY KEY,
+    file NOT NULL,
+    level NOT NULL, -- 1 = top, 2 = subheadline, etc.
+    pos NOT NULL, -- (goto-char this) puts point at start of line.
+                  -- This is 1 if the node is a whole file.
+    todo , -- string; might be TODO, DONE, etc (or nil).
+    priority ,
+    scheduled text,
+    deadline text,
+    title , -- does not include TODO etc.
+    properties ,
+    olp ,
+    FOREIGN KEY (file) REFERENCES files (file)
+      ON DELETE CASCADE);

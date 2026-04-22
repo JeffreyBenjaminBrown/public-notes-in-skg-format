@@ -1,0 +1,5 @@
+title: no sugar
+pid: a2ba34b0-0409-4dc7-b2e5-495e1cd36963
+body: |2-
+  vec : DPair Nat (\n => Vect n Int)
+  vec = MkDPair 2 [3, 4]

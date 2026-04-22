@@ -1,0 +1,7 @@
+title: naming one
+pid: 291c3a6e-ae05-4cb3-9d86-18f63fd09924
+body: |2-
+  Dim arr As Integer() = {1, 2, 3}
+  For Each i In arr
+    Console.Write(i)
+  Next

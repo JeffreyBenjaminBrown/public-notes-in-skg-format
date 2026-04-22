@@ -1,0 +1,4 @@
+title: 'example: grep in all files except unreadable ones'
+pid: c2e6a5f4-85c1-4402-bd06-3dd1058aca60
+body: |2-
+  find . -type f -not \( -name "*.csv" -o -name "*.xlsx" -o -name "*.tgz" -o -name "*.zip" -o -name "*.ssv" -o -name "*.sav" -o -name "*.pyc" -o -name "*.pdf" -o -name "*.jpeg" -o -name "*.odt" -o -name "*.pack" -o -name "*.ods" -o -name "*.ipynb" -o -name "*.idx" -o -name "*.docx" -o -name "*.dta" \) -print0 | xargs -0 grep "output/" --color

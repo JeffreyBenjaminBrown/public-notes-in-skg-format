@@ -1,0 +1,5 @@
+title: There's probably a better way,
+pid: 7a89c4d1-a992-4dde-9ce3-b87af275dd64
+body: |2-
+  but I couldn't get parted to do the job;
+  parted complained that the msdos format doesn't allow it.

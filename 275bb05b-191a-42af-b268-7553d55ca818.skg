@@ -1,0 +1,6 @@
+title: error "Failed to create file system for" ... "didn't find section in config file"
+pid: 275bb05b-191a-42af-b268-7553d55ca818
+body: |2-
+  https://github.com/rclone/rclone/issues/290
+contains:
+- e2e6c035-9447-46c4-b210-a43a83d4ef4e

@@ -1,0 +1,26 @@
+title: the algorithm in detail
+pid: f8d9e258-5872-40f9-88fc-59a526b7d517
+body: |2-
+  Each path consists of ellipses and text targets.
+  For each text target, use Tantivy to find all matches.
+  Start with the matches to the rightmost text target.
+
+  For each of the suriviving matches to that Nth text target,
+  search containerward in TypeDB until finding any of the matches
+  (we already created a list of them) to the (N-1)th text target.
+  If there's an ellipsis between those two targets,
+  consider that many hops; otherwise, just one.
+
+  So for instance, in processing
+  "a / b / .. / c',
+  we would look containerward from each match to c
+  any number of layers until finding a match to b or cycling.
+  (If there were a number in the elipsis,
+  we would only look at most that many hops containerward.)
+  If we hit a cycle before finding the match, we discard that path.
+  If the path hits a fork, we explore in the containerward direction
+  along every branch of the fork.
+
+  Keep doing that, collecting and forking paths
+  and discarding cycles and failures to match,
+  until we have consumed all the text targets.

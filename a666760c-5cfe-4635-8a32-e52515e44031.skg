@@ -1,0 +1,8 @@
+title: for Docker, must disable some kind of pam security policy
+pid: a666760c-5cfe-4635-8a32-e52515e44031
+body: |2-
+  specifically the `pam_loginuid` line in
+    /etc/pam.d/crond
+  per this advice:
+    https://stackoverflow.com/a/21928878/916142
+  (The tax.co Docker container already has this.)

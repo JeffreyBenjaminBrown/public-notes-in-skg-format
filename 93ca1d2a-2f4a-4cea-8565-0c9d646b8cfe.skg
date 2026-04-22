@@ -1,0 +1,10 @@
+title: with-based disambiguation
+pid: 93ca1d2a-2f4a-4cea-8565-0c9d646b8cfe
+body: |2-
+  The with keyword in expressions comes in two variants:
+
+  with BTree.insert (insert x empty) for one name
+
+  with [BTree.insert, BTree.empty] (insert x empty) for multiple names
+
+  This is particularly useful with do notation, where it can often improve error messages: with MyModule.(>>=) do ...

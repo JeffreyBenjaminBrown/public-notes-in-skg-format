@@ -1,0 +1,4 @@
+title: But changing its last two lines to this breaks it.
+pid: c3557ccb-43ad-42aa-9941-1f6fcf6aff16
+body: |2-
+  (= dest origin))]))

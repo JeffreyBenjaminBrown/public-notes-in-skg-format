@@ -1,0 +1,4 @@
+title: Add a (commit and repo)* column to the nodes db
+pid: ca76e6c1-c18c-49ce-a531-d63f8c21a883
+body: |2-
+  (*) actually no repo column but a commit-repo table too

@@ -1,0 +1,9 @@
+title: 'I added modified apache2.conf:'
+pid: 8d8cba06-fcf3-48e7-a892-99d1d77f8152
+body: |2-
+  ```
+  DocumentRoot /mnt/tax/to-serve
+  <Directory /mnt/tax/to-serve>
+    Require all granted
+  </Directory>
+  ```

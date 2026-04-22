@@ -1,0 +1,5 @@
+title: under Properties -> Static Website Hosting
+pid: 9084d87b-504d-4c9d-a638-6de126bf9c58
+body: |2-
+  Choose "use as a website".
+  Type the name of the index document, probably "index.html".

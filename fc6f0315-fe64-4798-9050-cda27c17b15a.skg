@@ -1,0 +1,13 @@
+title: how they are named
+pid: fc6f0315-fe64-4798-9050-cda27c17b15a
+body: |2-
+  Servers, sessions and windows have user-assigned text names.
+  Panes are only identifiable by numbers (visible with Alt-q).
+  A tmux "address" (to coin a term) is specified thus:
+    session[:window][:pane]
+  where brackets indicate optionality.
+  Actually maybe the session is optional too, in which case it will assume you mean this session -- but then  you'd want to specify the window, and if not the window, then the pane, probably.
+  The server is specified, if inedeed it is specified,
+  with the -L option --
+  which must come right after the word "tmux", before the tmux subcommand
+  (e.g. "tmux -L sys ls", where "ls" is the subcommand).

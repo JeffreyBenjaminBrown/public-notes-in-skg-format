@@ -1,0 +1,11 @@
+title: interfaces (what Haskell calls typeclasses)
+pid: f12bfcc6-ce20-4f49-9642-c255a18d1651
+body: |2-
+  An interface defines a set of method signatures.
+  Any type for which those methods exist "implements the interface".
+contains:
+- 8064bf94-83ea-4f37-bcf0-de811a970b66
+- 2aa5959b-be5d-4691-9e5f-eedb4e326e30
+- 413f0b72-4da8-410a-b040-ca885f53b688
+- a1ca7458-603c-4582-bc92-ea853b01a53e
+- d3422768-af80-4d45-92e7-dd8a59f6aef6

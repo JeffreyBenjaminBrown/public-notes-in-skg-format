@@ -1,0 +1,6 @@
+title: using 0 11 22 as an extension
+pid: 887c595c-fa77-4f8b-b1e0-00b3182e6ccd
+body: |2-
+  0 18 25+[0,11,22] = [0,18,25,5',16']
+    In 12ET that would be a 7#11.
+    Works with a 3rd of 7 (m3) or 10 (M3).

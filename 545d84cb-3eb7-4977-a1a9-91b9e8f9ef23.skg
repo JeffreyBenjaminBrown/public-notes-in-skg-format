@@ -1,0 +1,8 @@
+title: a less efficient but human-readable alternative
+pid: 545d84cb-3eb7-4977-a1a9-91b9e8f9ef23
+body: |2-
+  Just keep a folder for each table,
+  with a file for each column.
+  Each such file has two columns:
+  an index (ideally in [[id:80dcecf9-ef3b-43a8-9538-1c7929a19887][base64url]]),
+  and the data of interest.

@@ -1,0 +1,6 @@
+title: '`move` in closures'
+pid: 89ebb171-bc6c-4ff2-80ae-fa8215e32f18
+body: |2-
+  "to force the closure to take ownership of the values it uses in the environment even though the body of the closure doesn’t strictly need ownership, you can use the move keyword before the parameter list."
+misc:
+- Had_ID_Before_Import

@@ -1,0 +1,7 @@
+title: create an .mp3 from the .wav
+pid: bb73b58a-4505-4031-aaea-02bd0ddbb249
+body: |2-
+  ffmpeg -i                               \
+      "input.wav"                         \
+      -vn -ar 44100 -ac 2 -b:a 192k       \
+      "audio.mp3"

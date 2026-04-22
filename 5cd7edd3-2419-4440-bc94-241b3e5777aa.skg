@@ -1,0 +1,4 @@
+title: file representation
+pid: 5cd7edd3-2419-4440-bc94-241b3e5777aa
+body: |2-
+  When saving, if a subscription node is about to be created, the system should determine whether, in fact, anything changed there. If it has the same content as the thing it is subscribed to, in the same order, then probably a node moved into and then out of it, so it doesn't actually need to be written.

@@ -1,0 +1,8 @@
+title: the type families it relies on
+pid: 6f8ea7a9-a1e7-47ba-bfed-fe0bd8d30569
+body: |2-
+  type instance Index [a] = Int
+  -- The index for Maps is the key type
+  type instance Index (Map k a) = k
+  type instance IxValue [a] = a
+  type instance IxValue (Map k a) = a

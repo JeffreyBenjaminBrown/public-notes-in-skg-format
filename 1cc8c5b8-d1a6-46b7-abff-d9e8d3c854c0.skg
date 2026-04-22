@@ -1,0 +1,4 @@
+title: for a ParentIgnores
+pid: 1cc8c5b8-d1a6-46b7-abff-d9e8d3c854c0
+body: |2-
+  process it normally, just without affecting the parent

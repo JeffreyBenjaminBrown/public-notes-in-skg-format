@@ -1,0 +1,9 @@
+title: for 2.3.5.15
+pid: 9900b26b-06c6-48fa-a399-64b505ea2179
+body: |2-
+  Map horizontal ("string" selector) to horizontal-ish.
+  Map vertical ("fret" selector) to the vertical-ish.
+  This puts the other harmonics far away,
+  but shortens the octave,
+  and makes feasible in one hand
+  chords like a root position maj7.

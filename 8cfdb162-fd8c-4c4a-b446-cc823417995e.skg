@@ -1,0 +1,4 @@
+title: simplified type
+pid: 8cfdb162-fd8c-4c4a-b446-cc823417995e
+body: |2-
+  element :: Traversable f => Int -> Traversal' (f a) a

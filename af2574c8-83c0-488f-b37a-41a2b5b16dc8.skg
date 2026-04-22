@@ -1,0 +1,7 @@
+title: Sum type definitions separate constructors with newlines.
+pid: af2574c8-83c0-488f-b37a-41a2b5b16dc8
+body: |2-
+  pub type Bool {
+    True
+    False
+  }

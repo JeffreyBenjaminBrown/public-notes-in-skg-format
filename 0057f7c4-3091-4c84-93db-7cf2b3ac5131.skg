@@ -1,0 +1,5 @@
+title: 218.5 * 2**(1/24) to 1 decimal place is close to round.
+pid: 0057f7c4-3091-4c84-93db-7cf2b3ac5131
+body: |2-
+  > 218.5 * 2**(1/24) :: Float
+  224.90254

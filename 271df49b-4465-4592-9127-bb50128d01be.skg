@@ -1,0 +1,6 @@
+title: undefining rules
+pid: 271df49b-4465-4592-9127-bb50128d01be
+body: |2-
+  undefine
+
+  rule <rule-label>;

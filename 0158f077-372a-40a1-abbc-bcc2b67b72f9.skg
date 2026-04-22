@@ -1,0 +1,4 @@
+title: I attached the role "total-access-to-wtfunique".
+pid: 0158f077-372a-40a1-abbc-bcc2b67b72f9
+body: |2-
+  This gives total (read, write) access to an S3 bucket.

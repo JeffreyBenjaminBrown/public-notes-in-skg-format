@@ -1,0 +1,6 @@
+title: I think there's an error in the article
+pid: df21bd6a-c185-4a24-8f62-c2d1009b12d1
+body: |2-
+  I believe that when he wrote `getState :: Free (GetState state error) state`,
+  he mean `getState :: Free (DcNodeOperator state error) state`.
+  That's how I transcribed it above.

@@ -1,0 +1,6 @@
+title: => Like-valued attributes are unique and (if needed) shared.
+pid: 8195d25e-fb69-4b57-bbb3-2f72e4c27573
+body: |2-
+  For instance, if "name" is an attribute,
+  there can only be one name equal to Bob,
+  but different people can share it.

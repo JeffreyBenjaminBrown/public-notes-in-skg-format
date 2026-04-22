@@ -1,0 +1,13 @@
+title: 'It is possible to use record update syntax to update dependent fields, provided that all related fields are updated at once. For example:'
+pid: a9756b8a-f1ac-48fe-a606-65cb9cf08da1
+body: |2-
+  cons : t -> (x : Nat ** Vect x t) -> (x : Nat ** Vect x t)
+  cons val xs
+      = { fst := S (fst xs),
+          snd := (val :: snd xs) } xs
+  Or even:
+
+  cons' : t -> (x : Nat ** Vect x t) -> (x : Nat ** Vect x t)
+  cons' val
+      = { fst $= S,
+          snd $= (val ::) }

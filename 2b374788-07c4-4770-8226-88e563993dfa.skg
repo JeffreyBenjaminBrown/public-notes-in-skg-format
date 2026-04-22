@@ -1,0 +1,11 @@
+title: To clone a module with submodules
+pid: 2b374788-07c4-4770-8226-88e563993dfa
+body: |2-
+  git clone <supermodule>
+    # At this point the submodule folders are empty.
+  git submodule init
+    # The results of this can be seen by running
+    # git config -l
+    # and looking for the word "submodule"
+  git submodule update
+    # checks out the commits specified in the supermodule

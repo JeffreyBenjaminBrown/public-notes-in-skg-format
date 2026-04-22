@@ -1,0 +1,7 @@
+title: cargo and apt stopped working in Docker, could not connect
+pid: b91d42ba-f87b-4bad-960b-2e1d467bee26
+contains:
+- 49ddd7ae-a8ae-4965-bf2a-11f5051d0fc5
+- fdd31e19-ff13-4435-b1c0-2559f20b75f0
+misc:
+- Had_ID_Before_Import

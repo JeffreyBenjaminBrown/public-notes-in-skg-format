@@ -1,0 +1,8 @@
+title: Other relevant changes should easy to view from one change.
+pid: 1e415099-0435-4f2d-83d2-c06ac8f4d8f0
+body: |2-
+  That is, regardless of the kind of change (list, graph, ...)
+  if it involved expression E then it is easy to see all the change.
+  If those changes are all visible from a given context,
+  make that clear too, and make them viewable within it
+  (like a git diff of a passage of org-roam text).

@@ -1,0 +1,4 @@
+title: 'example: copy local folder to remote folder'
+pid: b792efeb-5a02-47e0-aa58-40d670067cdf
+body: |2-
+  rclone sync . gborg:by-rclone/borg-repo

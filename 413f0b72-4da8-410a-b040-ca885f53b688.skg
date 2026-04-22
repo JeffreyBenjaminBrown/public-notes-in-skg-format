@@ -1,0 +1,6 @@
+title: the empty interface
+pid: 413f0b72-4da8-410a-b040-ca885f53b688
+body: |2-
+  is used to handle data of unknown type.
+contains:
+- 53dfeec7-0cfb-48f2-a542-aeca50b840d2

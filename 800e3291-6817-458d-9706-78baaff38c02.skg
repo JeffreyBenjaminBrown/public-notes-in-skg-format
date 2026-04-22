@@ -1,0 +1,4 @@
+title: get a group's id
+pid: 800e3291-6817-458d-9706-78baaff38c02
+body: |2-
+  cut -d: -f3 < <(getent group groupname)

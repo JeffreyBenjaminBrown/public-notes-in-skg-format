@@ -1,0 +1,5 @@
+title: From the shell outside of any app, it only saves two keystrokes.
+pid: c1ed1f99-222d-4039-822d-ae298f3c23f9
+body: |2-
+  since anything you could type into it,
+  you could type directly into the shell after `tmux `.

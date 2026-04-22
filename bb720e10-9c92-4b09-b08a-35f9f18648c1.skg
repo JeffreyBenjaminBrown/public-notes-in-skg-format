@@ -1,0 +1,10 @@
+title: traversed v. folded
+pid: bb720e10-9c92-4b09-b08a-35f9f18648c1
+body: |2-
+  "traversed can focus on the values inside any Traversable data structure. Requiring Traversable as opposed to only Foldable gives us a bit more power, but also reduces the number of containers we can operate on. For instance, Sets are Foldable but not Traversable ... folded can be used on more container types (like Set), but traversed has strictly more power (it can set and update)"
+
+  But they're similar:
+   > [1..5] & traversed %~ id
+   [1,2,3,4,5]
+   > [1..5] ^.. folded
+   [1,2,3,4,5]

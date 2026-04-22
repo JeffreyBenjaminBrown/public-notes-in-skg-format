@@ -1,0 +1,13 @@
+title: I cannot get the type of `kill`.
+pid: 0c213098-f53d-41ee-b589-38028d46c257
+body: |2-
+  /home/jeff〉kill | describe                     10/19/2022 05:18:48 PM
+  Error: nu::parser::missing_positional (link)
+
+    × Missing required positional argument.
+     ╭─[entry #5:1:1]
+   1 │ kill | describe
+     ·     ▲
+     ·     ╰── missing pid
+     ╰────
+    help: Usage: kill {flags} <pid> ...(rest)

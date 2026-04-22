@@ -1,0 +1,4 @@
+title: return value doesn't matter
+pid: 61d82d66-9158-4052-9101-6902f67830fa
+body: |2-
+  "the code stops executing after it's been called"

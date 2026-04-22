@@ -1,0 +1,7 @@
+title: '`cat` = `slowcat` : the sum is longer than the parts'
+pid: 09dfb8b6-8d05-4e6e-bae8-f0220d8a7d3a
+body: |2-
+  #+BEGIN_SRC haskell
+    d1 $ stack [ s "bd sn:1",
+  	       cat [ s "hh*4", s "hh*3" ] ]
+  #+END_SRC

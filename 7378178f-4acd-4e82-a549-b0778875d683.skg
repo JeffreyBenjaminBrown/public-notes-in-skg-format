@@ -1,0 +1,13 @@
+title: the idea
+pid: 7378178f-4acd-4e82-a549-b0778875d683
+body: |2-
+  make -d | grep remake
+
+  You'll probably see something like this:
+
+  No need to remake target `Makefile'.
+      Must remake target `builddir'.
+        No need to remake target `src/s1/x.c'.
+      No need to remake target `obj/src/s1/x.o'.
+    Must remake target `FinalBin'.
+  Must remake target `all'.

@@ -1,0 +1,5 @@
+title: mark it as the receiving GHCI buffer
+pid: 33ef002a-b4ee-488c-a155-3aa492738ff5
+body: |2-
+  M-x mark-rec TAB
+  mark-receiving-ghci-buffer

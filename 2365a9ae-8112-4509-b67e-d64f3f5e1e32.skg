@@ -1,0 +1,6 @@
+title: reversing an iso
+pid: 2365a9ae-8112-4509-b67e-d64f3f5e1e32
+body: |2-
+  from :: Iso s t a b -> Iso b a t s
+contains:
+- f3b00a95-d2a0-4cbd-bc9c-96edd908c4d4

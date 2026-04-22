@@ -1,0 +1,5 @@
+title: export level interpretations for data types
+pid: 06530129-35c9-469f-bd9a-c25dd438a74d
+body: |2-
+  export - the type constructor is exported
+  public export - the type constructor and data constructors are exported

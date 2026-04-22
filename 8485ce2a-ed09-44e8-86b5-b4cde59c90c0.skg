@@ -1,0 +1,10 @@
+title: scp ( secure copy , shell command )
+aliases:
+- scp
+pid: 8485ce2a-ed09-44e8-86b5-b4cde59c90c0
+contains:
+- 8c20b8f4-8f50-498c-89e3-acf6751a156d
+- cb7cb764-2efc-4301-a770-b3ffa6b48591
+- 8422f17b-9752-4e1a-88dc-8fca89a69bed
+misc:
+- Had_ID_Before_Import

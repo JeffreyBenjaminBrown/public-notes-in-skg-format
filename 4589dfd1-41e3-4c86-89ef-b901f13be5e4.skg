@@ -1,0 +1,8 @@
+title: voice   = 0, -- weird!
+pid: 4589dfd1-41e3-4c86-89ef-b901f13be5e4
+body: |2-
+  "causes variations in the levels of the 3 oscillators"
+  0 seems to be the richest.
+  Above 0.5 kills pitch0.
+  Seeing the definition, values outside of [0,1] still seem useful,
+  but I'm not seeing how in experiments.

@@ -1,0 +1,7 @@
+title: '[220 f $ 1v1 1.5 1vCont2]'
+pid: f9fd2d1b-8ae7-4f09-919d-0bfca23cc2af
+body: |2-
+  220 f specifies the fundamental.
+  VvE names the voice V that does event E.
+  1vCont2 says that voice 1 reaches from its prior value 1
+  to the value 2 at the time that the event 1vCont2 starts.

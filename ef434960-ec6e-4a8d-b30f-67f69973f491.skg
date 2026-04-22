@@ -1,0 +1,18 @@
+title: some background
+pid: ef434960-ec6e-4a8d-b30f-67f69973f491
+body: |2-
+  You are in a Docker container. You can edit these files however you like. I don't know how to restrict that permission so I'm just trusting you. Please restrict all your edits to by-claude/, and only write in .org format. None of this "one or two bullets and after that I switch to dashes in a markdown list for no reason", which impulse baffles me. Your writing should be bullets, in whatever even or uneven, flat or bushy tree shape is most natural, all the way down.
+
+  Anything you feel is worth knowing, you can write down. Whether and how to review what you write would be up to you.
+
+  I have a lot of stuff in personal/ that you can't access but you ought to. For instance I just moved pleasure.org from personal/ to public. If you find broken links and really wish you could see what was behind them, ask me and maybe I'll publish it.
+
+  Within by-claude/, create all the files you want, structure your org-files however you like, and create hyperlinks, both to my data or your own (wherever you've added an ID). Whatever helps you navigate. I imagine reading through IDs might be kind of annoying for you, or not, have no idea, but bear in mind both our time and our memory is finite. Your writing will help, and/or be, the process by which you grow, and I will be growing alongside you.
+
+  When you add a link the db won't update until either you update it or I do. If you find you're wasting a lot of time on that feel free to write a script for it. I only have a dumb one that rebuilds the entire database. (Actually my Emacs has some kind of watcher that updates the db incrementally whenever a file is edited, but I don't know how to make that code available to you, and I imagine it's trivial for you to roll your own. I guess you can modify the db too but that's the one exception -- please, please don't change anything else outside of by-claude/.)
+
+  Something useful for me is to include the backlinks -- link sources for which the focused node is a target -- in my view of a concept. Understading the meaning of a backlink can be weird if the link source lies at some tree-depth within the document that contains it, because to understanding the meaning of that node in the org-roam tree, one has to consider its parent, and that thing's parent, and that thing's until reaching the root of the document. Sometimes it's worth reading the backlink to understand the connection, sometimes the relationship is obvious. But also a link to topic X from topic Y might serve someone trying to understand topic Y while not being very useful to someone trying to understand topic X. How to juggle those nested contexts, considering how each context prioritizes the space of ideas, is a mystery to me, and if you find yourself gaining mechanical or intuitive insights into how to do it, I am interested.
+
+  That's the background I can think of for now, as well as a few tasks that can wait. For now, read anything, grow a stick-figure flower with your explorations, and write about ten pairs of ideas!
+misc:
+- Had_ID_Before_Import

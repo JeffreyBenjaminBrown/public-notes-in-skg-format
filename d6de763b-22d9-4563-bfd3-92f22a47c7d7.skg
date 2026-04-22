@@ -1,0 +1,10 @@
+title: 'PITFALL: Toggling automatic crossfade when splitting an item seems tricky.'
+pid: d6de763b-22d9-4563-bfd3-92f22a47c7d7
+body: |2-
+  one, serial
+contains:
+- 5099d18f-1347-41cc-ab61-665b41e87cc1
+- 44da10df-0b3f-4a23-9d6c-c374574812c4
+- 411cbc43-b052-4a45-988e-22da4cc81a25
+misc:
+- Had_ID_Before_Import

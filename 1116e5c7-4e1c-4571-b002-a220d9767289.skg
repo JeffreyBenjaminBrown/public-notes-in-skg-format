@@ -1,0 +1,8 @@
+title: type signatures and function definitions in Typescript
+pid: 1116e5c7-4e1c-4571-b002-a220d9767289
+body: |2-
+  Here's how to define the head function
+    Think of it as this:
+      fst = \(a,b) -> a
+  let fst: <T, U>(a: T, b: U) => T =
+           (a, b) => a;

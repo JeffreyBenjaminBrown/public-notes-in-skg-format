@@ -1,0 +1,11 @@
+title: a generic function
+pid: 0422531a-d784-42f8-a525-551d6ce2f398
+body: |2-
+      Use a type parameter (like T)
+      and usually a trait (like PartialOrd).
+  #+begin_src rust
+  fn largest<T : std::cmp::PartialOrd>
+    (list: &[T])
+     -> &T
+  { ... }
+  #+end_src

@@ -1,0 +1,5 @@
+title: TODO What are parts and wholes?
+pid: c34bdeb0-8ae5-44fc-8ab2-052091d1fac9
+body: |2-
+  Go through Tidal (not Tidal2) and find places where `whole`
+  is used non-trivially.

@@ -1,0 +1,12 @@
+title: '7\50 5\50: mandolin-feasible, area 6x4'
+pid: 881cbab2-bf4a-4124-884f-5ba23b011e55
+body: |2-
+  [ 0 steps; 1 % 1 ; string 0 ; fret 0
+  , 50 steps; 2 % 1 ; string 5 ; fret 3
+  , 29 steps; 3 % 2 ; string 2 ; fret 3
+  , 16 steps; 5 % 4 ; string 3 ; fret - 1
+  , 40 steps; 7 % 4 ; string 5 ; fret 1
+  , 8 steps; 9 % 8 ; string - 1 ; fret 3
+  , 23 steps; 11 % 8 ; string 4 ; fret - 1
+  , 35 steps; 13 % 8 ; string 5 ; fret 0
+  , 45 steps; 15 % 8 ; string 5 ; fret 2

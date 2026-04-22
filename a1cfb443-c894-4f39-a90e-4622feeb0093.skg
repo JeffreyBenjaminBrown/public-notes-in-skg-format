@@ -1,0 +1,4 @@
+title: '"unsatisfiable", "contingent" and "valid"'
+pid: a1cfb443-c894-4f39-a90e-4622feeb0093
+body: |2-
+  A WFF is valid if and only if all its instances express true propositions. A WFF of which all instances are false is said to be unsatisfiable, and one with some true and some false instances is said to be contingent

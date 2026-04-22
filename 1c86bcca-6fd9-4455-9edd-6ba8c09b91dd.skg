@@ -1,0 +1,4 @@
+title: declare one
+pid: 1c86bcca-6fd9-4455-9edd-6ba8c09b91dd
+body: |2-
+  Dim holiday = (#07/04/2017#, "Independence Day", True)

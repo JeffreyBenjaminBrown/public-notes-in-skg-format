@@ -1,0 +1,5 @@
+title: '[[id:72353c72-7f06-4e28-be1b-78e2e6f7bf1d][check whether the computer uses UEFI]]'
+pid: 55923f7f-4c08-420f-bd48-57ea471635f5
+body: |2-
+  If not, install with Legacy Boot.
+  (So far all my computers use Legacy.)

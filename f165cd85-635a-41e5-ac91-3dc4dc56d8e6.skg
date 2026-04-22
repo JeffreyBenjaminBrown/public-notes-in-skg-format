@@ -1,0 +1,4 @@
+title: to prevent the battery from charging past 80%
+pid: f165cd85-635a-41e5-ac91-3dc4dc56d8e6
+contains:
+- 010946ab-6b9b-41d1-a5f8-237f5720c674

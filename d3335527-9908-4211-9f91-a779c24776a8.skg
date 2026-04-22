@@ -1,0 +1,9 @@
+title: The default slice bounds are the first and last.
+pid: d3335527-9908-4211-9f91-a779c24776a8
+body: |2-
+  Either can be omitted, resulting in the default.
+  For a size 10 array `a`, these are equivalent:
+  a[0:10]
+  a[:10]
+  a[0:]
+  a[:]

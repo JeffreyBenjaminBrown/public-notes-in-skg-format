@@ -1,0 +1,7 @@
+title: examples
+pid: 60b1b16b-3d4b-4f54-aab1-e3f514a775f8
+body: |2-
+  > [10,11] ^? ix 1
+  Just 11
+  > M.fromList [(1,2),(3,4)] ^? ix 1
+  Just 2

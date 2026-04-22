@@ -1,0 +1,5 @@
+title: are *not* dedup'd from content
+pid: d650c1aa-7c4b-43b4-9766-94cdcd9cd3ed
+body: |2-
+  This means that they can't be used when saving
+  to determine their parent's contents, either.

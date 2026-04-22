@@ -1,0 +1,9 @@
+title: instantiate a Question
+pid: 56cb8024-c30a-4dc2-80f8-46b07ae5e450
+body: |2-
+   that is, make a member of the already-defined Question class
+
+  from django.utils import timezone
+  q = Question( question_text="What's new?",
+                pub_date=timezone.now() )
+  q.save() # write `q` to the database

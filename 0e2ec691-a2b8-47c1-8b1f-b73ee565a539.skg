@@ -1,0 +1,5 @@
+title: change edit requests
+pid: 0e2ec691-a2b8-47c1-8b1f-b73ee565a539
+body: |2-
+  should be a new node, with a 'requesting' flag
+  (to distinguish from both 'indef' and 'def').

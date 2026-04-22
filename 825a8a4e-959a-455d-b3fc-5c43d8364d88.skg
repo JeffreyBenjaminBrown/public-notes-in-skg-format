@@ -1,0 +1,6 @@
+title: partition for MBR
+pid: 825a8a4e-959a-455d-b3fc-5c43d8364d88
+body: |2-
+  sudo parted /dev/sda -- mklabel msdos
+  sudo parted /dev/sda -- mkpart primary 1MiB -8GiB
+  sudo parted /dev/sda -- mkpart primary linux-swap -24GiB 100%

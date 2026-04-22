@@ -1,0 +1,5 @@
+title: '"set channel for new events to X" : JBB C-S-M-(X:int)'
+pid: 23711b36-755f-487e-add3-e8c7aadfcf7b
+body: |2-
+  This has the effect of "draw on channel X",
+  plus maybe other effects I'm not seeing.

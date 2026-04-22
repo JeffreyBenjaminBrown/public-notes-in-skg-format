@@ -1,0 +1,7 @@
+title: then rotate
+pid: 48db8769-2293-40d5-9e32-9d1f5a744137
+body: |2-
+  Computed R*S, where S is the scaling matrix,
+  and R is the rotation matrix:
+  [ cos t, -sin t ]
+  [ sin t,  cos t ]

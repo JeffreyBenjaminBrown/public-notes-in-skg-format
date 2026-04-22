@@ -1,0 +1,9 @@
+title: 'trying :: pip3 install --upgrade "--all"'
+pid: e6b164dc-f513-4804-85b6-f0228b74bce8
+body: |2-
+  `--all` is not actually an option.
+  Instead there's this:
+    pip3 freeze --local |sed -rn 's/^([^=# \t\\][^ \t=]*)=.*/echo; echo Processing \1 ...; pip3 install -U \1/p' |sh
+  from here:
+    https://stackoverflow.com/questions/2720014/how-to-upgrade-all-python-packages-with-pip
+  (I tried some earlier things on that page, which didn't seem to work.)

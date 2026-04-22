@@ -1,0 +1,5 @@
+title: After `ether` is the MAC address.
+pid: 258371d6-5fa9-4a1d-9f30-559c8f79884e
+body: |2-
+  Those, uniquely, are formatted like `f0:d5:bf:01:6e:13`.
+  That's six pairs of hex digits.

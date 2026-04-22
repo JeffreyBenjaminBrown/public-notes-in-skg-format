@@ -1,0 +1,11 @@
+title: ssh
+aliases:
+- secure shell
+- SSH
+pid: e21896f4-2b67-4d0b-b474-80c22545c513
+contains:
+- 30a1600f-181e-4dce-bc54-26e7b7e2634a
+- 1ce79231-e68e-4928-8593-4872fe0ec9d3
+- ecc484a5-014a-4704-a9f1-1a9e40d55094
+misc:
+- Had_ID_Before_Import

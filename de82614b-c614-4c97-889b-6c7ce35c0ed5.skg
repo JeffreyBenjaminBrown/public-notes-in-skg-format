@@ -1,0 +1,4 @@
+title: use lsof to check what processes (esp. pulseaudio, alsamixer) are using sound devices
+pid: de82614b-c614-4c97-889b-6c7ce35c0ed5
+body: |2-
+  sudo lsof /dev/snd/*

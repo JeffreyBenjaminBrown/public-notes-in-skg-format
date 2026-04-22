@@ -1,0 +1,19 @@
+title: an example
+pid: 93c8a74f-c368-4277-837f-6b4a746ffc5c
+body: |2-
+  module Tests where
+
+  import Test.HUnit
+
+
+  allTests :: IO Counts
+  allTests = runTestTT $ TestList
+    [ aTestSuite ]
+
+  aTestSuite :: Test
+  aTestSuite = TestList [
+      TestLabel "testOverlap" testOverlap ]
+
+  aTest :: Test
+  aTest = TestCase $ do
+      assertBool "" $ True

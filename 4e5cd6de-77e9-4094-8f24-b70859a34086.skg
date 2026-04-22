@@ -1,0 +1,6 @@
+title: 'striate n : "like chop n" (???)'
+pid: 4e5cd6de-77e9-4094-8f24-b70859a34086
+body: |2-
+  #+begin_src haskell
+    d1 $ striate 2 $ sound "bev"
+  #+end_src

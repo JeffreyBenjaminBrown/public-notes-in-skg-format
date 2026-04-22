@@ -1,0 +1,12 @@
+title: TODO ? separate State and UIState, and use State in NoUI
+pid: cbef3fe5-7bf8-4436-a3fa-07a278c2530c
+body: |2-
+  type ColumnProps = Map HExpr Int
+  data OtherProps = OtherProps {
+    _folded :: Bool -- ^ whether the ViewExprNode's children are hidden
+    } deriving (Show, Eq, Ord)
+  data St = St {
+      _searchBuffers          :: Maybe (Porest Buffer)
+    , _columnHExprs           :: [HExpr]
+    , _appRslt                :: Rslt
+    }

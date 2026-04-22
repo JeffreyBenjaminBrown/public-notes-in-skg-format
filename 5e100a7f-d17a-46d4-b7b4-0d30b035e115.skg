@@ -1,0 +1,6 @@
+title: braces let you select and flatten data
+pid: 5e100a7f-d17a-46d4-b7b4-0d30b035e115
+body: |2-
+  e.g. this
+  curl $site | jq '.[0] | {message: .commit.message, name: .commit.committer.name}'
+  returns the .commit.message and .commit.committer.name fields from the original, renaming them "message" and "name" and putting them on the same (first) level.

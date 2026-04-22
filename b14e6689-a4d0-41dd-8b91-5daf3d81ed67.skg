@@ -1,0 +1,15 @@
+title: subscriptions and links
+pid: b14e6689-a4d0-41dd-8b91-5daf3d81ed67
+body: |2-
+  A node N somewhere in a subscribed-to document
+  might have a link L that points to destination D.
+  If N is incorporated into the user's own graph,
+  L will by default remain unchanged.
+  But if the user has any node D' that subscribes to D,
+  that fact will be visible when they visit D,
+  and they can replace any link to D with one to D'.
+
+  There might be multiple nodes in their graph
+  that subscribe to D.
+  All should be equally viable
+  as replacement destinations in links to D.

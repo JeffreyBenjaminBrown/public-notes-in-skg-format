@@ -1,0 +1,4 @@
+title: Goroutines do not outlive `main`.
+pid: a41ee9ae-f3ba-4fcc-b6ac-84a3c101d45b
+body: |2-
+  They should talk to `main` to coordinate shutdown.

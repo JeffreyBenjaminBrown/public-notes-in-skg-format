@@ -1,0 +1,4 @@
+title: '"go run" compiles and runs, without creating a binnary'
+pid: 59bf3789-1df7-4c31-ba09-23a306f44fd7
+body: |2-
+  It's useful for the dev cycle, when making many changes.

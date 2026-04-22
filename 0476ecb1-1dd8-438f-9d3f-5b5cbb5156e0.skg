@@ -1,0 +1,5 @@
+title: how to get debugging info once Emacs crashes
+pid: 0476ecb1-1dd8-438f-9d3f-5b5cbb5156e0
+body: |2-
+  Execute this in GDB (which will still be running):
+    thread apply all bt

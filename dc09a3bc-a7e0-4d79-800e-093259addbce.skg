@@ -1,0 +1,5 @@
+title: buffer ring
+pid: dc09a3bc-a7e0-4d79-800e-093259addbce
+body: |2-
+  From the Buffer Tree view, allow the user to mark buffers with unique integer indexes.
+  To move "right" in the buffer ring is to move to the buffer with the least index greater than the current one, and left to the one with the greatest index less than, except wrapping at the edges.

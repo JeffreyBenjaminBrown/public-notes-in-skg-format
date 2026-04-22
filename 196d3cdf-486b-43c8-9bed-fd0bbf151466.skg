@@ -1,0 +1,7 @@
+title: indicate if 'unjudged subscribed content' exists
+pid: 196d3cdf-486b-43c8-9bed-fd0bbf151466
+body: |2-
+  This is the condition under which a subscribee (shown as such)
+  would have visible content. To judge subscribed-to content
+  is to either hide it or move it to one's own graph --
+  maybe to the corresponding subscriber, but not necessarily.

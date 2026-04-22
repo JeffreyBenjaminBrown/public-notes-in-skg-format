@@ -1,0 +1,7 @@
+title: then I hid the .Xauthority cookie, which didn't work
+pid: 655d8f99-0c71-4f51-9e57-f6ac2edf618a
+body: |2-
+  I moved it from
+    /home/jeff/.Xauthority
+  to
+    /home/jeff/.Xauthority-bk/.Xauthority

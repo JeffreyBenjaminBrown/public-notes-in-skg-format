@@ -1,0 +1,4 @@
+title: 'PITFALL: varTestlike ForSomes do not store what they find in the Subst'
+pid: 66a05c23-294c-4390-a6c8-d537d9cda5e2
+body: |2-
+  unlike testlike and findlike queries

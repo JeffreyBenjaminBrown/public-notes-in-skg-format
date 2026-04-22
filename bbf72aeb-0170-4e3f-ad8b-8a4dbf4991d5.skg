@@ -1,0 +1,4 @@
+title: to launch the display manager from a bare xterm
+pid: bbf72aeb-0170-4e3f-ad8b-8a4dbf4991d5
+body: |2-
+  systemctl start display-manager.service

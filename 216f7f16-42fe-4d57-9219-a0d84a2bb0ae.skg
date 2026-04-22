@@ -1,0 +1,11 @@
+title: jq treats literal line breaks as ordinary whitespace
+pid: 216f7f16-42fe-4d57-9219-a0d84a2bb0ae
+body: |2-
+  So, for instance, this makes sense:
+    cat ~/of/tax.co.web/paths.json | \
+      jq '.paths | to_entries
+                 | .[]
+                 | .key + "=\"" + .value + "\""'
+  The end of the first line requires a \,
+  but the ends of the other lines are inside the jq command,
+  so they don't.

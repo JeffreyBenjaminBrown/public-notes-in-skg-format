@@ -1,0 +1,11 @@
+title: timeForBoth_toFinish is "safer"
+pid: 005d20c4-9d15-46c1-9a48-9c09d8ccd635
+body: |2-
+  stack used to be written in terms of timeForBoth_toAppearToFinish,
+  but that led to this bug
+
+  > c2 = dur .~ 2 $ mmh 1 $ pre2 "" $ [ (0, "a") ]
+  > c2
+  Museq {_dur = 2 % 1, _sup = 1 % 1, _vec = [Event {_evLabel = "", _evArc = (0 % 1,1 % 1), _evData = "a"}]}
+  > stack c2 c2
+  Museq {_dur = 2 % 1, _sup = 1 % 1, _vec = []}

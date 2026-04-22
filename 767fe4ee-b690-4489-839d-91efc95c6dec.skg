@@ -1,0 +1,14 @@
+title: ask LinuxMusicians forum
+pid: 767fe4ee-b690-4489-839d-91efc95c6dec
+body: |2-
+  I have Wine and winetricks installed, in NixOS.
+  I downloaded IK Multimedia's "ProductManager_1_1_5",
+  and ran the installer using wine.
+  It seemed to work, because now there are a lot of files at
+    `/home/jeff/.wine/drive_c/Program Files/IK Multimedia/IK Product Manager`
+  But when I try to install MODO Drums, no matter what download path I choose, I get an error like
+  ```
+    The volume/disk where the software download path
+  C:\users\jeff\ik_product_manager
+  you've selected should be does not exist. Please close this window to select a new path in preferences. (code: 2110)
+  ```

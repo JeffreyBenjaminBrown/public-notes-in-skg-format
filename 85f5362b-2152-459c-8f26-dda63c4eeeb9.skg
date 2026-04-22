@@ -1,0 +1,6 @@
+title: I'm trying 1.8.2
+pid: 85f5362b-2152-459c-8f26-dda63c4eeeb9
+body: |2-
+  1.8.2 = 860a480adbf9073b3fbeb686293ffef14f98a719
+  git checkout 860a480adbf9073b3fbeb686293ffef14f98a719
+  git branch 1.8.2-jbb-polite

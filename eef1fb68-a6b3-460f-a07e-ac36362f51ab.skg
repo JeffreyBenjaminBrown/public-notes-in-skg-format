@@ -1,0 +1,5 @@
+title: link appearance
+pid: eef1fb68-a6b3-460f-a07e-ac36362f51ab
+body: |2-
+  A title or (as in this case) body
+  can have [[_][any]] number of [[_][links]] with [[id:long-number][any title, however misleading]].

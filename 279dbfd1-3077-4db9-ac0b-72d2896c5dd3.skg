@@ -1,0 +1,6 @@
+title: 'Django Formsets: good for dynamic tables'
+pid: 279dbfd1-3077-4db9-ac0b-72d2896c5dd3
+body: |2-
+  with "a little bit of Javascript",
+  according to Ken Whitesall:
+  https://forum.djangoproject.com/t/how-to-read-non-django-html-form-data/8864/6

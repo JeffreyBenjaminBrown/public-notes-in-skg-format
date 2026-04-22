@@ -1,0 +1,4 @@
+title: communication between users
+pid: 047a6aa5-60f9-4b0d-a692-2ca7a451fc31
+body: |2-
+  The number of internet communication protocols is large: TCP/IP, FTP, SSH, WebSocket, and BitTorrent, to name a few. The Shyg protocol will be implemented through at least one of these. (It might use two -- e.g. BitTorrent for massive data transfers and SSH for individual queries and responses.)

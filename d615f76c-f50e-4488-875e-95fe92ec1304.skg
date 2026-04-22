@@ -1,0 +1,4 @@
+title: set-text-properties start end props
+pid: d615f76c-f50e-4488-875e-95fe92ec1304
+body: |2-
+  completely replaces the property list

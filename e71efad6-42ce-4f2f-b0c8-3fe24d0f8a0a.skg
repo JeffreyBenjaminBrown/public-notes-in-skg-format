@@ -1,0 +1,8 @@
+title: 'PITFALL: The empty set is nonsense in a CondElts'
+pid: e71efad6-42ce-4f2f-b0c8-3fe24d0f8a0a
+body: |2-
+  type CondElts = Map Elt (Set Subst)
+    -- ^ Uses `Set` because multiple `Subst`s might obtain the same `Elt`.
+    -- PITFALL: If Elt is possible without any other bindings, then
+    -- the `Set` should include `M.empty`. If the `Set` is `S.empty`,
+    -- it is as if that `Elt` is not in the `Map`.

@@ -1,0 +1,4 @@
+title: sync is usually fine between a user and their app
+pid: 8d8cf3f1-cae6-47d6-b01d-cd1e34208ad3
+body: |2-
+  The app can reasonably wait for the user without hurting the user.

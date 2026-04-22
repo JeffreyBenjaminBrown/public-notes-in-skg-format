@@ -1,0 +1,18 @@
+title: 'PITFALL: The `growpart` command'
+pid: 33febdad-4d04-46fe-b321-93ddf09ed3a5
+body: |2-
+  takes the path of the root volume, not the partition.
+  To grow a specific partition to fill the root volume,
+  indicate the partition number.
+
+  For instance, if lsblk reveals the following:
+
+      [ec2-user@ip-172-31-79-192 ~]$ lsblk
+      NAME          MAJ:MIN RM SIZE RO TYPE MOUNTPOINT
+      nvme0n1       259:0    0  45G  0 disk
+      ├─nvme0n1p1   259:1    0  45G  0 part /
+      └─nvme0n1p128 259:2    0   1M  0 part
+
+  then the proper command is
+
+      sudo growpart /dev/nvme0n1 1

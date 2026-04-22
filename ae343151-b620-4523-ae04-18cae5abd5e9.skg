@@ -1,0 +1,8 @@
+title: DONE explain how to find backlinks
+pid: ae343151-b620-4523-ae04-18cae5abd5e9
+body: |2-
+  That was surprisingly unhelpful. What I enjoyed most was the link you drew between cynicism and hope -- I hadn't recognized there was such a direct connection between those two ideas.
+
+  Let's first add one more capability for you while I think about how to modify the way you generate feedback. Can you find backlinks associated with a given ID? That is, somewhere in the db -- it might be a table called backlinks, or links -- there is an association between pairs of IDs, such that the ID in one column links to the ID in the other column. Likely names for those columns are "source" and "target" but they could be something else.
+
+  Can you find all the backlinks from public/love.org? That is, find all the sources that send a target to that file. Generate a list of those filenames. Save code for doing that in for-claude/.

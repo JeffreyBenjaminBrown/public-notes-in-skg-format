@@ -1,0 +1,5 @@
+title: the problem
+pid: 4dc9abd7-dfaf-4d0d-8f4d-8007e328c0a1
+body: |2-
+  Melpa deleted the package, which org-roam depends on.
+  They say it's no longer needed in light of EmaccSQL 4, and problematic.

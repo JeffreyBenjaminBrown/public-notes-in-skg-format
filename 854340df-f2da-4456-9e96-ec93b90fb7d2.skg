@@ -1,0 +1,4 @@
+title: 'An example of pushing it up: general foundation methods.'
+pid: 854340df-f2da-4456-9e96-ec93b90fb7d2
+body: |2-
+  A text editor has commands for replace, insert character, delete next character, delete previous. That specialization can be kept above (in the callers of) a simple general module for maintaining the buffer text, with only two methods: insert and delete.

@@ -1,0 +1,5 @@
+title: use `sed -e "1,4d"` to "install" it
+pid: 606d9530-f151-4803-aa4c-e79ec144b716
+contains:
+- 2f19e5dc-c27c-43a5-8a51-ad36033ff297
+- d5be76b5-87a6-4073-9154-0ff7e0322f28

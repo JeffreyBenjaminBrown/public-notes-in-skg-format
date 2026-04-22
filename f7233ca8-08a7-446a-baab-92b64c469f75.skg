@@ -1,0 +1,8 @@
+title: How I went from 24.11 to 25.05 -- easy!
+pid: f7233ca8-08a7-446a-baab-92b64c469f75
+body: |2-
+  sudo nix-channel --add https://channels.nixos.org/nixos-25.05 nixos
+  sudo nixos-rebuild switch --upgrade
+  then fix the config for renamed packages
+misc:
+- Had_ID_Before_Import

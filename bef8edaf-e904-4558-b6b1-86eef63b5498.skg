@@ -1,0 +1,8 @@
+title: 'PITFALL: Pitch bend won''t work microtonally.'
+pid: bef8edaf-e904-4558-b6b1-86eef63b5498
+body: |2-
+  The pitch bend message must belong to the same channel
+  as the notes it is to bend:
+    https://forum.modartt.com/viewtopic.php?id=7698
+  (This could actually be cool sometimes,
+  if I had a way to control that channel.)

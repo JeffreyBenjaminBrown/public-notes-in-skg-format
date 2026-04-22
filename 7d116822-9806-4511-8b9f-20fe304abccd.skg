@@ -1,0 +1,11 @@
+title: redundant cases should be last among definitions
+pid: 7d116822-9806-4511-8b9f-20fe304abccd
+body: |2-
+  example: In this:
+      pExprToHExpr :: PExpr -> Either String HExpr
+      pExprToHExpr px@(pExprIsSpecific -> False) = Left
+        $ "pExprToHExpr: " ++ show px ++ " is not specific enough."
+      pExprToHExpr Any =
+        Left $ "pExprToHExpr: Any is not specific enough."
+  I only wrote the Any case to make GHCI not issue a warning.
+  It should come last.

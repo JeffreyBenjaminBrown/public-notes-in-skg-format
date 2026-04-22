@@ -1,0 +1,4 @@
+title: I've only got __init__.py files in /mnt/django and below
+pid: 3199b1a5-0ebf-41da-90a6-81420779d595
+body: |2-
+  not in /mnt

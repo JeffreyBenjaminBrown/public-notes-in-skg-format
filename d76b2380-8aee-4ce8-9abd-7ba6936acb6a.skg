@@ -1,0 +1,6 @@
+title: to remove Show Desktop from the Task Switcher
+pid: d76b2380-8aee-4ce8-9abd-7ba6936acb6a
+body: |2-
+  In KDE's Settings, go to Task Switcher,
+  enable Include Show Desktop Icon, save settings,
+  disable it, and save settings again.

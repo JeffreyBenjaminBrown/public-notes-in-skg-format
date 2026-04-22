@@ -1,0 +1,8 @@
+title: the data structure
+pid: 787d151f-2020-440b-850f-da245b864fba
+body: |2-
+  A map from node ids to lists of times,
+  or a list of (ID, time) visits.
+  Look at (recency, number of visits) plots of IDs.
+  Translate Josh's format into mine, or use his.
+  Ask what visualizations of it he uses.

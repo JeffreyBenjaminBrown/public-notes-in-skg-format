@@ -1,0 +1,8 @@
+title: How I lost 2 days of work to a duplication mistake.
+pid: e300b943-9e8f-4eb3-a629-e0369d0254c7
+body: |2-
+  If two functions look very similar,
+  that should smell bad for yet another reason:
+  Once I'm using one of them and not the other,
+  I might edit the other (unused) one thinking I'm editing the one in use.
+  Then when it doesn't work, I'll look for a solution elsewhere at length.

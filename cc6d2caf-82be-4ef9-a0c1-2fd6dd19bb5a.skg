@@ -1,0 +1,5 @@
+title: '`makefile --trace` explains why it wants to rebuild something'
+pid: cc6d2caf-82be-4ef9-a0c1-2fd6dd19bb5a
+body: |2-
+  Kind of useless, though -- it only restates the dependency section of the target it wants to rebuild.
+  A natural companion to --dry-run.

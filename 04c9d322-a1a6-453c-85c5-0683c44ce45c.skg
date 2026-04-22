@@ -1,0 +1,5 @@
+title: I had to use wpa_supplicant, not iwd
+pid: 04c9d322-a1a6-453c-85c5-0683c44ce45c
+body: |2-
+  https://wiki.alpinelinux.org/wiki/Wi-Fi
+  Supposedly iwd is better, but apk didn't find the package.

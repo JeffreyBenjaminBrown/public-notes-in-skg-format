@@ -1,0 +1,9 @@
+title: details on the problems
+pid: a9dc1aa7-a376-43df-822e-a4b6573a5a11
+body: |2-
+  Pushing `up` causes ^[[A to print to my screen,
+    rather than recalling an earlier command.
+  In AWS, pasting into the shell works,
+    but causes a lot of garbage characters to appear.
+  Someone on StackOverflow who had history recall problems
+    had the backspace problem too; I didn't

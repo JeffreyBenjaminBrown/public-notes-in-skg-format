@@ -1,0 +1,6 @@
+title: a useful example
+pid: 2cc7170d-f116-4c6c-ae85-6474a8ddf3b6
+body: |2-
+  import Data.Text as T
+  let packed = iso T.pack T.unpack :: Iso' String T.Text
+  "running a Text function on this String" & packed %~ T.toTitle

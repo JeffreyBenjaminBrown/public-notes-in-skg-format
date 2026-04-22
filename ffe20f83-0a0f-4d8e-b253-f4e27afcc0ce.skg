@@ -1,0 +1,5 @@
+title: there is no Bool
+pid: ffe20f83-0a0f-4d8e-b253-f4e27afcc0ce
+body: |2-
+  FALSE and TRUE are *sometimes* treated as aliases for 0 and 1.
+  https://www.sqlite.org/quirks.html

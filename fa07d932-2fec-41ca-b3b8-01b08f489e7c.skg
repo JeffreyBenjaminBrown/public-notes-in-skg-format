@@ -1,0 +1,11 @@
+title: demo
+pid: fa07d932-2fec-41ca-b3b8-01b08f489e7c
+body: |2-
+  jeff@jbb-dell:quant$ echo $NONSENSE_WORD # It's not defined.
+
+  jeff@jbb-dell:quant$ cat test-export.sh
+  export NONSENSE_WORD="HTUIOGSHLSDGA:"
+  jeff@jbb-dell:quant$ . test-export.sh
+  jeff@jbb-dell:quant$ echo $NONSENSE_WORD # Now it is.
+  HTUIOGSHLSDGA:
+  jeff@jbb-dell:quant$

@@ -1,0 +1,9 @@
+title: Delay and Force can be left (always?) to the compiler
+pid: f9739337-ff65-4ad6-a733-8c4b204ec704
+body: |2-
+      The Idris type checker knows about the Lazy type, and inserts conversions where necessary between Lazy a and a, and vice versa. We can therefore write ifThenElse as follows, without any explicit use of Force or Delay:
+  #+BEGIN_SRC idris
+  ifThenElse : Bool -> Lazy a -> Lazy a -> a
+  ifThenElse True  t e = t
+  ifThenElse False t e = e
+  #+END_SRC

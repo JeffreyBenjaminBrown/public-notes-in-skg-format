@@ -1,0 +1,7 @@
+title: While a mutable reference to x exists, no other reference* to x can exist.
+pid: d672637c-2184-4cc8-bfcc-4d5f691efd0b
+body: |2-
+  (*) regardless of mutability
+contains:
+- 27cf5d2d-da82-443e-920a-f25f7d8e24bd
+- 0c4c5754-64dc-4c7d-a954-a21221b1650a

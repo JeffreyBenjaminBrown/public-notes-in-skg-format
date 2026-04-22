@@ -1,0 +1,8 @@
+title: the idea
+pid: 8b8a75d4-724e-44ff-8fce-7827d0b7224e
+body: |2-
+  A subscription can just link to what's subscribed to,
+  *if* its contents should be shown as-is.
+  But if someone wants to do anything with that content,
+  they'll have to reproduce the whole (flat) list,
+  as a list of subscriptions.

@@ -1,0 +1,7 @@
+title: user-defined relation*s
+pid: 1fd3b57f-cea2-44b1-a69d-8acaffc63a77
+body: |2-
+    * = relation in the TypeDB sense, a template for relationships
+contains:
+- af291103-a94e-4997-8135-1c164e632762
+- 953d18be-b1e7-438c-9891-ef9a4189d8bf

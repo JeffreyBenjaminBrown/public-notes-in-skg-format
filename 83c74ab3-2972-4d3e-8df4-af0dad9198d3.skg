@@ -1,0 +1,11 @@
+title: '"go install" makes executables globally available.'
+pid: 83c74ab3-2972-4d3e-8df4-af0dad9198d3
+body: |2-
+  Run
+    go list -f '{{.Target}}'
+  to find Go's "install path".
+  Run
+    go install
+  to put the executable there.
+  Add the Go install path to my PATH
+  to make everything there globally available.

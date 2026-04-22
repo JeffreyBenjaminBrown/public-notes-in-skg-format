@@ -1,0 +1,4 @@
+title: What is the purpose of models?
+pid: e375c6d5-f395-415a-a3bf-9b124e4f3ef9
+body: |2-
+  The doc states that models "usually consist only of at most a few dozen elements intended as types for other graphs, each with descriptive names, good documentation, and a clear purpose". What's an example of such a purpose? Describing Neo4j, maybe?

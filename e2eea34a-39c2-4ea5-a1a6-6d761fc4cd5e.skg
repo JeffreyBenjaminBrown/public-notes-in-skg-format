@@ -1,0 +1,7 @@
+title: voice     = 0.5, "relative phase and detune"
+pid: e2eea34a-39c2-4ea5-a1a6-6d761fc4cd5e
+body: |2-
+  voice 0 => well-behaved, warm & fuzzy.
+  0.5 => slight detune
+  Big integers, positive or negative,
+  reveal some kind of harmonic relationship.

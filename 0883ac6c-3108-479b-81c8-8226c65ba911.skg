@@ -1,0 +1,6 @@
+title: language and definition
+pid: 0883ac6c-3108-479b-81c8-8226c65ba911
+body: |2-
+  A 'hider' node 'hides_from_its_subscriptions' a 'hidden' node.
+  If S subscribes to T, this relation allows S to hide
+    any of T's contents from S's "subscription view" of T.

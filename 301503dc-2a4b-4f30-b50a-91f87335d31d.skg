@@ -1,0 +1,9 @@
+title: inside smsn
+pid: 301503dc-2a4b-4f30-b50a-91f87335d31d
+body: |2-
+  Visit ~/smsn+/smsn-mode/lisp/commands-only.el
+  to find all commands.
+contains:
+- 5f36e983-7724-402c-ba9e-1590727e85ed
+- 662e27e0-5967-40c3-9bd5-d56d85be8ed3
+- 35a56645-2ee7-424f-bc0c-b93cf41b03c8

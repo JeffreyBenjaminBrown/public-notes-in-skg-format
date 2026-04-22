@@ -1,0 +1,15 @@
+title: TODO 94 4 17
+pid: 2252c73e-adf4-402f-b76d-3d2d8b54b95e
+body: |2-
+  octave at (2,15)
+       [ 94 steps = 2 % 1 : string 6 fret - 2
+       , 55 steps = 3 % 2 : string 3 fret 1
+       , 30 steps = 5 % 4 : string 2 fret - 1
+       , 76 steps = 7 % 4 : string 4 fret 2
+       , 43 steps = 11 % 8 : string 3 fret - 2
+       , 66 steps = 13 % 8 : string 2 fret 8
+       , 8 steps = 17 % 16 : string 0 fret 2
+       , 23 steps = 19 % 16 : string - 1 fret 10
+       , 49 steps = 23 % 16 : string 1 fret 8
+       , 81 steps = 29 % 16 : string 5 fret - 1
+       , 90 steps = 31 % 16 : string 6 fret - 3

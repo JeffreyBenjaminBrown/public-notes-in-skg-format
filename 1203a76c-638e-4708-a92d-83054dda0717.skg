@@ -1,0 +1,9 @@
+title: subexpr matching
+pid: 1203a76c-638e-4708-a92d-83054dda0717
+body: |2-
+  /member: with top-level sub-expr
+  /involves: with sub-expr at depth
+  /eval: find expr, return subexpr
+  /it: id subexpr in expr
+  /it=: id & limit subexpr in expr
+  /map: map roles to exprs

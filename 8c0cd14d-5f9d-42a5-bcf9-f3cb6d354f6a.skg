@@ -1,0 +1,8 @@
+title: demo
+pid: 8c0cd14d-5f9d-42a5-bcf9-f3cb6d354f6a
+body: |2-
+  #+BEGIN_SRC haskell
+  d1 $ stack [ s "bd sn:1",
+               fast 2 $ wrandcat [ (s "hh*4", 0.2),
+                                   (s "hh*3", 0.8) ] ]
+  #+END_SRC

@@ -1,0 +1,5 @@
+title: '`local` vs. `external` calls'
+pid: c4ffaf74-0088-4b53-bc38-71cfad6afcdb
+body: |2-
+  Local calls are local to that module,
+  and look like `function(args)" rather than "module:function(args)".

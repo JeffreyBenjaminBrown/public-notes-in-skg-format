@@ -1,0 +1,5 @@
+title: goal
+pid: 29c7a49a-d001-4639-843a-d0e3821e0c14
+body: |2-
+  Each time an Expr `a` is added,
+  test each search for whether it would include *only* `a`.

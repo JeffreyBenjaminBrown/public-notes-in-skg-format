@@ -1,0 +1,9 @@
+title: example
+pid: 1eaed31f-c8c3-4a6a-ba0c-76ec80a4d108
+body: |2-
+  Change *Vertex to Vertex and this does nothing:
+
+  func Scale(v *Vertex, f float64) {
+    v.X = v.X * f
+    v.Y = v.Y * f
+  }

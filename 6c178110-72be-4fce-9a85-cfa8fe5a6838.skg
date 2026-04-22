@@ -1,0 +1,6 @@
+title: TODO more nondeterministic magic
+pid: 6c178110-72be-4fce-9a85-cfa8fe5a6838
+body: |2-
+  >>> import Data.Char (toUpper, toLower)
+  >>> traverseOf both (\c -> [toLower c, toUpper c]) ('a', 'b')
+  [('a','b'),('a','B'),('A','b'),('A','B')]

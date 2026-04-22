@@ -1,0 +1,7 @@
+title: What's novel about it
+pid: e7ae2108-c380-4983-ac3f-5fce7968b1a2
+body: |2-
+  Normally, when you cycle through a list,
+  phase in the cycle depends only on time.
+  Here it is independent of time;
+  it depends only on the most recent value played.

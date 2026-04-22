@@ -1,0 +1,7 @@
+title: TODO Do rules change the data?
+pid: 20855a07-2d9c-4e23-9549-39375709c188
+body: |2-
+  That is, do they record their results on extant data once,
+  or do they run every time a relevant query is made?
+misc:
+- Had_ID_Before_Import

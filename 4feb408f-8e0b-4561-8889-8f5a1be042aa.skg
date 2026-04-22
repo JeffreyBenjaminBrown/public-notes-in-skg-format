@@ -1,0 +1,6 @@
+title: The files seem to live at the URL static/<app name>/
+pid: 4feb408f-8e0b-4561-8889-8f5a1be042aa
+body: |2-
+  e.g. I can reach the image I stored in polls/static/polss/images from
+    http://127.0.0.1:8000/static/polls/images/Lake_mapourika_NZ.jpeg
+  (and from no other URL I tried).

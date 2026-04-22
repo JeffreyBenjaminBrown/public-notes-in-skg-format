@@ -1,0 +1,4 @@
+title: The presentation order of errors can be helpful.
+pid: e6d4afe6-04b1-4c65-b14b-e18140b8b036
+body: |2-
+  "Most of the time the hardest part is finding which error caused a huge cascade of errors listed against other functions. It is better to resolve compiler errors in the order they were reported to avoid being misled by errors which may not actually be errors at all."

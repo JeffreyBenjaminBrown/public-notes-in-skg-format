@@ -1,0 +1,5 @@
+title: How I fixed it
+pid: fbd22bd6-e36b-4302-9340-160920d2f976
+body: |2-
+  (It wasn't working for a while.)
+  It started working once I fixed smsn.yaml and updated smsn-mode.

@@ -1,0 +1,8 @@
+title: Reduce complexity by recognizing statement equivalence.
+pid: e185e848-ea55-4eec-9dba-d0cf9d893731
+body: |2-
+  One difficult aspect of navigating online information is that much of it is redundant. Language is full of synonyms and equivalent grammatical structures. Moreover, many statements are obvious implications of others, and do not need to be separately recorded. For instance, after recording that mammals are warm-blooded and cats are mammals, one need not separately record that cats are warm-blooded.
+
+  The Shyg index, with its ontology, will permit a user to reduce the complexity of search results by imposing uniqueness constraints on them. One could, for instance, ask for weightlifting exercises that target the hamstrings, and receive a short list of exercises, rather than millions of websites.
+misc:
+- Had_ID_Before_Import

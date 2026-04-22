@@ -1,0 +1,12 @@
+title: from /mnt/django
+pid: b9317957-1193-488c-bb13-04f255a1d693
+body: |2-
+  jeff@127:/mnt$ cd django/
+  jeff@127:/mnt/django$ python3 manage.py shell
+  Python 3.9.2 (default, Feb 28 2021, 17:03:44)
+  Type 'copyright', 'credits' or 'license' for more information
+  IPython 8.13.2 -- An enhanced Interactive Python. Type '?' for help.
+
+  In [1]: import run_make.views.lib as vl
+
+  In [2]:

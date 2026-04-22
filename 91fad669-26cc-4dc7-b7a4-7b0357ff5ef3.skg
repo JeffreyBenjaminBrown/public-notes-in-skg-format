@@ -1,0 +1,6 @@
+title: Make these two files immutable.
+pid: 91fad669-26cc-4dc7-b7a4-7b0357ff5ef3
+body: |2-
+  # chattr -i will undo this
+  chattr +i .claude/settings.json
+  chattr +i .claude/hooks/git-guard.sh

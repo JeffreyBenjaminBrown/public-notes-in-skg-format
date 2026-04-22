@@ -1,0 +1,8 @@
+title: two nodes with the same ID problem \ skg
+pid: 83f4b23d-1f74-4dbb-9e22-2b121043362a
+contains:
+- 23da4de0-384c-4492-97b3-9b0020a15207
+- 198f40ad-86d1-4868-818b-09e56c041f2d
+- 47820dba-1627-4b46-937e-6cdbc0b9bc32
+misc:
+- Had_ID_Before_Import

@@ -1,0 +1,5 @@
+title: To find these quickly,
+pid: c0398f87-3c25-446f-8855-9c64b6d85940
+body: |2-
+  run `thanos'' modulus maxFretDistance` for a given modulus.
+  (e.g. for Kite tuning the modulus is 2.)

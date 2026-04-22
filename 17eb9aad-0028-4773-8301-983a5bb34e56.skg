@@ -1,0 +1,7 @@
+title: edit foreign node
+pid: 17eb9aad-0028-4773-8301-983a5bb34e56
+body: |2-
+  = quietly create overriding subscriber
+contains:
+- 00cc3e0d-d7d1-4209-b39e-40a76d06fd37
+- 4b488ac8-9b7b-4ed8-8225-2b3b53a8ca60

@@ -1,0 +1,2 @@
+title: 'PITFALL: "all methods on a given type should have either value or pointer receivers, but not a mixture of both"'
+pid: dea6b964-a32b-4f11-9f1f-c1639bc192e8

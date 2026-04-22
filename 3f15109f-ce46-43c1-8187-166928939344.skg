@@ -1,0 +1,5 @@
+title: Snapping can be overridden sometimes.
+pid: 3f15109f-ce46-43c1-8187-166928939344
+body: |2-
+  At least when selecting a loop region,
+  holding Ctrl while using the mouse overrides snapping.

@@ -1,0 +1,7 @@
+title: 'PITFALL: Can make it impossible to append characters.'
+pid: d35cf9c0-a064-4c0f-9eab-77053d2363fe
+body: |2-
+  If the last character of the line is read-only,
+  the only way to append text is from the next line.
+  If that next line also begins read-only,
+  or does not exist, there's no way.

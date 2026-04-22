@@ -1,0 +1,9 @@
+title: links to another file F "in" the host file H
+pid: 54f597a8-c9ea-4873-8385-22e82c9d9de6
+body: |2-
+  Such a file F extends the view from H,
+  and is not necessarily meaningful outside of the context of F.
+  If a yet further nested file G is a child of F,
+  I that file too should be considered to be "in" H, not F.
+misc:
+- Had_ID_Before_Import

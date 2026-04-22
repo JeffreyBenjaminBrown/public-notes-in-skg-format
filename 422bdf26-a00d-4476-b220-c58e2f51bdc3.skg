@@ -1,0 +1,6 @@
+title: models are classes *and* databases
+pid: 422bdf26-a00d-4476-b220-c58e2f51bdc3
+body: |2-
+  Every "model" (e.g. Choice and Question in the polls/ example) is
+    as a class in Python
+    *and* as a table in the database.

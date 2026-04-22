@@ -1,0 +1,13 @@
+title: (HTML) templates
+pid: 69be7ed1-550b-4b1f-8089-21763019b801
+body: |2-
+  Templates \ Django documentation \ Django:
+    https://docs.djangoproject.com/en/3.0/topics/templates/
+  To separate the design (HTML) from the code (Python) for views.
+contains:
+- 44908faa-3887-43ff-bca8-39cc6dc8644d
+- 15502dde-8ec2-4656-b444-da4b371626ea
+- 5f5ac6cc-9a62-4c6d-ace1-e06efd546147
+- 218ff600-a5cb-496b-9527-1ea7c48333ce
+- 943b36f5-bbe9-4501-9279-f452123d8754
+- f530851e-6672-49b2-b9f1-51c7d5b1a58d

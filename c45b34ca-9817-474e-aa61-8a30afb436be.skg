@@ -1,0 +1,6 @@
+title: the reason it was detected as weird, I believe
+pid: c45b34ca-9817-474e-aa61-8a30afb436be
+body: |2-
+  is that ~/.cache/borg had a record of all backups made,
+  and when I tried to add a backup to the repo on disk,
+  it saw that that repo was missing one of the backups.

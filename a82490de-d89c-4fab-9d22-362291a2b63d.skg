@@ -1,0 +1,6 @@
+title: equality tests & type
+pid: a82490de-d89c-4fab-9d22-362291a2b63d
+body: |2-
+  They never throw type errors.
+  =:= and =/= test for and against equality, and they care about type.
+  == and /= do the same thing without caring about type.

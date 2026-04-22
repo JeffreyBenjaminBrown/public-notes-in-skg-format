@@ -1,0 +1,9 @@
+title: List all cards which have ANY move with an attack power greater than 40
+pid: 2fc01d85-b3ea-45e1-992b-be0c6cbc5865
+body: |2-
+  deck
+  ^.. folded -- Fold over each card
+  -- filter on whether the current card has any strong moves
+  . filtered (anyOf (moves . folded . movePower) (>40))
+  -- Select the card's name
+  . name

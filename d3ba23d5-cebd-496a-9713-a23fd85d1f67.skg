@@ -1,0 +1,5 @@
+title: A valid read technique is to read the whole file before deciding which links to follow.
+pid: d3ba23d5-cebd-496a-9713-a23fd85d1f67
+body: |2-
+  Has the advantage (?) of making it possible to know what you read, which might make it easier to review more of your graph.
+  Has the disadvantage of slowing down how fast you move across files, by forcing a complete read of each before moving on.

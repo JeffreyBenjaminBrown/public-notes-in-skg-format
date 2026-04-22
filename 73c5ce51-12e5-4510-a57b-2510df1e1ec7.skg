@@ -1,0 +1,6 @@
+title: 'solution: update my nix channels'
+pid: 73c5ce51-12e5-4510-a57b-2510df1e1ec7
+body: |2-
+  sudo nix-channel --update nixos
+    (because "nixos" is the name of the only channel listed
+    when I run `sudo nix-channel --list`)

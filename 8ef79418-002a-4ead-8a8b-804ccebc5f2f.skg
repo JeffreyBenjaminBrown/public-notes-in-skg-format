@@ -1,0 +1,4 @@
+title: '"the trick"'
+pid: 8ef79418-002a-4ead-8a8b-804ccebc5f2f
+body: |2-
+  "every attribute in the set passed to derivation will be converted to a string and passed to the builder as an environment variable. This is how the builder gains access to coreutils and gcc: when converted to strings, the derivations evaluate to their output paths, and appending /bin to these leads us to their binaries.

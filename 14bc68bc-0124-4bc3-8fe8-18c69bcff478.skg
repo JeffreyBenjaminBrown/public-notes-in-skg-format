@@ -1,0 +1,4 @@
+title: a solution
+pid: 14bc68bc-0124-4bc3-8fe8-18c69bcff478
+body: |2-
+  Invoke the shell with `ipython` instead of `python` at the CL.

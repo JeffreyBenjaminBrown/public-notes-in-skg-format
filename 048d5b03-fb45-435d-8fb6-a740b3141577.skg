@@ -1,0 +1,7 @@
+title: see if that works
+pid: 048d5b03-fb45-435d-8fb6-a740b3141577
+body: |2-
+  run
+    cntlm -M http://www.google.com
+  It should prompt me for an invisible password,
+  and then connect.

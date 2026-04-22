@@ -1,0 +1,5 @@
+title: TODO It's not recognizing that gnutls is installed.
+pid: 651eaec1-718b-4b79-aa86-283ffcce5ab3
+body: |2-
+  Hack: run it like this:
+    ./configure --with-gnutls=ifavailable

@@ -1,0 +1,5 @@
+title: basic idea
+pid: e5b5db4c-3683-4c7d-96ad-3cda352ae638
+body: |2-
+  Find all the xs and all the ys.
+  Use the graph (whose nodes are addresses) induced by the #r relationship.

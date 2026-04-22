@@ -1,0 +1,5 @@
+title: sugar-free syntax
+pid: 20660fff-4752-4694-b2f3-99c013dec677
+body: |2-
+  data DPair : (a : Type) -> (p : a -> Type) -> Type where
+    MkDPair : {p : a -> Type} -> (x : a) -> p x -> DPair a p

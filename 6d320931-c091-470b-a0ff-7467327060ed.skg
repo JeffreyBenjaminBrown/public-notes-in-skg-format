@@ -1,0 +1,18 @@
+title: Search better.
+pid: 6d320931-c091-470b-a0ff-7467327060ed
+body: |2-
+  Thirty-ish years after the introduction of internet search engines, their results are often still not what the user hoped.
+
+  Part of this problem comes from advertising incentives. A commercial search engine profits by forcing its users to wade through a few sites full of ads before finding the answer. Shyg will of course not do that.
+
+  But the problem with existing search engines goes further. They closely guard the secrets of how their data is represented and how queries are executed. In the early days of search, the data model was simple: Associate some keywords with a page. With the popularization of natural language processing, knowledge graphs and, lately, artificial intelligence, search indices have grown more complex, and reflect more of the semantic content of the objects they index. But users do not know what specific information gets indexed, must less have a say in that choice -- and even if they did, a formal query language is not made available to them.
+
+  Instead, a majority of humanity is now accustomed to giving a "bag of words" to a search engine, and hoping it correctly guesses their intent. By contrast, an explicit hypergraph database, paired with an intuitive query language, will permit queries that even the best existing search engines simply cannot understand:
+
+  - "articles that either cite [source] or cite something that cites [source]"
+  - "posts from [person] on which [person] commented"
+  - "articles that mention any chemical in the blood of any mammal"
+contains:
+- 0f4c43f7-2a52-4a2c-97b1-93a2cdf5e108
+misc:
+- Had_ID_Before_Import

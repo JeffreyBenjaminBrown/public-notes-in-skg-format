@@ -1,0 +1,4 @@
+title: Remember to use "return" when defining a function.
+pid: d868f0c4-9dcf-4244-8465-e508d8a8c3b0
+body: |2-
+  Otherwise it's only doing side effects and/or wasting CPU.

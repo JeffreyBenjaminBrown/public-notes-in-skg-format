@@ -1,0 +1,8 @@
+title: the problem
+pid: 5d462479-7b53-45ca-8158-1561a2a465c4
+body: |2-
+  If a recipe creates multiple targets,
+  and more than one is stale,
+  and parallel execution (the -j option) is enabled,
+  then make will start multiple instances of that recipe in parallel,
+  one for each stale target.

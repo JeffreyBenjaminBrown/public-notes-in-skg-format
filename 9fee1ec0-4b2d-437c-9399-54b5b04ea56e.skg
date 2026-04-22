@@ -1,0 +1,8 @@
+title: my own length function
+pid: 9fee1ec0-4b2d-437c-9399-54b5b04ea56e
+body: |2-
+       len( X ) -> len( X, 0 ).
+       len( [], N ) ->
+  N;
+       len( [_|X], N ) ->
+  len(X,N+1).

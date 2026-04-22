@@ -1,0 +1,7 @@
+title: from bash (alternatives)
+pid: 05f3fdc2-656e-47e7-833f-90eff2b332b7
+body: |2-
+  # This pulls from my nixpkgs fork on Github.
+  # nix-shell https://github.com/JeffreyBenjaminBrown/nixpkgs/archive/2bbd131811991bec9ae6b296b5cd1441640c306c.tar.gz -A serialosc --pure
+  # This uses my local copy.
+  nix-shell /home/jeff/nix/nixpkgs-fork -A serialosc --pure

@@ -1,0 +1,6 @@
+title: 'PITFALL: Comments in Apache config files'
+pid: a375a40f-c415-4cd1-9d25-1be3ac8da943
+body: |2-
+  cannot trail code on the same line,
+  although they can trail whitespace.
+  (This is at least true for `ports.conf`.)

@@ -1,0 +1,7 @@
+title: valid return values
+pid: 05591b87-ea60-4d8e-8646-e83124c46bcd
+body: |2-
+  {next_state, NextStateName, NewStateData}
+  {next_state, NextStateName, NewStateData, Timeout}
+  {next_state, NextStateName, NewStateData, hibernate}
+  {stop, Reason, NewStateData}

@@ -1,0 +1,13 @@
+title: format a partition with mkfs
+pid: 4953e1db-1fd6-4b62-b454-617de86117e5
+body: |2-
+  serial
+contains:
+- 45850993-0c2f-4d35-ad57-683c883f653b
+- 963ef0bb-e253-4f11-bbd8-f72f5d872044
+- e7b42440-e573-46e8-89f6-ecf7b9292de1
+- a531760b-4dd7-4574-841f-915bd817ef90
+- 4eee0a27-9f00-4584-a54f-b8fee5e0655d
+- 6f9f97f1-ab2f-4a61-af3c-2041966609bc
+misc:
+- Had_ID_Before_Import

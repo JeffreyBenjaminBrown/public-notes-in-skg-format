@@ -1,0 +1,14 @@
+title: using Either for validation
+pid: f7fb0069-6687-4948-8054-fcc08546dbdd
+body: |2-
+  > f = traverseOf (traversed . _2) g where
+  |   g x = if x > 0
+  |     then Right x
+  |     else Left $ "rejected: " ++ show x ++ " is not positive"
+  |
+  > f [("a",1),("b",2)]
+  Right [("a",1),("b",2)]
+  > f [("a",1),("b",0)]
+  Left "rejected: 0 is not positive"
+contains:
+- cbd3730c-dcc1-4765-accd-9520cd0ebe9d

@@ -1,0 +1,13 @@
+title: '"import" is just substitution'
+pid: 1ccaa889-ae3f-4042-aa75-67576c355821
+body: |2-
+  If the following files have the following content:
+    a.nix   : 3
+    b.nix   : 4
+    mul.nix : a: b: a*b
+  then you can do this:
+    nix-repl> a = import ./a.nix
+    nix-repl> b = import ./b.nix
+    nix-repl> mul = import ./mul.nix
+    nix-repl> mul a b
+    12

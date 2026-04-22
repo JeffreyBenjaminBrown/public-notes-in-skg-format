@@ -1,0 +1,5 @@
+title: Before saving, a property should record provenance.
+pid: 637f0906-3557-4516-8f6f-06cac51e6508
+body: |2-
+  Provenance = why each content node is on the screen
+  = the content context that can claim it.

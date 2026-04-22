@@ -1,0 +1,4 @@
+title: It connects to the web if I start Apache as root
+pid: cdefc4db-6336-4bbe-b22d-e48ecccd2528
+body: |2-
+  but then I get that permissions error when I try to create a user folder.

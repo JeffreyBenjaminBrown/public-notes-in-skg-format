@@ -1,0 +1,7 @@
+title: 'PITFALL: Time looping and item looping (the edit) are different.'
+pid: 27c236db-2cfe-4602-8dc3-31851bf43ab9
+body: |2-
+  Time looping means defining a section to play repeatedly,
+  but without changing the timeline.
+misc:
+- Had_ID_Before_Import

@@ -1,0 +1,4 @@
+title: 'PITFALL :: tmux + env variables = footgun'
+pid: 90efa0a4-b971-41c0-b8d8-36cd61e0e6dc
+body: |2-
+  https://aj.codes/posts/be-careful-using-tmux-and-environment-variables/

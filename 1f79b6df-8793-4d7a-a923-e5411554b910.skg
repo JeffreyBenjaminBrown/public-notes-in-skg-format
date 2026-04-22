@@ -1,0 +1,6 @@
+title: async hides an implicit Future
+pid: 1f79b6df-8793-4d7a-a923-e5411554b910
+body: |2-
+  "writing async fn is equivalent to writing a function that returns a future of the return type"
+contains:
+- 14a141c9-644b-419d-a9d3-449c0109e6ac

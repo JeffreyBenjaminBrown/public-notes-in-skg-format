@@ -1,0 +1,7 @@
+title: 'audio.nix: I added these lines'
+pid: 8f5f0b0d-37e2-4475-b41a-cb578f50615f
+body: |2-
+  # For feeding the mic into Cheese (for webcam videos)
+  # Was suggested here: https://nixos.wiki/wiki/PulseAudio
+  # PITFALL: This borks much of my audio setup.
+  hardware.pulseaudio.enable = true;

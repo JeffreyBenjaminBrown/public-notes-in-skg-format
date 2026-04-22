@@ -1,0 +1,6 @@
+title: normal
+pid: 54a70de8-bb1b-43b8-b1b4-6c1e57f8d745
+body: |2-
+  #+BEGIN_src shell
+    find . -type f -name '*.py' | xargs etags
+  #+END_SRC

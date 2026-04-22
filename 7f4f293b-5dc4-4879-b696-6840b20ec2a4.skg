@@ -1,0 +1,26 @@
+title: a rough computation
+pid: 7f4f293b-5dc4-4879-b696-6840b20ec2a4
+body: |2-
+  The image I see in the PDF of the manual,
+  appropriately scaled on my screen,
+  is 11.75" across. In reality it's 92 cm across.
+  The longest "horizontal" row of buttons is 8.75 inches across,
+  and has 28 buttons.
+
+  Therefore the longest row of buttons is
+  92 * (8.75 / 11.75) = 68.5 cm across,
+  so each button is
+  68.5 / 28 = 2.45 cm across.
+
+  For the 6\41 x 1\41 layout,
+  ano octave is just under 8 columns across, or
+  8 * 2.45 = 19.6 cm,
+  just a little inside what I can comfortably reach.
+
+  Monome buttons are about 1.44 cm across,
+  so the Lumatone is 2.45 / 1.44 = 1.7 times as big,
+  kind of. The hexagons make it weird.
+
+  On the piano, 28 keys spans 66 cm,
+  so the Lumatone keys are 3% wider (on-axis)
+  than piano keys.

@@ -1,0 +1,11 @@
+title: 'FAILED : Fix Python version mismatch that keeps pandas from loading.'
+pid: 5ccb049d-d942-4565-b2d2-e89277123366
+body: |2-
+  I can't run Apache. It says it can't find libpcre.so.1,
+  even though pcre is installed.
+contains:
+- 6d8726f8-cde7-4deb-a07b-be52d933b5e6
+- 8d7ddef0-fe2e-4737-a198-496440e56862
+- 05e7183f-5353-4933-b909-20dc99590f7d
+- 0416ca7b-fa0f-47d1-bc3a-49e128609397
+- a7d0a1aa-4950-45cc-a334-c357561badfa

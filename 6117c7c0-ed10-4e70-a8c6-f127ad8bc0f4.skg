@@ -1,0 +1,7 @@
+title: schema integrity enforcement
+pid: 6117c7c0-ed10-4e70-a8c6-f127ad8bc0f4
+body: |2-
+  Only one Schema session can be open.
+  Only one Write transaction in a Schema session can be open.
+  An open Schema session precludes
+  opening a Data Write transaction, and vice-versa.

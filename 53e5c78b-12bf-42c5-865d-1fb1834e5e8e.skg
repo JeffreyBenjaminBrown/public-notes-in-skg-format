@@ -1,0 +1,4 @@
+title: execute a user-defined method
+pid: 53e5c78b-12bf-42c5-865d-1fb1834e5e8e
+body: |2-
+  q . was_published_recently()

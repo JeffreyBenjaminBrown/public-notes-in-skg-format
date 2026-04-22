@@ -1,0 +1,2 @@
+title: 'TODO huh? : "When using a disjunction in a rule, the disjunctive parts must be bound by variables outside the or statement. These variables are the only ones permitted in the then clause."'
+pid: f929a483-5d85-42d0-8675-8574e99df46f

@@ -1,0 +1,4 @@
+title: There seems to be a "TBD" missing in the discussion of the extent to which programming languages should be modeled.
+pid: 3752dfa1-2441-42e6-bd0d-9a71b819ae81
+body: |2-
+  "For example, the Java model needs to allow us to define classes with the sort of functions (methods) and types we use in Hydra graphs, etc. but we may not care about main methods, I/O, for loops, or much of the rest of the language." That gives me some idea of what we won't be doing in Hydra, but still leaves me wondering what we *will* be doing in it.

@@ -1,0 +1,5 @@
+title: what the Gleam Book suggested
+pid: d38d841e-632a-49e2-8f16-11a38fc064c2
+body: |2-
+  "To find out more about Erlang fault tolerance see the Gleam OTP project and the Learn You Some Erlang chapter on supervisors."
+  https://gleam.run/book/tour/assert.html

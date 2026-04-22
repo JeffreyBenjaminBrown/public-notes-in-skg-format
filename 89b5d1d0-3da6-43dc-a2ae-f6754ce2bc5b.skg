@@ -1,0 +1,5 @@
+title: algebraic data types
+pid: 89b5d1d0-3da6-43dc-a2ae-f6754ce2bc5b
+body: |2-
+  Sum types are fundamental.
+  It's bizarre that most languages only let you express product types.

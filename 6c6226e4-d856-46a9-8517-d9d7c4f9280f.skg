@@ -1,0 +1,10 @@
+title: which dominates -- identical layout! -- 181 (spacing 2, modulus 27)
+pid: 6c6226e4-d856-46a9-8517-d9d7c4f9280f
+body: |2-
+  , tReport_intervalReports =
+      [ 181 steps = 2 % 1: string 7 fret -4
+      , 146 steps = 7 % 4: string 6 fret -8
+      , 127 steps = 13 % 8: string 5 fret -4
+      , 106 steps = 3 % 2: string 4 fret -1
+      , 83 steps = 11 % 8: string 3 fret 1
+      , 58 steps = 5 % 4: string 2 fret 2

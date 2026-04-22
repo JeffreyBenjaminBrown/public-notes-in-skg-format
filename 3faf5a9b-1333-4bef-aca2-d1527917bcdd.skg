@@ -1,0 +1,5 @@
+title: complications
+pid: 3faf5a9b-1333-4bef-aca2-d1527917bcdd
+body: |2-
+  (1) inserting a compound expression inserts subexpressions
+  (2) don't record insertion if it already existedx

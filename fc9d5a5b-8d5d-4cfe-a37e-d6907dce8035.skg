@@ -1,0 +1,13 @@
+title: removed org-roam-mode-map from my .emacs dotfile
+pid: fc9d5a5b-8d5d-4cfe-a37e-d6907dce8035
+body: |2-
+  :bind (:map org-roam-mode-map
+              (("C-c n b" . org-roam) ;; opens the roam-buffer
+               ("C-c n f" . org-roam-node-find)
+               ;; ("C-c n g" . org-roam-graph))
+               :map org-mode-map
+               (("C-c n i" . org-roam-insert))
+               (("C-c n I" . org-roam-insert-immediate))
+               (("C-c n l" . org-store-link))
+               ;; (("C-c C-l" . org-insert-link))
+               )))

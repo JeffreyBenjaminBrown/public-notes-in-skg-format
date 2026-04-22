@@ -1,0 +1,18 @@
+title: my `sched` and `schod`
+pid: 359da2bc-eb82-424c-98c5-2bd9ef6a6f37
+body: |2-
+  #+BEGIN_SRC haskell
+  do setcps 1
+     d1 $ s "[bd,numbers]" |* n (slow 8 $ run 8)
+
+     sched 2 [ (2, s "[lt*5]"),
+        (4, s "[ht*4]"),
+        (6, s "[hc*3]") ]
+
+     schod 2 8 [ (2, s "[lt*5]"),
+   (4, s "[ht*4]"),
+   (6, s "[hc*3]"),
+   (8, s "~ sn:1" ),
+   (12, s "~ ~ sn:1" ),
+   (16, silence) ]
+  #+END_SRC

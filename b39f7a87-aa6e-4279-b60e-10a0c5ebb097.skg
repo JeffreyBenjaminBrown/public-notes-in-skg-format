@@ -1,0 +1,7 @@
+title: recipe
+pid: b39f7a87-aa6e-4279-b60e-10a0c5ebb097
+body: |2-
+  Windows Settings
+  System -> Multitasking
+  Scroll to "Pressing Alt-Tab shows" and click
+  Select "Open Windows Only"

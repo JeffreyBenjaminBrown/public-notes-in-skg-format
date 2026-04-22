@@ -1,0 +1,10 @@
+title: the corresponding forward views
+pid: f823ca04-96fa-446c-b67b-d89a706c47c6
+body: |2-
+    * [source node] = apple strudel
+    ** uses
+    *** [target node] = apples
+
+    * [source node] = apple cider vinegar
+    ** uses
+    *** [target node] = apples

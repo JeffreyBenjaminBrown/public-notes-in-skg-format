@@ -1,0 +1,7 @@
+title: an example
+pid: 796d3c16-51fb-429a-8841-1aa870701467
+body: |2-
+  #+BEGIN_SRC haskell
+  d1 $ sound "[~ hh]*2" # dry 0 # room 0.5 # size 0.5
+       |* amp 0.4
+  #+END_SRC

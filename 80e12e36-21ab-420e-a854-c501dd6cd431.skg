@@ -1,0 +1,4 @@
+title: seems to work better now?
+pid: 80e12e36-21ab-420e-a854-c501dd6cd431
+body: |2-
+  convert affine.png -affine 1.,-0.3,-0.3,1,0,0 -transform out.png

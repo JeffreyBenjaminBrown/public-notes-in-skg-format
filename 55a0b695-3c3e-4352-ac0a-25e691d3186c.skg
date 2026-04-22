@@ -1,0 +1,5 @@
+title: Each column has a range of [-6,6] 72-edo step offsets.
+pid: 55a0b695-3c3e-4352-ac0a-25e691d3186c
+body: |2-
+  i.e. a [-1,1] halfstep range of offset values,
+  quantized to 72-edo.

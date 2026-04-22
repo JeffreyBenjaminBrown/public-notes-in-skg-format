@@ -1,0 +1,14 @@
+title: To write from the sqlite shell to a file, use the .output pragma.
+pid: bd8eb06f-4ab7-4668-b6a8-6826b0506212
+body: |2-
+  sqlite> .mode list
+  sqlite> .separator |
+  sqlite> .output test_file_1.txt
+  sqlite> select * from tbl1;
+  sqlite> .exit
+  $ cat test_file_1.txt
+  hello|10
+  goodbye|20
+  $
+misc:
+- Had_ID_Before_Import

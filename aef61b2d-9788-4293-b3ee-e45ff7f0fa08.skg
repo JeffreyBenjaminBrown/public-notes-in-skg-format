@@ -1,0 +1,5 @@
+title: max reach is across 10 frets of 23-edo
+pid: aef61b2d-9788-4293-b3ee-e45ff7f0fa08
+body: |2-
+  which = 10 * 12 / (46/2) = 5.2 frets of 12-edo
+  Unfortunately that's for 4:3, an important interval.

@@ -1,0 +1,5 @@
+title: to use a weird symbol (e.g. '\' or ',') in an alias
+pid: 8f904249-0c6f-4f8e-b32b-69afa62d5449
+body: |2-
+  Enclose the whole tag in parens.
+  Write '\' as \\.

@@ -1,0 +1,5 @@
+title: DONE Roles are inherited.
+pid: 6634c894-c11e-430d-94fe-9638994020b7
+body: |2-
+  That is, I don't have to define that a type can play a role,
+  if I already stated that its parent can.

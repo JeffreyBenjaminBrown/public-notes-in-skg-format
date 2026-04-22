@@ -1,0 +1,4 @@
+title: '[1] A proof that no EDO approximates any prime besides 2 perfectly.'
+pid: 2de51e9f-1227-4b6e-8c64-1608aabae143
+body: |2-
+  If an EDO perfectly represents prime p, then 2^(a/b) = p for some integers a,b, meaning 2^a = p^b. The only prime factor on the left is 2, so p = 2.

@@ -1,0 +1,14 @@
+title: how it works
+pid: 94841264-d84e-4e13-9955-825f43d9b9f1
+body: |2-
+  if the anonymous function is of one argument,
+  and just hands that argument to some multi-argument function,
+  you can skip the `fn` formalism:
+
+  pub fn run() {
+    // This is the same as add(add(add(1, 3), 6), 9)
+    1
+    |> add(_, 3)
+    |> add(_, 6)
+    |> add(_, 9)
+  }

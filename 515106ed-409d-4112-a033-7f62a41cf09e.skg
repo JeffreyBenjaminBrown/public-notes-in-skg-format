@@ -1,0 +1,7 @@
+title: The use of most* definitions must be fully qualified.
+pid: 515106ed-409d-4112-a033-7f62a41cf09e
+body: |2-
+    * all definitions not from `erlang`
+contains:
+- eadfb9b3-4f2d-4c8b-86f4-b1283f794e6f
+- 9d19a35c-3e10-4fe3-afc6-61021e2c2654

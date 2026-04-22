@@ -1,0 +1,10 @@
+title: docker run
+pid: eedd7202-da4a-4fd5-8c7c-8a6a19e6243d
+body: |2-
+  docker run -it --name smsn \
+    -v ~/Encfs/kb-no-encfs:/mnt/smsn-data \
+    -p 8183:8182 -d -h 127.0.0.1 \
+    jeffreybbrown/smsn-develop:gs_3.2.5
+
+  docker exec -it smsn bash
+  ./start-smsn.sh

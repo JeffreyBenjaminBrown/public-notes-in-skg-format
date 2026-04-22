@@ -1,0 +1,4 @@
+title: When reading about N, I would like to see that there exists L which links to N yet contains branches from the title with the link.
+pid: da040b1c-dbf8-4f72-afef-fc329aec0bde
+body: |2-
+  And then be able to request a view-branch containing all such L.

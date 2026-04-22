@@ -1,0 +1,7 @@
+title: 'PITFALL: username and home directory depends on OS'
+pid: 935dab47-32e5-4abf-99bf-157c59a2819e
+body: |2-
+  so far home dir is always /home/<username>
+contains:
+- 6d696aad-9911-4bc6-8342-0a0fe5962c54
+- 26b2842d-7a52-4cf3-bec7-e5beb229136e

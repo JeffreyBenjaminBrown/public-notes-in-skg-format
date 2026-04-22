@@ -1,0 +1,24 @@
+title: '116 11 24: 15-lim 0-area of 3x8, octave (3,4)'
+pid: 0460e2ac-6017-4932-814a-70cb14054434
+body: |2-
+  In the 31-limit, the easy notes are different than in [[id:3583c5e5-48b3-4b38-8999-c8693d8bbb59][94 7 16]]
+  Edo 116 ; StringGap 24 ; FretGap 11
+  [ 0 steps; 1 % 1 ; string 0 ; fret 0
+  , 116 steps; 2 % 1 ; string 3 ; fret 4
+  , 68 steps; 3 % 2 ; string 1 ; fret 4
+  , 37 steps; 5 % 4 ; string 2 ; fret - 1
+  , 94 steps; 7 % 4 ; string 3 ; fret 2
+  , 20 steps; 9 % 8 ; string - 1 ; fret 4
+  , 53 steps; 11 % 8 ; string - 1 ; fret 7
+  , 81 steps; 13 % 8 ; string 2 ; fret 3
+  , 105 steps; 15 % 8 ; string 3 ; fret 3
+  , 10 steps; 17 % 16 ; string 5 ; fret - 10
+  , 29 steps; 19 % 16 ; string - 2 ; fret 7
+  , 46 steps; 21 % 16 ; string 1 ; fret 2
+  , 61 steps; 23 % 16 ; string 3 ; fret - 1
+  , 75 steps; 25 % 16 ; string - 1 ; fret 9
+  , 88 steps; 27 % 16 ; string 0 ; fret 8
+  , 100 steps; 29 % 16 ; string 6 ; fret - 4
+  , 111 steps; 31 % 16 ; string 6 ; fret - 3
+misc:
+- Had_ID_Before_Import

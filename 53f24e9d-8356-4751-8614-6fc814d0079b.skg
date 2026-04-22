@@ -1,0 +1,5 @@
+title: '"Waiting for Elapsed Time or Input"'
+pid: 53f24e9d-8356-4751-8614-6fc814d0079b
+body: |2-
+  tag : sleep, sleep-for
+  https://www.gnu.org/software/emacs/manual/html_node/elisp/Waiting.html

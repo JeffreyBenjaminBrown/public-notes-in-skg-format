@@ -1,0 +1,5 @@
+title: make an app admin-modifiable (offline)
+pid: f79cd398-2a9b-40b1-b792-6ad4d7f087cf
+body: |2-
+  use django.contrib.admin.site.register
+  see sample code at polls/admin.py

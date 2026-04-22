@@ -1,0 +1,4 @@
+title: markdown headings
+pid: 985b066f-02a1-43e4-8eec-b05c7845622d
+body: |2-
+  Bigger headings should carry *fewer* leading # marks.

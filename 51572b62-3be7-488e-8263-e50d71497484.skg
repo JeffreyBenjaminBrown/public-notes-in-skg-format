@@ -1,0 +1,6 @@
+title: C-x C-e opens an editor for long commands
+pid: 51572b62-3be7-488e-8263-e50d71497484
+body: |2-
+  They execute as soon as the editor exits.
+misc:
+- Had_ID_Before_Import

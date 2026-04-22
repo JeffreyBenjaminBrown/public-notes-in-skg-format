@@ -1,0 +1,4 @@
+title: '"If the concrete value inside the interface itself is nil, the method will be called with a nil receiver."'
+pid: 0dbf387c-9b0e-4786-91c0-b33ae0ce3361
+contains:
+- 890faf43-1226-4bde-aab2-967e16c345da

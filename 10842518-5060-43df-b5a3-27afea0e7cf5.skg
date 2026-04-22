@@ -1,0 +1,9 @@
+title: filtering
+pid: 10842518-5060-43df-b5a3-27afea0e7cf5
+body: |2-
+  Works with most optics.
+  filtered :: (s -> Bool) -> Fold s s                                    -- fake
+  filtered :: (Choice p, Applicative f) => (a -> Bool) -> Optic' p f a a -- real
+contains:
+- 7cad3b08-124b-402f-8de6-83a68bb1cdc4
+- ffa7ea77-0ffb-46ef-abab-ad7c86ad70c1

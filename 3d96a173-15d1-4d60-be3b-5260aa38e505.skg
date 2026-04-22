@@ -1,0 +1,6 @@
+title: grep for within-file (not within-lilne) conjunction
+pid: 3d96a173-15d1-4d60-be3b-5260aa38e505
+body: |2-
+  all files containing both A and B, not necessarily on the same line
+  Here A = "aws" and B = "iam"
+  grep "aws" -r . -l | xargs grep "iam"

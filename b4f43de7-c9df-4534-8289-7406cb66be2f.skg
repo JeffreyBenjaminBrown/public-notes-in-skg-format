@@ -1,0 +1,35 @@
+title: DONE agent loop, to be useful
+pid: b4f43de7-c9df-4534-8289-7406cb66be2f
+body: |2-
+  I believe you now have all the tools for exploring my notes yourself. You can follow links, you can see backlinks, and you can search for text.
+
+  It will be cool when you can read my personal notes, but I have to purge them of details of other peoples' lives. I'll be creating a mid-personal/ folder and populating it with files from personal/ at some point. For now, every time you try to visit a file and it's not available to you, mark the path you would have visited on a new line in by-claude/claude-could-not-see.txt.
+
+  Let's try the agent loop. For this keep a few scratchpads:
+  ```
+  links-maybe-to-visit
+  hypotheses
+  observations
+  new-ideas
+  ```
+  Keep observations only for yourself. I won't read it, but it might help you. I am uninterested in your elaborations on ideas I have already had. I want new ones.
+
+  Here's the loop:
+
+  All files you write should go in by-claude/.
+
+  0 - keep a 'to-read.txt' file. Just a list of paths. Initially it starts with just 'motivation.org'. (We're starting from motivation rather than everything this time.)
+
+  1 - Read every file in 'to-read'. While you read, take notes in the following files:
+    - `links-to-maybe-follow.txt`: Each time you read a file, add all the links in the files you read, *and* all the backlinks that link to it.
+    - `hypotheses.org` -- things you want to know, or that you think I might want to know. This is an org file. Under each hypothesis, keep notes about it, including conclusions you're able to reach if any.
+    - observations.org -- these are just to help you. I won't read them.
+    - new-ideas.org -- record new ideas here. Don't elaborate on my notes; that was super boring. Rather, based on my notes, add ideas you think I might also consider interesting.
+
+  2 - Based on `hypotheses.org`, generate some searches. Search for titles (or aliases -- hopefully aliases don't need separate treatment) that way. Add those paths to links-to-maybe-follow.txt.
+
+  3 - If you count more than 1000 words in the sum of hypotheses.org and new-ideas.org, end the loop. Then I will look at those two files.
+
+  4 - Otherwise, select the top 20 links of interest. Replace the contents of `to-read` with those paths.
+
+  5 - return to 1.

@@ -1,0 +1,16 @@
+title: use the environment(s)
+pid: 73571df6-ce15-4a70-be1b-358f31c4d9be
+body: |2-
+  # If I wrote a `pip-shell.nix` file, use it to create a Nix shell.
+  nix-shell pip-shell.nix
+
+  # The rest of this is just like it would be without `nix-shell`.
+
+  # Build the environment. Only needed once.
+  python -m venv .venv
+
+  PS1="[nix @ \W ] "          # Shorten the prompt
+  source .venv/bin/activate
+  pip3 install  --upgrade -r requirements.txt
+  .... <play with it> ...
+  deactivate

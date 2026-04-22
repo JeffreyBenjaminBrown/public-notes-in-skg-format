@@ -1,0 +1,5 @@
+title: a dumb way
+pid: 5f93be1d-ee77-4f92-83a9-0414290cf1ac
+body: |2-
+  sed -i "s/<\/sub>//g" el_trabajo_que_entrego_dian.md
+  sed -i "s/<sub>/_/g"  el_trabajo_que_entrego_dian.md

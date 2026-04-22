@@ -1,0 +1,6 @@
+title: Which to prefer
+pid: 50415679-2a1a-41e1-8661-efca64a8821f
+body: |2-
+  According to [[id:45d29b5c-5d6a-4fdc-be1c-bc14dcc2ff6a][the tutorial I like]],
+  mocking instance methods gives greater precision,
+  but mocking instances can be necessary or more efficient.

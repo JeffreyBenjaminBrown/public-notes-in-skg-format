@@ -1,0 +1,8 @@
+title: Need a "replaces my view of" relationship.
+pid: ebb80204-03a6-4ce0-b19b-4864b1034d7f
+body: |2-
+  Specifically "replaces my view of".
+  It won't often be, but can be one-to-many -- that is,
+  for multiple nodes of others,
+  a node of mine could replace my view of theirs.
+  Especially if I merge two foreign nodes.

@@ -1,0 +1,9 @@
+title: 3 - commands to build it
+pid: c15685f2-54d8-40dd-a49c-d87ec0bd5034
+body: |2-
+  At the root of nixpkgs, test whether it builds with
+    nix-build -A <package-name>
+  To add it to my user profile, run
+    nix-env -f . -iA <package-name>
+misc:
+- Had_ID_Before_Import

@@ -1,0 +1,4 @@
+title: Prior to each execution is creates an undo boundary.
+pid: d051508a-3d6b-4041-abd5-e8c366cd1b49
+body: |2-
+  "Emacs runs undo-boundary to create an undo boundary. See Maintaining Undo Lists."

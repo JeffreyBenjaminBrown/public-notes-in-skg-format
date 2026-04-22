@@ -1,0 +1,5 @@
+title: built-in scalar functions
+pid: 79863ed6-142c-4a61-8161-618171fa0d72
+body: |2-
+  abs, length, etc.
+  https://www.sqlite.org/lang_corefunc.html

@@ -1,0 +1,6 @@
+title: '`M-x package-install` these packages'
+pid: 2016742b-a1c8-41b6-8945-bc6ee925455c
+body: |2-
+  haskell-mode
+  elpy
+  exec-path-from-shell

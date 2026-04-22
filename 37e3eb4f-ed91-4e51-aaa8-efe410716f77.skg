@@ -1,0 +1,4 @@
+title: a(rgs)
+pid: 37e3eb4f-ed91-4e51-aaa8-efe410716f77
+body: |2-
+  Print the argument list of the current function.

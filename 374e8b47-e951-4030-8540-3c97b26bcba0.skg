@@ -1,0 +1,8 @@
+title: :i sequenceA
+pid: 374e8b47-e951-4030-8540-3c97b26bcba0
+body: |2-
+  class (Functor t, Foldable t) => Traversable (t :: * -> *) where
+    ...
+    sequenceA :: Applicative f => t (f a) -> f (t a)
+    ...
+          -- Defined in ‘Data.Traversable’

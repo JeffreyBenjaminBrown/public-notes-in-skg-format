@@ -1,0 +1,8 @@
+title: 'a function that uses it: bounded vector lookup'
+pid: 76ffb74f-29ab-4481-a71b-848b3a7c114b
+body: |2-
+  index : Fin n -> Vect n a -> a
+  index FZ     (x :: xs) = x
+  index (FS k) (x :: xs) = index k xs
+contains:
+- 0e68e168-454e-4a58-8306-d30b55f624db

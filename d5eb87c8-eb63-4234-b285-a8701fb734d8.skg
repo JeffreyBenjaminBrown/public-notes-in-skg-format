@@ -1,0 +1,12 @@
+title: TODO An automable 'touched' history would probably be enough.
+pid: d5eb87c8-eb63-4234-b285-a8701fb734d8
+body: |2-
+  where 'touched' includes
+contains:
+- 93ab3e61-9ae6-4dfe-bd92-71e475bcb979
+- 83b98353-7c0b-4e43-9311-e320cb7a0533
+- 6625a436-def7-4d0f-9ce5-273a3198a7e0
+- 174c6118-0652-476c-b82c-4b77f9d6472d
+- 6a771d7a-f536-4878-ba6b-8034917c7912
+misc:
+- Had_ID_Before_Import

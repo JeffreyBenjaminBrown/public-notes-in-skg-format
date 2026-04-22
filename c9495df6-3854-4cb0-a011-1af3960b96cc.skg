@@ -1,0 +1,5 @@
+title: Zendrum latency battle <2024-12-09 Mon>
+pid: c9495df6-3854-4cb0-a011-1af3960b96cc
+body: |2-
+  Recording the MIDI from it and the Lumatone simultaneously,
+  what feel like simultaneous finger presses are recorded that way, too. The biggest discrepancy I saw was 0.02 seconds, but most were 0 seconds to two decimal places.

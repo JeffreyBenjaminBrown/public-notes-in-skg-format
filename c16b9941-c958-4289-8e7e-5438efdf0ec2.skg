@@ -1,0 +1,9 @@
+title: TODO store, for each rel, the better traversal direction
+pid: c16b9941-c958-4289-8e7e-5438efdf0ec2
+body: |2-
+  Maybe use QuickCheck to automate the discovery of that direction.
+    Run in the background each time a new
+    instance of a transitive relationship is added.
+  The user should still be able to specify direction if needed.
+    It's conceivable that a relationship might usually be best traversed left,
+    but not always.

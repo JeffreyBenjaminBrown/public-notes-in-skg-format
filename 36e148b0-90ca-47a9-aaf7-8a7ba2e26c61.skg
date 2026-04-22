@@ -1,0 +1,4 @@
+title: 'PITFALL : mkVTestIO'' : naming error => silent failure'
+pid: 36e148b0-90ca-47a9-aaf7-8a7ba2e26c61
+body: |2-
+  see the comment leading its definition

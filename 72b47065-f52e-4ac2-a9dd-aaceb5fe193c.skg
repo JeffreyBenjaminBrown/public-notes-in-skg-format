@@ -1,0 +1,13 @@
+title: intervals
+pid: 72b47065-f52e-4ac2-a9dd-aaceb5fe193c
+body: |2-
+  (*13) <$> [0..6] = [0,13,26,39,52,65,78]
+contains:
+- 1def553d-b31c-4336-aedb-c62729e5f859
+- 3b5cf7f6-30ac-4910-bb57-543af9b7abb1
+- 9e99029c-bf0b-4e15-84d9-83401bb1eebd
+- 00e20b40-1f55-4b25-bcd8-b9935105633f
+- 85a228eb-427f-4313-aee6-4144f09cf10e
+- 5650bdf2-f5b1-468c-9b39-e55967d8c8a2
+- a951261a-06a3-4c6e-b8d5-bd986a0cc970
+- a378efc7-e183-4588-b951-9d23b7ada733

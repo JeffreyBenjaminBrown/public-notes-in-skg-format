@@ -1,0 +1,5 @@
+title: 'PITFALL: uses global Docker memory'
+pid: 15595eb7-a553-4f27-9586-5193217bca2a
+contains:
+- 6b53247c-2b39-47a6-82d4-f8839de86cb4
+- 635f74f9-3488-4cdf-8178-3b479c23a529

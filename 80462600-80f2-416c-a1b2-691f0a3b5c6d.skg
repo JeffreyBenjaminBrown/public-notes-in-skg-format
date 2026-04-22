@@ -1,0 +1,7 @@
+title: focii should be independent of handlers
+pid: 80462600-80f2-416c-a1b2-691f0a3b5c6d
+body: |2-
+  a "traversal should never change which elements it focuses due to alterations on those elements."
+  "running a traversal twice in a row with different handlers should be equivalent to running it once with the composition of those handlers."
+contains:
+- fad21c43-5128-4b5d-83a4-35247c48ae2e

@@ -1,0 +1,4 @@
+title: declaring one
+pid: 293e6acb-99ed-437f-a70b-2194af7f156e
+body: |2-
+  Dim list As New List (Of Integer) ({1, 2, 5})

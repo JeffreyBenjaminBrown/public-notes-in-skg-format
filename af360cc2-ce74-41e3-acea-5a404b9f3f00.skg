@@ -1,0 +1,9 @@
+title: what it is
+pid: af360cc2-ce74-41e3-acea-5a404b9f3f00
+body: |2-
+  Select a region.
+  Ctrl-drag somewhere else.
+  This will create a copy of the region.
+  If the drawn copy is longer than the original,
+  and the original used to be longer,
+  it will go on to include whatever used to be part of the original.

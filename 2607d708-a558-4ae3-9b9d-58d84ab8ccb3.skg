@@ -1,0 +1,5 @@
+title: execute (all pending?) migration(s)
+pid: 2607d708-a558-4ae3-9b9d-58d84ab8ccb3
+body: |2-
+  (the same command as before)
+    python manage.py migrate

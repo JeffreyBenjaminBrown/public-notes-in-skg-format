@@ -1,0 +1,7 @@
+title: composing traversals
+pid: f7c6d5da-c90a-45c9-b906-9fea5012cfd1
+body: |2-
+  >>> import Data.Char (toUpper)
+  -- Capitalize the first char of every word
+  >>> "blue suede shoes" & worded . taking 1 traversed %~ toUpper
+  "Blue Suede Shoes"

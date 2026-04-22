@@ -1,0 +1,4 @@
+title: Most dependencies don't require it.
+pid: 82b04f18-c5a0-432d-ac36-25c237a28488
+body: |2-
+  It's something like only the C headers.

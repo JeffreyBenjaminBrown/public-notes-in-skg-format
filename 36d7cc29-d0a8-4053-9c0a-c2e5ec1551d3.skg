@@ -1,0 +1,8 @@
+title: Avoid half-initialized values in Emacs.
+pid: 36d7cc29-d0a8-4053-9c0a-c2e5ec1551d3
+body: |2-
+  https://www.gnu.org/software/emacs/manual/html_node/elisp/Tips-for-Defining.html
+contains:
+- 64af7f9f-2f4b-43e5-a941-99ee78748464
+misc:
+- Had_ID_Before_Import

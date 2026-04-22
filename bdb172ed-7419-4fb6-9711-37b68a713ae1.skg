@@ -1,0 +1,14 @@
+title: 'PITFALL: moving v. deleting'
+pid: bdb172ed-7419-4fb6-9711-37b68a713ae1
+body: |2-
+  No distinction is made between
+    deleting something from
+    and moving it out of
+  the subscription view.
+  Copying it elsewhere while deleting it is up to the user.
+  Moving it from the unintegrated branch
+            to the hidden branch
+    of the subscription
+    has the same effect, in the graph and visually,
+      as deleting it from the unintegrated branch,
+      except that its position in 'unintegrated' might differ.

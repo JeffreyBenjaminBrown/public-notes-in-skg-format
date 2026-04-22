@@ -1,0 +1,8 @@
+title: syntax
+pid: f0b04df9-10ee-46fc-9ce6-a6a3afef5894
+body: |2-
+  #+begin_src rust
+  &i32        // a reference
+  &'a i32     // a reference with an explicit lifetime
+  &'a mut i32 // a mutable reference with an explicit lifetime
+  #+end_src

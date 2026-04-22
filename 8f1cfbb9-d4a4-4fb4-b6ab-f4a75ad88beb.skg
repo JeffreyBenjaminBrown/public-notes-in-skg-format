@@ -1,0 +1,5 @@
+title: what it does
+pid: 8f1cfbb9-d4a4-4fb4-b6ab-f4a75ad88beb
+body: |2-
+  If someone has modify access,
+  this rule infers that they also have view access.

@@ -1,0 +1,6 @@
+title: '"install" Mortiz Encfs Manager'
+pid: 7c70f9bd-a788-479e-bd21-ef072117bb35
+body: |2-
+  Just copy the binary and make it executable
+  (chmod +x filename).
+  https://moritzmolch.com/apps/mencfsm/index.html

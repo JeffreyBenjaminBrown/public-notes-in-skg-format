@@ -1,0 +1,5 @@
+title: 'PITFALL: "docker" isn''t the device!'
+pid: 00150c19-a6d0-40e7-9d20-c9907b4f6ef8
+body: |2-
+  Although it has an ethernet address
+  -- which seems weird to me.

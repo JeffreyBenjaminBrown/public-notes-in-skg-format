@@ -1,0 +1,8 @@
+title: what they both parse to
+pid: 3b20338a-0813-4a3d-a765-e4ad321b71b6
+body: |2-
+    * 1
+    ** BLOCKING READER body
+    ** BLOCKING READER 2
+    ** BLOCKING READER 3
+    ** 4

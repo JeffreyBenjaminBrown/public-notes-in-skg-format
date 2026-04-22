@@ -1,0 +1,5 @@
+title: 'PITFALL: monomorphic'
+pid: 9b7adf90-7021-4fde-b65b-17dbf62f8e0e
+body: |2-
+  since it can only modify one thing in the collection,
+  it can't change the collection's type

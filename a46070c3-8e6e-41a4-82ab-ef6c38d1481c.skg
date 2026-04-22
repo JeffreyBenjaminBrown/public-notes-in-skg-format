@@ -1,0 +1,8 @@
+title: uniform pre-indentation
+pid: a46070c3-8e6e-41a4-82ab-ef6c38d1481c
+body: |2-
+    * 1
+      body
+    *** 2
+    *** 3
+    ** 4

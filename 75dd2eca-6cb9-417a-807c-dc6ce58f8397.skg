@@ -1,0 +1,8 @@
+title: the law of cosines
+pid: 75dd2eca-6cb9-417a-807c-dc6ce58f8397
+body: |2-
+  a**2 = b**2 + c**2 - 2 * b * c * cos A
+contains:
+- 7a9218b8-62bb-4ff2-acdf-ba6048c043a0
+misc:
+- Had_ID_Before_Import

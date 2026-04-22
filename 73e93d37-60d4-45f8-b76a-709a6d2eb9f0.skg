@@ -1,0 +1,4 @@
+title: References are safer than pointers.
+pid: 73e93d37-60d4-45f8-b76a-709a6d2eb9f0
+body: |2-
+  "Unlike a pointer, a reference is guaranteed to point to a valid value of a particular type for the life of that reference."

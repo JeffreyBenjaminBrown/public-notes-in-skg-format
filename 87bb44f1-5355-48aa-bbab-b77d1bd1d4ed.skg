@@ -1,0 +1,12 @@
+title: TODO Kotlin
+pid: 87bb44f1-5355-48aa-bbab-b77d1bd1d4ed
+body: |2-
+  Java-interop
+  good about nullability
+  "Sealed Classes" approximate sum types.
+  generics (type classes with parameters)
+  explicit signatures (optional) including return type
+  good async support
+  Pattern matching. A little verbose, but possible:
+    https://stackoverflow.com/a/32748904/916142
+  mapping, which might be equivalent to comprehensions

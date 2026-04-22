@@ -1,0 +1,5 @@
+title: In `links`, `pos`
+pid: f678dbee-9548-4885-a293-f4719bc608eb
+body: |2-
+  is the first character of the link.
+  It is relative to the file containing the link.

@@ -1,0 +1,8 @@
+title: '"with" brings a set''s values into scope'
+pid: 1c6b28f0-9a05-46c7-be42-9c263bcc23fc
+body: |2-
+  nix-repl> longName = { a = 3; b = 4; }
+  nix-repl> longName.a + (with longName; a + b)
+  10
+contains:
+- 7fb5ae12-269a-40fb-ac90-bb8364e3db51

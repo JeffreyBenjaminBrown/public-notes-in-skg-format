@@ -1,0 +1,4 @@
+title: visit admin site
+pid: 7e431a27-b71e-49f5-86cb-57b2d3849446
+body: |2-
+  127.0.0.1:8000/admin

@@ -1,0 +1,4 @@
+title: Add the root to each row.
+pid: d058c194-256d-4b16-a08a-a6bece81c839
+body: |2-
+  So if a cell was 0, it's now equal to its column title.

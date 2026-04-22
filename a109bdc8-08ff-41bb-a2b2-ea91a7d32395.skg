@@ -1,0 +1,12 @@
+title: 'PITFALL: an index with holes in it causes errors.'
+pid: a109bdc8-08ff-41bb-a2b2-ea91a7d32395
+body: |2-
+  That is, an index in which there exist two adjacent values
+  such that the latter is not the former plus 1.
+
+  I can't make a simple example,
+  but there's an example (the only use of `where`,
+  with a big `PITFALL: WTF` comment) in
+    `python/extract_excel/gastos.py`
+  in the project
+    git@github.com:ofiscal/pgn-years.git

@@ -1,0 +1,9 @@
+title: 'PITFALL: does not shadow'
+pid: 7fb5ae12-269a-40fb-ac90-bb8364e3db51
+body: |2-
+  nix-repl> a = {a = 3; b = 4; }
+
+  nix-repl> with longName; a + b
+  error: cannot coerce a set to a string, at (string):1:16
+
+  That's because it thinks the a in a + b is the set, not the value.

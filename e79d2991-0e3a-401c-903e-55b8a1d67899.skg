@@ -1,0 +1,19 @@
+title: Here's something that does both.
+pid: e79d2991-0e3a-401c-903e-55b8a1d67899
+body: |2-
+  valid_datetime({Date,Time}) ->
+    try
+      calendar:valid_date(Date) andalso valid_time(Time)
+    catch
+      error:function_clause ->
+        %% not in {{Y,M,D},{H,Min,S}} format
+        false
+    end;
+  valid_datetime(_) ->
+    false.
+
+  valid_time({H,M,S}) -> valid_time(H,M,S). % artiy 1 -> arity 3
+  valid_time(H,M,S) when H >= 0, H < 24,
+  		       M >= 0, M < 60,
+  		       S >= 0, S < 60 -> true;
+  valid_time(_,_,_) -> false.

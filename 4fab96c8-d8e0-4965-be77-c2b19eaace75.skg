@@ -1,0 +1,5 @@
+title: '`once` is handy.'
+pid: 4fab96c8-d8e0-4965-be77-c2b19eaace75
+body: |2-
+  It requires no pattern name, and can't be stopped.
+  once $ s "trump"

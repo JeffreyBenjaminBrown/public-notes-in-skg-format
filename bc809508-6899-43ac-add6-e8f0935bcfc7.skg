@@ -1,0 +1,6 @@
+title: 'date format : 20170913 (year month day)'
+pid: bc809508-6899-43ac-add6-e8f0935bcfc7
+body: |2-
+  select date
+  from facebook_event_checkin
+  limit 1

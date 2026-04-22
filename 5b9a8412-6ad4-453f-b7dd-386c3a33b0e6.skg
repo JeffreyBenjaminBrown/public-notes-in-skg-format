@@ -1,0 +1,6 @@
+title: KDE in Nix, a project for configuring
+pid: 5b9a8412-6ad4-453f-b7dd-386c3a33b0e6
+body: |2-
+  https://github.com/nix-community/plasma-manager
+misc:
+- Had_ID_Before_Import

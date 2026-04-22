@@ -1,0 +1,6 @@
+title: more complicated response,
+pid: 8fea83af-c499-4611-8af0-26cc84e9e166
+body: |2-
+  which can be golfed down to a fold
+  rather than explicit recursion.
+  https://stackoverflow.com/a/74758533/916142

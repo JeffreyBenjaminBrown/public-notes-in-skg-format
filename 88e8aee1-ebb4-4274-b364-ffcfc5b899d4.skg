@@ -1,0 +1,13 @@
+title: '`cd`, change default target directory'
+pid: 88e8aee1-ebb4-4274-b364-ffcfc5b899d4
+body: |2-
+  I don't know,
+  but the first line below comes extremely close,
+  and without clobbering the real `cd` command:
+
+  jeff@jbb-dell:mtv$ cd="cd $(pwd)"
+  jeff@jbb-dell:mtv$ echo $cd
+  cd /home/jeff/mtv
+  jeff@jbb-dell:mtv$ cd
+  jeff@jbb-dell:~$ $cd
+  jeff@jbb-dell:mtv$

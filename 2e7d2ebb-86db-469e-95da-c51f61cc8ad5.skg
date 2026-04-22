@@ -1,0 +1,5 @@
+title: the problem
+pid: 2e7d2ebb-86db-469e-95da-c51f61cc8ad5
+body: |2-
+  kahnSort deletes expressions from a copy of the graph.
+  Deletion something that's a member of other things is not permitted.

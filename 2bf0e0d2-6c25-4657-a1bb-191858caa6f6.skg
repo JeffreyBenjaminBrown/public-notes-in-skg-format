@@ -1,0 +1,2 @@
+title: If you only need to save and restore the identity of the current buffer, use save-current-buffer or with-current-buffer instead (see The Current Buffer). If you need to save or restore window configurations, see the forms described in Window Configurations and in Frame Configurations.
+pid: 2bf0e0d2-6c25-4657-a1bb-191858caa6f6

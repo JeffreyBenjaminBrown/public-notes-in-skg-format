@@ -1,0 +1,4 @@
+title: 'HANDY: To find an S3 bucket''s web endpoint'
+pid: ced6f0ca-9e0d-4958-8f98-6f81b45f5117
+body: |2-
+  under the bucket, visit properties -> static web hosting

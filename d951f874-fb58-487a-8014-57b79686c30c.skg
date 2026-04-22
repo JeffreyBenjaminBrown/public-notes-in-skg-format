@@ -1,0 +1,5 @@
+title: find instances and contexts of a word
+pid: d951f874-fb58-487a-8014-57b79686c30c
+body: |2-
+  Example: Fish appears next to "the" sometimes.
+  Results are a tree, with "fish" in the middle, "the" as a child, and phrases preceded by "fish the" as children of "the".

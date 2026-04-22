@@ -1,0 +1,6 @@
+title: example
+pid: 553eafbb-302b-44e2-a02e-dde722ecb781
+body: |2-
+  func Merge ( subs ... Subscription ) Subscription {
+    // merge them
+  }

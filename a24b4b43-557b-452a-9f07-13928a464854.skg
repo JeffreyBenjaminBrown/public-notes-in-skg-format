@@ -1,0 +1,4 @@
+title: create header, then run `org-store-link` (C-c n l)
+pid: a24b4b43-557b-452a-9f07-13928a464854
+body: |2-
+  This is part of org-mode, not org-roam.

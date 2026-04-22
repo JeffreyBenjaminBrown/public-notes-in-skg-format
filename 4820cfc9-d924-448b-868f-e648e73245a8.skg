@@ -1,0 +1,5 @@
+title: takingWhile, droppingWhile
+pid: 4820cfc9-d924-448b-868f-e648e73245a8
+body: |2-
+  They keep taking or dropping until the result of a predicate flips.
+    [1, 5, 15, 5, 1] ^.. droppingWhile (<10) folded

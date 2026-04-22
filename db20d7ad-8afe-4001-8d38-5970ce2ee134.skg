@@ -1,0 +1,5 @@
+title: Foreign key enforcement is off by default.
+pid: db20d7ad-8afe-4001-8d38-5970ce2ee134
+contains:
+- ef2c5d5d-b74e-4ffa-8824-56139c20e6c3
+- ad437e0e-b7ed-46bf-b74b-c3f8bd1e4571

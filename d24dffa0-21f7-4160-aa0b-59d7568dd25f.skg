@@ -1,0 +1,5 @@
+title: example
+pid: d24dffa0-21f7-4160-aa0b-59d7568dd25f
+body: |2-
+  open data.toml | get foo.0.bar
+                       ^^^^^^^^^

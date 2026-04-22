@@ -1,0 +1,6 @@
+title: identifying edited foreign nodes
+pid: 1eb4b158-274b-468c-ae57-ff41c0970621
+body: |2-
+  The user can edit the content of a foreign node F.
+  When they save the buffer,
+  its title and content are scanned for modifications.

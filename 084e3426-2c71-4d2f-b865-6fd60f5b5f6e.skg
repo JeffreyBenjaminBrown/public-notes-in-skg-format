@@ -1,0 +1,4 @@
+title: 'PIFALL: Requires topo sort from Python.'
+pid: 084e3426-2c71-4d2f-b865-6fd60f5b5f6e
+body: |2-
+  TypeDB can't topo sort yet.

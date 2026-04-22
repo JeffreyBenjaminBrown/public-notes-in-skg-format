@@ -1,0 +1,4 @@
+title: characters to use, and where
+pid: c9831d30-76eb-470c-ab3c-2fb2aec5fbef
+body: |2-
+  should be enclosed in single quotes (') if it does not begin with a lower-case letter or if it contains other characters than alphanumeric characters, underscore (_), or @.

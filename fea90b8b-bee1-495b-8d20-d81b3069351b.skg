@@ -1,0 +1,27 @@
+title: experiments
+pid: fea90b8b-bee1-495b-8d20-d81b3069351b
+body: |2-
+  #+BEGIN_SRC haskell
+  setcps 0.4
+
+  d1 $ s "supercomparator" |*| n "-36 -24 -12 0 12 24 36"
+
+  d1 $ s "supercomparator" |*| n "-36 -24 -12 0 12 24 36"
+    |*| slow 5 (voice "0 1 4 16 64")
+
+  d1 $ s "supercomparator" |*| n ("0 1 2" + 48)
+    |*| voice "64" |*| gain 2
+
+  d1 $ s "supercomparator" |*| n "-36 -24 -12 0 12 24 36"
+    |*| voice "4"
+    |*| rate 2
+    |*| lfo 100
+    |*| resonance 0.5
+
+  d1 $ s "supercomparator" |*| n "-36 -24 -12 0 12 24 36"
+    |*| voice 1
+    |*| rate 0.1
+    |*| lfo 10
+    |*| resonance 0.9
+    |*| pitch1 -1
+  #+END_SRC

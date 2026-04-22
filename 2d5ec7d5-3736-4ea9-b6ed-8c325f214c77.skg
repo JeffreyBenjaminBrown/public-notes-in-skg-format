@@ -1,0 +1,5 @@
+title: 'Downside: This makes the org files hard to read without special software.'
+pid: 2d5ec7d5-3736-4ea9-b6ed-8c325f214c77
+body: |2-
+  It's not rocket science, but it's tedious:
+  [[id:228029c2-ea1c-4f18-b5e4-975989fca3be][The view from standalone file F]] can require traversing more files than F itself.

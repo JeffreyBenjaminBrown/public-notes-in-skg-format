@@ -1,0 +1,5 @@
+title: next-property-change pos
+pid: fe0b6527-a746-4152-87f9-9cb85420bcec
+body: |2-
+  scans the text forward from position pos in the string or buffer object until it finds a change in *any* text property
+  "returns the position of the first character beyond pos whose properties are not identical to ..."

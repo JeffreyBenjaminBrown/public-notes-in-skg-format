@@ -1,0 +1,4 @@
+title: drop the screen resolution if possible
+pid: 2228ebd6-2369-4dbe-92cd-5ef2f6169172
+body: |2-
+  Unfortunately `xrandr` is not part of the installer.

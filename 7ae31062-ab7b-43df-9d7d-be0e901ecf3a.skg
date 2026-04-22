@@ -1,0 +1,9 @@
+title: why it's my favorite way
+pid: 7ae31062-ab7b-43df-9d7d-be0e901ecf3a
+body: |2-
+  Going fully Nix went badly for me,
+  because some packages were not yet defined in python310Packages.
+
+  And going fully virtualenv is known to fail sometimes,
+  because it can somehow need things it doesn't have access to --
+  even, I guess, if they're part of the active top-level NixOS config.

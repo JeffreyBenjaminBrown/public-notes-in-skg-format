@@ -1,0 +1,5 @@
+title: Async protocols are harder to design than synchronous one.
+pid: 66e9b9a5-d03d-47a4-a847-d5396253c47f
+body: |2-
+  Their robustness isn't free --
+  there are lots of potential interactions to consider.

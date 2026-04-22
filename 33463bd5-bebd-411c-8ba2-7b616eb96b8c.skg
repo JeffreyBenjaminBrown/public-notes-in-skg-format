@@ -1,0 +1,5 @@
+title: TODO fast transitions
+pid: 33463bd5-bebd-411c-8ba2-7b616eb96b8c
+body: |2-
+  The easiest way seems to be to just manually evaluate different regions quickly, assuming Tidal switches fast enough.
+  For this it would help to write an Emacs routine that evaluates everything in the paragraph containing point (the cursor).

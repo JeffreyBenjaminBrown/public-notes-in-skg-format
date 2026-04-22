@@ -1,0 +1,13 @@
+title: 'Example: Set new column "c" same as "a" when "b" is missing, else 10.'
+pid: 997054a1-00d8-413f-ae1f-6eadef3dac56
+body: |2-
+  # Note that this could be done more concisely with `fillna`.
+
+  if True: # imports
+     import numpy as np
+     import pandas as pd
+  z = pd.DataFrame ( { "a" : [1,2     ,3],
+                       "b" : [0,np.nan,0], } )
+  z["c"] = np.where ( z["b"].isnull(), # condition
+                      z["a"],          # used if True  (b is missing)
+                      10 )             # used if False (b is present)

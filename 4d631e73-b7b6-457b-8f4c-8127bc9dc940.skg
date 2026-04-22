@@ -1,0 +1,6 @@
+title: I ran `gh auth login`,
+pid: 4d631e73-b7b6-457b-8f4c-8127bc9dc940
+body: |2-
+  selecting all the defaults until it whether and how to authenticate,
+  then saying yes, choosing `paste an authentication token`,
+  and pasting the token from the previous step.

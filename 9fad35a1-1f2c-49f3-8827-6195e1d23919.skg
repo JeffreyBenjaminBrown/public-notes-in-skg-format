@@ -1,0 +1,17 @@
+title: TODO promising places I've spoken
+pid: 9fad35a1-1f2c-49f3-8827-6195e1d23919
+body: |2-
+  https://github.com/musnix/musnix/issues/100
+    musnix issue on the PREEMPT option error
+  https://discourse.nixos.org/t/declarative-audio-config-using-jack/5458
+    Discourse \ NixOS
+  https://github.com/NixOS/nixpkgs/issues/71283
+    magnetophon, MDeltaX and others on Github
+  https://github.com/magnetophon/nixosConfig/issues/4
+    re. the machines/ folder, in magnetophon's config repo
+  https://github.com/magnetophon/nixosConfig/issues/2
+    where I ask about JACK connections in magnetophon's config
+  https://github.com/musnix/musnix/issues/103
+    where I ask Musnix how to choose `rtirq.nameList`
+  https://github.com/magnetophon/nixosConfig/issues/3
+    asking magnetophon why he uses kernel 4.19, not 5.0 (the default)

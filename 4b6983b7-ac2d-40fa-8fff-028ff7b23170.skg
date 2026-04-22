@@ -1,0 +1,4 @@
+title: '"Mock instances" with'
+pid: 4b6983b7-ac2d-40fa-8fff-028ff7b23170
+body: |2-
+  mock.create_autospec( class_name )

@@ -1,0 +1,7 @@
+title: open a buffer for Tidal code
+pid: a97f2774-b1ec-422a-8c32-fdfb34453057
+body: |2-
+  e.g. a Haskell file like
+    [[~/code/music/Tidal/tidal+epic/music/simple.hs]]
+  or an org file like
+    [[id:ce191e47-8caa-42a7-bc48-67f31e2df2d0][song attempt 1 \ Tidal]]

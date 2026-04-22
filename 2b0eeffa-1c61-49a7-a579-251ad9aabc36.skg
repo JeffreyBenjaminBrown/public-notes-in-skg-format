@@ -1,0 +1,4 @@
+title: what it does
+pid: 2b0eeffa-1c61-49a7-a579-251ad9aabc36
+body: |2-
+  reads key sequences, executes their definitions, and displays the results

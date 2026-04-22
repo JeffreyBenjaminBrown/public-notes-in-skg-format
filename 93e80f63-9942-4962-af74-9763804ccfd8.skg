@@ -1,0 +1,5 @@
+title: '`if let else` permits a default case to be included.'
+pid: 93e80f63-9942-4962-af74-9763804ccfd8
+body: |2-
+  Without an else clause,
+  the default result is to do nothing.

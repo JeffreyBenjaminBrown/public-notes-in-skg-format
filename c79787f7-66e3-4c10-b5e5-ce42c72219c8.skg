@@ -1,0 +1,8 @@
+title: the two lowest are 27c apart, the two highest 22c
+pid: c79787f7-66e3-4c10-b5e5-ce42c72219c8
+body: |2-
+  > x = map (round . cents) $ [7/4,16/9,9/5]
+  > x
+  [9688,9961,10176]
+  > tail $ zipWith (-) x (undefined:x)
+  [273,215]

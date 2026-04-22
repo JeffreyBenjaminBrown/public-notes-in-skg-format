@@ -1,0 +1,5 @@
+title: In org-mode a headline H with a link to T, at least if the headline has nothing but that link, should not have an ID.
+pid: 1f1ac4d8-cc17-4daf-acde-26aa648f35c2
+body: |2-
+  Because if it does, and I try to create a similar link to T,
+  org-roam will instead create a link to H.

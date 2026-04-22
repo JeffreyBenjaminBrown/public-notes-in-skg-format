@@ -1,0 +1,5 @@
+title: Install org-roam, maybe other things
+pid: 5bc32dda-36a3-4e43-9bd9-d2faa9e04256
+body: |2-
+  emacsql
+  emacsql-sqlite3

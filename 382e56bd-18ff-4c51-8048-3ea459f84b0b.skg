@@ -1,0 +1,6 @@
+title: multiple matches, some referring to others, before a fetch
+pid: 382e56bd-18ff-4c51-8048-3ea459f84b0b
+body: |2-
+  match $s isa note, has uid 5;
+        $a(source:$s,target:$t) isa arrow;
+  fetch $t:text;

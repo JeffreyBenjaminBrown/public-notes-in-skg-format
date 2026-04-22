@@ -1,0 +1,6 @@
+title: TODO Will there be a lag for cable input?
+pid: e6ac5b1c-0745-42d5-8e0c-80f1f836327d
+body: |2-
+  if only one speaker accepts a cable,
+  and transmits to the other one via bluetooth,
+  lag seems likely.

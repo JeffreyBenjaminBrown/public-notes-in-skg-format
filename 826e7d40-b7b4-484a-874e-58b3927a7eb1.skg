@@ -1,0 +1,14 @@
+title: find the possible completions given a NixOS option prefix
+pid: 826e7d40-b7b4-484a-874e-58b3927a7eb1
+body: |2-
+  Here the prefix is "system.autoUpgrade":
+
+  [jeff@jbb-dell:~/nix/nixpkgs]$ nixos-option system.autoUpgrade
+  This attribute set contains:
+  allowReboot
+  channel
+  dates
+  enable
+  flags
+  flake
+  randomizedDelaySec

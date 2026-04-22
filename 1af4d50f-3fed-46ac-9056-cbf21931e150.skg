@@ -1,0 +1,4 @@
+title: when "implies" is true
+pid: 1af4d50f-3fed-46ac-9056-cbf21931e150
+body: |2-
+  "Given any two propositions p and q, then p ⊃ q (“if p [then] q” or “p [materially] implies q”) is to count as false when p is true and q is false and as true in all other cases"

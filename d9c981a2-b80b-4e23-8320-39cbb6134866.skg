@@ -1,0 +1,9 @@
+title: 'PITFALL: This differs slightly from what AWS suggest'
+pid: d9c981a2-b80b-4e23-8320-39cbb6134866
+body: |2-
+  AWS suggest
+    `python manage.py runserver`
+  but that uses the default address of 127.0.0.1.
+  That makes sense outside of a docker container,
+  but inside, the relevant address can change.
+  If we instead use 0.0.0.0, we broadcast on every address at once.

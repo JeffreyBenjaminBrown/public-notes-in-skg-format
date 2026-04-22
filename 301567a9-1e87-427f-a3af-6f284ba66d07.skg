@@ -1,0 +1,6 @@
+title: 'AWAITS later : maybe ordering matters'
+pid: 301567a9-1e87-427f-a3af-6f284ba66d07
+body: |2-
+  and it would help to order each group of deletions under a DJ
+  in the order in which they were deleted from its parent,
+  to eyeball sequences of contiguous branches that were moved.

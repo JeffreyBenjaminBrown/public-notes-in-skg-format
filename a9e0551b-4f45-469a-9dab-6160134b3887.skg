@@ -1,0 +1,5 @@
+title: Each document has sections, subsections, sub-subsubsections, etc.
+pid: a9e0551b-4f45-469a-9dab-6160134b3887
+body: |2-
+  Actually a document doesn't need more than one level.
+  In that case it is a 'flat tree', a.k.a. a list.

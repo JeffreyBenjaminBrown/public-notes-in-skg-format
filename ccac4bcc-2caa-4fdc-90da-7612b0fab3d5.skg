@@ -1,0 +1,5 @@
+title: '"Use all MIDI inputs for step recording"'
+pid: ccac4bcc-2caa-4fdc-90da-7612b0fab3d5
+body: |2-
+  Otherwise I think it only uses the computer keyboard's F1-F12.
+  Step recording is non-realtime recording, with playback off.

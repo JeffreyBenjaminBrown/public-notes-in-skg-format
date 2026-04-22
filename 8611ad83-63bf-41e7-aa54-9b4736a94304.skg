@@ -1,0 +1,8 @@
+title: TODO ? I lost my .stack/config.yaml file
+pid: 8611ad83-63bf-41e7-aa54-9b4736a94304
+body: |2-
+    I had configured it for something ... maybe this, which also appears in my local stack.yaml files?
+  ```
+  nix:
+    enable: true
+  ```

@@ -1,0 +1,4 @@
+title: providence
+pid: b59956ac-a5bb-4edf-bb00-da2a2d7763ad
+body: |2-
+  this uses the `race` function from `trpl`, which is probably re-exported from something fundamental

@@ -1,0 +1,13 @@
+title: why
+pid: ffb1a950-2b24-4ecb-90ee-fe35c94839aa
+body: |2-
+  The "_ in <pattern name> at <time>"
+  relationship is polymorphic in its first member.
+
+  My two options are to split it into multiple rels
+  ("param _ in _ at _", "scale _ in _ at _", etc.)
+  or to reify the elements of Dispatch into a single type.
+
+  The first is nicer to code,
+  but it means duplicating lots of functions,
+  which sucks for the user who has to remember them.

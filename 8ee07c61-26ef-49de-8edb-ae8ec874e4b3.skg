@@ -1,0 +1,22 @@
+title: an incomplete overview
+pid: 8ee07c61-26ef-49de-8edb-ae8ec874e4b3
+body: |2-
+     sup_flags() =
+       #{ strategy => strategy(),           % optional restart strategy
+          intensity => non_neg_integer(),   % optional
+          period => pos_integer(),          % optional
+          auto_shutdown => auto_shutdown()} % optional
+     where
+     strategy() = one_for_all  % If anything terminates, all are terminated,
+                               % and all restarted.
+  | one_for_one  % *The default*.
+                               % If a child process terminates,
+                               % only that process is restarted.
+  | rest_for_one % If anything terminates,
+                               % everything *after* it is terminated too,
+  	       % and then all of those are restarted.
+  | simple_one_for_one
+     auto_shutdown() = never   % *The default*.
+                               % Significant children are rejected.
+                     | any_significant
+                     | all_significant

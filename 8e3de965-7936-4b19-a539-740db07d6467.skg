@@ -1,0 +1,11 @@
+title: 'data Lazy : Type -> Type where'
+pid: 8e3de965-7936-4b19-a539-740db07d6467
+body: |2-
+       Delay : (val : a) -> Lazy a
+
+  Force : Lazy a -> a
+  A value of type Lazy a is unevaluated until it is forced by Force. The Idris type checker knows about the Lazy type, and inserts conversions where necessary between Lazy a and a, and vice versa. We can therefore write ifThenElse as follows, without any explicit use of Force or Delay:
+
+  ifThenElse : Bool -> Lazy a -> Lazy a -> a
+  ifThenElse True  t e = t
+  ifThenElse False t e = e

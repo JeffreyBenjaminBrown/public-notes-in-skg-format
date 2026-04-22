@@ -1,0 +1,8 @@
+title: parameters
+pid: 8ed7bd5a-b919-4e89-9425-d811e071d21d
+body: |2-
+  freq,
+  detune=0.2, -- offsets the ?two oscillators' pitches
+  sustain=1,
+  accelerate,
+  pan,

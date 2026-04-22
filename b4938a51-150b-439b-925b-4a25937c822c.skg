@@ -1,0 +1,7 @@
+title: a non-Wine path did not work either
+pid: b4938a51-150b-439b-925b-4a25937c822c
+body: |2-
+  In the path picker in the installer, I navigate to
+    ~/Documents/IK Multimedia
+  which then is displayed as
+    Z:\home\jeff\Documents\IK Multimedia

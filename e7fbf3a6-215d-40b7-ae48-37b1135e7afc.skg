@@ -1,0 +1,14 @@
+title: 'TODO mod 1 skip 9: span 7, octave (9,-1), great 4::8'
+pid: e7fbf3a6-215d-40b7-ae48-37b1135e7afc
+body: |2-
+   7 steps = 17 % 16: str 1 fret -2
+  20 steps = 19 % 16: str 2 fret  2
+  26 steps = 5 % 4:   str 3 fret -1
+  37 steps = 11 % 8:  str 4 fret  1
+  42 steps = 23 % 16: str 5 fret -3 | str 4 fret 6
+  47 steps = 3 % 2:   str 5 fret  2
+  56 steps = 13 % 8:  str 6 fret  2
+  65 steps = 7 % 4:   str 7 fret  2
+  69 steps = 29 % 16: str 8 fret -3 | str 7 fret 6
+  76 steps = 31 % 16: str 8 fret  4
+  80 steps = 2 % 1:   str 9 fret -1

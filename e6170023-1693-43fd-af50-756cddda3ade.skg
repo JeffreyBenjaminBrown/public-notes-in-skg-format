@@ -1,0 +1,6 @@
+title: When relating x&y to the view z*, x&y should be listed as an ancestor at the same level as and before x and y.
+pid: e6170023-1693-43fd-af50-756cddda3ade
+body: |2-
+  Note that z might include x or y.
+contains:
+- fbb9c8c4-1168-4d8b-b784-4bd7d8254f6c

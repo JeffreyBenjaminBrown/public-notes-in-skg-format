@@ -1,0 +1,6 @@
+title: Use `spawn_link` to create and link simultaneously.
+pid: 7d72684f-da56-46d9-b527-0b93d79f4120
+body: |2-
+  (link . spawn) is sequential.
+  `spawn_link` is atomic, hence safer:
+  The spawn cannot die before being linked.

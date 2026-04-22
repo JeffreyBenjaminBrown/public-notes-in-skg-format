@@ -1,0 +1,6 @@
+title: evaluating built strings
+pid: 7d596a82-d3c7-4e20-b043-d4f755ecea97
+body: |2-
+  Just stick the strings to evaluate in the ()s in `eval "$()"`, e.g.
+    eval "$(jq -r '.paths | to_entries | .[]
+                   | .key + "=\"" + .value + "\""' < paths.json)"

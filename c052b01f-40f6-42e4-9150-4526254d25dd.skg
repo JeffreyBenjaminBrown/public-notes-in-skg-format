@@ -1,0 +1,11 @@
+title: the idea
+pid: c052b01f-40f6-42e4-9150-4526254d25dd
+body: |2-
+  Given a subset S of moments in the cycle C,
+  and a mapping M from the event set E into S,
+  a rotation is another mapping from E into S
+  preserving the order of events in M.
+
+  Note that if S is equally spaced in C,
+  then this is no different from ordinary rotation
+  (i.e. the time-series lag and lead operations).

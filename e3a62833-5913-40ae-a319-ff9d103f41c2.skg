@@ -1,0 +1,5 @@
+title: unary prefix & creates a reference
+pid: e3a62833-5913-40ae-a319-ff9d103f41c2
+body: |2-
+  if    typedb_driver :  Arc<TypeDBDriver>
+  then &typedb_driver : &Arc<TypeDBDriver>

@@ -1,0 +1,28 @@
+title: 'DONE easiest algorithm: user chooses which way to search'
+pid: 528f3934-e3e6-4004-aa47-d067088cb9e7
+body: |2-
+  Given sets X and Y, we want all (x,y) s.t. x < y.
+  wolog, suppose the user chooses to search "increasing|rightward".
+  Define (\) to be the set difference operator:
+  X \ Y is the set X, minus its intersection with Y.
+
+  Let X1 be all n such that for some x in X \ Y,
+    (x < n) is (explicitly) in the graph,
+  and let pred_1 :: X1 -> 2^X map every x1 in X1 to {x in X s.t. x < x1).
+    (Use Hode.Hash.HLookup.)
+  Let X2 be all n such that for some x in X1 \ Y, (x < n) is in the graph,
+  and pred_2 :: X2 -> 2^X map every x2 in X2 to {x in X s.t. x < x2).
+
+  Similarly, build sets X3, X4 ... Xn,
+  and functions pred_3, pred4 ... pred_n,
+  such that X(n+1) would be the first empty one.
+
+  Define XM = X union X1 union ... union Xn.
+  Define earliestAncestors :: XM -> X.
+  (If x is in X, then x is in `earliestAncestors x`,
+  but it might not be the only member.)
+
+  Find I = XM intersect Y.
+  For each y in I,
+  for each x in `earliestAncestors y`,
+  include (x,y) in the answer.

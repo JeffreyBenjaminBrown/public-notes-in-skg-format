@@ -1,0 +1,8 @@
+title: taking, dropping
+pid: 0a79230f-8bff-4680-9367-1fba6caea586
+body: |2-
+  true type is complex but one simplification is
+    taking :: Int -> Traversal' s a -> Traversal' s a
+contains:
+- 3c2af28a-41dc-44fc-81d0-c61947042ef9
+- bbd1cca2-2949-4120-abc9-ff7b5e2e375d

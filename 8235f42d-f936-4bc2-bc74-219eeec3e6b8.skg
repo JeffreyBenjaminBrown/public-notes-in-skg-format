@@ -1,0 +1,7 @@
+title: 'PITFALL: toggles (at least record-arm) in a group will stay out of sync'
+pid: 8235f42d-f936-4bc2-bc74-219eeec3e6b8
+body: |2-
+  If two tracks are selected,
+  and one of them is armed and the other not,
+  toggling their, uh, armament will toggle both,
+  so it will still be the case that one is armed and the other not.

@@ -1,0 +1,9 @@
+title: In the simplest case, any non-nil invisible property makes a character invisible. This is the default case—if you don’t alter the default value of buffer-invisibility-spec, this is how the invisible property works. You should normally use t as the value of the invisible property if you don’t plan to set buffer-invisibility-spec yourself.
+pid: 521355fc-54e0-4333-a393-2d73bc02ba26
+body: |2-
+
+  More generally, you can use the variable buffer-invisibility-spec to control which values of the invisible property make text invisible. This permits you to classify the text into different subsets in advance, by giving them different invisible values, and subsequently make various subsets visible or invisible by changing the value of buffer-invisibility-spec.
+
+  ...
+
+  Setting buffer-invisibility-spec is very fast, much faster than scanning all the text in the buffer looking for properties to change

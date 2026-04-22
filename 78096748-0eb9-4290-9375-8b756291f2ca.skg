@@ -1,0 +1,6 @@
+title: local registry
+pid: 78096748-0eb9-4290-9375-8b756291f2ca
+body: |2-
+  This:
+    gen_event:start_link({local, Event_manager_name})
+  registers it locally under the name Event_manager_name.

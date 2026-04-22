@@ -1,0 +1,7 @@
+title: why (I think)
+pid: ab2a65da-07b2-403c-ba35-00b01771155b
+body: |2-
+  The argument to `spawn` should be *something to run*.
+  As such, and maybe because Erlang isn't lazy,
+  the function must be unevaluated,
+  which means it must be unapplied.

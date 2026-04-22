@@ -1,0 +1,8 @@
+title: switching on arbitrary conditions
+pid: f5038db3-d47f-4e80-92b2-98ada5eaad4a
+body: |2-
+  Don't state a variable to switch on;
+  instead write nothing (or "true") there:
+  switch {
+     case x < y: ...
+     case z < w: ...

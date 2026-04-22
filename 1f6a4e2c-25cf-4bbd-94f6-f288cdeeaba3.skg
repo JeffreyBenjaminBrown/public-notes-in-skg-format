@@ -1,0 +1,5 @@
+title: xdotool can send those commands from the keyboard.
+pid: 1f6a4e2c-25cf-4bbd-94f6-f288cdeeaba3
+body: |2-
+  xdotool keydown Alt click 4 click 4 keyup Alt   # zoom in
+  xdotool keydown Alt click 5 click 5 keyup Alt   # zoom out

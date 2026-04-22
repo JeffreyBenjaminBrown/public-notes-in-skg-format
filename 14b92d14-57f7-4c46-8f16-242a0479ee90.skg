@@ -1,0 +1,7 @@
+title: ref
+pid: 14b92d14-57f7-4c46-8f16-242a0479ee90
+body: |2-
+  PITFALL: Take this with a grain of salt --
+  `runserver`'s syntax appears to have drifted since this was written,
+  unless I'm misinterpreting.
+  https://stackoverflow.com/questions/49476217/docker-cant-access-django-server/49476339

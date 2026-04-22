@@ -1,0 +1,5 @@
+title: 'example: the major third in 41-edo'
+pid: 88b2c784-a031-40d8-a20d-581a975f3de9
+body: |2-
+  ghci> (13/41) * 1200
+  380.4878048780488

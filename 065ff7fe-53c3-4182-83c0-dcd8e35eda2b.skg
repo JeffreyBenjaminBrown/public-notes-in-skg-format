@@ -1,0 +1,15 @@
+title: syntax
+pid: 065ff7fe-53c3-4182-83c0-dcd8e35eda2b
+body: |2-
+  // Note that "type" below is a keyword.
+  switch v := i.(type) {
+    case T:
+      // here v has type T
+    case S:
+      // here v has type S
+    default:
+      // no match; here v is equal to i in type and value
+      // (but [[id:12f2e827-dcb1-4adf-b7a8-2d946fcdb7ae][it might be a copy]]).
+  }
+contains:
+- 12f2e827-dcb1-4adf-b7a8-2d946fcdb7ae

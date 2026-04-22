@@ -1,0 +1,16 @@
+title: rendering
+pid: 301cd975-450c-4881-a860-a6ecdcef3b50
+body: |2-
+  A node N with subscriptions is shown such that
+  its first child is called "subscriptions",
+  in the system font.
+  Children of that represent each subscription,
+  and children of those things (so level-3 in org-mode)
+  are their content.
+  After that top-level "subscriptions" of N
+  are all the ordinary contents of N.
+
+  If someone "promotes" a node P from a subscription S
+  into the ordinary content of N,
+  then S can be given an "ignores P" attribute,
+  and what looks like P becomes a subscription to P.

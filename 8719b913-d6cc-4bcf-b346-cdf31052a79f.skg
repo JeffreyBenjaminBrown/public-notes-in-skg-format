@@ -1,0 +1,11 @@
+title: build and test
+pid: 8719b913-d6cc-4bcf-b346-cdf31052a79f
+body: |2-
+  From the top of the newly-modified nixpkgs repo,
+  call
+    nix-build -A pkg
+  where `pkg` is the new thing.
+
+  This will create a symlink called "result".
+  Next test the new command by running, say,
+    ./result/bin/hello

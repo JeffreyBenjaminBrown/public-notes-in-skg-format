@@ -1,0 +1,5 @@
+title: ID
+pid: 9d05fed4-c8ce-4e45-8b73-4e4f46498d7f
+body: |2-
+  { id: ID,
+    diff: Option<FieldDiffStatus> },

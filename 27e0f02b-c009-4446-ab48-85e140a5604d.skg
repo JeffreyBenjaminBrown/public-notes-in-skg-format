@@ -1,0 +1,4 @@
+title: the reserved atoms
+pid: 27e0f02b-c009-4446-ab48-85e140a5604d
+body: |2-
+  after and andalso band begin bnot bor bsl bsr bxor case catch cond div end fun if let not of or orelse query receive rem try when xor

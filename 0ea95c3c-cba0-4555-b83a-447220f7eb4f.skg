@@ -1,0 +1,9 @@
+title: record "updates"
+pid: 0ea95c3c-cba0-4555-b83a-447220f7eb4f
+body: |2-
+  Remember, data is immutable.
+
+  repairman(Rob) ->
+      Details = Rob#robot.details,
+      NewRob = Rob#robot{details=["Repaired by repairman"|Details]},
+      {repaired, NewRob}.

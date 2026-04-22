@@ -1,0 +1,7 @@
+title: legato
+pid: 43a26f50-0e6f-4e38-94e1-0e8e65d3dffd
+body: |2-
+  Unlike cut groups, legato can result in overlap or gaps.
+contains:
+- 58cc9ab1-e34d-4d0f-b14a-14de768d08b4
+- 1733645d-5595-48af-a9dc-88eb1ff40d27

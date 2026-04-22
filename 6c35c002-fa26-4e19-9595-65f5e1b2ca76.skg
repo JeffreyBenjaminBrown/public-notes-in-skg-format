@@ -1,0 +1,6 @@
+title: Note that the futures are still wrapped.
+pid: 6c35c002-fa26-4e19-9595-65f5e1b2ca76
+body: |2-
+  Neither `title_fut_1` nor `title_fut_2` in the code below
+  is unwrapped using `await`. Both are instead
+  passed as futures to `race`.

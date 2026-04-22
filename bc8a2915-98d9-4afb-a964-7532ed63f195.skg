@@ -1,0 +1,4 @@
+title: avoiding copies
+pid: bc8a2915-98d9-4afb-a964-7532ed63f195
+body: |2-
+  "When you have a large amount of data and you want to transfer ownership but ensure the data won’t be copied when you do so"

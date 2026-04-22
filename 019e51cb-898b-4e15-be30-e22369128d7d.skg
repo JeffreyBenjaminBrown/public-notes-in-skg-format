@@ -1,0 +1,9 @@
+title: Viewing history could include arrows.
+pid: 019e51cb-898b-4e15-be30-e22369128d7d
+body: |2-
+  like the arrows [[id:5c2be847-0a45-4fa9-ae96-fc78f88fecad][Maria Paula draws in therapy sessions]].
+  A simple history would just be (node, time) pairs.
+  A better history would be (this node, maybe last node, time) pairs.
+  When someone arrives at a node from search results, the maybe is None.
+  This kind of data would let someone extract
+  flow diagrams -- where they tend to go from where.

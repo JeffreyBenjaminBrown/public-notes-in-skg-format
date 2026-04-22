@@ -1,0 +1,16 @@
+title: 'TODO 13\58 x 6\58: 15-lim minus 9'
+pid: 02593ce7-509c-4702-baaf-1d44677f7c9c
+body: |2-
+  [ 0 steps; 1 % 1 ; string 0 ; fret 0
+  , 58 steps; 2 % 1 ; string 4 ; fret 1
+  , 34 steps; 3 % 2 ; string 4 ; fret - 3
+  , 34 steps; 4 % 3 ; string 0 ; fret 4
+  , 19 steps; 5 % 4 ; string 1 ; fret 1
+  , 47 steps; 7 % 4 ; string 5 ; fret - 3
+  # , 10 steps; 9 % 8 ; string - 2 ; fret 6
+  , 27 steps; 11 % 8 ; string 3 ; fret - 2
+  , 41 steps; 13 % 8 ; string 5 ; fret - 4
+  , 53 steps; 15 % 8 ; string 5 ; fret - 2
+  , 5 steps; 17 % 16 ; string - 1 ; fret 3
+contains:
+- 070b73da-6ea3-4658-b44c-c395ecf152a9

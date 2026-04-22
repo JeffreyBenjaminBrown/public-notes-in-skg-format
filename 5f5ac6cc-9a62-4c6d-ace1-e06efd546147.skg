@@ -1,0 +1,6 @@
+title: 'PITFALL: the folders and namespacing for templates are confusing'
+pid: 5f5ac6cc-9a62-4c6d-ace1-e06efd546147
+body: |2-
+  By default, DjangoTemplates looks for a `templates` folder in each installed app.
+  Put the index template at `polls/templates/polls/index.html`.
+  "You can refer to this template within Django as polls/index.html."

@@ -1,0 +1,6 @@
+title: TODO searching for a Tplt with empty-string separators
+pid: 3b733adf-dc2c-42e4-9eb2-88e2c0996c34
+body: |2-
+  One needs to represent the empty separator as \"\", as in this:
+     Right r = nInserts (mkRslt mempty) [ "0 # 1", "1 # 2" ]
+     t = nFind r "/t /_ \"\" /_"

@@ -1,0 +1,6 @@
+title: Provide simplifying views of complex information.
+pid: b5638bcb-6e0c-4471-8559-540b6995963f
+body: |2-
+  A common and miserable experience for people who become (even if only briefly) famous on the internet is to need to wade through a torrent of hostile and nearly information-free responses to find the few useful ones. Many simply give up and don't read their responses at all.
+  But by indexing the responses with Shyg, and viewing them through an appropriate query -- perhaps something like "filter out all ad-hominem statements, and for equivalent statements, show only one representative, accompanied by the number of authors who said that" -- an otherwise unwieldy and distressing river of feedback could be made useful and benign.
+  Describing how much difference to tolerate before classifying two statements as distinct will, admittedly, require an understanding of the ontology and the query language that most users will not have. But as soon as anyone publishes the details of such a query, everyone will be able to use it.

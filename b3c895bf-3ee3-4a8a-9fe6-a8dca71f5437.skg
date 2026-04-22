@@ -1,0 +1,20 @@
+title: '87 2 15: 0-idx 5 strings x 12 frets for 31-lim, diagonal'
+pid: b3c895bf-3ee3-4a8a-9fe6-a8dca71f5437
+body: |2-
+  [ 0 steps; 1 % 1 ; string 0 ; fret 0
+  , 87 steps; 2 % 1 ; string 5 ; fret 6
+  , 51 steps; 3 % 2 ; string 3 ; fret 3
+  , 28 steps; 5 % 4 ; string 2 ; fret - 1
+  , 70 steps; 7 % 4 ; string 4 ; fret 5
+  , 15 steps; 9 % 8 ; string 1 ; fret 0
+  , 40 steps; 11 % 8 ; string 2 ; fret 5
+  , 61 steps; 13 % 8 ; string 3 ; fret 8
+  , 79 steps; 15 % 8 ; string 5 ; fret 2
+  , 8 steps; 17 % 16 ; string 0 ; fret 4
+  , 22 steps; 19 % 16 ; string 2 ; fret - 4
+  , 34 steps; 21 % 16 ; string 2 ; fret 2
+  , 46 steps; 23 % 16 ; string 2 ; fret 8
+  , 56 steps; 25 % 16 ; string 4 ; fret - 2
+  , 66 steps; 27 % 16 ; string 4 ; fret 3
+  , 75 steps; 29 % 16 ; string 5 ; fret 0
+  , 83 steps; 31 % 16 ; string 5 ; fret 4

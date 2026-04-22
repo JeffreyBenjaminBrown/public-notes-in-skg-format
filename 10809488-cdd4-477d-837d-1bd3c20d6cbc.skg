@@ -1,0 +1,11 @@
+title: 'In general, functions and data types must be defined before use, since dependent types allow functions to appear as part of types, and type checking can rely on how particular functions are defined (though this is only true of total functions; see Section Totality Checking). However, this restriction can be relaxed by using a mutual block, which allows data types and functions to be defined simultaneously:'
+pid: 10809488-cdd4-477d-837d-1bd3c20d6cbc
+body: |2-
+  mutual
+    even : Nat -> Bool
+    even Z = True
+    even (S k) = odd k
+
+    odd : Nat -> Bool
+    odd Z = False
+    odd (S k) = even k

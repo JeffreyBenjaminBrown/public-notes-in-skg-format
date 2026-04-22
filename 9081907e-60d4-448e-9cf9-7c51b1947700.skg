@@ -1,0 +1,4 @@
+title: Names are lists of strings.
+pid: 9081907e-60d4-448e-9cf9-7c51b1947700
+body: |2-
+  'In Dragon, names are lists of strings which correspond to a hierarchy of modules, e.g. [“org/example/mytypes”, “MyOuterType”, “MyInnerType”]'

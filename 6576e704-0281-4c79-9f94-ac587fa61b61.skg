@@ -1,0 +1,8 @@
+title: Why this broke things
+pid: 6576e704-0281-4c79-9f94-ac587fa61b61
+body: |2-
+  Docker sets up default subnets for its internal containers unless told otherwise.
+
+  If one of these subnets overlaps with a real external network, Docker’s route takes priority.
+
+  As a result, traffic meant for the WiFi network gets misrouted to Docker, and fails silently.

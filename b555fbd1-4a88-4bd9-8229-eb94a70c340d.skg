@@ -1,0 +1,5 @@
+title: notation
+pid: b555fbd1-4a88-4bd9-8229-eb94a70c340d
+body: |2-
+  Postfix dot and prefix space notation are both available
+  (at least for getters, maybe for setters too).

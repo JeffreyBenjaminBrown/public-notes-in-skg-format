@@ -1,0 +1,9 @@
+title: central idea
+pid: d3c2a6c5-6e19-4d55-8c46-e54fd2f99ef8
+body: |2-
+  Frequency * gauge seemed to stay in a somewhat narrow band.
+  Call that the "frequency-gauge semi-invariant", or FGSI.
+  So given two frequency-gauge pairs (f1,g1) and (f2,g2),
+  and a frequency f between them (actually outside them works too),
+  this finds an interpolated FGSI somewhere between f1 and f2,
+  and extracts g by dividing by f.

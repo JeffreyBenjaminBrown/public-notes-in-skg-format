@@ -1,0 +1,14 @@
+title: frets
+pid: ba38ec72-acaa-4ccf-b4a1-1158fd8f78c1
+body: |2-
+  84 steps = 2 % 1   : string 4   fret 2
+  49 steps = 3 % 2   : string 3   fret - 2
+  27 steps = 5 % 4   : string 1   fret 2
+  68 steps = 7 % 4   : string 4   fret - 2
+  39 steps = 11 % 8  : string 1   fret 5
+  59 steps = 13 % 8  : string 1   fret 10
+  7 steps  = 17 % 16 : string 1   fret - 3
+  21 steps = 19 % 16 : string - 1 fret 10
+  44 steps = 23 % 16 : string 0   fret 11
+  72 steps = 29 % 16 : string 4   fret - 1
+  80 steps = 31 % 16 : string 4   fret 1

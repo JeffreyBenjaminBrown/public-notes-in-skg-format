@@ -1,0 +1,10 @@
+title: Computing a type
+pid: 73f0bba0-0122-416c-8c99-9a3903e9453d
+body: |2-
+  mkSingle : (x : Bool) -> isSingleton x
+  mkSingle True = 0
+  mkSingle False = []
+
+  isSingleton : Bool -> Type
+  isSingleton True = Nat
+  isSingleton False = List Nat

@@ -1,0 +1,4 @@
+title: Links anywhere in the subtree below a node call that node the source
+pid: f728208f-431e-4385-b466-7357f5e45232
+body: |2-
+  but the `pos` is still relative to the file containing the node.

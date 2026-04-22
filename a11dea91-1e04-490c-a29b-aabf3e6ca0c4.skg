@@ -1,0 +1,7 @@
+title: 'voice     = 0.5 : pulse width'
+pid: a11dea91-1e04-490c-a29b-aabf3e6ca0c4
+body: |2-
+  0.01 = very nasal
+  Symmetric around 0.5
+  Inaudible at 0 or 1.
+  [[id:29480c45-3d45-41bb-a91c-e152a893d6ca][Fun thing to vary quickly]].

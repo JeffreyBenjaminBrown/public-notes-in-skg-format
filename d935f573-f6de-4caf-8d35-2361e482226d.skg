@@ -1,0 +1,4 @@
+title: avoiding race conditions
+pid: d935f573-f6de-4caf-8d35-2361e482226d
+body: |2-
+  https://docs.djangoproject.com/en/3.0/ref/models/expressions/#avoiding-race-conditions-using-f

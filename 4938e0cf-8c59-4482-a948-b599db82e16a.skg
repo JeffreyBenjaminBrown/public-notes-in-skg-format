@@ -1,0 +1,10 @@
+title: 'quantise n pat : rond values in pat to multiples of n'
+pid: 4938e0cf-8c59-4482-a948-b599db82e16a
+body: |2-
+  quantise :: (Functor f, RealFrac b) => b -> f b -> f b
+  Tell it what to round to multiples of.
+contains:
+- ceb19631-8f5b-4524-8590-fc624d0db9e0
+- 5f6451e1-1a0f-479f-9e5c-776762855d2b
+misc:
+- Had_ID_Before_Import

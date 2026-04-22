@@ -1,0 +1,5 @@
+title: syntax
+pid: a949a1fb-af02-453e-830e-1bc67570becd
+body: |2-
+  The (!) operator is right-associative, so this works:
+  pid1 ! pid2 ! message

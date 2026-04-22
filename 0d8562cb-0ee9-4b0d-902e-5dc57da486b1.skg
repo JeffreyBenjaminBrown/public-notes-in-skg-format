@@ -1,0 +1,4 @@
+title: list them
+pid: 0d8562cb-0ee9-4b0d-902e-5dc57da486b1
+body: |2-
+  ls /boot/loader/entries

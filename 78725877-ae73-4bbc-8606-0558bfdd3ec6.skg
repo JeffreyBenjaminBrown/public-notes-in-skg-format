@@ -1,0 +1,5 @@
+title: 'The solution was to add an ellipsis:'
+pid: 78725877-ae73-4bbc-8606-0558bfdd3ec6
+body: |2-
+    {config, lib, pkgs, options, modulesPath, ...}:
+  "so that unknown arguments are ignored".

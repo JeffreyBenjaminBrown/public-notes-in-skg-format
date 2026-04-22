@@ -1,0 +1,5 @@
+title: Collisions are possible.
+pid: cc902b1a-179b-40a9-8f7d-42b74fb029eb
+body: |2-
+  That is, two different kmers can map to the same bucket.
+  If there aren't a lot of collisions, they won't affect speed much.

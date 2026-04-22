@@ -1,0 +1,6 @@
+title: the signature is just like lens
+pid: b72a6e10-60a5-4509-8b05-640d7862fc7a
+body: |2-
+  in `Traversal s t a b`,
+  s and t are the pre and post action structures,
+  and a and b are the pre and post action focii.

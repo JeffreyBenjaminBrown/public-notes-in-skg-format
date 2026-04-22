@@ -1,0 +1,7 @@
+title: 'A simpler case: Incorporate and ignore.'
+pid: 645cadd7-82b4-46f3-8aea-3b5b70825ea9
+body: |2-
+  Two kinds of ignore: In a document, and globally.
+  To incorporate a branch B of foreign content C
+  is to link to it,
+  and maybe to ignore it when in the context of C.

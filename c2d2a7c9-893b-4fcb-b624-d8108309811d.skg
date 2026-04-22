@@ -1,0 +1,9 @@
+title: how to do it, I think
+pid: c2d2a7c9-893b-4fcb-b624-d8108309811d
+body: |2-
+  if anything in a POr is not specific, then it is not
+  if anything in a PAnd is specific, then it is
+  if both parts of a Diff are specific, then it is
+    Theoretically, the part being subtracted could be vague.
+    But that's not how it's implemented -- both parts have to be found,
+    then the one is subtracted from the other.

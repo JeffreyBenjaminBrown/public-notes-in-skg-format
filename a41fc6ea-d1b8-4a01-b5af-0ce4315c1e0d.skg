@@ -1,0 +1,13 @@
+title: '135 10 33: 0-idx 5 strings by 8 frets'
+pid: a41fc6ea-d1b8-4a01-b5af-0ce4315c1e0d
+body: |2-
+  ( Edo 135 ; StringGap 33 ; FretGap 10
+  , 56
+      [ 0 steps; 1 % 1 ; string 0 ; fret 0
+      , 135 steps; 2 % 1 ; string 5 ; fret - 3
+      , 79 steps; 3 % 2 ; string 3 ; fret - 2
+      , 43 steps; 5 % 4 ; string 1 ; fret 1
+      , 109 steps; 7 % 4 ; string 3 ; fret 1
+      , 23 steps; 9 % 8 ; string 1 ; fret - 1
+      , 62 steps; 11 % 8 ; string 4 ; fret - 7
+      , 95 steps; 13 % 8 ; string 5 ; fret - 7

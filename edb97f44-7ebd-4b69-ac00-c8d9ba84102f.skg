@@ -1,0 +1,8 @@
+title: so do this
+pid: edb97f44-7ebd-4b69-ac00-c8d9ba84102f
+body: |2-
+  Log in as root, not self.
+  Remove all users from configuration.nix
+  Rebuild and switch.
+  Add user again, this time with the ID specified.
+  Rebuild and switch.

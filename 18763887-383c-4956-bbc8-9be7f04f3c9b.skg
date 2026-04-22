@@ -1,0 +1,4 @@
+title: sync_send_event/2-3
+pid: 18763887-383c-4956-bbc8-9be7f04f3c9b
+body: |2-
+  "synchronous events to be picked up by [any?] StateName/3"

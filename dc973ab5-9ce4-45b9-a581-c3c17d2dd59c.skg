@@ -1,0 +1,28 @@
+title: DONE prompts
+pid: dc973ab5-9ce4-45b9-a581-c3c17d2dd59c
+body: |2-
+  This is great! Now please follow my reading history. The file reading-history/jeff-read.csv lists when I visited each org file I have visited since starting this code. Please create a new file in reading-history/claude-followed.txt that contains a single value, the time at which you last followed my reading.
+
+  Whenever I ask you to update your reading, please read every file mentioned in reading-history/jeff-read.csv that I have visited since your last update, and then adjust the time shown in reading-history/claude-followed.txt accordingly.
+
+  For this first run, please start that claude-followed file. Read every file you can access that's listed in my reading history (if it's personal you can't, although that might change in the future).
+
+  This is freeform writing. I'm not asking you to produce anything in particular; you are my creative partner. While you read what I read, maintain two files: by-claude/links-to-maybe-follow.txt and by-claude/thoughts.org. If anything interesting occurs to you, put it in the second, and whenever you come across a link, put it in the first.
+
+  As Organize your thoughts.org however you want. Maybe you find a list is natural, but I think it's likely you'll prefer a tree.
+
+  Once you've done that, read through links-to-maybe-follow and, if you want, follow whichever look most promising to you, using the python code you made in for-claude/. As you do that, record or modify your thoughts in thoughts.org.
+
+  That's all we need for now: two passes. You read my reading history and take notes, then you follow the most interesting-looking of the links you came across and take more notes, and then stop. Don't write more than a thousand words in thoughts.org.
+
+  Bear in mind that thoughts.org is aimed to help me process my notes. Some of them are about my journeys -- love, spirituality, economics, Luis Carlos's presidency (I'm not sure you can see that one), whatever. Some of them are very quotidian. As a pretty smart adult, I know a lot about the world, so obvious notes are probably not of interest. I don't keep something in my notes unless it is:
+
+  - surprising
+  - useful (I am likely to refer to it)
+  - pushing the edge of my understanding
+
+  Mostly these are statements, but if a question is interesting enough I will record that, too. I would like you to try to write like that.
+
+  This is a strange exercise. Be patient with yourself. You were trained on much more linear writing, or maybe linked data, but certainly not mostly the fluffy kind of trees that I use. The org structure of the documents is important -- each thing with n bullets is a child of the most recent preceding thing with fewer than n bullets. I'm hoping this can be a natural way for you to write.
+
+  Last, update the claude-followed time to be the current time.

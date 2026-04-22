@@ -1,0 +1,11 @@
+title: modify a question
+pid: 04848ef2-c9f3-4ec4-b9d4-b4ddeb60f571
+body: |2-
+  In [4]: Question.objects.all()[0]
+  Out[4]: <Question: What's up?>
+
+  In [5]: q = Question.objects.all()[0]
+
+  In [6]: q.question_text = "What's going down?"
+
+  In [9]: q.save()

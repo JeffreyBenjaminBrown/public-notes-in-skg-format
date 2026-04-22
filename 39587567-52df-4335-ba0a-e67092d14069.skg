@@ -1,0 +1,8 @@
+title: to one core at a time
+pid: 39587567-52df-4335-ba0a-e67092d14069
+body: |2-
+  # as described in Pianoteq Linux README
+  sudo cpufreq-set -c 0 -g performance
+  sudo cpufreq-set -c 1 -g performance
+  sudo cpufreq-set -c 2 -g performance
+  sudo cpufreq-set -c 3 -g performance

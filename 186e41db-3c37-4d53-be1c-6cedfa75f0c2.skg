@@ -1,0 +1,14 @@
+title: first load this code
+pid: 186e41db-3c37-4d53-be1c-6cedfa75f0c2
+body: |2-
+  black_knight(Attack) when is_function(Attack, 0) ->
+      try Attack() of
+      _ -> "None shall pass."
+      catch
+      throw:a -> "It is but a scratch.";
+      error:b -> "I've had worse.";
+      exit:c -> "Come on you pansy!";
+      _ -> "I caught that.";
+      exit:_ -> "Run away! Run away!";
+      _:_ -> "Just a flesh wound."
+      end.

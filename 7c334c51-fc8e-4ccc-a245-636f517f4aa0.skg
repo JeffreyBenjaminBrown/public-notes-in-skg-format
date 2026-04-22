@@ -1,0 +1,6 @@
+title: un-sudo, ala https://docs.docker.com/install/linux/linux-postinstall/
+pid: 7c334c51-fc8e-4ccc-a245-636f517f4aa0
+body: |2-
+  sudo groupadd docker
+  sudo usermod -aG docker $USER
+  docker run hello-world    # verify

@@ -1,0 +1,9 @@
+title: A "default" case lets a "select" try a channel without blocking.
+pid: 981bf8f6-dd16-45e4-8631-2d3788dff99a
+body: |2-
+  select {
+    case i := <-c:
+      // use i
+    default:
+      // receiving from c would block
+  }

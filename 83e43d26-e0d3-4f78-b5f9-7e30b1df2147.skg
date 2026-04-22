@@ -1,0 +1,8 @@
+title: the idea
+pid: 83e43d26-e0d3-4f78-b5f9-7e30b1df2147
+body: |2-
+  One hand plays the "adjustment" interface.
+  Buttons on that interface map to specific signed cent values.
+  If a player presses one, that adjustment will be applied to the pitch class of the next note played in the ordinary ("keyboard") interface.
+  A special button allows the entire keyboard to be shifted, rather than a single note. Another special button wipes all adjustments. A third is for storage.
+  Keys with stored errors blink to indicate they sound different from the unadjusted EDO.

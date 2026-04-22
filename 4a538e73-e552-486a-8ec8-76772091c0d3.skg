@@ -1,0 +1,7 @@
+title: 'PITFALL: true and false are ordinary atoms.'
+pid: 4a538e73-e552-486a-8ec8-76772091c0d3
+body: |2-
+  Comparing them with < and > to other things
+  is a potential source of error.
+misc:
+- Had_ID_Before_Import

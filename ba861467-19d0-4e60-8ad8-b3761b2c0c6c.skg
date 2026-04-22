@@ -1,0 +1,5 @@
+title: The useful shell is accessed from a [useless?] one.
+pid: ba861467-19d0-4e60-8ad8-b3761b2c0c6c
+body: |2-
+  C-M-t opens the "crosh" (ChromeOS shell) shell.
+  From within that, run "shell" to get a normal Bash shell.

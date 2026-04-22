@@ -1,0 +1,4 @@
+title: toListOf (flip (^..))
+pid: 09cf0e8f-b717-493e-98c2-f8f6a8599af4
+body: |2-
+  is like view (flip (^.)) but returns a list of focii

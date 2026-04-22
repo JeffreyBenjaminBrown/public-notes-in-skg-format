@@ -1,0 +1,4 @@
+title: reflexivity is, so far, implicit
+pid: 80301f3b-3bfc-4a3c-847e-3a097b5ee2ca
+body: |2-
+  "Transitive" in Hode really means "transitive + reflexive".

@@ -1,0 +1,35 @@
+title: middle passage seems good
+pid: d60c3aa1-186e-4e14-ac7d-d79d7a1c4169
+body: |2-
+   these derivations will be built:
+     /nix/store/7w38n6m5pfw4czq8hqv3660h61x29p0f-ghc-8.10.3-with-packages.drv
+     /nix/store/sm9kijvljrpdrrilpcjji28dmk540wv9-ShakeConfig.hs.drv
+     /nix/store/shfcl6gxzsf2b9ss078x48bh3ny1rvzh-setup.sh.drv
+   these paths will be fetched (223.83 MiB download, 2812.67 MiB unpacked):
+     /nix/store/09hpjhgmpwxc8jqspajz2bcl8s9c5wnc-primitive-0.7.1.0
+     /nix/store/0bbxjidnp1pp31a27jp29r1h5n3kydd6-monad-control-1.0.2.3-doc
+     /nix/store/0ifa6b40j74jfkghyyir801r0wn0ginp-hashable-1.3.1.0-doc
+
+  ... << many momre "/nix/store" lines like that >>
+
+   copying path '/nix/store/9468v303q48066aych1cy7ddd40b3dyd-libsamplerate-elaforge' from 'https://elaforge.cachix.org'...
+   copying path '/nix/store/z1sx136p21ipwg3h5kj3bdky19js2a7n-openlilypond-font-bravura-53c7744' from 'https://cache.nixos.org'...
+   copying path '/nix/store/gfl30j3311cimjgxl0q1d4734rwrcisp-c2hs-0.28.7-data' from 'https://elaforge.cachix.org'...
+
+   ... << many momre "copying" lines like that >>
+
+   copying path '/nix/store/i7vdazv51gw82xxri9zsq3fixfkcm4aa-fltk-1.4-3bb3429670f29bbf82424ce234d914201eee2d3f' from 'https://elaforge.cachix.org'...
+   building '/nix/store/sm9kijvljrpdrrilpcjji28dmk540wv9-ShakeConfig.hs.drv'...
+   building '/nix/store/shfcl6gxzsf2b9ss078x48bh3ny1rvzh-setup.sh.drv'...
+   copying path '/nix/store/nz6dy8l5g2cq3ja0bwkckyk0770xq10b-base-compat-0.11.2-doc' from 'https://elaforge.cachix.org'...
+
+   ... << many momre "copying" lines like that >>
+
+   building '/nix/store/7w38n6m5pfw4czq8hqv3660h61x29p0f-ghc-8.10.3-with-packages.drv'...
+   /nix/store/a7pk0bpgmf65ilwkp3kh11as70bn9dm9-cryptohash-md5-0.11.100.1/nix-support:
+   propagated-build-inputs: /nix/store/n1zmgjn34ql72vpnn9wxpdpwlp27y5wl-hsndfile-vector-0.5.2/nix-support/propagated-build-inputs
+   /nix/store/pwgbvvir925icdyl4fdpx02axza1c6j3-bindings-portaudio-0.3/nix-support:
+   propagated-build-inputs: /nix/store/n1zmgjn34ql72vpnn9wxpdpwlp27y5wl-hsndfile-vector-0.5.2/nix-support/propagated-build-inputs
+   /nix/store/q1gf8nn05s41bg5i6lbv6qp69lw7kp2x-zmidi-core-0.9.0/nix-support:
+
+   ... << many more "propagated-build-inputs" lines like that >> ...

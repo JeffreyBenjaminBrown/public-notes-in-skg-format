@@ -1,0 +1,4 @@
+title: apt upgrade
+pid: 024da127-78cc-4519-bc27-1f20d9d3e6da
+body: |2-
+  sudo apt update && sudo apt upgrade -y

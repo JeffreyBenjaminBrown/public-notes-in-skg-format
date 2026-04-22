@@ -1,0 +1,32 @@
+title: experiments
+pid: c4892bbe-1a6d-4970-8c31-5f8610584c78
+body: |2-
+  #+BEGIN_SRC haskell
+  setcps 0.4
+
+  -- -36 is pretty inharmonic
+  d1 $ s "supervibe" |*| n "[-48,-24] -36"
+    |+| ( let pat = "0 7 14"
+          in n $ stack [ slow (3/4) $ pat + 12,
+  		pat,
+  		slow 2 $ 0.5 <~ (pat + 24) ] )
+
+  d1 $ s "supervibe"
+    |*| n "-12 0 12 24 36 48"
+
+  d1 $ s "supervibe"
+    |*| n (slow 3 "-12 0 12 24 36 48")
+    |* modamp (rand * (-8)) |* modfreq (10 * rand)
+
+  d1 $ stack [ s "supervibe" |*| n 0
+               |*| velocity "~ -1 0 1 10"
+               |*| amp      "1 1  1 1 0.3"
+             , s "bd" ]
+
+  d1 $ slow 2 $ s "supervibe"
+    |*| n ( let pat = "0 2.7 [5 2.7] 7 [7.7 7] 9.7"
+            in stack [ palindrome $ pat
+                     , slow (3/2) (0.5 <~ pat) - 12
+                     , fast 2 $ palindrome $ pat |+| "14.7 19"
+                     ] )
+  #+END_SRC

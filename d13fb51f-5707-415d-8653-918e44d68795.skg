@@ -1,0 +1,4 @@
+title: Substitute folder path into image name.
+pid: d13fb51f-5707-415d-8653-918e44d68795
+body: |2-
+  See, e.g., how "name_augmented" is passed from polls.views to the silly-form templates.

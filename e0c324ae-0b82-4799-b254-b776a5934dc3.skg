@@ -1,0 +1,5 @@
+title: TypeDB sessions are ACID-guaranteed "up to snapshot isolation".
+pid: e0c324ae-0b82-4799-b254-b776a5934dc3
+body: |2-
+  snapshot isolation:
+  https://typedb.com/docs/home/acid#_isolation

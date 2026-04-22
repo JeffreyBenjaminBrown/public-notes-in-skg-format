@@ -1,0 +1,10 @@
+title: scheme
+pid: 52c57041-d722-4dbf-8711-fcacb806fd99
+body: |2-
+  match <pattern>
+    [get <variable> [(, <variable>)...];]
+    [sort <variable> [asc|desc];]
+    [offset <value>;]
+    [limit <value>;]
+    [group <variable>;]
+    [count;] | [sum|max|min|mean|median|std <variable>;]

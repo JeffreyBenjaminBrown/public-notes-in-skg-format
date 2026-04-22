@@ -1,0 +1,7 @@
+title: connect via SSH
+pid: 301c1834-1e01-4678-a06c-fd965c34bc17
+body: |2-
+  ssh  -i  ~/code/aws/secret/2021-04-14.1.pem  ubuntu@34.204.60.103
+contains:
+- 6c300680-6164-4156-8721-e022adeb6717
+- 2c63de43-63a2-4ec5-bf7c-3c1a47fbbf82

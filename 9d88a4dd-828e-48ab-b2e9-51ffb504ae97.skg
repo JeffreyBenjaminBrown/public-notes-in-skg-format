@@ -1,0 +1,12 @@
+title: The hypergraph index will permit precise querying.
+pid: 9d88a4dd-828e-48ab-b2e9-51ffb504ae97
+body: |2-
+  Appropriate hypergraph data will permit the kind of precise query nobody in the general public can run for themselves:
+
+  - A social media feed algorithm: "Things friends have published online, ordered by recency, excluding anything about sports unless it involves statistics, and excluding anything Mom thought was sad."
+
+  - Productivity tricks: "All of my emails that discuss any of the events (visible to me) on Alice's calendar." "Projects I work on blocked by projects Bob works on." ""Diet recommendations from vegan athletes that don't involve beans."
+
+  - Verification: "Content by authors I trust addressing [claim]." "Instances in which [author] contradicts themselves." "Pairs of posts about [topic] in which [author] and [author] agree."
+
+  Any conceivable query can be expressed as a hypergraph query, and if the index is sufficiently thorough, can be answered transparently, deterministically, and completely -- characteristics that stand in noteworthy contrast to the oracular nature of responses from both private search engines and neural networks.

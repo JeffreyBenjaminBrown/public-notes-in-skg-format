@@ -1,0 +1,4 @@
+title: Stop v. Pause
+pid: 607a4216-243b-4176-ac46-eb8adaa80828
+body: |2-
+  Stop returns the cursor to where it started.

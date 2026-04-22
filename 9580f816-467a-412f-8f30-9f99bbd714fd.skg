@@ -1,0 +1,26 @@
+title: it
+pid: 9580f816-467a-412f-8f30-9f99bbd714fd
+body: |2-
+  (define-key ;; unbind a Haskell-mode sequence I don't use
+   interactive-haskell-mode-map (kbd "C-c TAB") nil)
+
+  (define-key outline-minor-mode-map (kbd "C-c TAB")
+    'outline-cycle)
+
+  (define-key outline-minor-mode-map (kbd "C-c C-<tab>")
+    'outline-cycle-buffer)
+  (define-key outline-minor-mode-map (kbd "C-c M-<left>")
+    'outline-promote)
+  (define-key outline-minor-mode-map (kbd "C-c M-<right>")
+    'outline-demote)
+  (define-key outline-minor-mode-map (kbd "C-c M-<up>")
+    'outline-move-subtree-up)
+  (define-key outline-minor-mode-map (kbd "C-c M-<down>")
+    'outline-move-subtree-down)
+  (define-key outline-minor-mode-map (kbd "C-c C-o") 'outline-hide-other)
+  (define-key outline-minor-mode-map (kbd "C-c C-a") 'outline-show-all)
+  (define-key outline-minor-mode-map (kbd "C-c C-n") 'outline-next-visible-heading)
+  (define-key outline-minor-mode-map (kbd "C-c C-p") 'outline-previous-visible-heading)
+  (define-key outline-minor-mode-map (kbd "C-c C-u") 'outline-up-heading)
+  (define-key outline-minor-mode-map (kbd "C-c @"  ) 'outline-mark-subtree)
+  (define-key outline-minor-mode-map (kbd "C-c RET") 'outline-insert-heading)

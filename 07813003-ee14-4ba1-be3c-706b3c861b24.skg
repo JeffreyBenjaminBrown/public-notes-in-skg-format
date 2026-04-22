@@ -1,0 +1,9 @@
+title: Programs in Dispatch that refer to "amp" and need changing
+pid: 07813003-ee14-4ba1-be3c-706b3c861b24
+body: |2-
+  if I am to use "on" together with "amp"
+
+  Abbrevs
+  Msg.Act
+  Museq.Mk
+  Dispatch (only in a comment)

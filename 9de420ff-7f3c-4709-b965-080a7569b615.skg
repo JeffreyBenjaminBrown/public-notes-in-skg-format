@@ -1,0 +1,6 @@
+title: why it happens
+pid: 9de420ff-7f3c-4709-b965-080a7569b615
+body: |2-
+  By default, the `requests` library retries a lot (forever?)
+  if it doesn't establish a connection,
+  to which the server can respond with this error.

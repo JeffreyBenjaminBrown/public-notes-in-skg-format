@@ -1,0 +1,9 @@
+title: strip the file extension from a path \ Python\
+pid: c6f64f15-e8f7-4fc9-b099-04b7276bd82b
+body: |2-
+  import os
+
+  os.path.splitext ( "a/b/c/d.e" )
+  ('a/b/c/d', '.e')
+misc:
+- Had_ID_Before_Import

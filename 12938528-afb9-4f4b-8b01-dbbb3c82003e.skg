@@ -1,0 +1,5 @@
+title: I suspect the problem is that it needs xfwm, which means no xmonad.
+pid: 12938528-afb9-4f4b-8b01-dbbb3c82003e
+body: |2-
+  search "xfwm" here:
+  https://forum.xfce.org/viewtopic.php?id=12328

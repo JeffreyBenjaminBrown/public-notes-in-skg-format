@@ -1,0 +1,10 @@
+title: shell tools for structured data
+pid: c444f70b-f19a-417c-9064-1f5df4c3d803
+body: |2-
+  = tools like grep, sed, awk but for CSV, JSON, more
+contains:
+- 39ce1399-15b6-47f8-a9fb-484796efa9ea
+- e5c5b33f-655f-4f79-baf6-617ed91404b7
+- 7272e218-94eb-46d4-ae58-bd2726310493
+misc:
+- Had_ID_Before_Import

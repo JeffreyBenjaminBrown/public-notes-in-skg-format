@@ -1,0 +1,19 @@
+title: example
+pid: 879c520a-b5e1-465b-8aed-b69b2c4b4068
+body: |2-
+  #+begin_src rust
+  enum Coin {
+      Penny,
+      Nickel,
+      Dime,
+      Quarter {state : State},
+  }
+  fn value_in_cents(coin: Coin) -> u8 {
+      match coin {
+          Coin::Penny => 1,
+          Coin::Nickel => 5,
+          Coin::Dime => 10,
+          Coin::Quarter(state) => {
+              println!("State quarter from {state:?}!");
+              25 } } }
+  #+end_src

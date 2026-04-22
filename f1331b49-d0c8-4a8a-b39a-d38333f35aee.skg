@@ -1,0 +1,7 @@
+title: signature
+pid: f1331b49-d0c8-4a8a-b39a-d38333f35aee
+body: |2-
+  -- truth
+  non :: Eq a => a -> Iso' (Maybe a) a
+  -- For all intents and purposes we'll pretend it has this signature:
+  non :: Eq a => a -> Traversal' (Maybe a) a

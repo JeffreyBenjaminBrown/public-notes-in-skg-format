@@ -1,0 +1,19 @@
+title: DONE give it search power
+pid: 0a10cbdd-d9f5-4a7c-8e0b-709b926a9db0
+body: |2-
+  Well that was cool.
+
+  Your notes were on me. And flattering. Thanks, but that's not the goal. I want you to help me work on whatever ideas I'm working on. Don't focus on me; focus on the idea.
+
+  That said, feel free to keep a file in for-claude called 'how-to-read-jeffs-notes.org' (probably should not include an apostrophe in that name, even if jeff's would look less dumb than jeffs). In it you can if you wish keep a branch about me -- but only if you wish! I'm trying not to tell you what to do, just what you can do.
+
+  That's just a freedom you have; don't use it unless you see reason to. The goal of this prompt is to enable you to search.
+
+  There should be something in the org-roam db that associates files with titles and aliases. For instance, the file `public/love.org` has the alias 'love' (as is listed in its third line, ':ROAM_ALIASES: love'), and the title 'love ,, brotherly & romantic & self-respect'. Also it has the ID recorded on its second line:
+  ```
+  :ID:       a4897164-eb28-4c26-8f26-c8ac98f2db16
+  ```
+
+  You should be able to search the org-roam database for "love" and find a lot of possible matches. Searching for something matching "love" and "bro*" should only return that file, because nothing else has both terms in it. Can you do that?
+
+  If so, add some python code to for-claude for doing that.

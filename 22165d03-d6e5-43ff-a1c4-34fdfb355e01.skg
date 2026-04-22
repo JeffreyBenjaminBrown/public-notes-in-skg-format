@@ -1,0 +1,6 @@
+title: laziness
+pid: 22165d03-d6e5-43ff-a1c4-34fdfb355e01
+body: |2-
+  Because evaluating a whole sequence before playing any of it can cause a huge dealy.
+contains:
+- dd13b12e-83b9-4e72-aff7-03a770ff8350

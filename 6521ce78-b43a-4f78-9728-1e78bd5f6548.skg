@@ -1,0 +1,7 @@
+title: to try something temporarily
+pid: 6521ce78-b43a-4f78-9728-1e78bd5f6548
+body: |2-
+  nix-shell -p <package name>
+
+  It will stay in /nix/store until that is garbage-collected,
+  but will not become part of the config.

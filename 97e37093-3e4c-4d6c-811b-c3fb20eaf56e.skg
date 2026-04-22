@@ -1,0 +1,5 @@
+title: add snap installations to PATH
+pid: 97e37093-3e4c-4d6c-811b-c3fb20eaf56e
+body: |2-
+  # append this line to ~/.profile
+  PATH=$PATH:/snap/bin

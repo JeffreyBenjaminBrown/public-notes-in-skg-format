@@ -1,0 +1,10 @@
+title: '`unwrap` calls `panic!` on errors.'
+pid: dbf30e7e-75b6-4d4d-b68d-ae3c8605d472
+body: |2-
+  #+begin_src rust
+  use std::fs::File;
+
+  fn main() {
+      let greeting_file = File::open("hello.txt").unwrap();
+  }
+  #+end_src

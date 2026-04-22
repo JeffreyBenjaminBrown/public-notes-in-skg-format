@@ -1,0 +1,6 @@
+title: What's "segment" for?
+pid: 7fb8fb28-526a-4e2a-a9d7-bda91f97748f
+body: |2-
+  e.g. from here:
+    https://club.tidalcycles.org/t/creating-effects-chains-or-audio-buses/3707/3
+    d2 $ crushbus 1 (segment 128 $ range 6 1.1 (slow 4 saw))

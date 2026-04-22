@@ -1,0 +1,4 @@
+title: '3\36 x 4\36 : octave 8-3'
+pid: 851267e5-b504-460c-a4ee-a17ba5fb27cf
+body: |2-
+  myPrint $ map concat $ printLayout (primesOctave1 23) (show . numerator) 36 (3,4)

@@ -1,0 +1,19 @@
+title: Octave equivalence is important.
+pid: 40bd7dbf-944d-49ad-8cc0-b7aeffe9e3fe
+body: |2-
+  Harmony would be a lot harder if every note sounded completely different to us.
+  But for some reason, doubling or halving the frequency of a note
+  yields a note that sounds, in some sense, the same.
+  Not literally the same; obviously 220 hz is lower than 440 hz.
+  But they sound so similar that we are willing to call both notes 'A'.
+
+  Musicians don't tend to talk about doubling frequency.
+  They instead talk about going 'up an octave'.
+  If you quadruple the frequency, you have raised the note by two octaves. Etc.
+
+  (Mathematically, the concept of octave is a 'logarithmic' one.
+  It lets us convert ratios to differences.
+  For instance, in 12-edo, rather than talk about ratios of 3:2,
+  we can talk about "intervals" that span 7 of the 12 steps.
+  Addition is easier than multiplication,
+  so EDOs can simplify the math of harmonies.)

@@ -1,0 +1,6 @@
+title: backup the .ssh/ folder
+pid: bfcfaeed-4753-4a64-99f0-2c2ec70e16d6
+body: |2-
+  cp -r .ssh dot-ssh/
+contains:
+- 895553c7-1ed4-469f-9e92-0531dcaafcc8

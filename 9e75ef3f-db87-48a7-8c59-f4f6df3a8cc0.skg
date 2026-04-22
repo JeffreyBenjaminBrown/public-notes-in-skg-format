@@ -1,0 +1,9 @@
+title: 22-edo
+pid: 9e75ef3f-db87-48a7-8c59-f4f6df3a8cc0
+body: |2-
+  TET-optimal, mistunings (cents)
+    [-1.106, 5.377, -7.059, 9.876, -9.684⟩ -- 11-lim
+    [-1.803, 4.268, -8.674, 7.912⟩         -- 7-limit
+    [-0.861, 5.766, -6.491⟩                -- 5-limit
+  Without octave stretch:
+    [0.000, 7.136, -4.496, 12.992, -5.863⟩

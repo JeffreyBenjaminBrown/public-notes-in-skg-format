@@ -1,0 +1,6 @@
+title: signing might matter
+pid: 9859e227-41e1-4aa2-ab79-2202fe22060f
+body: |2-
+  The Lubuntu one, at least, looks like it was signed --
+  that is, it's provided along with gpg keys --
+  but I did not test the signature.

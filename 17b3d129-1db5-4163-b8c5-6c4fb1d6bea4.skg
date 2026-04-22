@@ -1,0 +1,6 @@
+title: DRY applies to types as well as functions.
+pid: 17b3d129-1db5-4163-b8c5-6c4fb1d6bea4
+body: |2-
+  With perhaps different implications --
+  if the same data appears in multiple places,
+  those places have to be kept in sync.

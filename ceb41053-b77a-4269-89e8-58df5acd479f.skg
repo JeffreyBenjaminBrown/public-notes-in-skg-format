@@ -1,0 +1,4 @@
+title: Use ~p to print many kinds (any kind?) of data.
+pid: ceb41053-b77a-4269-89e8-58df5acd479f
+body: |2-
+  io:format( "~p~n", [[2,{3,4},"hi",5]] ).

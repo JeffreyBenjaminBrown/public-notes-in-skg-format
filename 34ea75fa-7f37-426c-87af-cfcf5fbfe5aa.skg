@@ -1,0 +1,11 @@
+title: The `source` command is not available by default.
+pid: 34ea75fa-7f37-426c-87af-cfcf5fbfe5aa
+body: |2-
+  But it can be made available by changing the shell:
+
+  SHELL ["/bin/bash", "-c"] # `source` below fails without this.
+  RUN python3 -m venv /root/.venv              && \
+      source          /root/.venv/bin/activate && \
+      pip3 install -r /root/requirements-for-pip.txt
+misc:
+- Had_ID_Before_Import

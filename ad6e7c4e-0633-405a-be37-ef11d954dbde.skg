@@ -1,0 +1,5 @@
+title: implement new commands
+pid: ad6e7c4e-0633-405a-be37-ef11d954dbde
+body: |2-
+  M-w e - <new> Show error "buffer". (Why is this not a proper buffer?)
+  M-w r - <new> Toggle reassurance window.

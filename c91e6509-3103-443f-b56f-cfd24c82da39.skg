@@ -1,0 +1,11 @@
+title: examples
+pid: c91e6509-3103-443f-b56f-cfd24c82da39
+body: |2-
+  admin_panel(#user{name=Name, group=admin}) ->
+      Name ++ " is allowed!";
+  ...
+
+  adult_section(U = #user{}) when U#user.age >= 18 ->
+      %% Show naughty stuff.
+      allowed;
+  ...

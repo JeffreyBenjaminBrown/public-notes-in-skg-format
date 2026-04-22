@@ -1,0 +1,8 @@
+title: names in pattern matches
+pid: 25f98e47-2bf4-44cd-bfe8-91e7b8e61d10
+body: |2-
+  case xs {
+    [[_, ..] as inner_list] -> inner_list
+      # The _ ensures the list is nonempty.
+    other -> []
+  }

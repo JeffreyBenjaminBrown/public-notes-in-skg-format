@@ -1,0 +1,5 @@
+title: Maybe not all n-1 potential swaps should be considered.
+pid: 65da187f-75d1-4acb-971a-effa91994417
+body: |2-
+  It seems expensive.
+  A simpler strategy would be to simply consider swaps at random.

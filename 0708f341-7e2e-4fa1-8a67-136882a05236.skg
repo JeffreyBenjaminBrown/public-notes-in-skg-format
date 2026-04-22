@@ -1,0 +1,8 @@
+title: defining one
+pid: 0708f341-7e2e-4fa1-8a67-136882a05236
+body: |2-
+  [myord] Ord Nat where
+     compare Z (S n)     = GT
+     compare (S n) Z     = LT
+     compare Z Z         = EQ
+     compare (S x) (S y) = compare @{myord} x y

@@ -1,0 +1,6 @@
+title: PipeWire offers an `extraconfig.jack` option
+pid: 22d90c2d-7be7-43c3-89e3-11969455d78a
+body: |2-
+  https://search.nixos.org/options?channel=24.11&show=services.pipewire.extraConfig.jack
+contains:
+- ef9f1680-2fa1-4413-83a8-05b295131139

@@ -1,0 +1,7 @@
+title: 'Solution: Tell Docker to use a different subnet'
+pid: 23afbebb-b3e4-4e4c-9c4f-197c67ee33d2
+body: |2-
+  There are at least two ways to fix it:
+contains:
+- 5846802f-31c5-43aa-b561-2f61f7a61262
+- ffafb1de-a484-40b6-914d-b3c94f4194dd

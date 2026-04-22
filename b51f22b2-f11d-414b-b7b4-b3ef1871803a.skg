@@ -1,0 +1,5 @@
+title: to stop
+pid: b51f22b2-f11d-414b-b7b4-b3ef1871803a
+body: |2-
+  https://erlang.org/doc/design_principles/events.html#stopping
+  I didn't entirely get it.

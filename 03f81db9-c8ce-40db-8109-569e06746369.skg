@@ -1,0 +1,8 @@
+title: crux
+pid: 03f81db9-c8ce-40db-8109-569e06746369
+body: |2-
+  Containment can be replaced with 'show this relationship',
+  and the relationship label can be a list of strings,
+  perhaps often a singleton character like & or /.
+  It would be smart to collect the set of such labels one had used,
+  and classify them, for future use.

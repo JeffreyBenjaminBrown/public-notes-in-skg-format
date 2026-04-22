@@ -1,0 +1,8 @@
+title: demo
+pid: ceb19631-8f5b-4524-8590-fc624d0db9e0
+body: |2-
+  #+BEGIN_SRC haskell
+    d1 $ s "supersaw*8" |* n (             tri * 5 + 2)
+
+    d1 $ s "supersaw*8" |* n (quantize 1 $ tri * 5 + 2)
+  #+END_SRC

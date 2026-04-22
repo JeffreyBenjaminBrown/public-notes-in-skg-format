@@ -1,0 +1,12 @@
+title: (3,23)
+pid: 9ba87210-da8e-42a3-8c3f-fff7bd474d48
+body: |2-
+  , tReport_modulus = 3
+  , tReport_spacing = 23
+  , tReport_intervalReports =
+      [ 133 steps = 2 % 1: string 5 fret 6
+      , 107 steps = 7 % 4: string 4 fret 5
+      , 93 steps = 13 % 8: string 3 fret 8
+      , 78 steps = 3 % 2: string 3 fret 3
+      , 61 steps = 11 % 8: string 2 fret 5
+      , 43 steps = 5 % 4: string 2 fret -1

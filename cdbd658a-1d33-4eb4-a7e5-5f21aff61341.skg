@@ -1,0 +1,8 @@
+title: the term URLCONF
+pid: cdbd658a-1d33-4eb4-a7e5-5f21aff61341
+body: |2-
+  ROOT_URLCONF is defined in settings.py -- e.g.
+    ROOT_URLCONF = 'ebdjango.urls'
+  Each urls.py file is another URLCONF.
+  They can refer to each other in a tree shape.
+    (I assume cycles aren't allowed.)

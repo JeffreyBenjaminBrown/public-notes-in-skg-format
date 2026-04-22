@@ -1,0 +1,10 @@
+title: Flatten nested cases in do-notation with pattern match alternatives.
+pid: 82652a37-1769-48c5-b876-7e16d0a0eb46
+body: |2-
+  readNumbers : IO (Maybe (Nat, Nat))
+  readNumbers
+    = do Just x_ok <- readNumber
+              | Nothing => pure Nothing
+         Just y_ok <- readNumber
+              | Nothing => pure Nothing
+         pure (Just (x_ok, y_ok))

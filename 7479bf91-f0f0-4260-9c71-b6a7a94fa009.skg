@@ -1,0 +1,8 @@
+title: Substitute accurate partition names into these NixOS installation instructions.
+pid: 7479bf91-f0f0-4260-9c71-b6a7a94fa009
+contains:
+- c00ac7df-751b-4b60-88a6-46d39a48cbfb
+- 098b2065-0173-49ff-a28f-f82197f6532a
+- 202246b8-a5c6-40b5-9bf6-40c8937fecb3
+misc:
+- Had_ID_Before_Import

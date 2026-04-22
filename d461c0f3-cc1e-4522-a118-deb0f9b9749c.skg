@@ -1,0 +1,4 @@
+title: 'git submodule update: model code'
+pid: d461c0f3-cc1e-4522-a118-deb0f9b9749c
+body: |2-
+  ~/nix/nixpkgs/pkgs/development/compilers/chez/default.nix

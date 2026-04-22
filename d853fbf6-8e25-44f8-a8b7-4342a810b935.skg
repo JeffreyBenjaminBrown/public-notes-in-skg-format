@@ -1,0 +1,4 @@
+title: nixos-rebuild --keep-failed / -K
+pid: d853fbf6-8e25-44f8-a8b7-4342a810b935
+body: |2-
+  to avoid re-downloading data the next time I try to rebuild

@@ -1,0 +1,6 @@
+title: 'lesson: the prism seems to need to change something'
+pid: 9b1348c5-e56e-48ea-8ea1-ce204fb1fef5
+body: |2-
+  because `embed` can't fail,
+  it's not an option for the prism to simply
+  return the number if it's divisible and otherwise return nothing.

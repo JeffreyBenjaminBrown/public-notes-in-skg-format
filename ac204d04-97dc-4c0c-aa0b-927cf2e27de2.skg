@@ -1,0 +1,19 @@
+title: answers / explanations
+pid: ac204d04-97dc-4c0c-aa0b-927cf2e27de2
+body: |2-
+  exceptions:black_knight( fun() -> "Hello." end ).
+    No exception. Evaluates normally.
+  exceptions:black_knight( fun() -> throw(a) end ).
+    Matches one of the catch clauses exactly.
+  exceptions:black_knight( fun() -> error(b) end ).
+    Matches one of the catch clauses exactly.
+  exceptions:black_knight( fun() -> exit(c) end ).
+    Matches one of the catch clauses exactly.
+  exceptions:black_knight( fun() -> throw(yikes) end ).
+    Matches the `_`, which because it has no type specified,
+    applies only to throws.
+  exceptions:black_knight( fun() -> error(yikes) end ).
+    Only matches the last, catch-all clause.
+  exceptions:black_knight( fun() -> exit(yikes) end ).
+    Because it's an exit, it matches the `exit:_` clause;
+    its value is ignored.

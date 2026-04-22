@@ -1,0 +1,8 @@
+title: to launch an EC2 instance from an AMI
+pid: 205fb9d2-73f2-4c02-aba8-3bbf974c8dc2
+body: |2-
+  It's obvious -- mine are just like any other AMI,
+  except they're not (by default) shared with anyone else.
+  The WUI shows who it's shared with.
+misc:
+- Had_ID_Before_Import

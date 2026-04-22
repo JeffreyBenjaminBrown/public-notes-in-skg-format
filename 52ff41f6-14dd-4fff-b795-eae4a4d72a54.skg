@@ -1,0 +1,7 @@
+title: what it is
+pid: 52ff41f6-14dd-4fff-b795-eae4a4d72a54
+body: |2-
+  Set the time when recording will start,
+  and another when it will stop.
+  Start playback from before the start marker.
+  Recording (but not playback) stops at the end marker.

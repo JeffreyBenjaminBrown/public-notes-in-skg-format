@@ -1,0 +1,9 @@
+title: 'git rebase: rewrite history'
+pid: 2bf0e5bf-4104-45f3-8e1c-e90a36c4314f
+body: |2-
+  https://stackoverflow.com/a/5017265/916142
+contains:
+- e86d1c7e-6503-4083-a432-5f7d47b7a361
+- d3cc91b1-bb52-49d9-b435-4cc835495270
+misc:
+- Had_ID_Before_Import

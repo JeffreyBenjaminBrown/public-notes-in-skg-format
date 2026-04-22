@@ -1,0 +1,4 @@
+title: the limitation
+pid: 734dddc2-f6ff-478f-916e-07ce963f3fcf
+body: |2-
+  "can use abstract types in a rule as long as all the type variables that define which instances to create during materialization are concrete (non-abstract)."

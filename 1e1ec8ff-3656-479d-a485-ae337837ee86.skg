@@ -1,0 +1,4 @@
+title: 'PITFALL: Guards do not accept user-defined functions.'
+pid: 1e1ec8ff-3656-479d-a485-ae337837ee86
+body: |2-
+  because of side effects.

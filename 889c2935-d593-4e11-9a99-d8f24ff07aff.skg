@@ -1,0 +1,5 @@
+title: Setting JACK buffer size under PipeWire makes Reaper and Chrome silent, but aplay still makes noise.
+pid: 889c2935-d593-4e11-9a99-d8f24ff07aff
+contains:
+- e652e050-95ab-45eb-8c5e-b59273c7391f
+- b5aecd19-1109-4eb9-97bf-e008dbbd442d

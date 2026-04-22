@@ -1,0 +1,4 @@
+title: using nix-fetch-git with subumodules
+pid: 5a196407-4705-4f27-a7e6-3e3a7a22228a
+body: |2-
+  nix-prefetch-git --fetch-submodules https://github.com/monome/serialosc

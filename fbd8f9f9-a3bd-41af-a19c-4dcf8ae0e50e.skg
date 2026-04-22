@@ -1,0 +1,6 @@
+title: ref
+pid: fbd8f9f9-a3bd-41af-a19c-4dcf8ae0e50e
+body: |2-
+  https://discourse.nixos.org/t/system-autoupgrade-nearly-halts-my-system-even-though-nixos-rebuild-doesnt/23820
+misc:
+- Had_ID_Before_Import

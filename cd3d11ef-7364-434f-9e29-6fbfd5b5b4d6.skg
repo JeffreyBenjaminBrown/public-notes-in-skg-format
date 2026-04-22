@@ -1,0 +1,4 @@
+title: Example ? represent absent selection as selction from 0 to 0
+pid: cd3d11ef-7364-434f-9e29-6fbfd5b5b4d6
+body: |2-
+  This prevents having to check whether the selection exists.

@@ -1,0 +1,10 @@
+title: '"Read the last branch last {it''s the point, these are about it}."'
+pid: 222b7fa9-13d9-4d6e-80dd-d4ab8e86f480
+body: |2-
+  The most natural way to structure this would be
+  the node saying that is talking about its children,
+  not its brothers.
+  That most ensures the reader reads it completely
+  before processing the others.
+  In this sense there might be nothing unnatural
+  about a (sub)tree of many singleton branches.

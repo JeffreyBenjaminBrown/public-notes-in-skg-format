@@ -1,0 +1,10 @@
+title: blocks return the value of their last expression
+pid: b5ccaa37-6d48-45a9-9b92-82f5f7d5afe1
+body: |2-
+  but every expression in the block is evaluated.
+
+  let value: Bool = {
+      "Hello"
+      42 + 12
+      False
+  } // => False

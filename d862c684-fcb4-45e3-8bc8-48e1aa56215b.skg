@@ -1,0 +1,4 @@
+title: 'PITFALL: This modifies files but deletes nothing'
+pid: d862c684-fcb4-45e3-8bc8-48e1aa56215b
+body: |2-
+  because I'm not using [[id:17d985d9-007a-43b7-90f4-a60f2aaeaf70][the scary `delete` option]].

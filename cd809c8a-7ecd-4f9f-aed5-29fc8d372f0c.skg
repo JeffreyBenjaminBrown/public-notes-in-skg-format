@@ -1,0 +1,5 @@
+title: What it does, I think
+pid: cd809c8a-7ecd-4f9f-aed5-29fc8d372f0c
+body: |2-
+  is detect when two goroutines (need? have?)
+  simultaneous (read? write?) access to something.

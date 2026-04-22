@@ -1,0 +1,28 @@
+title: basic sum types
+pid: dfd27c0e-e8c2-49f9-918f-e095fd3ebb90
+body: |2-
+  from dataclasses import dataclass
+
+  @dataclass
+  class Point:
+      x: float
+      y: float
+
+  @dataclass
+  class Circle:
+      x: float
+      y: float
+      r: float
+
+  Shape = Point | Circle
+
+  def print_shape(shape: Shape):
+      match shape:
+          case Point(x, y):
+              print(f"Point {x} {y}")
+          case Circle(x, y, r):
+              print(f"Circle {x} {y} {r}")
+
+  print_shape(Point(1, 2))
+  print_shape(Circle(3, 5, 7))
+  print_shape(4)  # mypy type error

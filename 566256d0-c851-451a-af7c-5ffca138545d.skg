@@ -1,0 +1,7 @@
+title: to read CSV data in Excel
+pid: 566256d0-c851-451a-af7c-5ffca138545d
+body: |2-
+  Open the file normally.
+  Highlight all rows.
+  Choose "Data -> Texto en Colomnas".
+  Follow prompts.

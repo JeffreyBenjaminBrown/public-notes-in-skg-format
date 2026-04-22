@@ -1,0 +1,7 @@
+title: 'PITFALL: pitches are recorded at the 12th fret!'
+pid: 5bc4e42f-df3b-46cb-9d3b-f2f5550db6af
+body: |2-
+  As long as I'm consistent it won't matter.
+  But if I ever use this table to determine
+  the gauge corresponding to an open string,
+  I'll be off by a fifth (ratio of 3:2).

@@ -1,0 +1,7 @@
+title: 'PITFALL: required: edit .ssh/config'
+pid: 5e4abe31-1bf0-4f27-a076-3753108956a6
+body: |2-
+  Should say something like this (left-justified):
+  Host 18.231.152.118
+       User $JBB_AWS_USER
+       IdentityFile /home/jeff/code/aws/secret/JBB_AWS_PEM

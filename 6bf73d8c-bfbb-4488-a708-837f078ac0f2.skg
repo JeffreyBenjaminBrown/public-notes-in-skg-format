@@ -1,0 +1,5 @@
+title: They need not be included in the sharing view if empty.
+pid: 6bf73d8c-bfbb-4488-a708-837f078ac0f2
+body: |2-
+  But the other two must be displayed even if they are empty,
+  to permit manual editing.

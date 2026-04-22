@@ -1,0 +1,6 @@
+title: <project-root>/<site-name>/ needs to "know" about an app,
+pid: 2697ab4a-fa87-48be-8e6b-63e2ece0bb1b
+body: |2-
+  as described in [[id:ad943b01-c966-44f1-b5c9-74ef6eafb0f2][connect the view to the website]].
+  Once it does, the app becomes available as a top-level
+  subdomain of the project.

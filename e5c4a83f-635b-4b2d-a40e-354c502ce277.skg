@@ -1,0 +1,4 @@
+title: syntax example
+pid: e5c4a83f-635b-4b2d-a40e-354c502ce277
+body: |2-
+  curl -X GET "https://example.com/endpoint/?api_key=abcdef12345"

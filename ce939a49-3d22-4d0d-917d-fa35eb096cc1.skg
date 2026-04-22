@@ -1,0 +1,10 @@
+title: read a file to a string
+pid: ce939a49-3d22-4d0d-917d-fa35eb096cc1
+body: |2-
+  #+begin_src rust
+  use std::fs;
+  use std::io;
+
+  fn read_username_from_file() -> Result<String, io::Error> {
+      fs::read_to_string("hello.txt") }
+  #+end_src

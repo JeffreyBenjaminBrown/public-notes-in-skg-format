@@ -1,0 +1,6 @@
+title: access an item
+pid: 58cb7f19-5d27-4d70-a37a-2d64f42c33f4
+body: |2-
+  Items are 1-indexed, using field names "Item1", "Item2", ...
+
+  Console.Write(holiday.Item2)

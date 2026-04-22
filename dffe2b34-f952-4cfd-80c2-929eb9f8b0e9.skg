@@ -1,0 +1,4 @@
+title: The `after` block always gets executed, return nothing.
+pid: dffe2b34-f952-4cfd-80c2-929eb9f8b0e9
+body: |2-
+  It's good for side effects.

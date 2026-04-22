@@ -1,0 +1,4 @@
+title: strip noise from an audio track
+pid: 9bbdbabc-1db5-4c20-983b-cd9e5a6abc35
+body: |2-
+  In Audacity, use "Effects -> Noise Reduction".

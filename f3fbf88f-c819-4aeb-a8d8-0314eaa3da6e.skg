@@ -1,0 +1,6 @@
+title: create a new project
+pid: f3fbf88f-c819-4aeb-a8d8-0314eaa3da6e
+body: |2-
+  rebar3 new <template> <project name>
+contains:
+- cfed6e02-a2c3-4681-aec5-8cf7f9c13745

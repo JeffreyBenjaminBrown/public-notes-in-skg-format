@@ -1,0 +1,5 @@
+title: FS maps from one set to another
+pid: a8e03823-1b05-4629-aaa0-030359caba09
+body: |2-
+  It takes an element from the set of k elements,
+    and produces an element from the set of k+1 elements.

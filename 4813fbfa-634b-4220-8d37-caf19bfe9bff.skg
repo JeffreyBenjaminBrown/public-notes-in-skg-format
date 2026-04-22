@@ -1,0 +1,6 @@
+title: kinds of order
+pid: 4813fbfa-634b-4220-8d37-caf19bfe9bff
+body: |2-
+  linear (schedule) vs. branching (dependency)
+  overlapping
+  topological sort

@@ -1,0 +1,8 @@
+title: 'hide content | omits-some-content herald: "{+"'
+pid: 324f020b-1145-4279-a87a-02c96dce7a30
+body: |2-
+  This indicates that Rust should treat any org-children that look like content as content,
+  but should not delete the node's contains relationship to anything that doesn't appear as an org-child.
+  (The easiest implementation of this would be to ignore order. Anything that would become new content on saving can be placed at the end of the content list.)
+misc:
+- Had_ID_Before_Import

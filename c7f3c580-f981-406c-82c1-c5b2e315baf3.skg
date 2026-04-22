@@ -1,0 +1,5 @@
+title: 'PITFALL: Don''t do this in production.'
+pid: c7f3c580-f981-406c-82c1-c5b2e315baf3
+body: |2-
+  I've already got the Docker image and my code set up to use Apache instead.
+  Under those conditions, I just start Apache, which will call Django for me.

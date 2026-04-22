@@ -1,0 +1,8 @@
+title: first get the space from Amazon
+pid: 34455b11-f353-474f-a9c5-2c6871ab1c60
+body: |2-
+  https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/requesting-ebs-volume-modifications.html
+contains:
+- 4e272214-12c6-4e6b-8807-218d4ce47ad4
+- ff33c4a6-a4ca-440d-877e-6e7cfa2d22b4
+- a7c8efab-b7f2-4f40-84bf-d66b6c4e6f63

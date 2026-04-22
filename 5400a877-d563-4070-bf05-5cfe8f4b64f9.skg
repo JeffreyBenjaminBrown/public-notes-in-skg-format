@@ -1,0 +1,11 @@
+title: setting and evaluating symbols
+pid: 5400a877-d563-4070-bf05-5cfe8f4b64f9
+body: |2-
+  (setq a 123)
+       ⇒ 123
+
+  (eval 'a)
+       ⇒ 123
+
+  a
+       ⇒ 123

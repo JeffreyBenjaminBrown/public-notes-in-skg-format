@@ -1,0 +1,6 @@
+title: TODO upon save, delete unused phrases and templates
+pid: 6cc9adc2-bf79-4916-84d4-3e2345fa0f4a
+body: |2-
+  unless maybe it's a long phrase
+  PITFALL: But don't delete the empty string.
+           Or maybe the need for the empty string is obsolete?

@@ -1,0 +1,5 @@
+title: '''overrides'' might be unnecessary'
+pid: 852082fd-2f59-46d3-b469-6580a1e9e354
+body: |2-
+  If a user has a node that subscribes to this one,
+  they probably want to see that one rather than this one.

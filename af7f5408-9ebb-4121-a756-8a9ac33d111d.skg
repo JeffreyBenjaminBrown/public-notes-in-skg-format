@@ -1,0 +1,7 @@
+title: where smart height =
+pid: af7f5408-9ebb-4121-a756-8a9ac33d111d
+body: |2-
+  the maximum of f minus the minimum of f,
+  where f is the signed distance from each note to the root-octave axis.
+  See commit 931c0db7f8f7e3c52b7cf872773445e625b23ac7
+  of git@github.com:JeffreyBenjaminBrown/montevideo
