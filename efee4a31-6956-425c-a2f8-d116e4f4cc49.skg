@@ -1,0 +1,7 @@
+title: to *discard conflicts* from a recent pull
+pid: efee4a31-6956-425c-a2f8-d116e4f4cc49
+body: |2-
+  git checkout --ours TODO.org
+
+  'ours'   selects (keeps) what was here
+  'theirs' selects (keeps) what was pulled in
