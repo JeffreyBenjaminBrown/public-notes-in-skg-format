@@ -1,0 +1,4 @@
+title: have this in the Dockerfile
+pid: 72e94b1d-2c71-4bfb-b9c3-7f5a845555aa
+body: |2-
+  ENV CLAUDE_CODE_NO_FLICKER=1

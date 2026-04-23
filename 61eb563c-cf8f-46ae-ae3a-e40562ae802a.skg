@@ -1,0 +1,4 @@
+title: have this in .bashrc
+pid: 61eb563c-cf8f-46ae-ae3a-e40562ae802a
+body: |2-
+  export CLAUDE_CODE_NO_FLICKER=1
