@@ -1,7 +1,4 @@
-title: to invert colors
+title: to invert colors (globally)
 pid: 02b9395e-1cab-40d7-aee3-c148bbcffccb
 body: |2-
-  So far I only have a global solution,
-  these two scripts:
-    colors-invert.sh   # runs `xcalib -invert -alter`
-    colors-normal.sh   # runs `xcalib -clear`
+  I made C-Super-i do 'xcalib -i -a', which toggles.

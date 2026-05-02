@@ -1,0 +1,8 @@
+title: 'TODO | PITFALL: org-mode is installed ''manually'''
+pid: 936b542a-ac9d-4d85-9fa1-3000a1774130
+body: |2-
+  as of around <2026-04-23 Thu>,
+  via list-packages in Emacs, so I could have 9.8.3,
+  which seems to dodge a bug
+  that seems to have been introduced in 9.8.1.
+  nixos-unstable is already up to 9.8.3, so I could drop that.
