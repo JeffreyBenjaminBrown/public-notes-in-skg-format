@@ -1,0 +1,4 @@
+title: to update Codex
+pid: a852517c-e210-447e-8f2a-b76031872e04
+body: |2-
+  npm install -g @openai/codex@latest

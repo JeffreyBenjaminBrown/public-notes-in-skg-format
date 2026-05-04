@@ -1,0 +1,4 @@
+title: to run with full permissions
+pid: 705b3e93-aeec-4257-9d75-b9accf3e9fee
+body: |2-
+  codex --dangerously-bypass-approvals-and-sandbox
