@@ -1,0 +1,23 @@
+title: the math behind it
+pid: 755d3771-4848-4103-8046-4e95674b708d
+body: |2-
+  First note that the densest-fretted part of a 2-octave guitar
+  is 4 times as dense as the frets at the nut.
+  (Actually it's a little less dense than that,
+  because from fret n-1 to fret n
+  is 2**(1/edo) wider than the step from n to n+1,
+  which is the one that's 4 times as dense as from fret 0 to 1.)
+
+  ghci> ratio edo note = 2**(note/edo)
+  ghci> note edo ratio = edo * (log ratio / log 2)
+  ghci> cents edo note = 1200 * note / edo
+  ghci>
+  ghci> ratio 31 18   // In 31-edo, at fret 18, the frets are
+  1.4955178823482085  // about 3/2 as dense as at the root
+  ghci> (31/12) * ratio 31 18  // Thus they are about 3.86 times as dense
+  3.8634211960662053           //  there as a 12-edo guitar's frets at the root
+  ghci> (31/12) * ratio 31 19  // In fact we could even go to the 19th.
+  3.9507786956416324
+  ghci> (31/12) * ratio 31 20  // But the 20th would be, by this measure,
+  4.040111473692996            // "too dense".
+  ghci>
