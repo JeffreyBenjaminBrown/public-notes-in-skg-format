@@ -1,0 +1,6 @@
+title: simpler now
+pid: 5b082a60-4425-4e87-a2d1-1d582147353f
+body: |2-
+  git fetch --all
+    # and add --prune to delete local repos no longer on remote
+  git checkout _
