@@ -1,0 +1,5 @@
+title: to assign a remote
+pid: 874913c5-8f0f-435c-b410-a20021dec506
+body: |2-
+  git remote add origin git@github.com:who/what.git
+  tag set remote
