@@ -6,6 +6,7 @@ pid: 9c5619e5-81ad-4a67-9705-e4761bdd6839
 body: |2-
   = an app in progress
 contains:
+- 601d2189-7312-4273-8395-0dc487c601e9
 - 8d4a318f-30f3-4c58-a01b-80db64c5f4d9
 - 8a717374-2b24-4d1f-9ebd-c8e2e5ec3474
 - f11d334c-5ec3-4c77-9b3b-b84817d42c10

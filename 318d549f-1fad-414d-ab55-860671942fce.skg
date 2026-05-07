@@ -1,0 +1,5 @@
+title: show images with time of creation
+pid: 318d549f-1fad-414d-ab55-860671942fce
+body: |2-
+  docker images --format \
+    "table {{.Repository}}\t{{.Tag}}\t{{.ID}}\t{{.CreatedAt}}"
