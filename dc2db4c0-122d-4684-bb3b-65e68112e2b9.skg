@@ -1,0 +1,8 @@
+title: 'Document: It''s nice that copying doesn''t change buffer state.'
+pid: dc2db4c0-122d-4684-bb3b-65e68112e2b9
+body: |2-
+  That lets you copy a node somewhere else, edit it there,
+  (importantly) save, and the collateral changes will be reflected.
+  (Collateral buffers with unsaved changes might,
+  I can't remember, not be writeable to.
+  If they're not it might be good.)

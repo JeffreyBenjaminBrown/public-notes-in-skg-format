@@ -1,0 +1,6 @@
+title: 'Easy speedup : send saved view before computing collateral views.'
+pid: 55501953-dab2-48d3-8f51-f3eda167c6b5
+body: |2-
+  Currently, the saved view is computed before collateral views,
+  but Emacs receives and updates collateral buffers
+  before it receives/updates the saved buffer.

@@ -1,0 +1,4 @@
+title: Track dirty nodes, not buffers.
+pid: e65e6295-e79e-4076-ad1a-d0ce432d46ae
+body: |2-
+  Each buffer would need a map from node to state.

@@ -1,0 +1,5 @@
+title: Offer help, links into docs/, in minibuffer prompts.
+pid: 5717d6f9-994a-45ad-a1d6-2a819fd22bf0
+body: |2-
+  I could even explain that it might not be completely tested.
+  Stripping unreferred-to IDs should be the default option.
