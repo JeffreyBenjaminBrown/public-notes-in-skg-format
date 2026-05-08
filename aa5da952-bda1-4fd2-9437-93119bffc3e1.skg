@@ -3,8 +3,11 @@ pid: aa5da952-bda1-4fd2-9437-93119bffc3e1
 body: |2-
   A user can get most of that benefit, maybe, by writing one-off
   'midcontainer' (or in the view, 'midparent') nodes with links.
+  Maybe they need to indicate that it is a midparent,
+  a common relationship from nodes to some of their grandchildren,
+  but I suspect not.
   From any of the nodes targeted by any of the links
   in such a midparent,
-  the user can request a view of all nodes targeting it,
-  together with each one's containerward path to first nonlinearity
+  the user can request a view of all sources that link to it,
+  together with each source's containerward path to first nonlinearity
   and its recursive content.
