@@ -1,0 +1,6 @@
+title: Tests can be brief.
+pid: 98bbd209-3fb0-49df-bf87-1ef53fe5fb39
+body: |2-
+  assert len(df) > 0                                                    
+  assert df["age"].between(0, 120).all()                                
+  assert df["person_id"].is_unique  

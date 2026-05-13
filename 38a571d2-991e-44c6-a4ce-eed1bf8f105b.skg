@@ -1,2 +1,11 @@
-title: '"make this faster"'
+title: 'encapsulation and testing : helpful'
 pid: 38a571d2-991e-44c6-a4ce-eed1bf8f105b
+body: |2-
+  Consider the "blast radius".
+  Consider how "verifiable" a process's results are.
+
+  If only an AI understands the total structure of your program, trouble.
+  But if only an AI understands the algorithm you're using
+  to transform some JSON files into TOML files,
+  and you have tests in place to make sure the results make sense,
+  that's more likely to be safe.

@@ -1,0 +1,6 @@
+title: 'problem : 1,000 becomes 1,000,000'
+pid: b3210b9c-154a-4709-9abd-86a91634158f
+body: |2-
+  You run it on toy data, and it's fine.
+  But then you run it on real data that's only 1,000 times bigger,
+  and you find that your code is 1,000,000 times slower.

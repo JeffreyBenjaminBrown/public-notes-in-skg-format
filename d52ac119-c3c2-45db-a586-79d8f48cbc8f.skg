@@ -1,0 +1,10 @@
+title: scenario
+pid: d52ac119-c3c2-45db-a586-79d8f48cbc8f
+body: |2-
+  Imagine a process that checks for membership.
+  It compares IDs (for people, say)
+  from one data set to IDs in another,
+  to see if the person is in the other data set.
+
+  You build an algorithm. It's correct.
+  It uses two lists of IDs.

@@ -1,0 +1,11 @@
+title: varieties
+pid: d27fb486-cce4-47d3-8ac7-927434da9091
+body: |2-
+  - left : Preserve each ID from left, match it to IDs from right.
+  - right : The opposite.
+  - inner : Preserve only those IDs in both data sets.
+            (Discards the most data.)
+  - outer : Preserve all IDs.
+            (Keeps the most data.)
+  If both data sets have exactly the same IDs,
+  all four become the same operation.

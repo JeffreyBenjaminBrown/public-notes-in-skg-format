@@ -1,0 +1,11 @@
+title: what good comments (usually) do and do not capture
+pid: be5c5fc1-0906-4b4f-a4d6-780765cb0b0a
+body: |2-
+  - context (esp. why something is done)
+  - tradeoffs
+  - invariants
+  - warnings
+  - non-obvious reasoning
+
+  But mere membership in one of the above does not guarantee comment-worthiness.
+  Always ask, 'Could the reader need this?'

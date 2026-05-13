@@ -1,0 +1,12 @@
+title: analysis
+pid: 2bdfe511-8740-4bc5-a775-58b616f353d7
+body: |2-
+  What's happening is that to find whether someone is in a list
+  requires walking through the list.
+  If the list is long, that takes a long time --
+  and you're doing it for each person in the other list. 
+
+  processing time ~ pop size * group length
+
+  Multiplying both things on the right hand side by 1000
+  multiplies the left hand side by 1 million.

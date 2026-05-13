@@ -1,0 +1,4 @@
+title: 'pitfall : multiple matches'
+pid: 7efdf774-65e8-44be-8145-b0d28503a106
+body: |2-
+  If there are multiple matches, all are kept.

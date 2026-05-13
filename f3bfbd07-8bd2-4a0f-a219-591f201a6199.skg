@@ -1,0 +1,7 @@
+title: Merges use keys. Sometimes more than one.
+pid: f3bfbd07-8bd2-4a0f-a219-591f201a6199
+body: |2-
+  Keys are what you match on.
+  Maybe you just find the same person in both data sets (just one ID column).
+  Maybe you have to compare person and year together (two ID columns).
+  This depends on the unit of the data set.

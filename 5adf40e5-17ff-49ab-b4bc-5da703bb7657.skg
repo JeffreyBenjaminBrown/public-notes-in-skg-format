@@ -1,0 +1,6 @@
+title: 'pitfall : multicollinearity'
+pid: 5adf40e5-17ff-49ab-b4bc-5da703bb7657
+body: |2-
+  For this reason you have to omit (only) one category.
+  e.g. regressions on the above data would only work if there were
+  exactly four moods (and many more rows).

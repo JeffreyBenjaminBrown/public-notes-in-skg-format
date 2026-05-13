@@ -1,0 +1,9 @@
+title: wide
+pid: 0edd0d3b-080e-4f84-9edc-a754ebc79a4d
+body: |2-
+  More columns, fewer rows.
+  The unit is simpler: people.
+
+  | person | spinach_boost_strength_2024 | spinach_boost_strength_2025 |
+  | Alice  |                          90 |                          93 |
+  | Bob    |                          78 |                          81 |

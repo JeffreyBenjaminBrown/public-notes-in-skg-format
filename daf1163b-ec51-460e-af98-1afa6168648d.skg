@@ -1,0 +1,9 @@
+title: easy to run regressions on
+pid: daf1163b-ec51-460e-af98-1afa6168648d
+body: |2-
+  | Person | Adventure | Anger | Peace |
+  | ------ | --------- | ----- | ----- |
+  | Mario  |         1 |     0 |     0 |
+  | Luigi  |         1 |     0 |     0 |
+  | Bowser |         0 |     1 |     0 |
+  | Buddha |         0 |     0 |     1 |

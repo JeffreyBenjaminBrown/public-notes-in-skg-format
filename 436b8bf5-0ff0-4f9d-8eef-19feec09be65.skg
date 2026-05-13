@@ -1,0 +1,9 @@
+title: hard to run regressions on
+pid: 436b8bf5-0ff0-4f9d-8eef-19feec09be65
+body: |2-
+  | Person | Mood      |
+  | ------ | --------- |
+  | Mario  | Adventure |
+  | Luigi  | Adventure |
+  | Bowser | Anger     |
+  | Buddha | Peace     |

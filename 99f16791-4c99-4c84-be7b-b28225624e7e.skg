@@ -1,0 +1,6 @@
+title: Good names are likely to be declarative rather than procedural.
+pid: 99f16791-4c99-4c84-be7b-b28225624e7e
+body: |2-
+  Representing what something *is*
+  is usually more important than *how*
+  it was arrived at.

@@ -1,11 +1,2 @@
-title: It lets you see the change history.
+title: The change history becomes visible.
 pid: 1b11a7b9-1e6b-4d6f-b0d8-9c09e73ed0de
-body: |2-
-  Can be important for finding when something broke,
-  to determine what broke it.
-  Or to determine when a line of code was written,
-  to see what was going on at that time,
-  to understand what its author (probably you!) was thinking.
-
-  AIs are great at navigating this data,
-  but only if you've been collecting it.

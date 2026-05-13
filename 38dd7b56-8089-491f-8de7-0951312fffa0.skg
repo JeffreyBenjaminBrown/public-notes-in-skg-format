@@ -1,0 +1,14 @@
+title: the most important types
+pid: 38dd7b56-8089-491f-8de7-0951312fffa0
+body: |2-
+  - functions
+  - lists
+  - sets
+  - trees
+  - (associative) maps | dictionaries
+  - tables
+
+  Your journey from data to statistical inference
+  will usually end in a table, but
+  the right way to get there
+  might require some of the others.

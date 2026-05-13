@@ -1,0 +1,15 @@
+title: Do not do the work yourself if it's hard and someone else did.
+pid: 5190acbe-8051-4f61-8929-84393662e3c8
+body: |2-
+  Rely on society.
+  Look for (and evaluate) prior art, open-source code.
+
+  Libraries are amazing.
+  A library is compressed social learning.
+  It contains bug fixes, edge cases, documentation, and design decisions
+  produced by many people over time.
+
+  But also sometimes it's wrong.
+    
+  Someone else has not always written the solution you need,
+  but very, very often, they have.

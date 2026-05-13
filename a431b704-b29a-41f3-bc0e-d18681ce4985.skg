@@ -1,0 +1,14 @@
+title: AI exercise for claims
+pid: a431b704-b29a-41f3-bc0e-d18681ce4985
+body: |2-
+  Again!
+
+    - Say it back to me in Spanish. (The rest of your response should be in English.) 
+    - Elaborate in whatever worthwhile directions I may have missed, on this theme *or neighboring* ones.
+    - Criticize it on
+      - factuality.
+      - its priority relative to other topics.
+      - whether an economist/data scientist would care.
+    - Estimate how long you think it would take to make these point in a lecture.
+
+  The rest of this prompt is part of the lecture:

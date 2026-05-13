@@ -1,0 +1,11 @@
+title: long
+pid: f8582d81-fdc6-438b-8a9d-74422a2d4880
+body: |2-
+  Fewer columns, more rows.
+  The unit is more complex: person-year.
+
+  | person | year | spinach_boost_strength |
+  | Alice  | 2024 |                     90 |
+  | Alice  | 2025 |                     93 |
+  | Bob    | 2024 |                     78 |
+  | Bob    | 2025 |                     81 |

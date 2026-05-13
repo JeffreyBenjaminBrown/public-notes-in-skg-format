@@ -1,0 +1,10 @@
+title: Invisible errors are the most difficult.
+pid: 9a8c9ffe-75b3-4cfe-9fdd-1ac4253b906b
+body: |2-
+  Syntax errors:   doing the right thing, the wrong way.
+  Semantic errors: doing the wrong thing, the right way: 
+  - wrong unit
+  - wrong merge
+  - wrong variable definition
+  - wrong provenance
+  - wrong interpretation

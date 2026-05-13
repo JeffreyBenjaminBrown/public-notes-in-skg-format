@@ -1,0 +1,8 @@
+title: 'solution : use a "set" instead'
+pid: 17266879-cd2b-47e2-aaf9-2f7893e45fac
+body: |2-
+  This way, scaling the data by 1,000
+  scales performance time only slightly more than 1,000.
+
+  (It doesn't actually help to represent the list of people as a set;
+  you'll have to iterate through them either way.)

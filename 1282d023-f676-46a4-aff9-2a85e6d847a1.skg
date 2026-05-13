@@ -1,0 +1,16 @@
+title: Names are opportunities.
+pid: 1282d023-f676-46a4-aff9-2a85e6d847a1
+body: |2-
+  This:
+    x = df [ df.a > 0 ]
+       . groupby("b")
+       . c . mean()                                
+  and this:
+    positive_margin_orders = orders[orders.margin > 0]
+    average_revenue_by_region =
+      positive_margin_orders
+      . groupby("region")
+      . revenue . mean()
+  do the same thing.
+
+  Which is easier to understand?

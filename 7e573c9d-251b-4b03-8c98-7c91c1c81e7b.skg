@@ -1,6 +1,8 @@
-title: dummies are mathematically convenient
+title: dummies are convenient for math on categorical variables
 pid: 7e573c9d-251b-4b03-8c98-7c91c1c81e7b
 body: |2-
-  No need to say why; they will run into it.
-  Just explain that a categorical variable
-  can be a collection of dummies.
+  A categorical variable can be a collection of dummies:
+contains:
+- 436b8bf5-0ff0-4f9d-8eef-19feec09be65
+- daf1163b-ec51-460e-af98-1afa6168648d
+- 5adf40e5-17ff-49ab-b4bc-5da703bb7657

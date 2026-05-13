@@ -1,0 +1,8 @@
+title: Optimize "lazily".
+pid: 8232c86b-3daf-484a-af44-bd68e67fdc6b
+body: |2-
+  "Wait until the last minute."
+  Don't worry too much about catching performance problems early.
+  Just represent things in the most natural way.
+  But pay attention when things start eating too much time or space
+  (or, and this is kind of new with AI, energy).
