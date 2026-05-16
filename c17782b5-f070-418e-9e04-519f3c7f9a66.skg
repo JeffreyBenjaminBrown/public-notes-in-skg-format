@@ -1,8 +1,9 @@
 title: economics
 pid: c17782b5-f070-418e-9e04-519f3c7f9a66
 contains:
-- 36e26a52-92d5-4c68-9306-bc20bd540fec
 - afbd0bb4-9627-47a4-81a2-208a0667f5d8
+- 56b7b8ca-243e-42cd-9a78-6a308eb3103a
+- 597a816a-5b70-4438-9f9b-27665e425205
 - a4ae7281-e037-45ec-ace2-3354f3349644
 - af7624a5-3d8d-4a4c-9a06-3c10e6c7dd4b
 - de3a3ea8-8cb9-41b0-b314-efff4b075638
@@ -36,5 +37,7 @@ contains:
 - 537453b0-207d-4be4-b695-75874733b397
 - 591fd171-be2d-406c-9740-18c1372117e3
 - 3f7ae2e1-e8af-4797-be49-c6f1ce1a0e1c
+- 81b6e0bd-58f9-4139-aeda-78a9e03b9da1
+- e704c404-ab89-45de-83b3-da3e4c22ed05
 misc:
 - Had_ID_Before_Import

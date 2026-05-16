@@ -2,6 +2,7 @@ title: the most important types
 pid: 38dd7b56-8089-491f-8de7-0951312fffa0
 body: |2-
   - functions
+    - map | dictionary
   - lists
   - sets
   - trees

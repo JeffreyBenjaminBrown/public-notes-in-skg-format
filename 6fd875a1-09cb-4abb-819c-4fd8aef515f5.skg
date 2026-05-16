@@ -3,7 +3,6 @@ pid: 6fd875a1-09cb-4abb-819c-4fd8aef515f5
 body: |2-
   send talk description, bio to Monica
 contains:
-- 7ea5246d-5614-4537-bcc7-e1ee4cb21d42
 - 6098315a-33ef-4c3a-a3ec-b3aa8b98742e
 - a4a355cb-d190-4f0d-98d7-668106b2fc99
 - fb156b3f-bf32-4dca-bc50-11b380af6836
