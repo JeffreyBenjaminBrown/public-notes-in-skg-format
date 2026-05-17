@@ -1,0 +1,11 @@
+title: the relevant commit
+pid: 6273723a-7f1f-47c2-aba3-b278344bcbd9
+body: |2-
+  commit a1fdb8335730e9c3b42c162bfd9021f7afb4924f (HEAD -> xfce, origin/xfce)
+  ───────────────────────────────────────────────────────────────────────────
+  Author: Jeffrey Benjamin Brown <jeffbrown.the@gmail.com>
+  Date:   Thu May 14 21:50:38 2026 -0500
+
+      change how serialosc, libmonome are built
+      
+        changing a few lines to fix an infinite loop
