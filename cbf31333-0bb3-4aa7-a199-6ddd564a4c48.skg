@@ -1,10 +1,10 @@
-title: Use lenses to share control of knowledge.
+title: Use forks to share control of knowledge.
 pid: cbf31333-0bb3-4aa7-a199-6ddd564a4c48
 body: |2-
   The trick is that,
   when you start ostensibly "manipulating" another's data,
   you don't actually change their data,
-  but instead create a 'lens note'
+  but instead create a 'fork note'
   which provides a view that can contain some of their notes
   (and some of yours, and even some by other "subscribees";
   for the technical details of subscription see [[https://github.com/JeffreyBenjaminBrown/skg][the app]]).
@@ -15,8 +15,8 @@ body: |2-
   (Each note is shown with small visible 'herald' symbols
   which, if the user chooses, can include authorship.)
 
-  One lens's 'view' can include notes by multiple authors,
-  including the author that "wrote" (collected) the lens.
-  Two lenses owned by different users, and their contents,
-  can both be visible in the other lens.
-  Reciprocal lenses are a natural way to study together.
+  One fork's 'view' can include notes by multiple authors,
+  including the author that "wrote" (collected) the fork.
+  Two forks owned by different users, and their contents,
+  can both be visible in the other fork.
+  Reciprocal forks are a natural way to study together.

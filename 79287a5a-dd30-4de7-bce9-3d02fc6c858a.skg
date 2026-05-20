@@ -1,7 +1,8 @@
-title: learning, thinking, understanding
+title: learning | thinking | understanding
 aliases:
-- thinking, learning, understanding
-- understanding, thinking, learning
+- thinking
+- understanding
+- learning
 pid: 79287a5a-dd30-4de7-bce9-3d02fc6c858a
 contains:
 - 6da712c0-8fba-41b4-90f5-b71b27da741b
@@ -23,6 +24,7 @@ contains:
 - fb3ac53a-91ea-4aa7-93ae-281714000104
 - 426c55ca-5624-402a-9776-099d9268eed9
 - 09da5893-7fff-4761-9cec-68861e45295a
+- 34c57672-c463-4775-875c-1296da38fcc7
 - 85f32dac-79fc-4d74-ad01-5b5b43bfd569
 misc:
 - Had_ID_Before_Import
