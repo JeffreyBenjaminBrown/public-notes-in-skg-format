@@ -1,0 +1,5 @@
+title: leaves don't create cycles
+pid: a840be4b-45bf-4c33-80bc-27f3ef1ace21
+body: |2-
+  So a leaf with links can be safely multicontained
+  (conditional on how it is edited in future).
