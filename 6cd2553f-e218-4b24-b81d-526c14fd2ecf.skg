@@ -1,7 +1,0 @@
-title: Edits to a subscribee's content.
-pid: 6cd2553f-e218-4b24-b81d-526c14fd2ecf
-body: |2-
-  If it's deletion or insertion of a node the suscribee contains,
-  update the subscriber's hidden list.
-  If it's anything else, create a fork,
-  and use the fork when showing the subscribee's recursive content.

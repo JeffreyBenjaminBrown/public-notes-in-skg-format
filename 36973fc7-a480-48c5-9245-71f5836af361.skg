@@ -1,7 +1,6 @@
-title: Edits to a foreign node.
+title: Edits to a foreign node create a fork.
 pid: 36973fc7-a480-48c5-9245-71f5836af361
 body: |2-
-  Creates a fork.
   It begins as whatever the user tried to save,
   plus an overrides relationship to the foreign node,
   plus a subscribes-to relationship to the foreign node,

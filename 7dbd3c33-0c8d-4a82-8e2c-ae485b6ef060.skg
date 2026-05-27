@@ -1,7 +1,0 @@
-title: validate
-pid: 7dbd3c33-0c8d-4a82-8e2c-ae485b6ef060
-body: |2-
-  A TrueNode can have at most one SubscribeeCol.
-  SubscribeeCol can have at most one Hiddenoutsideofsubscribeecol. Its TrueNode children (subscribees) cannot have the ID of its parent (subscriber) -- it can't subscribe to itself.
-  Nothing special to validate in a subscribee.
-  A Hidden*Col can only have TrueNode children.
