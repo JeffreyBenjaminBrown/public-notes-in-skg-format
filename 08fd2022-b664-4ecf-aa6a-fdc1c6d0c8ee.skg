@@ -1,0 +1,9 @@
+title: SubscriberCol, OverriddenCol, OverriderCol, HiddenCol, HiderCol
+pid: 08fd2022-b664-4ecf-aa6a-fdc1c6d0c8ee
+body: |2-
+  - set update
+  - the children it creates while updating
+    are indefinitive, and do not need updating
+  - lying members
+    - are deleted if indefinitive leaves
+    - are otherwise marked independent

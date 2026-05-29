@@ -1,0 +1,7 @@
+title: GraphNode text seems like a type that should be apart from node.
+pid: a3f43001-8230-47ec-a5e4-e3c96a21d7d2
+body: |2-
+  Includes title, body, aliases.
+  We index and search over both.
+  Title and body render as one for ViewOf_GraphNode.
+  Aliases and titles go together for search results.

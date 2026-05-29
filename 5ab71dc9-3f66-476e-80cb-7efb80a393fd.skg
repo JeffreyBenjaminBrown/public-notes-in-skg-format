@@ -1,0 +1,7 @@
+title: Partner_Col
+pid: 5ab71dc9-3f66-476e-80cb-7efb80a393fd
+body: |2-
+  origin depth = 1 for subscribeeCol, 2 for hiddenOutisde, 3 for hiddenIn
+
+  Collects partners in some generalized (not necessarily part of schema.tql)
+  relationship between graph nodes.

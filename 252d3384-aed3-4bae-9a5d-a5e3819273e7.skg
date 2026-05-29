@@ -1,0 +1,9 @@
+title: SubscribeeCol
+pid: 252d3384-aed3-4bae-9a5d-a5e3819273e7
+body: |2-
+  - list update
+  - goal list includes the HiddenOutsideOfCol
+    (which might vanish when it updates itself)
+    after all the subscribees
+  - children it creates, indefinitive, need no updating
+  - lying members become independent

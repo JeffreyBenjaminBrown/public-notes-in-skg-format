@@ -1,0 +1,9 @@
+title: There are two types of content!
+pid: 1fa1fa5f-6bb5-49bb-bc62-a51a0e599b11
+body: |2-
+  View-content is the relationship that this node
+  belongs to the (or the primary, for ViewOf_GraphNode)
+  collection implied by the parent. 
+
+  With this, parentIs no longer needs a separate contains indicator
+  for graphnodes and partner collections.

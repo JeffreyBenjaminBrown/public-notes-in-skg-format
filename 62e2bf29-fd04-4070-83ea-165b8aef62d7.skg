@@ -1,0 +1,9 @@
+title: HiddenInSubscribeeCol
+pid: 62e2bf29-fd04-4070-83ea-165b8aef62d7
+body: |2-
+  - set update
+  - goal list is strange, but the name spells it out:
+    each member is in its grandparent and hidden from its great-grandparent
+  - children it creates, indefinitive, need no updating
+  - lying members become independent
+  - unusually, deletes itself if it finds itself empty

@@ -1,0 +1,5 @@
+title: whether the children it creates need more processing
+pid: 52a95400-c3e9-404c-9d14-15cea72ebf14
+body: |2-
+  If those children are VoNodes and do not need more processing,
+  they should be marked indefinitive.

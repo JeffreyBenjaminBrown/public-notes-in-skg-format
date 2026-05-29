@@ -1,0 +1,13 @@
+title: NodeSave instructions can be merged.
+pid: 229f4478-5751-4551-91ea-b6ae3aa17463
+body: |2-
+  A NodeSave should be an (often incomplete)
+  map from the space of NodeComplete fields
+  to the space of values each can take.
+  But that would require dependent types, I think
+  (the type of the value associated with a key depends on the key).
+   
+  So just use something like NodeComplete but where *everything* is MSV. 
+  Can easily define two ways to merge, and I'm not sure whether one dominates:
+  Merge where two fields can't both be Some,
+  and merge where they can, the first clobbering the second.

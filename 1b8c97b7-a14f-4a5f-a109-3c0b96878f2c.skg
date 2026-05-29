@@ -1,0 +1,13 @@
+title: indef VoNode with a definitive view request, or def VoNode from collateral buffer
+pid: 1b8c97b7-a14f-4a5f-a109-3c0b96878f2c
+body: |2-
+  - update its text
+  - list update
+  - goal list includes all gContent, 
+    plus a subscribeeCol if it subscribes to anything
+  - each child it creates should be indef
+    with its own definitive view request,
+    and need updating
+  - *all* its children (not just the new ones)
+    should be given their own definitive view request 
+  - lying members become independent

@@ -1,0 +1,10 @@
+title: HiddenOutsideOfSubscribeeCol
+pid: 391b0816-592a-48dc-a5a2-0604c78a1663
+body: |2-
+  - set update
+  - goal list is strange, but the name spells it out:
+    each member is hidden by Col's grandparent and contained
+    in none of Col's siblings (which are VoNodes)
+  - children it creates, indefinitive, need no updating
+  - lying members become independent
+  - unusually, deletes itself if it finds itself empty

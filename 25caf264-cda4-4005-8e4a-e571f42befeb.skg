@@ -1,0 +1,8 @@
+title: updates to node relationships and non-text qualities do
+pid: 25caf264-cda4-4005-8e4a-e571f42befeb
+body: |2-
+  Each of either kind is an MSV field in the NodeSave type. 
+  Each ViewNode type has a program it executes to generate SaveNodes.
+  Then they are merged.
+  (The program can be mere verification that a
+  relative of a certain kind exists to handle it.)

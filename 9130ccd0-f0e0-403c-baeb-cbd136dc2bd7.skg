@@ -1,0 +1,12 @@
+title: AWAITS node limit
+pid: 9130ccd0-f0e0-403c-baeb-cbd136dc2bd7
+body: |2-
+  If each node knows how to update itself,
+  traversal order becomes less important.
+
+  Never delete from what's in a view already.
+  Regardless of traversal order, upon hitting the nodelimit,
+  truncate what remains to be drawn 
+  to some minimal but complete structure.
+  I suspect that just means removing all remaining definitive view requests
+  from indefinitive nodes and then completing everything.

@@ -1,0 +1,4 @@
+title: 'viewContent : a child that belongs to the collection its parent defines'
+pid: 65b44293-a744-4514-96d0-15fb38e7053f
+body: |2-
+  For clarity should always specify graphContent or viewContent.
