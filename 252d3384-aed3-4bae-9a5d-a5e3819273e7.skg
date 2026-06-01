@@ -4,6 +4,8 @@ body: |2-
   - list update
   - goal list includes the HiddenOutsideOfCol
     (which might vanish when it updates itself)
-    after all the subscribees
-  - children it creates, indefinitive, need no updating
-  - lying members become independent
+    after all the subscribees.
+    Can be done in two passes with two goal lists,
+    if that's more convenient.
+  - children it creates are indefinitive and need no updating
+  - lying members are deleted if leaves, otherwise marked independent

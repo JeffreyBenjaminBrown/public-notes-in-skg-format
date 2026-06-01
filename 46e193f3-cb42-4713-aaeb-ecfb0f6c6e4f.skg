@@ -1,2 +1,5 @@
-title: 'definitive VoNode from saved buffer: no need to update'
+title: 'definitive Vognode from saved buffer: no need to update'
 pid: 46e193f3-cb42-4713-aaeb-ecfb0f6c6e4f
+body: |2-
+  During save, that Vognode just defined the corresponding Gnode.
+  "Updating" it would change nothing.

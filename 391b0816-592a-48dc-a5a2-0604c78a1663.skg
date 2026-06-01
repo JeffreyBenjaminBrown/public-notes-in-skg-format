@@ -2,9 +2,11 @@ title: HiddenOutsideOfSubscribeeCol
 pid: 391b0816-592a-48dc-a5a2-0604c78a1663
 body: |2-
   - set update
-  - goal list is strange, but the name spells it out:
-    each member is hidden by Col's grandparent and contained
-    in none of Col's siblings (which are VoNodes)
-  - children it creates, indefinitive, need no updating
-  - lying members become independent
+  - goal list is complex, not corresponding to any single typedb relation,
+    but its name spells it out: each member of the Col
+    is hidden by Col's grandparent
+    and contained in none of the Col's siblings (which are Vognodes).
+    (Check the graph for this information, not the view.)
+  - children it creates are indefinitive and need no updating
+  - lying members are deleted if leaves, otherwise marked independent
   - unusually, deletes itself if it finds itself empty
