@@ -1,0 +1,8 @@
+title: Source, as in quotes, should go from content to its source.
+pid: dcc6ad74-a6a1-40c3-8fc6-f9880186204c
+body: |2-
+  And there should be no link from 
+  (the node representing) the source to the content.
+  This way, from both the source and the content,
+  looking backward provides an interesting answer
+  to the question, 'What justifies this note's existence?'

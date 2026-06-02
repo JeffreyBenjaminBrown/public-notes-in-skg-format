@@ -1,8 +1,12 @@
 title: games
+aliases:
+- game
+- game theory
 pid: 4ac3616a-5baf-46b6-ba87-d2baccedcae0
 contains:
 - 7ed06ffb-92d9-4c59-9449-781ae8f527b9
 - 96a8609e-31d3-4b61-84c6-afa1356b16cb
+- 951bb179-2f07-45c0-b0ea-af50bffb464c
 - 05ad80f2-c075-449e-b96f-756d5424b7ff
 - d60a7174-6420-4f35-ba68-3f3a258b4c4b
 - 98463891-766f-47e6-abdb-dc2a52109a48
