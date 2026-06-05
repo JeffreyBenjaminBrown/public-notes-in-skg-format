@@ -1,0 +1,6 @@
+title: checkout a branch in a clone that doesn't have it
+pid: d8583253-db6c-475c-995f-562646fe6f9d
+body: |2-
+  BRANCH=local-view-updates              # or something
+  git fetch origin                       # fetches all branches
+  git checkout -b $BRANCH origin/$BRANCH # gives it a convenient local name

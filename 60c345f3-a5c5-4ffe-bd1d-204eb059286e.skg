@@ -1,0 +1,7 @@
+title: how to make another's order visible in your notes
+pid: 60c345f3-a5c5-4ffe-bd1d-204eb059286e
+body: |2-
+  For each node of yours and root that it contains-descends from,
+  if the other author has a different path to it, indicate that they do.
+  The same for your own -- if this node can be got to from the view-root
+  (and generalizations thereof) in another way, something indicates that plurality.

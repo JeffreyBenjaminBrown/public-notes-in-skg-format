@@ -1,0 +1,26 @@
+title: prompt for post-mortem
+pid: c1e5f026-b09a-4d3b-981e-bc07deb8df13
+body: |2-
+  Welcome, Claude! Please read coding-advice/ORIENTATION.org, and whatever it refers to (recursively), for orientation.
+
+  Then, please read all of TODO/local-view-update/. It's maybe verbose but it gives the story of what's happened since this branch diverged from main.
+
+  Your mission is to evaluate that work.
+  It's a huge job and I have no idea how to modularize it; do whatever you think is smart.
+  My concerns are:
+  - completeness: Did we actually do everything we intended to do?
+    This includes not just the original plan but later ideas that came up.
+  - elegance: Do any of these solutions feel awkward, inefficient,
+    or otherwise worth revisiting?
+  - clarity: Are the names good? Bear in mind that I prefer clear, verbose names
+    to terse ones. Also I mix camelcase and snake case,
+    so that compound words like _inRustGraph_ can look like one token,
+    which can make names much clearer. (For instance, if we write _in_rust_graph_
+    instead, that looks like an adjective phrase, when in fact it is a noun.
+    Sometimes it is similarly clarifying to camel-case
+    adjective or verb phrases into a single underscore-bracketed token.)
+
+  I have not listed correctness, although if you do find any incorrectness,
+  please include it in your report.
+
+  Please write up what you find in TODO/local-view-update/review.org.
