@@ -1,0 +1,5 @@
+title: 'Create a worktree on an existing branch (folder named after the branch):'
+pid: 6bbc01e1-9fe7-44d1-95fc-96419eb8c1c1
+body: |2-
+  pexample:  git worktree add worktrees/monome-looper monome-looper
+  generally: git worktree add <path>                  <branch>

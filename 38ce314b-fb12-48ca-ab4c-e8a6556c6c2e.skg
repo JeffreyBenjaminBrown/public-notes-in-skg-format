@@ -1,0 +1,4 @@
+title: 'Delete a worktree but keep its branch:'
+pid: 38ce314b-fb12-48ca-ab4c-e8a6556c6c2e
+body: |2-
+  git worktree remove worktrees/dev

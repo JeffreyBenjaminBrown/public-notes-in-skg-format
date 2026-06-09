@@ -1,0 +1,8 @@
+title: git worktrees
+pid: 05cf0eb0-593c-4a47-b9fe-fa1f0869401d
+body: |2-
+  Paths are relative to the current dir.
+contains:
+- 6bbc01e1-9fe7-44d1-95fc-96419eb8c1c1
+- b72bc5eb-0756-4e7b-8ada-83bdabeebeb2
+- 38ce314b-fb12-48ca-ab4c-e8a6556c6c2e

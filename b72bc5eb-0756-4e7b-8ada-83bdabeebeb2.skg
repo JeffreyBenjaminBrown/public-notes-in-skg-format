@@ -1,0 +1,4 @@
+title: for a brand-new branch instead
+pid: b72bc5eb-0756-4e7b-8ada-83bdabeebeb2
+body: |2-
+  git worktree add worktrees/foo -b foo
