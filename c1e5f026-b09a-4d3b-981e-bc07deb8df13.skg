@@ -1,9 +1,9 @@
-title: prompt for post-mortem
+title: ask for a post-mortem
 pid: c1e5f026-b09a-4d3b-981e-bc07deb8df13
 body: |2-
-  Welcome, Claude! Please read coding-advice/ORIENTATION.org, and whatever it refers to (recursively), for orientation.
+  [[ORIENTATION BLURB]]
 
-  Then, please read all of TODO/local-view-update/. It's maybe verbose but it gives the story of what's happened since this branch diverged from main.
+  Then, please read all of [[PLANNING HISTORY]]. It's maybe verbose but it gives the story of what's happened since this branch diverged from main.
 
   Your mission is to evaluate that work.
   It's a huge job and I have no idea how to modularize it; do whatever you think is smart.

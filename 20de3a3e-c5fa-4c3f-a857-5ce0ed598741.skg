@@ -1,0 +1,17 @@
+title: ask for responses to my responses in a discussion
+pid: 20de3a3e-c5fa-4c3f-a857-5ce0ed598741
+body: |2-
+  I have responded inline.
+  I *think* I marked all my responses either TODO or Jeff or both,
+  but I'm not sure. The latest commit shows my latest edits,
+  if you need it.
+
+  Rather than edit it,
+  please leave in place the discussion history in the problems section,
+  but change TODO and ONGOING to DONE in any subtree that becomes closed.
+  Respond to any questions I wrote with a TODO child,
+  and insert any questions of your own as TODO children wherever they belong
+  (which might be the top level).
+
+  Wherever my responses settle anything,
+  please revise the plan to incorporate them.

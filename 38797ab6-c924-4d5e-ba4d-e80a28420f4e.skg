@@ -1,0 +1,13 @@
+title: ask for a critique to a plan
+pid: 38797ab6-c924-4d5e-ba4d-e80a28420f4e
+body: |2-
+  Can you find beef with [[PLAN]]?
+  Beefs of interest include:
+
+  - incorrect things
+  - awkward or inelegant things
+  - dangerous things
+  - missing concepts or abstractions 9esp. types)
+    if they would make things safer or clearer
+
+  Please put what beef you find in a sibling document, 4_critique.org.

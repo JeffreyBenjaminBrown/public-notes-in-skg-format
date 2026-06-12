@@ -1,0 +1,19 @@
+title: ask for the next plan from a metaplan
+pid: c163d936-18ac-4419-839d-a9b064cc523d
+body: |2-
+  Welcome, Claude! Please read coding-advice/ORIENTATION.org, and whatever it refers to (recursively), for orientation. Also docs/forks.org -- we're not about to implement that, but this paves the way for it.
+
+  After that, please read TODO/full-schema/metaplan_2.org.
+  That is in progress, and I would like you to plan the next part of it,
+  "test the relationship matrix", at TODO/full-schema/13_test-rel-matrix.org.
+
+  Once you have written the plan, add a glossary at the top.
+  When you think you develop a shorthand which,
+  while often beautiful and surely efficient, is bewildering.
+  I never understand it; I need plainer language.
+
+  Finally, end the report with a 'problems' section, where you describe anything
+  incompletely specified, dangerous,
+  inelegant or awkward (for future coders or future users),
+  or otherwise, well, problematic.
+  Mark TODO any branch of the .org tree (at any level) that needs my decision.

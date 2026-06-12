@@ -1,0 +1,15 @@
+title: say "execute this plan"
+pid: f9de0970-fe42-41e0-bcfa-fbe275467814
+body: |2-
+  [[ORIENTATION BLURB]]
+  Then execute TODO/full-schema/13_test-rel-matrix.org.
+
+  Please commit your incremental progress as you make it,
+  dividing and ordering commits however feels natural to you.
+  Also log that progress, in progress.org.
+  I'm especially interested in bad news --
+  constraints this work imposes on future work or use,
+  problems this work surfaces,
+  ways the plan turned out to be incomplete, etc.
+
+  Stop only in accordance with when-to-stop.org

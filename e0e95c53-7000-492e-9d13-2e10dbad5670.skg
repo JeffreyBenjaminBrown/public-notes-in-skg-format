@@ -1,4 +1,4 @@
-title: how to say "keep going"
+title: say "keep going" | "do not stop"
 pid: e0e95c53-7000-492e-9d13-2e10dbad5670
 body: |2-
   I won't review until the plan is executed.
@@ -16,19 +16,21 @@ body: |2-
   (leave the original plan as is)
   but -- because I trust you -- do not constitute reason to stop.
 
-  When you do stop, report what's new in progress.org,
-  divided into these categories:
-  - 'what's done and went well',        
+  Any decision that can be easily reversed, decide however you like.
+  If it comes with noteworthy costs or benefits, report those in progress.org.
+
+  When you do stop, complete your report in progress.org,
+  Include at least these categories:
+  - 'what's done and went well',
   - "Changes to the plan's envisioned order."
-  - 'what's imperfect about what's done,"
-    Don't include things just because they are missing now but part of the plan.
-  - "choices determining the future"
-  In that document, mark TODO every item that requires my input.
+    (This is more for your benefit than mine.)
+  - 'unanticipated future potential costs and benefits of what's done'
+  - "open questions"
+  Mark TODO every item that needs my attention.
 
-  If you have no questions for me, do not stop. Keep your report in progress.org,
-  but then return to executing more of the plan.
+  If you have no questions for me and the plan is not done, do not stop.
 
-  Even if you do have questions for me, 
+  Even if you do have questions for me,
   after writing them, you might decide that they are trivial.
   Do not stop in that case, either.
   If you are uncertain of the answer to a question,
