@@ -23,10 +23,14 @@ body: |2-
   Include at least these categories:
   - 'what's done and went well',
   - "Changes to the plan's envisioned order."
-    (This is more for your benefit than mine.)
+    (This is more for your benefit than mine; I probably won't read it.)
   - 'unanticipated future potential costs and benefits of what's done'
   - "open questions"
   Mark TODO every item that needs my attention.
+  I am mostly interested in bad news -- constraints this work imposes on future coding
+  or on the user; problems that it surfaced; etc. (The other stuff
+  *probably* does not need to be marked TODO, and bad news *probably* does.)
+  Problems this work surfaced but then completely resolved are not bad news.
 
   If you have no questions for me and the plan is not done, do not stop.
 

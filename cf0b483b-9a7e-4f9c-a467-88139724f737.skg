@@ -1,0 +1,5 @@
+title: obs (linux recording software)
+pid: cf0b483b-9a7e-4f9c-a467-88139724f737
+body: |2-
+  By default, writes videos to home folder (~)
+  with file basename equal to a timestamp (starting with the year). 
