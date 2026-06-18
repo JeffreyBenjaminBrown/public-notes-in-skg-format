@@ -1,0 +1,8 @@
+title: 'second-order relationships : somewhat implemented'
+pid: bd0baa4c-aa14-4061-93f7-481c7ea46e6c
+body: |2-
+  Skg can display them already, but not search over them.
+contains:
+- 780018d2-0a3e-4fe8-8b91-570965806811
+- 28151591-8081-4b9f-a4aa-5f407db1b63c
+- 147ff608-4ec7-410d-80bc-c33a38df413c

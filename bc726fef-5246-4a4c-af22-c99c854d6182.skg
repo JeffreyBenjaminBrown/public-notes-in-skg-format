@@ -1,0 +1,5 @@
+title: The nodes defining relationships like these should
+pid: bc726fef-5246-4a4c-af22-c99c854d6182
+body: |2-
+  contain an 'its famous used-in-rel-nodes alias' node 
+  (to be representable in skg with convenient backward views).

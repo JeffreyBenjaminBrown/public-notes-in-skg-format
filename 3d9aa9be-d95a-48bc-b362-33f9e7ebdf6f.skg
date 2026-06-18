@@ -1,4 +1,4 @@
-title: A child with a link to this node makes its parent org-exportable.
+title: A node with a link to this node makes any node containing it org-exportable.
 pid: 3d9aa9be-d95a-48bc-b362-33f9e7ebdf6f
 body: |2-
   The root of the view to export should include a child 

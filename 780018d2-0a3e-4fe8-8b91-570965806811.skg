@@ -1,0 +1,5 @@
+title: how to write them (as a user)
+pid: 780018d2-0a3e-4fe8-8b91-570965806811
+body: |2-
+  Use a mid-container with a label like "[[rel modifier]] (_ [[rel]] _)".
+  The user need understand nothing but parentheses.

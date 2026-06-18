@@ -1,0 +1,11 @@
+title: representation
+pid: 93bcccbc-6ba3-4e17-80fd-cd5846560de7
+body: |2-
+  Each is defined by a two-member relationship
+    where the two members' types might differ.
+    Even if untyped, left and right can still be referred to,
+    if they need to be distinguished.
+  For one kind of bidimensional collection node,
+    everything in the left position is in the relationship
+    with everything in the right.
+  For the other, each left-right pair is listed explicitly.

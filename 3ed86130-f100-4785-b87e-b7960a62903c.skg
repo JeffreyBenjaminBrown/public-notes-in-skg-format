@@ -1,0 +1,8 @@
+title: why
+pid: 3ed86130-f100-4785-b87e-b7960a62903c
+body: |2-
+  "Like" and "dislike" might already be specific enough.
+  But even if more detail is important enough to be worth
+  the complexity cost to the user,
+  there is still value in aggregating different peoples' partitions of 'what I like'
+  into a collective 'like' statistic.

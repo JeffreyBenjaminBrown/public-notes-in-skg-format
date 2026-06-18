@@ -1,0 +1,10 @@
+title: the idea
+pid: 3dea65ae-8122-49de-a69b-287992096aba
+body: |2-
+  When a node in the graph cites a source,
+  the citation relationship should go from content to its source.
+  There should be no link from 
+  (the node representing) the source to the content.
+  This way, from both the source and the content,
+  looking backward provides an interesting answer
+  to the question, 'What justifies this note's existence?'

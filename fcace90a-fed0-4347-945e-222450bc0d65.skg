@@ -1,0 +1,8 @@
+title: the idea
+pid: fcace90a-fed0-4347-945e-222450bc0d65
+body: |2-
+  this is second-order,
+  but a title like "[[obviously]] [[(is related to)]]"
+  could convey it,
+  in a machine-paseable way,
+  requiring the user to only know about parens
