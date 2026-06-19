@@ -1,0 +1,6 @@
+title: mount (decrypt) it to an empty folder
+pid: 063dd5d6-18ea-456c-bec3-4d1e9a348fe7
+body: |2-
+  PITFALL: The mount point should be empty prior to mounting.
+
+  gocryptfs ~/encrypted ~/decrypted

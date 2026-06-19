@@ -1,0 +1,4 @@
+title: close the unencrypted view
+pid: 47c03100-9b9e-4c0e-836a-6caadbc844b6
+body: |2-
+  fusermount -u ~/decrypted

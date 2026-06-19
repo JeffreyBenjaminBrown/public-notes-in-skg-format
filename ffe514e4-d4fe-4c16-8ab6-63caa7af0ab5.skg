@@ -1,0 +1,5 @@
+title: vocab
+pid: ffe514e4-d4fe-4c16-8ab6-63caa7af0ab5
+body: |2-
+  cipher folder = encrypted stuff
+  mount point = where it is unencrypted to

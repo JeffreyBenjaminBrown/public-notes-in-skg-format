@@ -1,0 +1,5 @@
+title: initialize a cipher folder
+pid: f676075d-3834-48e8-b01b-199db5bbdac3
+body: |2-
+  bashmkdir -p ~/encrypted
+  gocryptfs -init ~/encrypted
