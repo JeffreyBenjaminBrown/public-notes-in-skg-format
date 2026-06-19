@@ -1,7 +1,13 @@
 title: verify | try
 pid: c29ea6d8-8cfd-4497-aad2-2d9a368b0638
+body: |2-
+  Mark them 'done' once they are.
 contains:
 - a1a1762f-7199-4a71-a026-691992725bbf
+- e1e1666a-22aa-4ba2-b4ac-3fd795da07dc
 - 4013988a-07b0-4eb3-999b-6fa68b9b56ba
 - 9614fc05-891c-49b7-9c3b-c07e091e2dc7
 - 196d3cdf-486b-43c8-9bed-fd0bbf151466
+- 17eb9aad-0028-4773-8301-983a5bb34e56
+- bc2dc72b-09d2-41b8-81b2-1752bc2e69e5
+- 29cf2101-9048-460f-826b-598420ff47d5

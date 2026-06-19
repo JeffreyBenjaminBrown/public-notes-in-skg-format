@@ -1,4 +1,4 @@
-title: distinguish HiddenHere from RemovedHere, etc.
+title: 'DONE, I think : distinguish HiddenHere from RemovedHere, etc.'
 pid: 755953d4-062d-4f0b-9897-449bacf420cb
 body: |2-
   // TODO: Currently RemovedHere means both 'removed from subscribee content' and 'hidden by subscriber'. Newhere is similarly ambiguous.

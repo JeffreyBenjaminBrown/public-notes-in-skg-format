@@ -1,5 +1,7 @@
 title: how to export from skg to org (but not org-roam)
 pid: a19c5804-1c8e-462d-bb4d-12a54053c554
+body: |2-
+  CAREFUL : Some of these nodes are code.
 contains:
 - 3d9aa9be-d95a-48bc-b362-33f9e7ebdf6f
 - 9ff04e25-01e8-4634-8aa5-f5849bc1eb81
