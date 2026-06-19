@@ -1,5 +1,8 @@
-title: Encfs
+title: Encfs is obsolete.
+aliases:
+- encfs
 pid: 4aa7c549-cbc7-4de4-95e4-ffc545c72fe5
 contains:
+- 9b47a4eb-3f84-44a8-81b3-ae1ea35b8d83
 - e627ca72-3c6a-44cb-81d0-dc2dc7c0e1cd
 - 7c70f9bd-a788-479e-bd21-ef072117bb35

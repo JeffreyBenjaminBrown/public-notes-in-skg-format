@@ -1,0 +1,14 @@
+title: gocryptfs
+pid: 3bf99960-450a-4ea7-8357-037d13bef715
+body: |2-
+  # 2. Create and mount a fresh gocryptfs volume
+  mkdir -p ~/gocrypt.enc ~/gocrypt
+  gocryptfs -init ~/gocrypt.enc        # set a new password
+  gocryptfs ~/gocrypt.enc ~/gocrypt
+
+  # 3. Copy your data across the decrypted boundary
+  rsync -a --info=progress2 ~/decrypted/ ~/gocrypt/
+
+  # 4. Verify, then unmount both
+  fusermount -u ~/decrypted
+  fusermount -u ~/gocrypt

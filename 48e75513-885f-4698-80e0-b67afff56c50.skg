@@ -1,0 +1,5 @@
+title: Beware of leaving a search buffer open.
+pid: 48e75513-885f-4698-80e0-b67afff56c50
+body: |2-
+  It can make saving slow, if there are many results.
+  "backup my data" gives 2500 results, many with contains-ancestries.
