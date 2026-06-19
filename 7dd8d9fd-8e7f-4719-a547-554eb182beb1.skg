@@ -1,6 +1,8 @@
 title: rescue smsn into skg
 pid: 7dd8d9fd-8e7f-4719-a547-554eb182beb1
 contains:
+- 16c04ee2-3695-48e3-b2cb-067f20e0d98e
+- 631cd002-09c2-4fbd-bb2b-7d2fc2ace7b4
 - 01005669-6c25-4c95-ba77-ce785dae105e
 - e9240277-d452-439c-99d5-1191953b0fed
 - dc1a1631-df8f-40ed-a8df-a9334aba0294

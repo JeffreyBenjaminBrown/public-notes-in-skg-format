@@ -1,0 +1,8 @@
+title: It's in borg!
+pid: 16c04ee2-3695-48e3-b2cb-067f20e0d98e
+body: |2-
+  I accidentally deleted this good folder:
+    vcs.from-borg.2024-01-10.hp17
+  which had private, public, universal, etc.
+  But due to the name I strongly suspect
+  it can be rediscovered in my borg data.

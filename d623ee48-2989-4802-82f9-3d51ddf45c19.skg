@@ -1,6 +1,8 @@
 title: Docker / to reduce space usage
 pid: d623ee48-2989-4802-82f9-3d51ddf45c19
 body: |2-
+  tags: delete remove free
+
   docker system prune
 misc:
 - Had_ID_Before_Import
