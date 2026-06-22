@@ -6,9 +6,9 @@ body: |2-
   but I'm not sure. The latest commit shows my latest edits,
   if you need it.
 
-  Rather than edit it,
-  please leave in place the discussion history in the problems section,
-  but change TODO and ONGOING to DONE in any subtree that becomes closed.
+  Rather than edit it, please leave in place whatever I have written,
+  except to change TODO and ONGOING to DONE
+  throughout any subtree that becomes closed.
   Respond to any questions I wrote with a TODO child,
   and insert any questions of your own as TODO children wherever they belong
   (which might be the top level).
