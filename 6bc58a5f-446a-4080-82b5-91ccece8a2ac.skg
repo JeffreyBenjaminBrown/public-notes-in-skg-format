@@ -1,7 +1,6 @@
 title: 'Furthermore, {} can be used to pattern match on the left hand side, i.e. {var = pat} gets an implicit variable and attempts to pattern match on “pat”; For example:'
 pid: 6bc58a5f-446a-4080-82b5-91ccece8a2ac
 body: |2-
-
   isEmpty : Vect n a -> Bool
   isEmpty {n = Z} _   = True
   isEmpty {n = S k} _ = False

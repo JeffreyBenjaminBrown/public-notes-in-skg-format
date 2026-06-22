@@ -1,7 +1,6 @@
 title: An axiomatic basis consists of
 pid: c96e6f43-de53-4efb-b5d0-f2b795b7769d
 body: |2-
-
   1.A list of primitive symbols, together with any definitions that may be thought convenient,
   2.A set of formation rules, specifying which sequences of symbols are to count as WFFs,
   3.A list of WFFs selected as axioms, and

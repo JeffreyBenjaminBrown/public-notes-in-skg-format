@@ -1,6 +1,5 @@
 title: 'For instance:'
 pid: 3b0938d4-9ad4-46ce-b86a-3dbdc59447c2
 body: |2-
-
   User Option: words-include-escapes ¶
   This variable affects the behavior of forward-word and backward-word, and everything that uses them. If it is non-nil, then characters in the escape and character-quote syntax classes count as part of words. Otherwise, they do not.

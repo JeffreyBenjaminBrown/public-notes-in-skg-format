@@ -1,7 +1,6 @@
 title: let (tx, mut rx) = trpl::channel();
 pid: ff0ebd87-99d4-4e32-9a5f-f14243d6549f
 body: |2-
-
   let vals = vec![
       String::from("hi"),
       String::from("from"),

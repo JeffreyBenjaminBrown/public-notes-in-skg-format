@@ -1,7 +1,6 @@
 title: use std::sync::mpsc;
 pid: a1b703f9-e517-4e1b-98bd-52c43c34b7f3
 body: |2-
-
   fn main() {
       let (tx, rx) = mpsc::channel();
   }

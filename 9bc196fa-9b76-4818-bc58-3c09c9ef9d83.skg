@@ -1,7 +1,6 @@
 title: use std::time::Duration;
 pid: 9bc196fa-9b76-4818-bc58-3c09c9ef9d83
 body: |2-
-
   fn main() {
       trpl::run(async {
           trpl::spawn_task(async {
