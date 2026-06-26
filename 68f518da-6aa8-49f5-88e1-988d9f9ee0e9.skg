@@ -1,0 +1,5 @@
+title: Can't save; getting a 'no such collateral buffer' error.
+pid: 68f518da-6aa8-49f5-88e1-988d9f9ee0e9
+body: |2-
+    * errors
+    ** Error processing buffer content: No such file or directory (os error 2)

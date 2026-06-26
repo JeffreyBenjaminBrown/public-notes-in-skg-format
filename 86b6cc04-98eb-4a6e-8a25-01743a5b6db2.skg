@@ -1,0 +1,6 @@
+title: make slideshows
+pid: 86b6cc04-98eb-4a6e-8a25-01743a5b6db2
+body: |2-
+  Each time the view changes, highlight the portion that changed,
+  give the viewer enough time to read that many characters.
+  Each herald symbol is clickable to provide an explanation.

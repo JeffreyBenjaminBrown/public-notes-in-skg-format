@@ -3,9 +3,7 @@ pid: 5704b01c-3eaf-4adc-98a8-0c2c6804da08
 body: |2-
   A quieter, more effective DIY air purifier.
 contains:
-- 37777b00-9ebb-4578-8eb8-da234e999b51
-- 19a33291-9871-4cf9-ae9e-4889f3d7cd53
-- bc211114-7fc1-4d46-8e05-36d398b6b2f6
-- 3549e6c8-0b36-439c-920a-d1a0063b6864
+- 8574aa41-c7e5-4771-b712-0c760197e4a7
+- 05d7b9df-13fd-4c76-8795-3880cc646676
 misc:
 - Had_ID_Before_Import
