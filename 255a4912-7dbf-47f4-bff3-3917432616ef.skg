@@ -6,6 +6,7 @@ aliases:
 - wisdom
 pid: 255a4912-7dbf-47f4-bff3-3917432616ef
 contains:
+- 8c2994fa-0955-4376-828a-178d85e1bfe6
 - efbbd04a-dc06-4fc2-8423-9834a7f18993
 - f4f8a9a0-fd92-41df-a0dd-196bc514d49a
 - d0a313bd-8bf8-4db4-99b0-7c3249693dfa
