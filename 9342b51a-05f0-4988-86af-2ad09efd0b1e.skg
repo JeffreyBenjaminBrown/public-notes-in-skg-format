@@ -1,0 +1,4 @@
+title: Use arm signals when lights are not visible.
+pid: 9342b51a-05f0-4988-86af-2ad09efd0b1e
+body: |2-
+  This includes when the sun could overwhelm them.
