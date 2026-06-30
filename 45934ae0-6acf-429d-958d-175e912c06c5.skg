@@ -1,0 +1,7 @@
+title: Play loops for individual parameters; mix and match.
+pid: 45934ae0-6acf-429d-958d-175e912c06c5
+body: |2-
+  No need to pre-identify which parameters are being recorded.
+  Any touched are recorded.
+  The others are not recorded (which would clobber whatever
+  those params might have otherwise been doing with a flatline).

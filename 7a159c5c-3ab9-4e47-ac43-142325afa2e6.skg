@@ -1,0 +1,7 @@
+title: Smooth a step function.
+pid: 7a159c5c-3ab9-4e47-ac43-142325afa2e6
+body: |2-
+  e.g. only play the min and max,
+  then press 'smooth' to get a sawtooth wave.
+  More complex: Turn 'smooth' on and off
+  during the performance being recorded to loop.

@@ -1,6 +1,6 @@
 title: serial durations
 pid: e2f7062f-8801-473d-8439-e4b9a8b9212f
 body: |2-
-  (3 3 2)xN (2 2 2 2)
-  x being repetition by
-  suddenly the 3s are gone
+  example: (3 3 2)xN (2 2 2 2)
+    "x" being "repetition by".
+    At the second "(", suddenly the 3s are gone.

@@ -1,0 +1,5 @@
+title: take something like the intersection of hides when merging
+pid: 12f4672a-ef97-487b-9f8d-7cd9602f71cc
+body: |2-
+  If either shows it -- which means it is contained in
+  *and* unhidden from one of them -- then the merge should show it.
