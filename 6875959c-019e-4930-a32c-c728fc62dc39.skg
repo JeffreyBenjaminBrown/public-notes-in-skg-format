@@ -1,0 +1,6 @@
+title: Claude Sonnet might be stupid now <2026-07-06 Mon>.
+pid: 6875959c-019e-4930-a32c-c728fc62dc39
+body: |2-
+  I asked it to divide a pdf.
+  It instead wrote python code to construct new pdfs,
+  reading the original and pasting raw text.

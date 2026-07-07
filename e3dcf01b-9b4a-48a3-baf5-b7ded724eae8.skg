@@ -1,0 +1,7 @@
+title: When processing a new node from magit, just worry about putting it everywhere it belongs.
+pid: e3dcf01b-9b4a-48a3-baf5-b7ded724eae8
+body: |2-
+  Can then process its containers immediately.
+  (Could help for this: A command to automatically staged its membership
+  in each of its containers, wherever that line lies.
+  But maybe one-line diff stagings can get confusing.)

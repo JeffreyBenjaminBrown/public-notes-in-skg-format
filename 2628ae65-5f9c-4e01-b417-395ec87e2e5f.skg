@@ -1,0 +1,8 @@
+title: 'should be visually obvious : [[id:9348e8ba-b151-43ef-b2a4-27e5447a9cfc][all changes in file staged]]'
+pid: 2628ae65-5f9c-4e01-b417-395ec87e2e5f
+body: |2-
+  Or else easy to test.
+  A function that achieves both goals:
+  Search for the next ustaged thing, using a regex
+  that won't be tricked by an instance of
+  the word unstaged outside of its proper metadata use.
