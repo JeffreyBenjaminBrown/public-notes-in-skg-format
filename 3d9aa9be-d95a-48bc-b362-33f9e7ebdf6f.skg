@@ -1,10 +1,10 @@
 title: A node with a link to this node makes any node containing it org-exportable.
 pid: 3d9aa9be-d95a-48bc-b362-33f9e7ebdf6f
 body: |2-
-  The root of the view to export should include a child 
+  The root of the view to export should include a child
   whose title includes a link to this node, the node you are reading now.
   (The label need not be the same;
-  in fact it should probably be something like 
+  in fact it should probably be something like
   "how to export this note to org format").
   The body of that child is interpreted as .toml,
   and should define a (relative) 'target_filepath' value:

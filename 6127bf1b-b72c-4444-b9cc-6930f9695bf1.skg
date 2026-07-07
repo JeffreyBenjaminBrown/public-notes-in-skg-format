@@ -1,0 +1,6 @@
+title: if your keyboard sends double-presses
+pid: 6127bf1b-b72c-4444-b9cc-6930f9695bf1
+body: |2-
+  - Stopgap (usage): Read the next item before staging anything,
+    so that if two things get staged in what should have been one keystroke, you'll notice.
+  - Permanent fix (code): debounce staging in magit.

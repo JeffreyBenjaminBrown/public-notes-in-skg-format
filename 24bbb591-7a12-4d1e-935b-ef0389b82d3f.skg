@@ -1,0 +1,7 @@
+title: If a network does not show up.
+pid: 24bbb591-7a12-4d1e-935b-ef0389b82d3f
+body: |2-
+  tag rescan
+
+  sudo systemctl restart NetworkManager
+  nmcli device wifi rescan
