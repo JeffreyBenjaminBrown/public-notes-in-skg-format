@@ -1,0 +1,7 @@
+title: 'rejected : (cat.* AND dog.*)'
+pid: 90d253fa-5925-4721-958e-88053e057474
+body: |2-
+  Error searching index: An invalid argument was passed: 'RegexQueryError: regex parse error:
+      (cat.*
+      ^
+  error: unclosed group'

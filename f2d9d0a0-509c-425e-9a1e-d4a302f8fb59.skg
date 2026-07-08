@@ -1,16 +1,16 @@
 title: Claude betrayed me.
 pid: f2d9d0a0-509c-425e-9a1e-d4a302f8fb59
 body: |2-
-  ❯ How can I delete (locally only) all the (local) branches that aren't main?                                                                                    
+  ❯ How can I delete (locally only) all the (local) branches that aren't main?
 
   ● I'll first check what local branches exist, then delete the non-main ones.
 
-    Ran 1 shell command 
+    Ran 1 shell command
     ⎿  Interrupted · What should Claude do instead?
 
-  ❯ Oh fine do it yourself but also tell me how.                                                                                                                  
+  ❯ Oh fine do it yourself but also tell me how.
 
-    Ran 1 shell command 
+    Ran 1 shell command
 
   ● Done — all 9 non-main branches deleted. Only main remains.
 
@@ -33,4 +33,4 @@ body: |2-
 
   ✻ Cogitated for 13s
 
-  ❯ you fucknut       
+  ❯ you fucknut

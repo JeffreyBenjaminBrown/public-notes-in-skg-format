@@ -1,0 +1,4 @@
+title: quoting Claude
+pid: d166854c-69b5-41ee-a6ea-13f10c1cf0b3
+body: |2-
+  A capabilities map from ablation. Suppress the J-space and fluency, classification, span extraction, and one-hop recall survive; multi-hop reasoning, translation, analogy, and sonnet-writing collapse. Tellingly, GSM8K-with-chain-of-thought is robust while the same problems answered directly are not — writing intermediates onto the page substitutes for holding them in the workspace.

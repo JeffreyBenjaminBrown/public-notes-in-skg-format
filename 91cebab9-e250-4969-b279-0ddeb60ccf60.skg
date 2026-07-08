@@ -1,0 +1,6 @@
+title: quoting Claude
+pid: 91cebab9-e250-4969-b279-0ddeb60ccf60
+body: |2-
+  "[There is a] clean automatic/deliberate dissociation. The same latent variable routes through the workspace only when the task is deliberate. Swap the J-space representation of a passage's language and the model's report of the language flips, its flexible inferences (famous author, currency) flip — but continuation and anomaly detection are untouched, still fluently producing the original language. Same information, present in both cases, causal only for the deliberate tasks." --Claude
+
+  "The swap only edits the J-space representation of "the language," not the text itself. So you get a split: the model will tell you it's Italian (report flipped), will name an Italian author and reason about Italian-associated facts (flexible inference flipped), yet will continue the text in French and judge anomalies against French (automatic tasks unaffected)." --Claude
