@@ -6,7 +6,7 @@ body: |2-
 
   Never delete from what's in a view already.
   Regardless of traversal order, upon hitting the nodelimit,
-  truncate what remains to be drawn 
+  truncate what remains to be drawn
   to some minimal but complete structure.
   I suspect that just means removing all remaining definitive view requests
   from indefinitive nodes and then completing everything.

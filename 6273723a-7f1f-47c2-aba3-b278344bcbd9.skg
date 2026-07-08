@@ -7,5 +7,5 @@ body: |2-
   Date:   Thu May 14 21:50:38 2026 -0500
 
       change how serialosc, libmonome are built
-      
+
         changing a few lines to fix an infinite loop

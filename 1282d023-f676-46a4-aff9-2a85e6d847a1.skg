@@ -4,7 +4,7 @@ body: |2-
   This:
     x = df [ df.a > 0 ]
        . groupby("b")
-       . c . mean()                                
+       . c . mean()
   and this:
     positive_margin_orders = orders[orders.margin > 0]
     average_revenue_by_region =

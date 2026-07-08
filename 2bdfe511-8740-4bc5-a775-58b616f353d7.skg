@@ -4,7 +4,7 @@ body: |2-
   What's happening is that to find whether someone is in a list
   requires walking through the list.
   If the list is long, that takes a long time --
-  and you're doing it for each person in the other list. 
+  and you're doing it for each person in the other list.
 
   processing time ~ pop size * group length
 

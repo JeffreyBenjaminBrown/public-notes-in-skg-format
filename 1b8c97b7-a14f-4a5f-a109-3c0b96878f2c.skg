@@ -3,7 +3,7 @@ pid: 1b8c97b7-a14f-4a5f-a109-3c0b96878f2c
 body: |2-
   - update its text
   - list update
-  - goal list includes all gContent, 
+  - goal list includes all gContent,
     plus a subscribeeCol if it subscribes to anything.
     This can be done in two stages: one that uses a goal list of the gContent,
     and a second with a singleton subscribeeCol goal list.
@@ -11,5 +11,5 @@ body: |2-
     with its own definitive view request,
     and will itself need updating
   - *all* its normal children that affect it (not just the new ones)
-    should be given their own definitive view request 
+    should be given their own definitive view request
   - lying members become independent

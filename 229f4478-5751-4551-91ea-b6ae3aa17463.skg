@@ -6,8 +6,8 @@ body: |2-
   to the space of values each can take.
   But that would require dependent types, I think
   (the type of the value associated with a key depends on the key).
-   
-  So just use something like NodeComplete but where *everything* is MSV. 
+
+  So just use something like NodeComplete but where *everything* is MSV.
   Can easily define two ways to merge, and I'm not sure whether one dominates:
   Merge where two fields can't both be Some,
   and merge where they can, the first clobbering the second.

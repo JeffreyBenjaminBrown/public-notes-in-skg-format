@@ -5,4 +5,4 @@ body: |2-
   If container R contains node U which consists entirely of
   a link to this 'unsorted' node and some content,
   then each content of U is related to R,
-  in a way that I hope to someday better specify. 
+  in a way that I hope to someday better specify.
