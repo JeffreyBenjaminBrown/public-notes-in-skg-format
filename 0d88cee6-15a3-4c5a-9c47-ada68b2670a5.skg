@@ -1,0 +1,7 @@
+title: no driver-visible video monitor
+pid: 0d88cee6-15a3-4c5a-9c47-ada68b2670a5
+body: |2-
+  unless it only displays
+  - vehicle information,
+  - navigation system
+  -  media player | radio
