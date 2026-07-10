@@ -1,0 +1,6 @@
+title: disabled vehicle on RR tracks
+pid: 64670de0-75e3-4f48-9d76-fcb052c5b99b
+body: |2-
+  - Run diagonally away from tracks but *toward* the train,
+    to avoid the car blast.
+  - There should be a number posted somewhere to call.
