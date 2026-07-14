@@ -1,6 +1,5 @@
 title: right of way
 pid: 4974a0f6-0fc8-4f38-8ff2-0f11a7b0bcd3
-body: |2-
-  - the vehicle first to reach the intersection has the RoW
-  - on simultaneous arrival, yield to the person on your right
-  - at a T, the people on the through-road have the RoW
+contains:
+- b8d260a3-f6e4-4b66-921d-8595bd7b56fc
+- 53f977c0-294f-4c7b-a58e-a925953d4791
