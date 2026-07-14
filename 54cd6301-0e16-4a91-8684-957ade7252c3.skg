@@ -1,0 +1,5 @@
+title: to set a timer to shutdown the system
+pid: 54cd6301-0e16-4a91-8684-957ade7252c3
+body: |2-
+  Press Win+R and type:
+  shutdown /s /t 3600

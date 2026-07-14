@@ -5,3 +5,4 @@ body: |2-
 
   sudo systemctl restart NetworkManager
   nmcli device wifi rescan
+  vacacionpacificaporfin
