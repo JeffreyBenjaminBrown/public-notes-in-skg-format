@@ -1,2 +1,7 @@
-title: Don't at a railroad crossing or firestation.
+title: Don't where?
 pid: 321c23d3-ba90-4a3a-9931-2f0366bb60b1
+body: |2-
+  - at a railroad crossing
+  - at a firestation
+  - in a business district,
+    except at an intersection

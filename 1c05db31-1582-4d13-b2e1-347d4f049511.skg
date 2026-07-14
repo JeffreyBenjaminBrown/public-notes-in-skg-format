@@ -1,2 +1,4 @@
-title: Don't follow within 300 feet of an EV in E-mode.
+title: Don't follow within how far of an EV in E-mode?
 pid: 1c05db31-1582-4d13-b2e1-347d4f049511
+body: |2-
+  300 feet

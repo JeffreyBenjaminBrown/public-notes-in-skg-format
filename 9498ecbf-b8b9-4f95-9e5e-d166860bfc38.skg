@@ -1,0 +1,6 @@
+title: Put a specificity relation on relation labels.
+pid: 9498ecbf-b8b9-4f95-9e5e-d166860bfc38
+body: |2-
+  For instance, 'helps' is more specific (and probably more useful) than 'neighbors'.
+  A relation might be further-specifiable in multiplee directions --
+  e.g. 'x helps y' and 'y assumes x'.
