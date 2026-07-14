@@ -1,8 +1,4 @@
-title: big loads
+title: big loads \ CA driver's handbook
 pid: b10db827-822a-4493-8709-1527091eef64
-body: |2-
-  Must not carry anything in or on a passenger vehicle which extends beyond the fenders on the left side or more than 6-inches beyond the fenders on the right side.
-
-  Cargo that extends more than 4 feet from the back-rear bumper of the vehicle
-  must display a 12-inch red or fluorescent orange square flag.
-  At night, this cargo must be marked with two red lights.
+contains:
+- d9faf7c8-2332-4a01-a5b6-89410efca434

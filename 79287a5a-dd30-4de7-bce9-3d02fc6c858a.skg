@@ -5,6 +5,8 @@ aliases:
 - learning
 pid: 79287a5a-dd30-4de7-bce9-3d02fc6c858a
 contains:
+- b99ee216-e010-4c01-9055-c935ce3131dd
+- 2506667c-38bf-430e-89b5-eca02ccdf32a
 - 791d86bc-4583-44ae-adec-5e665c4eab86
 - 6da712c0-8fba-41b4-90f5-b71b27da741b
 - aebaf365-6ecf-4dd1-89f3-5e5de837c6e8
