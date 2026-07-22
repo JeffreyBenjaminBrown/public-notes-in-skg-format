@@ -1,8 +1,2 @@
 title: evidence from Anthropic's J-space discovery.
 pid: 5127845b-010d-461f-9ee1-9becece2701c
-body: |2-
-  Anthropic recently released a paper[1] on their discovery of something that looks like a global workspace in Claude. (I'll just call it the global workspace in the rest of this.) A global workspace has long been hypothesized as fundamental to consciousness. The most interesting part, to me, of the paper was that they found providing a scratchpad was at least somewhat substitutable for the global workspace. That is, things Claude could not do when the global workspace was disabled, Claude became able again to do when it could write its thoughts down.
-
-  It reinforces my belief that writing can help a person be more conscious.
-
-  [1] https://www.anthropic.com/research/global-workspace

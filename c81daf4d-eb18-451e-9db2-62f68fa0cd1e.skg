@@ -1,13 +1,30 @@
 title: how
 pid: c81daf4d-eb18-451e-9db2-62f68fa0cd1e
 body: |2-
-  # PITFALL: The `prune` step is necessary.
-  # See its comment for why.
+  # PITFALL: There are two distinct kinds of `prune` steps, both necessary.
+  # See their comments for why.
 
-  remote=origin               # or something
-  branch=tricky-feature       # or something
-  git push $remote -d $branch # deletes $branch on the remote
+  remote=origin         # or something
+  branch=research # or something
+
+  # The simple case: no worktrees.
+
+  git push $remote -d $branch # Delete $branch on the remote.
   git branch       -d $branch
-  git remote prune $remote    # drops $branch from local record of remote
+  git remote prune $remote    # Drop $branch from *local* record of remote.
+
+  # DANGER: Read these comments.
+  # If there's a worktree with submodules,
+  # and the branch is in a worktree in this folder,
+  # *with the same name as the branch*, the following works.
+  # (Without submodules it could be simpler, but whatever.)
+
+  git push $remote -d $branch # Deletes $branch on the remote.
+  rm -rf $branch              # DANGER! The worktree must have the same name.
+  git worktree prune # Clear the stale worktree entry in .bare/worktrees/.
+                     # Without this, 'git branch -d' refuses
+                     # with "cannot delete branch used by worktree
+  git branch -d $branch       # -d works since it's fully merged; no -D needed.
+  git remote prune $remote    # Drops $branch from *local* record of remote.
 contains:
 - c43f95a8-c6f1-446c-84e2-285baad1c0ff

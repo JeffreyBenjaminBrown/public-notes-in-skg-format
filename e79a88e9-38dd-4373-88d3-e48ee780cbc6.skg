@@ -1,4 +1,5 @@
-title: look and signal for lane changes
+title: Do what for lane changes?
 pid: e79a88e9-38dd-4373-88d3-e48ee780cbc6
 body: |2-
-  Check mirrors. Look over shoulder. Look behind and to side.
+  Look: Check mirrors. Look over shoulder. Look behind and to side.
+  Signal.

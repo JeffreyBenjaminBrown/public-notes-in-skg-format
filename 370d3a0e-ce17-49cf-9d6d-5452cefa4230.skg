@@ -1,0 +1,6 @@
+title: a 'common subfoder names' viewnode
+pid: 370d3a0e-ce17-49cf-9d6d-5452cefa4230
+body: |2-
+  e.g. if 'dubious' shows up under X, Y, Z children of N,
+  N can have a 'dubious' viewnode that collects their conetnt,
+  perhaps under some substructure identifying which of X, Y and Z they come from
