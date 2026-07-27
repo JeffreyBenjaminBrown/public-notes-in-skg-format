@@ -1,0 +1,6 @@
+title: lit cells in a row across time could represent advances in a pitch series
+pid: 6e7f255a-e67a-4129-bd27-b6fb5e287c50
+body: |2-
+  A row that in a simpler sequencer represents "one" [pitch, sample, ..]
+  against time could be for a series of them.
+  Each lit cell in the row plays a note and advance the series.
