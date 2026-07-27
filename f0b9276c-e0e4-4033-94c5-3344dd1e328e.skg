@@ -1,0 +1,7 @@
+title: '*fetch* does not change which branch is checked out'
+pid: f0b9276c-e0e4-4033-94c5-3344dd1e328e
+body: |2-
+  example:
+    git fetch origin main:main
+  will update my local main to reflect the remote one,
+  without changing the branch I'm on.
