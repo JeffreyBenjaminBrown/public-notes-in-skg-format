@@ -4,4 +4,5 @@ body: |2-
   More powerful, but also more complex, than deadgrep.
   https://github.com/dajva/rg.el
 contains:
+- fbcc601b-b451-478a-a2b5-f970d180ef63
 - 2d478bb4-2587-4f99-89ca-424a59c686e2

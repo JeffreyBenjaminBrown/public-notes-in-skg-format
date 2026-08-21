@@ -1,0 +1,4 @@
+title: to ignore nothing
+pid: fbcc601b-b451-478a-a2b5-f970d180ef63
+body: |2-
+  rg <term> -. --no-ignore
