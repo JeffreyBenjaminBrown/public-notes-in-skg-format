@@ -1,0 +1,7 @@
+title: to use it in a Docker container
+pid: 50d0ba64-5eaf-41bf-b05b-7fabda8cd83c
+body: |2-
+  First run this:
+    codex login --device-auth
+  Then start it normally, e.g.
+    codex --yolo

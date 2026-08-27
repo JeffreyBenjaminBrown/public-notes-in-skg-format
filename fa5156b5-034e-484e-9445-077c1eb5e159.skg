@@ -1,0 +1,5 @@
+title: Tidal + monome
+pid: fa5156b5-034e-484e-9445-077c1eb5e159
+body: |2-
+  Bigger than 'record': ingest into Haskell.
+  Extract pitch sets, series (unmeasured sequences), etc.

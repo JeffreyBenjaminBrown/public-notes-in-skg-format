@@ -1,8 +1,10 @@
 title: cooking
 pid: 95fc4b53-483e-475e-a86c-2818c0917166
 contains:
+- b8b3220c-a337-4192-99d4-b2fd6234f9d5
 - ca2a42f7-c0e1-46da-b1d9-4355d7939eef
 - dd60a0ce-0a1c-4b38-bc64-deba1587ca96
+- 619c4df8-1965-4616-b77a-e9f6aacad8e2
 - 81ef9fce-eb59-421e-bd98-7e4a558c61c0
 - 8f22b551-42bf-4a76-84c1-657558ce290f
 - 8c3adf7a-fded-4132-ad57-ea07829dcb7f
@@ -13,5 +15,7 @@ contains:
 - 12efc0ae-f960-421e-a661-22cf2d0e081f
 - 9635dc98-9407-4712-9393-55bd164ae697
 - 40b93a4b-bcbe-483d-81e3-85f7e84e63b1
+subscribes_to:
+- 056a7de8-d7e5-4fb4-9a42-7e0f088ab898
 misc:
 - Had_ID_Before_Import
