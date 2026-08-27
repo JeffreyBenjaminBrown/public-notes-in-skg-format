@@ -1,0 +1,13 @@
+title: the procedure
+pid: f9f0d46f-74e8-4d09-ab1e-89be6b9fd63e
+body: |2-
+  remote=origin   # or something
+  branch=research # or something
+
+  pgit push $remote -d $branch # Deletes $branch on the remote.
+  rm -rf $branch              # DANGER! The worktree must have the same name.
+  git worktree prune # Clear the stale worktree entry in .bare/worktrees/.
+                     # Without this, 'git branch -d' refuses
+                     # with "cannot delete branch used by worktree
+  git branch -d $branch       # -d works since it's fully merged; no -D needed.
+  git remote prune $remote    # Drops $branch from *local* record of remote.

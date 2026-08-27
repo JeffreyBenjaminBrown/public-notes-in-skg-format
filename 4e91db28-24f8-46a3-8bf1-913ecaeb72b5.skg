@@ -1,0 +1,7 @@
+title: why it's tricker
+pid: 4e91db28-24f8-46a3-8bf1-913ecaeb72b5
+body: |2-
+  If there's a worktree with submodules,
+  and the branch is in a worktree in this folder,
+  *with the same name as the branch*, the following works.
+  (Without submodules it could be simpler, but whatever.)
