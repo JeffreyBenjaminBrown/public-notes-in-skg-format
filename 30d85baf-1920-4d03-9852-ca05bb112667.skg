@@ -1,0 +1,5 @@
+title: if my Nix code for it breaks
+pid: 30d85baf-1920-4d03-9852-ca05bb112667
+body: |2-
+  it might be because Artem made a fix.
+  See nix-jbb/custom-packages/serialosc/ARTEM-MIGHT-FIX-THIS.org

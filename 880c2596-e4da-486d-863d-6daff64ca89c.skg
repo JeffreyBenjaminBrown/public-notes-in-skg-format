@@ -4,7 +4,6 @@ aliases:
 - self
 pid: 880c2596-e4da-486d-863d-6daff64ca89c
 contains:
-- 810516cb-7ed2-48d5-b460-25ec67bf264e
 - ed539478-51a4-41e3-951b-67ded89af9ac
 - 845164a1-c0be-4814-8c27-927f19d5c6c8
 - d615a587-49d0-4649-9fd9-f740b092869e

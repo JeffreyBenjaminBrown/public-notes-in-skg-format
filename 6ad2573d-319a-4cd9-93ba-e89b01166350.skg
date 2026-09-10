@@ -1,2 +1,5 @@
-title: Don't ignore a fork, but also don't fork without a good reason.
+title: Recognize forks judiciously.
 pid: 6ad2573d-319a-4cd9-93ba-e89b01166350
+body: |2-
+  Don't bifurcate types without a good reason,
+  but also don't ignore a serious conceptual fork.

@@ -2,3 +2,5 @@ title: the monome serialosc protocol
 pid: ef0cf0bb-8a11-4147-989c-04d6488e1d1a
 body: |2-
   https://monome.org/docs/serialosc/osc/
+contains:
+- 30d85baf-1920-4d03-9852-ca05bb112667

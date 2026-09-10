@@ -1,0 +1,4 @@
+title: how I am preserving Codex state across docker containers
+pid: cae71a62-de3e-4ed9-8c76-c7383f94d90f
+body: |2-
+  The latest images contain a script to export it, at /home/ubuntu/.
