@@ -1,0 +1,11 @@
+title: temporarily disable sleep
+pid: 56828444-7dd4-4417-91f4-8d2c68ba6604
+body: |2-
+  SURPRISING. Read this whole thing.
+
+  In a shell, run this:
+    systemd-inhibit --what=sleep:idle --mode=block bash
+  That 'opens a new shell' (doesn't look different)
+  which, for as long as it's running, prevents suspension.
+  Running 'exit' (or Ctrl-D) exits it (again doesn't look different),
+  whenceforth suspension is normal.

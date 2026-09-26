@@ -1,0 +1,6 @@
+title: reliably trigger sleep
+aliases:
+- sleep computer linux
+pid: 9c362568-68ae-4c5b-93b5-eede290c75e7
+body: |2-
+  systemctl suspend
