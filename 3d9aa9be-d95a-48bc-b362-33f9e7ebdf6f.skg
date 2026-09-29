@@ -9,9 +9,10 @@ body: |2-
   "how to export this note to org format"),
   because it does explain that.
   Specifically, its body is interpreted as .toml,
-  and should define a (relative) 'target_filepath' value:
+  and should define a (relative) 'target_filepath' value,
+  without the .org file extension:
   ```
     target_filepath = docs/setup
   ``
   Every such file found will be exported into 'org-exports/' --
-  ce.g. the above would go to org-exports/docs/setup.org.
+  e.g. the above would go to org-exports/docs/setup.org.
