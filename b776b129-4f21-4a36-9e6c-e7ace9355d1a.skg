@@ -1,0 +1,8 @@
+title: '''<mentioned> hides from its link sources <mentioner>'''
+pid: b776b129-4f21-4a36-9e6c-e7ace9355d1a
+body: |2-
+  If I hide a link source from its target,
+  it's not obvious that there is any other context
+  in which I want that link source hidden.
+  Since this is a different treatment,
+  it deserves a separate kind of hide relation.

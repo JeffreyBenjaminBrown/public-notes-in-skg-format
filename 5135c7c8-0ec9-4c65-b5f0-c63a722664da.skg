@@ -1,2 +1,14 @@
 title: '''contains'' = ''presents'' = ''shows'''
 pid: 5135c7c8-0ec9-4c65-b5f0-c63a722664da
+body: |2-
+  The code only uses 'contains',
+  but the user should think 'presents', 'shows'.
+  Each container presents its contents.
+  It wants the user to see them.
+
+  This contrasts with links,
+  which it only offers to the user.
+  The user must choose to consciously follow a link;
+  the presented contents, by contrast,
+  begin in the buffer (unless their presenting viewnode
+  is a readonly stub).

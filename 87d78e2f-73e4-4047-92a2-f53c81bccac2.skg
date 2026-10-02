@@ -1,12 +1,11 @@
-title: 'Technical : Relationships between atoms can have authors.'
+title: Relationships are defined by one of their members.
 pid: 87d78e2f-73e4-4047-92a2-f53c81bccac2
 body: |2-
-  This might have advantages for granular privacy.
-  Skg permits it, but by default I think it is more natural that
-  relationships be defined by one of the atoms involved,
-  usually the left member:
-  - the container,
-  - link source
-  - the subscriber
-  - the overrider
-  - the subscriber connected (via a subscribee) to a hidden node
+  Usually it's the left one.
+contains:
+- 9114d551-21bd-4d40-b031-647d9ec39351
+- a2444984-5501-4815-aeb2-1a9ba9615fe5
+- 3ea1bf13-5e7c-43b5-abd5-cb14e338dbc8
+- ed246337-6d22-4fb4-b4ef-5ba2ebed7cdc
+- 8887f4a8-1af3-442d-bcbc-dee31f0337ee
+- 6c2a48e8-b622-48ab-b162-6f707b5757b9

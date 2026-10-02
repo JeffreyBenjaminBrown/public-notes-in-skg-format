@@ -2,3 +2,6 @@ title: hide another atom
 pid: 5726a9c5-7060-460b-8f45-e4844bc87d82
 body: |2-
   A consumed content's "subscription to container".
+contains:
+- e4852418-1328-43f2-b391-37cf5a0de77b
+- 4ed78c68-bcbf-4d00-9bf5-194362d0234e

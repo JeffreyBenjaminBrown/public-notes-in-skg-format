@@ -1,0 +1,6 @@
+title: Keep graphnode, don't use atom.
+pid: ae0fb789-a7e5-4178-ae32-fa0616ed9a66
+body: |2-
+  Maybe some graphnodes are not atomic --
+  e.g. containment intermediaries.
+  Atom might be a useful label for some graphnodes.

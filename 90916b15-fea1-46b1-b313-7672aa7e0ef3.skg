@@ -1,4 +1,4 @@
-title: 'DOGFOOD : reifying relationships'
+title: 'DOGFOODING : reifying relationships via containment and links'
 pid: 90916b15-fea1-46b1-b313-7672aa7e0ef3
 body: |2-
   Relationships should be explicitly mentionable.

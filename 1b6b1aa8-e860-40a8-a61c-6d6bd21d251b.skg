@@ -1,0 +1,12 @@
+title: Any subscriber hides for *all* its author's subscribers
+pid: 1b6b1aa8-e860-40a8-a61c-6d6bd21d251b
+body: |2-
+  If any of an author's atoms -- say, atom A --
+  hides atom H from subscriptions,
+  the hide applies to all of that author's subscriptions,
+  not just A's subscriptions.
+
+  If an author's atoms A and B
+  can both reach X and Y from their subscription,
+  A can hide X for both of them,
+  while B hides Y for both of them.

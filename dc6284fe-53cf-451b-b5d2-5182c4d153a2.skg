@@ -1,0 +1,5 @@
+title: Following a link that goes to something in the same buffer
+pid: dc6284fe-53cf-451b-b5d2-5182c4d153a2
+body: |2-
+  should stop, asking the user
+  whether to move point or open a new duplicative buffer.

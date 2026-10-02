@@ -1,16 +1,8 @@
-title: Midparents should be link-labeled.
+title: containment intermediaries
 pid: 83d9c04b-02d0-4a1e-8793-8e47033937a4
-body: |2-
-  Ideally the user labels things atomic and not.
-  Midparents are labeled with links to atoms
-  that ((the user) recognize(s)) they(the atoms)
-  are used to represent (aspects of) relationships,
-  and explain how.
-
-  The language for creating relationships can ideally
-  create a (collection of) (chain(s) of) relationships.
-
-  The user can sort the tree,
-  redefining the mid-layers and their order.
-  Each root are presented with the collection of all labels
-  used in its mid-layers.
+contains:
+- a0517a73-95cb-4bea-933c-4d8b7df1437b
+- 1af8884c-d1c0-41f4-bfd8-382bdc2e9ae6
+- f99ad073-dd58-4d88-a95b-181ac003a937
+- 94bcb8e8-ab3c-41d4-9bbf-798c95101081
+- 73a0669a-a74e-4c6c-8aa3-5a5f6a441824

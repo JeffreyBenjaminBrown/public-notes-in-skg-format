@@ -1,12 +1,18 @@
-title: the relations skg formalizes
+title: relationships \ skg
 pid: da0de4fc-a2c3-4017-a361-5c371e759bdb
 body: |2-
   So far, there are only five relations skg represents formally.
   Each of them involves two atoms and has an author.
 contains:
+- f2b21fef-f6b5-4211-ad6b-d7e04e0138bd
+- 75d88324-f843-44c9-a0ef-a7a716c8b4fa
+- 1998ec07-8657-416d-aa87-5bbdcb20cc98
+- 90916b15-fea1-46b1-b313-7672aa7e0ef3
+- 87d78e2f-73e4-4047-92a2-f53c81bccac2
+- f43429fa-e0f7-4c9d-96c3-3989f405b8aa
+- f5f7aced-e868-4149-9b40-7dad75a8014d
 - a0fb334a-4d0a-4959-8d69-c5aca6e11f7a
 - fc960fcf-a382-433a-9def-0c64435e6c35
-- 215ed26b-5dc6-4ed9-b6b9-ba8ab9b13b1e
 - 9b5a9111-15a8-4994-a146-1d52189d01d8
 - 62f5d6ae-9955-44b3-9fa3-4bd2e8ae084e
 - 26ad12bb-3991-467f-9f93-f10dc9df0210

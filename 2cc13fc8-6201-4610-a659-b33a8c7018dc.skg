@@ -1,5 +1,4 @@
-title: show link targets from content subtree
+title: Herald the links into an atom's recursive content.
 pid: 2cc13fc8-6201-4610-a659-b33a8c7018dc
-body: |2-
-  They want this in org-roam:
-  https://github.com/org-roam/org-roam/issues/845#issuecomment-5387830317
+contains:
+- 35c0a24f-feff-4f6e-8858-426aa0563f3e

@@ -1,0 +1,9 @@
+title: elaboration
+pid: 4ac4a00a-1725-4bb0-9633-9e978e70ec61
+body: |2-
+  Some notes are evergreen, intended for preservation.
+  Some are consumable, intended to (probably) be acted on and then
+  either deleted or archived (kept despite having no obvious reason to revisit).
+
+  Currently, in skg, the user knows the difference,
+  but the app does not.
