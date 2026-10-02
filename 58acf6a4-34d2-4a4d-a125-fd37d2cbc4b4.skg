@@ -1,0 +1,9 @@
+title: '''It'' and ''these'' should be shown as hyperlinks.'
+pid: 58acf6a4-34d2-4a4d-a125-fd37d2cbc4b4
+body: |2-
+  It could be clickable to move point to parent;
+  should show a message because it might be confusing.
+  'These' should not be clickable, instead triggering a message
+  "Here, 'these' means what that atom contains.'
+  And if they are not visible on-screen, say also:
+  'tRun skg-make-definitive to have them rendered here.'.

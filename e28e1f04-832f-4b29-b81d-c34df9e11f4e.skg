@@ -1,0 +1,7 @@
+title: Atoms must have titles.
+pid: e28e1f04-832f-4b29-b81d-c34df9e11f4e
+body: |2-
+  An atom needs a title, a short verbal representation.
+  This is because sometimes one wants to see many atoms at once,
+  and there is no space to render
+  all the text that thosee atoms would present to the user.

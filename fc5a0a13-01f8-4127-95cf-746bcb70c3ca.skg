@@ -1,0 +1,8 @@
+title: '''x & y''-type atoms'
+pid: fc5a0a13-01f8-4127-95cf-746bcb70c3ca
+body: |2-
+  An atom titled 'x & y' would describe the relationship(s) between x and y,
+  and probably be presented by both x and y.
+  It could present further specializations like 'x versus y' or 'x helps y'.
+  If it presents only one specialization, it should probably be replaced
+  by that specialization.

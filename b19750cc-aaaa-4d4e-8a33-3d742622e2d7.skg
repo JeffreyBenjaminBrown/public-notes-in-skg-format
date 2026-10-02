@@ -1,0 +1,4 @@
+title: 3-ID notation could reify the five kinds of skg relationship.
+pid: b19750cc-aaaa-4d4e-8a33-3d742622e2d7
+body: |2-
+  If there were a file for each of the five relations, the relationships using that relation would not have need their own file; they are defined by the relationships defining member atom, and referred to using three atom IDs: [relation atom, left atom, right atom].

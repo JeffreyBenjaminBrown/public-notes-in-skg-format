@@ -1,0 +1,15 @@
+title: a humble way to share the schema
+pid: 7ae1c489-6a1e-4eb4-9ce4-effb50be0e76
+body: |2-
+  I feel stongly about this data structure,
+  the definition of atoms and the set of relationships on atoms.
+  Each person owes it to themselves to keep a collection of atoms,
+  to read and edit what they have collected,
+  to share some of them with society,
+  to read some of what society shares with them,
+  and to integrate some of others' knowledge into their own.
+
+  I don't feel strongly about how to view and edit this data structure.
+  I built a program, [[skg]], that allows me to.
+  It is not beautiful or friendly, but it does the job.
+  You could probably write your own with AI pretty easily.

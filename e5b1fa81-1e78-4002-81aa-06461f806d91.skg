@@ -1,0 +1,14 @@
+title: Heralds should not herald the uninteresting direction.
+pid: e5b1fa81-1e78-4002-81aa-06461f806d91
+body: |2-
+  By 'quietly' below I mean 'quietly if at all'.
+  - Herald as interesting if an atom has multiple containers,
+    quietly (the 'a') if just one,
+    quietly the number it contains.
+  - If an atom hides other atoms, indicate that not with a herald,
+    but with a viewnode 'some content hidden' in the view of any subscribee-as-such.
+    (That thing can be unfolded if the reader decides to second-guess
+    whether they are interested in what they once hid.)
+  - Herald quietly how many it links to
+    (the links themselves are already hyperlinks, which are loud)
+    but herald as interesting a nonzero number of partner link sources.

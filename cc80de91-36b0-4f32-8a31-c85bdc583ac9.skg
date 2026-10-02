@@ -1,0 +1,13 @@
+title: 'TODO : generalize an atom''s ''contains'' from list to tree'
+pid: cc80de91-36b0-4f32-8a31-c85bdc583ac9
+body: |2-
+  An atom A's 'contains' could look like this:
+  - X
+  - Y
+  - Z
+  -- Z' which Z contains
+  --- Z'' which Z' contains
+  -- W which Z does not contain
+
+  When A recursively presents, those things it contains will be heralded differently:
+  some are presented by more ancestors than others.

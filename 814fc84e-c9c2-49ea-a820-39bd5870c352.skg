@@ -1,6 +1,0 @@
-title: '"Contains" is how you write a tree from a root context.'
-pid: 814fc84e-c9c2-49ea-a820-39bd5870c352
-body: |2-
-  It's what you already do -- for example,
-  title, text, chapter name, text, subchapter name, text ...
-  This merits a diagram.

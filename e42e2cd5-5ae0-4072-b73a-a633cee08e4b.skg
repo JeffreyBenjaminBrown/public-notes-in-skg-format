@@ -1,0 +1,19 @@
+title: what atoms are, and how to bounadry them
+pid: e42e2cd5-5ae0-4072-b73a-a633cee08e4b
+body: |2-
+  Others may have written about this better than me.
+  Andy Matuschak has written about defining atoms.
+
+  It's kind of xen.
+  Don't let that put you off; it doesn't need to be done perfectly.
+  Just define some and process them; it will be powerful.
+
+  Atoms are atomic expressions.
+  They are the written subset of
+  the things that will be available to think about.
+
+  Atoms are individual words or collections of words.
+  They can stand on their own,
+  but will also stand in relation to each other.
+contains:
+- b35de439-21d6-424c-bd11-019a73ca409d

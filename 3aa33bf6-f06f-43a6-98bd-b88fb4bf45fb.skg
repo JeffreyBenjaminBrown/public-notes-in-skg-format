@@ -1,8 +1,0 @@
-title: uncluttered backlinks, edges as programs, and the privacy telescope
-pid: 3aa33bf6-f06f-43a6-98bd-b88fb4bf45fb
-body: |2-
-  Maybe filter backlinks to include nothing in a more-private source.
-  Maybe use two kinds of links: one- and two-sided.
-    The target ignores one-sided links from its backlinks view.
-    To convert to this, all links start bi, and the user can demote some --
-    probably from the backlinks view.

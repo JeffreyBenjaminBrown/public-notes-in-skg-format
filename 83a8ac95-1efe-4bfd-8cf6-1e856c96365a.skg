@@ -1,0 +1,16 @@
+title: Backpaths could foldable between (start, end) and (the whole path).
+pid: 83a8ac95-1efe-4bfd-8cf6-1e856c96365a
+body: |2-
+  Show each under a synthetic viewnode, 'containerward paths from here'
+  (* containerward, mentionerward, overriderward, and maybe more directions).
+
+  "Path-folded", each of its children has one child.
+  Each child of a relward path collection is labeled (heralded)
+  'root [membership name -- e.g. container, mentioner, subscriber, etc.] in path',
+  and each path-root's viewchild is labeled
+  'leaf [membership name -- content, mentioned, etc.] in path'.
+
+  Each path can be 'path-unfolded'. In this case, the path root is unchanged
+  except for the new additional high-interest (yellow) label 'unfolded'.
+  But now instead of skipping all links in the chain to reach the last,
+  it shows them all.

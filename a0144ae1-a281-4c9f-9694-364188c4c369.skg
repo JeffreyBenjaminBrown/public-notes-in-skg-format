@@ -1,0 +1,15 @@
+title: Some atoms can be thought of as branches of other atoms.
+pid: a0144ae1-a281-4c9f-9694-364188c4c369
+body: |2-
+  For instance, consider this four-atom tree:
+  #+begin_example
+  - humility
+  -- Humility makes love better.
+  --- <an illustration of how humility can make love better>
+  --- <another such illustration>
+  #+end_example
+  Here 'humility makes love better' is a branch of 'humility'.
+
+  Note that it could also be a branch of 'love'.
+  This illustrates the sense in which
+  trees in the web of words can overlap.

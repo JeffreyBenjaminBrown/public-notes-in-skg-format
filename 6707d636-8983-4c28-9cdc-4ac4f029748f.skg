@@ -1,0 +1,17 @@
+title: Highlight* a mention that has body text or novel-to-the-target content.
+pid: 6707d636-8983-4c28-9cdc-4ac4f029748f
+body: |2-
+    * here "highlight" = "include in the yellow number left of the '/' character"
+
+  If the mentioner presents an atom that the target also (recursively) presents,
+  that does not make the mentioner highlight-worthy in the target's link herald.
+  (Stated differently, [[id:68715fd4-428f-4214-aa0e-2e76cd9898f2][presentation cons lists]]
+  are not reason for a highlight in the target's link herald.)
+
+  But if the nentioner has body text, or presents content that the target does not,
+  that is reason to count the mention among the interesting mentions.
+
+  The mentioner deserves an "interesting" highlight in the mentioned atom's herald
+  becausee the mentioner is "saying enough about" the mentioned atom;
+  since it might help them understand the metnioned atom,
+  the mentioned atom's viewers deserve to be alerted.

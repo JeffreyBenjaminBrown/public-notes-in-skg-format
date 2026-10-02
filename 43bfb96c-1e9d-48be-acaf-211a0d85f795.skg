@@ -1,2 +1,6 @@
-title: git push from not all sources can break a telescope
+title: coordinate commits across a user's owned sources
 pid: 43bfb96c-1e9d-48be-acaf-211a0d85f795
+contains:
+- 2cf2e939-d0ce-4a5f-90af-5c9f009b022d
+- c4911171-cbfd-40ec-a222-4a680b1e3cdb
+- 531c422f-2f93-44fd-b94c-844b50391b06

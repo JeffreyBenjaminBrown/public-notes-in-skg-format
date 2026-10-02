@@ -1,0 +1,20 @@
+title: an eplanation
+pid: b965b0e4-2bdc-4f53-8752-1bce809e8198
+body: |2-
+  To present is to, as writing, contain.
+
+  Books present chapters, which present subchapters ...
+
+  An atom can be a presenter in some relationships (it presents other atoms)
+  and can be the presented in some relationships (other atoms present it).
+
+  Most writing throughout history has been hierarchical,
+  but two atoms can present the same atom.
+  The same story, for instance, might illustrate multiple principles,
+  so (the atom representing) each principle
+  might present (the atom representing) that story.
+
+  When this happens, [[id:a0144ae1-a281-4c9f-9694-364188c4c369][the forest contains overlapping branches]].
+  More specifically, the forest defined by the 'presents' relationship.
+  When it does not happen, the writing is hierarchical:
+  each atom is presented by only one presenter.

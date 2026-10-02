@@ -1,0 +1,25 @@
+title: 'presentation chains are like cons-lists in lisp : lengthy explanation'
+pid: 987bb1be-4c61-4bea-b749-00feb3e8845b
+body: |2-
+  Recall that a cons-list is represented (a, (b, (c, ...))).
+
+  Presentation can proceed within a presented atom.
+
+  I have represented this the following imperfect way:
+  - A
+  -- link to B
+  --- link to C
+  - B
+  -- C
+  -- D
+  Here B presents C and D,
+  and A presents not just B but the fact that B presents C.
+
+  What I am saying in the A tree is 'B is relevant to A,
+  and among what B presents, C is particularly relevant to A --
+  relevant enough to present it here too.'
+  The user can of course visit B to see,
+  in addition to C, everything else B presents.
+
+  It would be more precise to represent the latter as
+  (A presents (B presents C)).

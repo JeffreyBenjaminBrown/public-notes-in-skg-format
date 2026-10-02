@@ -1,0 +1,24 @@
+title: 'PROBLEM : links and content need similar treatment'
+pid: b230848f-19d1-4e4c-8731-ab26b340c4b7
+body: |2-
+  Consider an atom A whose 'presents' section looks like this:
+  - X
+  - Y
+  - Z
+  -- Z' which Z presents
+  --- Z'' which Z' presents
+  -- W which Z does not present
+
+  When A presents, it should present Z in a manner that indicates
+  we are seeing "what A presents of Z".
+  Note that what A presents of Z can include things that Z itself presents,
+  as well as things it does not. The latter are like "what A says about Z".
+
+  Z might be meaningless without A. For instance, an atom 'reasons to do it'
+  is probably about its sole presenter.
+  It presents no view of its own,
+  but rather extends the view emanating from its presenter.
+
+  If A presents Z in its entirety, A cannot present selectively from Z.
+  So the natural way to do this is for A to contain not Z itself,
+  but an atom that links to Z.

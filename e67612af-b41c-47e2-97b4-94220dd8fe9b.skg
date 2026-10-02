@@ -1,0 +1,9 @@
+title: Let a target hide some backlinks.
+pid: e67612af-b41c-47e2-97b4-94220dd8fe9b
+body: |2-
+  Don't present a hidden link source under 'hidden for no reason'
+  just because no subscribee-as-such contains it.
+  If a target can hide backlinks,
+  the number of potential reasons to hide something
+  has grown from what was imagined when
+  the current <2026-10-01 Thu> skg was written.

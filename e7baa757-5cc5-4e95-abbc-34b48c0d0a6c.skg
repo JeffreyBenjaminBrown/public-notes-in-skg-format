@@ -1,0 +1,6 @@
+title: A hidden atom should show what hides it.
+pid: e7baa757-5cc5-4e95-abbc-34b48c0d0a6c
+body: |2-
+  Its hiders do not, directly,
+  but under each subscriber's view of subscribees,
+  a folder viewnode can show what of that subscribee's content the subscriber hid.

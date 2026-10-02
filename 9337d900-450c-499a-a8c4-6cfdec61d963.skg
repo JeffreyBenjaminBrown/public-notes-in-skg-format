@@ -1,0 +1,4 @@
+title: Demote more-private backlinks by default.
+pid: 9337d900-450c-499a-a8c4-6cfdec61d963
+body: |2-
+  Fold baclkinks to more-private sources under a synthetic folder.

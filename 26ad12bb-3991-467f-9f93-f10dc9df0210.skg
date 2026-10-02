@@ -1,0 +1,9 @@
+title: overriding another atom
+pid: 26ad12bb-3991-467f-9f93-f10dc9df0210
+body: |2-
+  When unfolding a view (which could begin at an overridee),
+  replace the overridee of
+    ( any links target,
+      and any content in a contains relationship ),
+  with the corresponding overrider.
+  This is safe, presumably, when the user subscribes to the overridee.

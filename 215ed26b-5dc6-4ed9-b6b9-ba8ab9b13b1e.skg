@@ -1,0 +1,10 @@
+title: TODO presentation chains
+pid: 215ed26b-5dc6-4ed9-b6b9-ba8ab9b13b1e
+body: |2-
+  X presents Y, Y presents Z
+  X can also present (Y presents Z).
+  What X presents within Y, which X presents, is a tree shaped like
+  - X
+  -- Y
+  --- something Y presents
+  --- something Y presents

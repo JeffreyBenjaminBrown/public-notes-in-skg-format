@@ -1,0 +1,19 @@
+title: can be represented in skg using links
+pid: b195e3f7-7e55-4e28-a521-dcb673565c51
+body: |2-
+  Consider a presentation forest like this:
+  #+begin_example
+  - X
+  -- Y
+  -- Z
+  - A
+  -- X', which links to X
+  --- Y', which links to Y
+  --- B
+  #+end_example
+  Here A is saying:
+  "X is relevant to me.
+  Of what X presents, Y is especially relevant.
+  B also helps understand/define the relationship between myself and X."
+contains:
+- fb02a19a-9cdb-4f64-bd30-a416915b15b4

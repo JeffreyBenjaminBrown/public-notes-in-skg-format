@@ -1,0 +1,7 @@
+title: Atoms can have body text.
+pid: 0a9cd02b-e84e-4714-927a-afc123f47ec5
+body: |2-
+  The body is like the title:
+  It is the rest of the text the atom presents a reader.
+  The body does not need to exist or be brief,
+  and it can be hidden.

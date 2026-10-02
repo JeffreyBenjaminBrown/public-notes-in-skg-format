@@ -1,0 +1,8 @@
+title: '''Hides'' should be viewed as two folders, ''hidden'' and ''integrated'', under each subscribee-as-such.'
+pid: 5b52063b-b8b1-4eef-9f2e-4b6c656496d1
+body: |2-
+  Each one absent if empty.
+  I'm not sure whether the hidden-integrated distinction
+    needs to be formally represented.
+  But the user should see, of those atoms that a subscriber does not show,
+  which are shown somewhere else in the atoms the user has.

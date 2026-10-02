@@ -1,0 +1,7 @@
+title: '? integrated'
+pid: 50d100ea-6b6c-49e3-8b27-9836cabef1a6
+body: |2-
+  The subscriber's author has integrated them into their notes.
+  Integrated is currently represented as hidden --
+  the subscriber's author moved the node from the unintegrated
+  to at least one of their own atoms, perhaps not the subscriber atom.

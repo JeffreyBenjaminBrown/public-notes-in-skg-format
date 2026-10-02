@@ -1,2 +1,5 @@
-title: '''folded'': emacs org-mode folding'
+title: A branch of a view can be folded in the client's representation.
 pid: 62129646-fb3d-473b-9c23-40c41ecfc5f6
+body: |2-
+  The client has the whole tree, but some atoms in it
+  can be shown 'folded' (the readonly|indefinitive|peace symbol).

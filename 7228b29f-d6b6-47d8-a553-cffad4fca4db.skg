@@ -1,0 +1,26 @@
+title: can be viewable from the mentioned via sourceward trees
+pid: 7228b29f-d6b6-47d8-a553-cffad4fca4db
+body: |2-
+  The mentioned are the link targets.
+  For instance, in this presentation forest:
+  #+begin_example
+  - X
+  -- X1
+  -- X2
+  - A
+  -- X', which links to X
+  --- X1', which links to X1
+  --- AX1
+  #+end_example
+  the fact that something is "talking about X" is visible in X's heralds:
+  #+begin_example
+  - 1/1L X
+  #+end_example
+
+  and the way things are talking about X can be shown in
+  mentionarward (link-sourceward) views:
+  - X
+  -- La A
+  -- Y
+  --- bC La Y'
+  -- Z

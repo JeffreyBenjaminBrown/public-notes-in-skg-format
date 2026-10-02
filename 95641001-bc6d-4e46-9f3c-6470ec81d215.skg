@@ -1,0 +1,4 @@
+title: An overriding subscriber is a fork.
+pid: 95641001-bc6d-4e46-9f3c-6470ec81d215
+body: |2-
+  You can merge forks -- fork A's X and B's X, or merge B's X into your fork of A's X, or both into your X.

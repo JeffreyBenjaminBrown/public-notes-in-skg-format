@@ -1,0 +1,9 @@
+title: 'maybe obvious : some kinds of atoms'
+pid: f3a05647-e9f9-49ad-9050-e6582047bf66
+body: |2-
+  Stories can be atoms that can be broken down into smaller atoms.
+  The topics a story illustrates can be atoms.
+  Relationships (e.g. "x is funny") can be atoms.
+  Anything that can be named can be an atom.
+  A web of concepts, each an atom, can be built to unite all the atoms
+  (many of which, e.g. stories, are not concepts).

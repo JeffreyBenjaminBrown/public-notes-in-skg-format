@@ -1,0 +1,7 @@
+title: Dividing others' text bodies risks divergence.
+pid: 6abc2045-a197-43a3-b17d-c04bb0e8467b
+body: |2-
+  We might need to be able to divide long passages from others into atoms.
+  This raises the possibility of divergence,
+  if they edit it without knowing someone else
+  (did them the favor of) subdividing it.

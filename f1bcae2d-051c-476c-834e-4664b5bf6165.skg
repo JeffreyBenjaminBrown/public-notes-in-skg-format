@@ -1,2 +1,6 @@
-title: Whether a link uses an alternate title.
+title: Maybe highlight that a mention uses an alternate title.
 pid: f1bcae2d-051c-476c-834e-4664b5bf6165
+body: |2-
+  This is only moderately interesting.
+  If the herald highlights it, it should only be highlighted high enough
+  to interest the user in [[id:ce67410c-fd75-4034-887f-313036eeee5f][classifying what the target thinks of the link]].

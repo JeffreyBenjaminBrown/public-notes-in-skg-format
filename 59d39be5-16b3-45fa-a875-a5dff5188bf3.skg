@@ -1,0 +1,6 @@
+title: Atoms must have at least one ID.
+pid: 59d39be5-16b3-45fa-a875-a5dff5188bf3
+body: |2-
+  An atom can need multiple IDs if multiple nodes were merged into one.
+  (Each ID must continue to be valid.)
+  Maybe the extra IDs of an atom would not have to be stored with it.

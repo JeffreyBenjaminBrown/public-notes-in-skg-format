@@ -1,0 +1,9 @@
+title: 'DOGFOOD : reifying relationships'
+pid: 90916b15-fea1-46b1-b313-7672aa7e0ef3
+body: |2-
+  Relationships should be explicitly mentionable.
+contains:
+- 215fd735-20e9-43a8-bd07-10d6c34efb35
+- fc5a0a13-01f8-4127-95cf-746bcb70c3ca
+- d1b415de-39a0-4f18-ab53-cfdbadcc31c0
+- f0ea0c60-3d8e-4013-ae22-31fec4a91470
