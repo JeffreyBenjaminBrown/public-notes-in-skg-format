@@ -2,4 +2,6 @@ title: '''motion assist'' : prevents motion sickness'
 pid: b9b3a5bc-dffe-4deb-afd3-e7a72867c422
 body: |2-
   e.g. while reading in a car.
-  Available "soon" as of <2026-09-18 Fri>.
+contains:
+- b50e85d6-af00-4bcf-977e-a13b0b415d2b
+- bd167da8-bae4-450e-88c3-3134445d9263

@@ -1,0 +1,9 @@
+title: A multi-contained link is probably a bad idea.
+pid: 6b4cca97-da22-4358-8990-589029860181
+body: |2-
+  If each link has a distinct id,
+  then each link's relationship to its ancestry
+  can be separately elaborated on with text and content atoms.
+
+  A potential exception is two copies of a link
+  contains-descended from the same unique container root.
