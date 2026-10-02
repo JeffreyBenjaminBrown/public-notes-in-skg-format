@@ -1,2 +1,6 @@
-title: '? cross-repo git considerations'
+title: Source changes and fragmented telescopes require coordinating commits across repositories.
 pid: eaddc2e1-e8ad-4a51-bceb-d121afb4de11
+body: |2-
+  This implies 'commit all repositories' is an operation the user deserves.
+
+  data/bash/commit-all.sh

@@ -1,7 +1,8 @@
-title: DONE take something like the intersection of hides when merging
+title: A merge should drop a hide unless both sides have it.
 pid: 12f4672a-ef97-487b-9f8d-7cd9602f71cc
 body: |2-
-  (Fable said it was done, at least.)
+  If either side of the merge shows it --
+  i.e. it is contained in *and* unhidden from one of them --
+  then the merged node should show it.
 
-  If either shows it -- which means it is contained in
-  *and* unhidden from one of them -- then the merge should show it.
+  I *think* skg does this.

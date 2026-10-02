@@ -1,4 +1,7 @@
-title: The sources should be arranged in a tree.
+title: Maybe arrange the sources|repopsitories in a tree.
 pid: 0113f5d8-81d0-4b95-8de7-ef8a563a65e8
 body: |2-
   So you can navigate to one of them faster.
+  The tree would be up to the user.
+  The flat kind would still be valid -- a flat list is a tree.
+  This might interact badly with repository filtering.

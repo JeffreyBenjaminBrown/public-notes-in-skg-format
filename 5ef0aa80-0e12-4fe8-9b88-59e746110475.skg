@@ -1,2 +1,11 @@
-title: Notes earn their way downward.
+title: Maybe notes should earn their way downward.
 pid: 5ef0aa80-0e12-4fe8-9b88-59e746110475
+body: |2-
+  But I prefer a more explicitly structured approach:
+  in each container R that I want to sort,
+  keep an 'unsorted' content branch
+    where I can quickly put new thoughts,
+  and a 'sorting into' content branch
+    that I sort both 'unsorted' and R into.
+
+  Maybe the 'sorting into' should just be R itself.

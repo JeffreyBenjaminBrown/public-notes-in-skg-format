@@ -1,4 +1,5 @@
 title: A fast interface to multi-place nodes based on title patterns.
 pid: 7f0cdc06-179e-4148-9a40-d0321b78753b
-contains:
-- 24dd974d-e9b8-423c-8b15-25cf15065bf1
+body: |2-
+  e.g. find every "<X> & <Y>" and offer
+  to make it a child of X and/or Y.
