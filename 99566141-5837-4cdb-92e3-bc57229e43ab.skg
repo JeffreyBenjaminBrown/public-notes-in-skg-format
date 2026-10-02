@@ -1,0 +1,5 @@
+title: magit should show that a file is not the telescope's home
+pid: 99566141-5837-4cdb-92e3-bc57229e43ab
+body: |2-
+  Otherweise, when I visit the file in skg from magit,
+  I am confusingly brought to a different skg data repo.
