@@ -1,0 +1,15 @@
+title: call them 'hides from all subscriptions' and 'hides locally'
+pid: 80452da9-7ddc-434e-8594-d587d48d7754
+body: |2-
+  These are more self-explanatory.
+
+  'hides from all subscriptions' does that for, specifically,
+  all of the subscriber's owner's subscriptions.
+
+  I am currently only aware of link sources
+  as a reason to hide locally (from a link target).
+
+  There could be an 'integrated' folder for each subscription,
+  like the 'hides' folder.
+  Unfolded, it would show all user-owned containerward paths
+  from the subscribee's integrated content.
