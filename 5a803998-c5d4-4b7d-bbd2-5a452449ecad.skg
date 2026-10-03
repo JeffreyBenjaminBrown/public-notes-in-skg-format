@@ -1,0 +1,4 @@
+title: in Claude enable "You should know"
+pid: 5a803998-c5d4-4b7d-bbd2-5a452449ecad
+body: |2-
+  /plugin enable cc-plugin-you-should-know@builtin

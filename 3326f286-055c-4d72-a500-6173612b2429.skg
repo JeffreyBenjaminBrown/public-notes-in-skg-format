@@ -1,0 +1,5 @@
+title: Complete the logs for debug reproduceability.
+pid: 3326f286-055c-4d72-a500-6173612b2429
+body: |2-
+  Defensive debugging strategy : log all (state and?) operations, note bugs with time.
+  The data and environment should be completely reproducible.

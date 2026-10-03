@@ -1,0 +1,5 @@
+title: A mentioned graphnode could integrate its mentions into its content.
+pid: 0dd7affd-e52f-427b-b773-ab45f5f394d0
+body: |2-
+  It would need to label the mention 'integrated'.
+  Its mentions view could still show those relationships, both ways.
