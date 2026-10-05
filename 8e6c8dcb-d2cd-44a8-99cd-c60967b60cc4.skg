@@ -1,6 +1,6 @@
-title: the 'client'
+title: The 'client' is what the user uses to see and change the graph.
 pid: 8e6c8dcb-d2cd-44a8-99cd-c60967b60cc4
 body: |2-
-  is an app that permits a user to view and manipulate the graph.
-  So far the only client is written for Emacs,
-  but there could be others.
+  Skg has an Emacs client and a Neovim client.
+  I hope to make a web client soon.
+  You only need to use one of them at a time.
