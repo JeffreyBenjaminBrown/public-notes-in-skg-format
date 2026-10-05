@@ -11,5 +11,5 @@ body: |2-
   300
   > stats.percentileofscore(x,30) # Find the inverse quantile of 30.
   6.2
-misc:
+flags:
 - Had_ID_Before_Import

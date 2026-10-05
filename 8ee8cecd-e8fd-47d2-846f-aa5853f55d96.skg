@@ -2,5 +2,5 @@ title: comedy + death
 pid: 8ee8cecd-e8fd-47d2-846f-aa5853f55d96
 contains:
 - 6bbd2d3d-9f06-450b-9eca-5bd2243405aa
-misc:
+flags:
 - Had_ID_Before_Import

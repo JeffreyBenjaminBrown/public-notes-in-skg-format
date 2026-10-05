@@ -5,5 +5,5 @@ aliases:
 pid: 0d7a27cc-5912-4423-981c-c4c030098037
 contains:
 - f08981cf-75a3-4289-9081-f10d3abb9a54
-misc:
+flags:
 - Had_ID_Before_Import

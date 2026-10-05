@@ -5,5 +5,5 @@ body: |2-
   old data and the new addition are like-formatted.
   If the original has an index or doesn't,
   the new part likewise should or shouldn't.
-misc:
+flags:
 - Had_ID_Before_Import

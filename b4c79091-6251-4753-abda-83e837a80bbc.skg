@@ -4,5 +4,5 @@ body: |2-
   The human genetic diversity found outside Africa comes from a relatively narrow group of ancestors that left the continent.
 contains:
 - a7113b07-51d1-4ec0-b304-5fdbfdf32f18
-misc:
+flags:
 - Had_ID_Before_Import

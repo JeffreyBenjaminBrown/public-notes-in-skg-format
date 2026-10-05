@@ -15,5 +15,5 @@ body: |2-
   plt.plot ( t, b, 'b' )
   plt.savefig( "some pensions.png" )
   plt.close()
-misc:
+flags:
 - Had_ID_Before_Import

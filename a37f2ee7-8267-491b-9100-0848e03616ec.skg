@@ -30,5 +30,5 @@ body: |2-
       }
     ]
   }
-misc:
+flags:
 - Had_ID_Before_Import

@@ -4,5 +4,5 @@ body: |2-
   Or "those are true facts".
 contains:
 - 94da1387-09a1-4e0c-8c4f-da49d02d9f29
-misc:
+flags:
 - Had_ID_Before_Import

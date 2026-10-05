@@ -16,5 +16,5 @@ body: |2-
       let content = "This is the new new content for the file."
       writeFile "./wrote.md" content
       putStrLn "File written successfully."
-misc:
+flags:
 - Had_ID_Before_Import

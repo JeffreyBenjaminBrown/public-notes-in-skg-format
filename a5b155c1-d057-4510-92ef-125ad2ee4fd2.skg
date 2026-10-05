@@ -6,5 +6,5 @@ body: |2-
   mkShell {
     buildInputs = [ zlib ];
   }
-misc:
+flags:
 - Had_ID_Before_Import

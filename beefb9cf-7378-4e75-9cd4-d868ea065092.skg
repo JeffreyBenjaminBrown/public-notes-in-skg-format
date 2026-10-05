@@ -3,5 +3,5 @@ pid: beefb9cf-7378-4e75-9cd4-d868ea065092
 contains:
 - 22556474-8abe-4822-a9b1-7d1fbbcdf432
 - 54ab3cdd-7701-4ce9-987d-763806f2327e
-misc:
+flags:
 - Had_ID_Before_Import

@@ -17,5 +17,5 @@ body: |2-
   0  1          2.5         4  5
   0     1.5     2.5         4  5
   0     1.5     2.5            5
-misc:
+flags:
 - Had_ID_Before_Import

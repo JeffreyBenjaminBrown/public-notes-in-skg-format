@@ -10,5 +10,5 @@ body: |2-
   It might take a few minutes to generate the log.
   Once it exists, it is in Settings -> Security -> Analytics,
   under the name "sysdiagnose" or "sysdiagnose.tar.gz".
-misc:
+flags:
 - Had_ID_Before_Import

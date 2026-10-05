@@ -4,5 +4,5 @@ body: |2-
   That's "Time selection: delete contents of time selection (moving later items)"
 contains:
 - 32a53204-faf5-43cd-a579-1dac41ae64ab
-misc:
+flags:
 - Had_ID_Before_Import

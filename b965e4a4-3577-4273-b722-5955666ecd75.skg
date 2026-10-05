@@ -4,5 +4,5 @@ body: |2-
   = open-source AI for text-to-image and related processes
 contains:
 - aa790f2b-e0c0-4822-9c3e-68b1fdb2db5b
-misc:
+flags:
 - Had_ID_Before_Import

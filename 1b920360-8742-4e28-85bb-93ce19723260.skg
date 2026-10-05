@@ -3,5 +3,5 @@ pid: 1b920360-8742-4e28-85bb-93ce19723260
 body: |2-
   It's the red plus the white that needs to be present,
   and the green gone -- not just the green gone and the red restored.
-misc:
+flags:
 - Had_ID_Before_Import

@@ -8,5 +8,5 @@ body: |2-
       (global-set-key (kbd "C-c j") 'avy-goto-word-1)
 
   With avy, you can quickly jump to the start of a word and avoid the need for typical search behavior.
-misc:
+flags:
 - Had_ID_Before_Import

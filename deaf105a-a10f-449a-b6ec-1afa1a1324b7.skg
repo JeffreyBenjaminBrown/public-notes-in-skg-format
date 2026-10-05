@@ -3,5 +3,5 @@ pid: deaf105a-a10f-449a-b6ec-1afa1a1324b7
 contains:
 - 9ac205e1-4687-4b89-bc1e-67c79004a17c
 - a325b3c6-0321-42dc-bac4-de6a21ee200e
-misc:
+flags:
 - Had_ID_Before_Import

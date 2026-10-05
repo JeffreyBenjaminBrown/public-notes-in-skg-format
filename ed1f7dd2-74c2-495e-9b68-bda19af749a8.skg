@@ -4,5 +4,5 @@ body: |2-
   A problem because they can sneak in unintentionally.
 contains:
 - 30f6f8fd-40d2-43fb-b15a-8fc37f1a9a58
-misc:
+flags:
 - Had_ID_Before_Import

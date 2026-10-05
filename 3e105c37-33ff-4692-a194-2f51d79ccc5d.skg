@@ -6,5 +6,5 @@ body: |2-
   The feeling of a muscle under gravity.
 contains:
 - e53bd45c-3d28-404d-8bf5-ed0712670625
-misc:
+flags:
 - Had_ID_Before_Import

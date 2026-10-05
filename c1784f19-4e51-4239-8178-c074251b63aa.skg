@@ -49,5 +49,5 @@ body: |2-
   	true  -> Set;
   	false -> [X|Set]
       end.
-misc:
+flags:
 - Had_ID_Before_Import

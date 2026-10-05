@@ -6,5 +6,5 @@ body: |2-
   org-roam-link-replace-all
   org-roam-refile
   org-roam-update-org-id-locations
-misc:
+flags:
 - Had_ID_Before_Import

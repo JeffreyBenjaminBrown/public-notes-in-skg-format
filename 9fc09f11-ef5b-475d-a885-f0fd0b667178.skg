@@ -7,6 +7,6 @@ contains:
 - 0504089d-d376-432f-9098-5da0b4cf8053
 - 7d030e3a-0a9f-425c-b316-087dd5c488d6
 - 147bf071-42df-4c74-aa28-bcf4ae51920a
-misc:
+flags:
 - Had_ID_Before_Import
 - Was_Overloaded

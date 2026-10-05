@@ -6,5 +6,5 @@ body: |2-
   It will ask to switch to English halfway through,
   but keep holding for the 10 seconds,
   then accept English.
-misc:
+flags:
 - Had_ID_Before_Import

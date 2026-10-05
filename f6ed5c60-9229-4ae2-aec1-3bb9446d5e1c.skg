@@ -6,5 +6,5 @@ body: |2-
   rather than
     ./script.sh
   This makes its effects persist in the callilng shell.
-misc:
+flags:
 - Had_ID_Before_Import

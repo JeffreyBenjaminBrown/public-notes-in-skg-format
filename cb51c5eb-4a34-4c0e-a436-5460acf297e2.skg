@@ -5,5 +5,5 @@ body: |2-
 contains:
 - e32ae08d-9a58-4346-8831-ce746b564d62
 - 58ecd0cf-0e08-4316-a41a-d2f13988fa6f
-misc:
+flags:
 - Had_ID_Before_Import

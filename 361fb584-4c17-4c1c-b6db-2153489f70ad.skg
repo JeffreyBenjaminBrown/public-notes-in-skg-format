@@ -9,5 +9,5 @@ body: |2-
     C-c ^ f               ;; C-c ^ = org-sort
     my-org-random-sort
     RET
-misc:
+flags:
 - Had_ID_Before_Import

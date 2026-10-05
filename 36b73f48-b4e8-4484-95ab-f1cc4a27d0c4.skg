@@ -3,5 +3,5 @@ pid: 36b73f48-b4e8-4484-95ab-f1cc4a27d0c4
 contains:
 - 58f52ce7-e4dc-462d-8492-c94345159313
 - 3199b1a5-0ebf-41da-90a6-81420779d595
-misc:
+flags:
 - Had_ID_Before_Import

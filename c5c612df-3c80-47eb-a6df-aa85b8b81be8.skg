@@ -17,5 +17,5 @@ body: |2-
   However, I don't control when compaction happens - that's a system-level decision made by Claude Code's infrastructure, not something I decide or trigger. I just see the remaining budget decreasing as the conversation continues.
 
   I don't get advance warning about compaction either - it just happens when the system determines it's necessary. So while I can track how much context I'm consuming, I can't predict exactly when compaction will occur or influence the decision.
-misc:
+flags:
 - Had_ID_Before_Import

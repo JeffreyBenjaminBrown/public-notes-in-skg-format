@@ -3,5 +3,5 @@ pid: f9078ad5-9518-4672-b11a-4aabaa905e32
 body: |2-
   One view is at the bottom, where each track is vertical.
   Another is at the top left, where each track is horizontal.
-misc:
+flags:
 - Had_ID_Before_Import

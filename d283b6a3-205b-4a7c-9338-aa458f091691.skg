@@ -6,5 +6,5 @@ body: |2-
   (or at least the prefix on those names),
   so I can index to them in the graph in many places
   and always search my disk for them.
-misc:
+flags:
 - Had_ID_Before_Import

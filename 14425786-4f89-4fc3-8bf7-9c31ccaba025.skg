@@ -6,5 +6,5 @@ body: |2-
   a simple link to it -- but without stating the title.
   The flashcard states a question
   to which the answer is the title of the note.
-misc:
+flags:
 - Had_ID_Before_Import

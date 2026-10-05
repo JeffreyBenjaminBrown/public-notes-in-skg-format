@@ -3,5 +3,5 @@ pid: 41d0f186-1f92-48f0-a135-180f8d2dd9af
 body: |2-
   Spam blocker app.
   Adrian suggests.
-misc:
+flags:
 - Had_ID_Before_Import

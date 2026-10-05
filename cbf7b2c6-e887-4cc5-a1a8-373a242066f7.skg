@@ -4,5 +4,5 @@ body: |2-
   and some are project-local,
   and some are local to project elements,
   and I'm not sure which.
-misc:
+flags:
 - Had_ID_Before_Import

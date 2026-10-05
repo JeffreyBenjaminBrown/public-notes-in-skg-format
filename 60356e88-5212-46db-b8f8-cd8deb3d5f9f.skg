@@ -5,5 +5,5 @@ body: |2-
   It's really nice. The mouse can still be moved,
   but will not move the (text editing) cursor.
   It prevents errors and doesn't slow me down.
-misc:
+flags:
 - Had_ID_Before_Import

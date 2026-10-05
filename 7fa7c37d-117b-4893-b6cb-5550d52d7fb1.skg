@@ -8,5 +8,5 @@ body: |2-
   Two less familiar ontological relationships are subsumption ("is-a") and meronymy ("has-a"). Subsumption relationships take the form "everything in [category] is in [bigger category]" -- for instance, a squirrel is a mammal. Meronymy relationships are of the form "everything in [category] contains something in [category]" -- for instance, a car has an engine.
 
   As described above in "[[id:6d320931-c091-470b-a0ff-7467327060ed][search better]]", inclusion of an ontology in (or, more accurately, continuously incorporating ontological relationships into) the Shyg index will allow users to search across large categories without having to specify every member of each category.
-misc:
+flags:
 - Had_ID_Before_Import

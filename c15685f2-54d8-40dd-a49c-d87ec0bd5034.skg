@@ -5,5 +5,5 @@ body: |2-
     nix-build -A <package-name>
   To add it to my user profile, run
     nix-env -f . -iA <package-name>
-misc:
+flags:
 - Had_ID_Before_Import

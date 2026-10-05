@@ -3,5 +3,5 @@ pid: 13b7c3bb-a47f-4dc6-9a76-8f443e417b44
 body: |2-
   But in some cases the explanation seemed easily falsifiable,
   and I did not try.
-misc:
+flags:
 - Had_ID_Before_Import

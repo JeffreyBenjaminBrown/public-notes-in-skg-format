@@ -10,5 +10,5 @@ body: |2-
                  k : K
                ) -> V:
     return d[k]
-misc:
+flags:
 - Had_ID_Before_Import

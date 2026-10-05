@@ -8,5 +8,5 @@ body: |2-
 
   sudo nix-collect-garbage -d
     # keep only latest config
-misc:
+flags:
 - Had_ID_Before_Import

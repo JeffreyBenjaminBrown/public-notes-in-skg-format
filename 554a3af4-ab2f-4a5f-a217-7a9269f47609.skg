@@ -7,5 +7,5 @@ body: |2-
 
   In TypeDB 2.0, there is an "iid" ("internal ID") field,
   but it is mutable. It is user-facing only through deprecated, undocumented functions like "iid". They recommend implementing my own immutable ID field if I want such a field.
-misc:
+flags:
 - Had_ID_Before_Import

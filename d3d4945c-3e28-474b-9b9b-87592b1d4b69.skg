@@ -8,5 +8,5 @@ body: |2-
     and whehther the path cycles.
   If its container is its unique org-parent,
     no glyph shown.
-misc:
+flags:
 - Had_ID_Before_Import

@@ -12,5 +12,5 @@ body: |2-
   pd.concat ( [df,
                pd.DataFrame ( s ) . transpose() ],
               axis = "rows" )
-misc:
+flags:
 - Had_ID_Before_Import

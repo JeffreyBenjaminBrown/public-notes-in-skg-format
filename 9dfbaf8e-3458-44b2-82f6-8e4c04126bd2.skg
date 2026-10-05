@@ -25,5 +25,5 @@ body: |2-
   16 : 9  ~ 996 cents
   20 : 11 ~ 1035 cents
   13 : 7  ~ 1072 cents
-misc:
+flags:
 - Had_ID_Before_Import

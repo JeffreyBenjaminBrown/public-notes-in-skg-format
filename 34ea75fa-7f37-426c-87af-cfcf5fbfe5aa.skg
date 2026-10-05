@@ -7,5 +7,5 @@ body: |2-
   RUN python3 -m venv /root/.venv              && \
       source          /root/.venv/bin/activate && \
       pip3 install -r /root/requirements-for-pip.txt
-misc:
+flags:
 - Had_ID_Before_Import

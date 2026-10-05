@@ -4,5 +4,5 @@ body: |2-
   {Topic, statement} illuminates {topic, statement}.
 contains:
 - 5bef9b81-fe87-446c-85d3-50999f3d0541
-misc:
+flags:
 - Had_ID_Before_Import

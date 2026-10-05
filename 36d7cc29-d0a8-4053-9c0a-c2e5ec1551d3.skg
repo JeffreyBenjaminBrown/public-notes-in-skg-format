@@ -4,5 +4,5 @@ body: |2-
   https://www.gnu.org/software/emacs/manual/html_node/elisp/Tips-for-Defining.html
 contains:
 - 64af7f9f-2f4b-43e5-a941-99ee78748464
-misc:
+flags:
 - Had_ID_Before_Import

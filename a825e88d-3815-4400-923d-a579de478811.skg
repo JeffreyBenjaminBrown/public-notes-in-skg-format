@@ -7,5 +7,5 @@ body: |2-
   boolean
   string
   datetime
-misc:
+flags:
 - Had_ID_Before_Import

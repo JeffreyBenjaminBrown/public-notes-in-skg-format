@@ -4,5 +4,5 @@ body: |2-
   Are like Haskell's functional dependencies.
   I don't get it.
   https://idris2.readthedocs.io/en/latest/tutorial/interfaces.html#determining-parameters
-misc:
+flags:
 - Had_ID_Before_Import

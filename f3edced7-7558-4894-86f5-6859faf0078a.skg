@@ -3,5 +3,5 @@ aliases:
 - 'SQL query building in Python , a library for : PyPika'
 - 'Python , SQL query building in , a library for : PyPika'
 pid: f3edced7-7558-4894-86f5-6859faf0078a
-misc:
+flags:
 - Had_ID_Before_Import

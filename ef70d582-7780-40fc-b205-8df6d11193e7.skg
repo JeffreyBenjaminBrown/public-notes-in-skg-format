@@ -122,5 +122,5 @@ body: |2-
    ;; Your init file should contain only one such instance.
    ;; If there is more than one, they won't work right.
    )
-misc:
+flags:
 - Had_ID_Before_Import

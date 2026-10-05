@@ -3,5 +3,5 @@ pid: 1433fc88-cec4-40fe-a9c7-897f4ac92048
 body: |2-
   A tax on capital should reduce wages, due to productivity losses.
   But it should increase wages and employment, due to substitution away from capital toward labor.
-misc:
+flags:
 - Had_ID_Before_Import

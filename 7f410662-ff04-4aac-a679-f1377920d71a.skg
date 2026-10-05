@@ -7,5 +7,5 @@ body: |2-
   Boil that water on maximum-low for maybe five minutes, ten, 15, who cares.
   Stop the heat and leave them there a while longer.
   Probably five minutes of boiling and fifteen minutes steeping in the steam is enough.
-misc:
+flags:
 - Had_ID_Before_Import

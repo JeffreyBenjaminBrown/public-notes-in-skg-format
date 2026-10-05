@@ -10,5 +10,5 @@ body: |2-
   or even to also (but not to only)
   delete a whole node automatically
   if it is only in the less-preferred data.
-misc:
+flags:
 - Had_ID_Before_Import

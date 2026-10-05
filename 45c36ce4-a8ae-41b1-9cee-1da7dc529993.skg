@@ -6,5 +6,5 @@ body: |2-
   (1/2) ^ (1/30) = 0.977, which is pretty close to the discount rate (2%-ish) we observe in people.
 
   (Now, much later, I'm trying to reconstruct the implicit implication of the preceding algebra, but I don't see it. Is the idea that you should care half as much about the future in 30 years than you do about today because it'll be your child then? Does that mean if you have four children you should value the future twice as much as the present?)
-misc:
+flags:
 - Had_ID_Before_Import

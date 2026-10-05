@@ -8,5 +8,5 @@ body: |2-
   As a PhD student (in economics at MSU) I was part of a study group that would share notes and work through problems at the end of each day. The power of sharing and collectively working through ideas among even a small number of people (most days we were between 3 and 7) was a revelation to me that I still marvel at. It is part of the reason I believe a shared knowledge graph could be immensely powerful even at a very small scale.
 
   [1] https://github.com/synchrony/smsn-mode
-misc:
+flags:
 - Had_ID_Before_Import

@@ -6,5 +6,5 @@ body: |2-
   export PATH="$HOME/.npm-global/bin:$PATH"
   echo 'export PATH="$HOME/.npm-global/bin:$PATH"' >> ~/.bashrc  # or .zshrc
   npm install -g claude
-misc:
+flags:
 - Had_ID_Before_Import

@@ -3,5 +3,5 @@ pid: 30507034-a3ce-4a27-ab28-8c8d5db5b32c
 body: |2-
   Checked by hand: It gives the same layout on Lumatone,
   at least for all i/8 s.t. i is in [9..12].
-misc:
+flags:
 - Had_ID_Before_Import

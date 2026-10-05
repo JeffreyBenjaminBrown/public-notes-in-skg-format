@@ -4,5 +4,5 @@ body: |2-
   Rather, keep two hyperlinks in it, to two more separate files.
   Otherwise, when searching for one table,
   I'll often find and edit the other, which sucks.
-misc:
+flags:
 - Had_ID_Before_Import

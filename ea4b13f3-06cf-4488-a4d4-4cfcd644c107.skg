@@ -15,5 +15,5 @@ body: |2-
   (4) nix-env -f . -iA sc3-plugins supercollider
 
   Reasonable?
-misc:
+flags:
 - Had_ID_Before_Import

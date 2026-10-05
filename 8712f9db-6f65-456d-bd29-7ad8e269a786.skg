@@ -4,5 +4,5 @@ body: |2-
   https://en.xen.wiki/
 contains:
 - 977c5190-5ab7-4677-8764-315087988039
-misc:
+flags:
 - Had_ID_Before_Import

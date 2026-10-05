@@ -3,5 +3,5 @@ pid: 7ad32d17-22c6-4669-8537-9e26b6428a48
 body: |2-
   Maybe the Ctrl modifier lets you do that for other edits.
   Certainly it works for slip editing, as described below.
-misc:
+flags:
 - Had_ID_Before_Import

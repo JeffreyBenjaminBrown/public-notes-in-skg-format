@@ -3,5 +3,5 @@ pid: a02564b3-091d-46fa-aefa-6e5252b2fd63
 contains:
 - 81ffbc9e-c557-42ef-8dff-4bff2c3793ba
 - 6cb1f31f-6091-4002-90b2-b9f777b4e6cb
-misc:
+flags:
 - Had_ID_Before_Import

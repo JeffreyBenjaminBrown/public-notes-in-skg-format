@@ -3,5 +3,5 @@ pid: 1a271abf-d748-415d-9fa6-968bdbbebeea
 body: |2-
   Now <2023-12-18 Mon> they are called "ENEL COLOMBIA SA ESP".
   They used to be called "A Toda Hora SA".
-misc:
+flags:
 - Had_ID_Before_Import

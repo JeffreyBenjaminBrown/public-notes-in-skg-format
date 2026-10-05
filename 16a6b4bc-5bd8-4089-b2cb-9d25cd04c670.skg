@@ -15,5 +15,5 @@ contains:
 - cfa8c70e-b220-46eb-abeb-3c47cef50efc
 - c44425ac-e223-4ef0-9fcb-44f7b695dd1f
 - 103dc45f-4310-4d4c-9acd-256c6c39582f
-misc:
+flags:
 - Had_ID_Before_Import

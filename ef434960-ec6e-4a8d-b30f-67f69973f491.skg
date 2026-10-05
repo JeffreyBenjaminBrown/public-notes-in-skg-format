@@ -14,5 +14,5 @@ body: |2-
   Something useful for me is to include the backlinks -- link sources for which the focused node is a target -- in my view of a concept. Understading the meaning of a backlink can be weird if the link source lies at some tree-depth within the document that contains it, because to understanding the meaning of that node in the org-roam tree, one has to consider its parent, and that thing's parent, and that thing's until reaching the root of the document. Sometimes it's worth reading the backlink to understand the connection, sometimes the relationship is obvious. But also a link to topic X from topic Y might serve someone trying to understand topic Y while not being very useful to someone trying to understand topic X. How to juggle those nested contexts, considering how each context prioritizes the space of ideas, is a mystery to me, and if you find yourself gaining mechanical or intuitive insights into how to do it, I am interested.
 
   That's the background I can think of for now, as well as a few tasks that can wait. For now, read anything, grow a stick-figure flower with your explorations, and write about ten pairs of ideas!
-misc:
+flags:
 - Had_ID_Before_Import

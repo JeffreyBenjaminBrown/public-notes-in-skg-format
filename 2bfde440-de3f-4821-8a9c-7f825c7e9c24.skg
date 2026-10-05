@@ -36,5 +36,5 @@ body: |2-
   (The equivalent figure for a 24-edo guitar in standard tuning is 9\24 frets.)
 
   [1] https://en.xen.wiki/w/Skip_fretting
-misc:
+flags:
 - Had_ID_Before_Import

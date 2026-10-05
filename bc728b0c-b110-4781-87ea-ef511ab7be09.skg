@@ -10,5 +10,5 @@ body: |2-
     properties NOT NULL, -- PITFALL: Contains the text of the node (under ":outline"), but obliterates links.
     FOREIGN KEY (source) REFERENCES nodes (id)
       ON DELETE CASCADE);
-misc:
+flags:
 - Had_ID_Before_Import

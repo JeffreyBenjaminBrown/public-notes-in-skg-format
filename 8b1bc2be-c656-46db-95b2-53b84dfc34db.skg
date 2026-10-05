@@ -4,5 +4,5 @@ aliases:
 pid: 8b1bc2be-c656-46db-95b2-53b84dfc34db
 body: |2-
   Responsible for "inversión", e.g. road-building.
-misc:
+flags:
 - Had_ID_Before_Import

@@ -3,5 +3,5 @@ pid: 6706e183-f6b3-42fe-823d-ab0cfcb588e5
 body: |2-
   When someone yells "Fore!",
   immediately try to be hard to hit.
-misc:
+flags:
 - Had_ID_Before_Import

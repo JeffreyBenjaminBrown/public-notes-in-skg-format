@@ -8,5 +8,5 @@ body: |2-
   Programmable views would allow users to surface the information they care about -- e.g. "what are my friends saying about soccer today", or "color statements which have been identified as logically fallacious in red", or "only show me content vetted by judges I trust", or "remove from my view anything by authors identified by someone I trust as spammy and/or likely bots".
 
   Coupled with cryptographic signatures, the ability to discover what has been written about authors would provide a novel incentive for responsible behavior.
-misc:
+flags:
 - Had_ID_Before_Import

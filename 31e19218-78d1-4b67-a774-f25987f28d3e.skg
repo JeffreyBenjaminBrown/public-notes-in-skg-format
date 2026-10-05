@@ -4,5 +4,5 @@ body: |2-
   "Control buses" let me slide notes, according to @polymoprhic.engine:
 
   d1 $ s "theremin" # freqbus 0 (segment 128 $ smooth "200 200 300 300")
-misc:
+flags:
 - Had_ID_Before_Import

@@ -4,5 +4,5 @@ body: |2-
   Even a tiny amount, a teaspoon,
   seems to stick in my system forever.
   The last time it imposed at least a 3 hour delay.
-misc:
+flags:
 - Had_ID_Before_Import

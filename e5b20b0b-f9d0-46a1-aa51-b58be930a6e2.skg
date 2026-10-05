@@ -2,5 +2,5 @@ title: JDBC
 pid: e5b20b0b-f9d0-46a1-aa51-b58be930a6e2
 body: |2-
   = a Java DB connection
-misc:
+flags:
 - Had_ID_Before_Import

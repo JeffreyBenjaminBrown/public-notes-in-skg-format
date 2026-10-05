@@ -3,5 +3,5 @@ pid: c7473ba8-d513-43f1-a25a-9dc05a1e0e44
 contains:
 - 44be7dad-0125-4e6a-95d0-d49f3d6591cc
 - d62310db-58ee-4034-8f9b-4cc303183dcc
-misc:
+flags:
 - Had_ID_Before_Import

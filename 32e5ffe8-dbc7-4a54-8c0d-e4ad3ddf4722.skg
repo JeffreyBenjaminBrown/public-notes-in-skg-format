@@ -6,5 +6,5 @@ body: |2-
   (maybe from an F-Droid site?)
   and opening it from Google Files on my phone.
   I never had to open (explicitly?) the F-Droid app.
-misc:
+flags:
 - Had_ID_Before_Import

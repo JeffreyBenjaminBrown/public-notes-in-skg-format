@@ -9,5 +9,5 @@ body: |2-
   and S contains S'
   and T contains T'
     such that S' links to T'
-misc:
+flags:
 - Had_ID_Before_Import

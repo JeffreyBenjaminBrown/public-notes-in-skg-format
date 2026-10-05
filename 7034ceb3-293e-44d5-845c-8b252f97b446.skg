@@ -4,5 +4,5 @@ body: |2-
   The doctor sprays liquid nitrogen in short bursts for six seconds on an area of the skin.
   It should form a blister, then scab, then peel off in a few days.
   The idea in the case of keratosis treatment is to rid the skin of the cells with errant (usually sun-damaged) DNA.
-misc:
+flags:
 - Had_ID_Before_Import

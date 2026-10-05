@@ -4,5 +4,5 @@ body: |2-
   sudo nix-channel --add https://channels.nixos.org/nixos-25.05 nixos
   sudo nixos-rebuild switch --upgrade
   then fix the config for renamed packages
-misc:
+flags:
 - Had_ID_Before_Import

@@ -4,5 +4,5 @@ body: |2-
   Boldness in animals is associated with rigidity -- difficulty updating their actions in response to new information.
 
   On the other end of the spectrum, shyness, sociability and creativity are also associated in animals.
-misc:
+flags:
 - Had_ID_Before_Import

@@ -5,5 +5,5 @@ body: |2-
   then forward a question about it to their boss,
   CCing them and anyone else who was involved
   in the original discussion.
-misc:
+flags:
 - Had_ID_Before_Import

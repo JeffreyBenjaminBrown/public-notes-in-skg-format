@@ -7,5 +7,5 @@ body: |2-
   will change the author of the commit,
     git commit --amend --date="Wed Feb 16 14:00 2011 +0100" --no-edit
   will change the date of the commit.
-misc:
+flags:
 - Had_ID_Before_Import

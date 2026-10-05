@@ -2,5 +2,5 @@ title: declarative > imperative
 pid: bef20c9d-ecd5-4ea5-ae9b-acf8a7fc0285
 contains:
 - a1b91b08-9e48-41c7-b5d1-44d4995a6db3
-misc:
+flags:
 - Had_ID_Before_Import

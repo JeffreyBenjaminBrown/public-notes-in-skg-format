@@ -5,5 +5,5 @@ body: |2-
   Looped Overdubbing and Looped Time Selection Recording
 contains:
 - c57986d8-1edb-42bb-8bc2-343263cd414b
-misc:
+flags:
 - Had_ID_Before_Import

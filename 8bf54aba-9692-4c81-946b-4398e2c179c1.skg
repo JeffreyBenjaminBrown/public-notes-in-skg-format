@@ -35,5 +35,5 @@ body: |2-
   ```
 
   Making sure each person's file is complete and up to date will have to be done manually, as will compiling reports for them. But the information would be in a nice easily-traversed structure.
-misc:
+flags:
 - Had_ID_Before_Import

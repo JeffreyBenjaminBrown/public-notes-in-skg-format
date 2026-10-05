@@ -4,5 +4,5 @@ body: |2-
   """
   Interestingly, oil company geologists had known for years that if youwanted to find oil you had to allow for precisely the sort of surface movements that were implied by plate tectonics. But oil geologists didn't write academic papers; they just found oil.
   """
-misc:
+flags:
 - Had_ID_Before_Import

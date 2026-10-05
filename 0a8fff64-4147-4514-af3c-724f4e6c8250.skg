@@ -11,5 +11,5 @@ body: |2-
   static files storage classes and specify the file_permissions_mode and/or
   directory_permissions_mode parameters, respectively. For example:
   """
-misc:
+flags:
 - Had_ID_Before_Import

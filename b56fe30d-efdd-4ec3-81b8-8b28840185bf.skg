@@ -7,5 +7,5 @@ body: |2-
   This, by contrast, does not work:
   [ spawn( G(X) )
     || X <- lists:seq(1,10) ].
-misc:
+flags:
 - Had_ID_Before_Import

@@ -2,5 +2,5 @@ title: pandoc
 pid: 8d47b460-7718-484e-aa6c-35007267031f
 contains:
 - 7faf2181-6041-4042-b981-8bc500b59b45
-misc:
+flags:
 - Had_ID_Before_Import

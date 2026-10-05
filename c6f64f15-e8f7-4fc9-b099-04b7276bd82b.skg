@@ -5,5 +5,5 @@ body: |2-
 
   os.path.splitext ( "a/b/c/d.e" )
   ('a/b/c/d', '.e')
-misc:
+flags:
 - Had_ID_Before_Import

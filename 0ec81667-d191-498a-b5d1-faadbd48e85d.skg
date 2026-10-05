@@ -6,5 +6,5 @@ body: |2-
   without wrapping them in a folder named like the source.
   For the destination ("to") argument without the trailing /,
   rsync will create or populate a subfolder of the same name.
-misc:
+flags:
 - Had_ID_Before_Import

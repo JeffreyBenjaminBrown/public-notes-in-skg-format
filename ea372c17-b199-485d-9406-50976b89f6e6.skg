@@ -6,5 +6,5 @@ body: |2-
     for sublist in [[1,2],
                     [3,4]]
     for item in sublist ]
-misc:
+flags:
 - Had_ID_Before_Import

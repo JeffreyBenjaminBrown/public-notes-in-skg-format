@@ -5,5 +5,5 @@ body: |2-
   DNA polymerase builds the strand complementary to a single strand,
   starting at one ends and working its way along.
   That happens to both strands, and now there are two copies.
-misc:
+flags:
 - Had_ID_Before_Import

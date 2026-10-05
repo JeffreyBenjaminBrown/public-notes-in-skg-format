@@ -8,5 +8,5 @@ body: |2-
   one passes the object back and forth
   between openRed() and openBlue()
   until they have all been opened.
-misc:
+flags:
 - Had_ID_Before_Import

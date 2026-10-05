@@ -14,5 +14,5 @@ body: |2-
     d1 $ stack [ f p, g p]
     d1 $ stack $ [f,g] <*> pure p
   #+END_SRC
-misc:
+flags:
 - Had_ID_Before_Import

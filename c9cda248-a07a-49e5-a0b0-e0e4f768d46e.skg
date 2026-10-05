@@ -3,5 +3,5 @@ pid: c9cda248-a07a-49e5-a0b0-e0e4f768d46e
 body: |2-
   58 2 13 could be used on the low frets,
   and 58 4 13 on the high ones.
-misc:
+flags:
 - Had_ID_Before_Import

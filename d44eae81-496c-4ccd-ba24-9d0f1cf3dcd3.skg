@@ -6,5 +6,5 @@ body: |2-
   a label set (for the x-axis) like ["a","b","c","a","b","c"]
   will cause the bar chart to have only three bars, not six,
   even if every other input vector is likewise length six.
-misc:
+flags:
 - Had_ID_Before_Import

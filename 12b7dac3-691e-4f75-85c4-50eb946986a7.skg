@@ -2,5 +2,5 @@ title: '"sometimes, we need access to a named parent implementation"'
 pid: 12b7dac3-691e-4f75-85c4-50eb946986a7
 body: |2-
   https://idris2.readthedocs.io/en/latest/tutorial/interfaces.html#named-implementations
-misc:
+flags:
 - Had_ID_Before_Import

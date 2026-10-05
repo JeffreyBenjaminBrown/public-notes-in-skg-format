@@ -6,5 +6,5 @@ body: |2-
   contains something called
     efi
   then it does, otherwise it doesn't.
-misc:
+flags:
 - Had_ID_Before_Import

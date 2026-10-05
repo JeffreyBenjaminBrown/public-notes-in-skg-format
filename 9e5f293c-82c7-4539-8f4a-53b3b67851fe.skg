@@ -5,5 +5,5 @@ body: |2-
   If so, what looks like, e.g.,
   the fourth sheet might actually be the sixth.
   This can look like a bug in read_excel, but it isn't.
-misc:
+flags:
 - Had_ID_Before_Import

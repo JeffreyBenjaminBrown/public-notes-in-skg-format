@@ -7,5 +7,5 @@ body: |2-
   class Point:
       x: float
       y: float
-misc:
+flags:
 - Had_ID_Before_Import

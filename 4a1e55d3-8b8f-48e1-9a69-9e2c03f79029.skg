@@ -10,5 +10,5 @@ body: |2-
   Hode's transparency would, of course, also help an adversary determine how to act more human. I'm no security expert, but my suspicion is that no matter how they camouflage themselves, there will be data distinguishing bots from ordinary users, because if they behaved just like ordinary users, controlling them would not benefit the controlling actor.
 
   FOSS software, and in particular Linux, are predominant on servers. It's not a perfect analogy, but security through transparency has a good track record.
-misc:
+flags:
 - Had_ID_Before_Import

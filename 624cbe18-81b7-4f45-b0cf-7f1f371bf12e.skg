@@ -19,5 +19,5 @@ body: |2-
   match_capture_demo = matchRegex
                        (mkRegex "([a-z]+)([0-9]+)([a-z]+)")
                        "aaa123zzz"
-misc:
+flags:
 - Had_ID_Before_Import

@@ -4,5 +4,5 @@ body: |2-
   ~/.emacs
   /etc/tmux.conf
   ~/.stack/config.yaml
-misc:
+flags:
 - Had_ID_Before_Import

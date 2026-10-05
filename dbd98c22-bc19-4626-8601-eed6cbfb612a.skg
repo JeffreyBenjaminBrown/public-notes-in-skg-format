@@ -4,5 +4,5 @@ aliases:
 pid: dbd98c22-bc19-4626-8601-eed6cbfb612a
 body: |2-
   https://www.windy.com/-Webcams-Localidad-Teusaquillo/webcams/1617613529?4.631,-74.069,16
-misc:
+flags:
 - Had_ID_Before_Import

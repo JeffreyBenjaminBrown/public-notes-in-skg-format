@@ -4,5 +4,5 @@ body: |2-
   A rational emotional system would not be prone to this
   -- it would self-correct.
   Maybe such correction can only be done consciously.
-misc:
+flags:
 - Had_ID_Before_Import

@@ -4,5 +4,5 @@ body: |2-
   e.g. they repeat a lot.
 contains:
 - f16ad75a-1717-4040-8794-2aa8fa2d34f7
-misc:
+flags:
 - Had_ID_Before_Import

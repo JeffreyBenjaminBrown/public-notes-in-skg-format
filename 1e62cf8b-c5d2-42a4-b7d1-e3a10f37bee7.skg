@@ -13,5 +13,5 @@ body: |2-
        which I don't have -- my ISP installs their own router.
 
   Jamulus and Jammr are other pieces of remote jamming software, but they send audio.
-misc:
+flags:
 - Had_ID_Before_Import

@@ -3,5 +3,5 @@ pid: 7b17fdbf-82bd-4970-a84b-3664deebb63b
 body: |2-
   "Patience, in Hindu philosophy, is the cheerful endurance of trying conditions"
   --Wikipedia on patience, <2025-06-29 Sun>
-misc:
+flags:
 - Had_ID_Before_Import

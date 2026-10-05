@@ -7,5 +7,5 @@ body: |2-
   python3 -m venv .venv            # create the environment
   source .venv/bin/activate        # enable ("enter") it
   pip3 install -r requirements.txt # install what's in that file
-misc:
+flags:
 - Had_ID_Before_Import

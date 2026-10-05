@@ -8,5 +8,5 @@ body: |2-
   Rather than write it in both each time,
   I can just keep a permanent link in their files to "biology",
   and then check out my latest thoughts on biology when I write to either.
-misc:
+flags:
 - Had_ID_Before_Import

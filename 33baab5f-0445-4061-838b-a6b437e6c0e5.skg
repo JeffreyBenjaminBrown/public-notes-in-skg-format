@@ -3,5 +3,5 @@ pid: 33baab5f-0445-4061-838b-a6b437e6c0e5
 body: |2-
   with the "Descripción del Pago" set to Spotify,
   so probably DLOCAL COLOMBIA SAS is an intermediary.
-misc:
+flags:
 - Had_ID_Before_Import

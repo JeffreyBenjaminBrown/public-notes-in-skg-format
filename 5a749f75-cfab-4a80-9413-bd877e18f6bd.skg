@@ -3,5 +3,5 @@ pid: 5a749f75-cfab-4a80-9413-bd877e18f6bd
 body: |2-
   Let them disable saving to one of those views of it,
   while permitting edits to the rest of that buffer.
-misc:
+flags:
 - Had_ID_Before_Import

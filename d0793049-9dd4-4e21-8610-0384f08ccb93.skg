@@ -10,5 +10,5 @@ body: |2-
   Beyond parsing content, the other big data collection effort in a search engines is for ranking search results. When a query returns many results, Shyg will need to do likewise. Happily, the patent on PageRank has expired. However, part of the value of Shyg is that the query language will permit users to express many queries such that the response is brief.
 contains:
 - 9d88a4dd-828e-48ab-b2e9-51ffb504ae97
-misc:
+flags:
 - Had_ID_Before_Import

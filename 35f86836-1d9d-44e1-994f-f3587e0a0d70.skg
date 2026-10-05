@@ -3,5 +3,5 @@ pid: 35f86836-1d9d-44e1-994f-f3587e0a0d70
 body: |2-
   https://app.codecrafters.io/tracks/haskell
   It costs money.
-misc:
+flags:
 - Had_ID_Before_Import

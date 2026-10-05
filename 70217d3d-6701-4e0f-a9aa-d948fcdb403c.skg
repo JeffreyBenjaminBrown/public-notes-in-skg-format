@@ -3,5 +3,5 @@ pid: 70217d3d-6701-4e0f-a9aa-d948fcdb403c
 contains:
 - 6f0c5789-55dd-4026-94f5-5077fa4914e4
 - 8805b275-3437-4622-8140-a98f8ac47aea
-misc:
+flags:
 - Had_ID_Before_Import

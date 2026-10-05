@@ -4,5 +4,5 @@ body: |2-
   pd.read_csv (
     "data/history.csv",
     parse_dates = [ "time, favorite time" ] )
-misc:
+flags:
 - Had_ID_Before_Import

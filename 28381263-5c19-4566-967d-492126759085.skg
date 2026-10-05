@@ -8,5 +8,5 @@ body: |2-
     keyboard
   select
     application shorotcuts
-misc:
+flags:
 - Had_ID_Before_Import

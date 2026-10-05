@@ -6,5 +6,5 @@ body: |2-
   such that both products are leass than a threshold (35?),
   and find all integers between a*n and b*n,
   and report the entire triplet.
-misc:
+flags:
 - Had_ID_Before_Import

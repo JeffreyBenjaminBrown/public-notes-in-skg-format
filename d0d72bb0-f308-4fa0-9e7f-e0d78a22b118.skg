@@ -4,5 +4,5 @@ body: |2-
   Because when you change one paragraph,
   the changes will not bleed into changes of the next paragraph;
   the unchanged empty line continues to separate them.
-misc:
+flags:
 - Had_ID_Before_Import

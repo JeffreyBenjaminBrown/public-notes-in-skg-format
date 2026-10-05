@@ -11,5 +11,5 @@ body: |2-
   , 48 steps; 11 % 8 ; string 1 ; fret 3
   , 73 steps; 13 % 8 ; string 1 ; fret 8
   , 94 steps; 15 % 8 ; string 3 ; fret - 1
-misc:
+flags:
 - Had_ID_Before_Import

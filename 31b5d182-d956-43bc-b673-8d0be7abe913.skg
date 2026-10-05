@@ -6,5 +6,5 @@ body: |2-
   Convert with `convert` (imagemagick), but concat with `pdftk`.
     Concatenating pdfs with `convert` seems to waste space.
     (Using the same to concatenate non-pdfs into one pdf might be okay.)
-misc:
+flags:
 - Had_ID_Before_Import

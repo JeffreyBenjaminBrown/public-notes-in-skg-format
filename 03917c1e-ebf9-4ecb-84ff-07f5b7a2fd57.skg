@@ -3,5 +3,5 @@ pid: 03917c1e-ebf9-4ecb-84ff-07f5b7a2fd57
 body: |2-
   Every 15-limit ratio's position in the Bosanquet layout
   is *one of* its positions in the 41-edo layout.
-misc:
+flags:
 - Had_ID_Before_Import

@@ -19,5 +19,5 @@ body: |2-
       Rn = spawn( ?MODULE, receiver_nest, [] ),
       Rn ! "Hi!",
       Rn ! "Bye!".
-misc:
+flags:
 - Had_ID_Before_Import

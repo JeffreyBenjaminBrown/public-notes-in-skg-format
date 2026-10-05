@@ -4,5 +4,5 @@ body: |2-
   a**2 = b**2 + c**2 - 2 * b * c * cos A
 contains:
 - 7a9218b8-62bb-4ff2-acdf-ba6048c043a0
-misc:
+flags:
 - Had_ID_Before_Import

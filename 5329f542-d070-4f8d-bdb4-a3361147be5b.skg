@@ -6,5 +6,5 @@ body: |2-
   this creates a new .py file from each .ipynb file:
 
   jupyter nbconvert --to script *.ipynb
-misc:
+flags:
 - Had_ID_Before_Import

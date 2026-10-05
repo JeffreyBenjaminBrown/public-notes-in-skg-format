@@ -6,9 +6,9 @@ contains:
 - 2f064237-4622-40ab-bdde-c34d17b64f31
 - 40b93a4b-bcbe-483d-81e3-85f7e84e63b1
 - 834fac33-f450-4951-8726-9c76e68067ca
-subscribes_to:
+subscribesTo:
 - 056a7de8-d7e5-4fb4-9a42-7e0f088ab898
-hides_from_its_subscriptions:
+hidesFromSubs:
 - 8f22b551-42bf-4a76-84c1-657558ce290f
 - 8c3adf7a-fded-4132-ad57-ea07829dcb7f
 - 517d6aba-5d99-4ef4-a017-82073ccdf966
@@ -16,5 +16,5 @@ hides_from_its_subscriptions:
 - 9635dc98-9407-4712-9393-55bd164ae697
 - e89b8d5d-d444-4d8d-8c8f-e6e3c5ba6dfa
 - 12efc0ae-f960-421e-a661-22cf2d0e081f
-misc:
+flags:
 - Had_ID_Before_Import

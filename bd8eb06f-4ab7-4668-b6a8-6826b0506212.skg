@@ -10,5 +10,5 @@ body: |2-
   hello|10
   goodbye|20
   $
-misc:
+flags:
 - Had_ID_Before_Import

@@ -4,5 +4,5 @@ body: |2-
   It's obvious -- mine are just like any other AMI,
   except they're not (by default) shared with anyone else.
   The WUI shows who it's shared with.
-misc:
+flags:
 - Had_ID_Before_Import

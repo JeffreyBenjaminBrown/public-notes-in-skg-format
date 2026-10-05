@@ -7,5 +7,5 @@ body: |2-
     Python > 3.7
     Coconut (won't build on Python 3.7 without lots of work)
     the Tmux plugins I ordinarily use
-misc:
+flags:
 - Had_ID_Before_Import

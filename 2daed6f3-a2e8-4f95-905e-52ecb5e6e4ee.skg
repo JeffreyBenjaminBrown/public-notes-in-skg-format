@@ -4,5 +4,5 @@ body: |2-
   These allow one website to comment on another,
   such that subscribed readers
   can see those annotations from their target.
-misc:
+flags:
 - Had_ID_Before_Import

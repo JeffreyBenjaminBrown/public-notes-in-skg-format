@@ -9,5 +9,5 @@ body: |2-
   If I add a shortcut to the first, it still won't run.
   I've tried adding a shortcut both to the file itself (which is executable)
   and to `sh <name of file>`.
-misc:
+flags:
 - Had_ID_Before_Import

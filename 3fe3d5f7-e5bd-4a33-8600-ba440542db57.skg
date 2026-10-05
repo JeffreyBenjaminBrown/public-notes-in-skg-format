@@ -3,5 +3,5 @@ pid: 3fe3d5f7-e5bd-4a33-8600-ba440542db57
 contains:
 - 54088d19-0017-4690-9503-933e97643502
 - f059aad0-a189-4235-94ac-2c634bad280a
-misc:
+flags:
 - Had_ID_Before_Import

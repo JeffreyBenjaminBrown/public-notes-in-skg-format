@@ -8,5 +8,5 @@ body: |2-
       spawn( ?MODULE,
    	  fridge2,
    	  [FoodList] ).
-misc:
+flags:
 - Had_ID_Before_Import

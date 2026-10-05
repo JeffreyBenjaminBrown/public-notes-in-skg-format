@@ -4,5 +4,5 @@ body: |2-
   esp. for the particular case of new software
 contains:
 - 669223c5-4e89-483c-9810-db406319ac1f
-misc:
+flags:
 - Had_ID_Before_Import

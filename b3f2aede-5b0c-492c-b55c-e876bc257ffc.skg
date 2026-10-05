@@ -15,5 +15,5 @@ body: |2-
 
   object-ownership sub relation,
      relates object;
-misc:
+flags:
 - Had_ID_Before_Import

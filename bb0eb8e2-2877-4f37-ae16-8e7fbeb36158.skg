@@ -6,5 +6,5 @@ body: |2-
   Shyg will make such work easier, by providing a unified public database and query framework for all of that information.
 
   As we will see below when focusing on its [[id:a1f04e1e-9d39-43a7-a384-a575a57968df][architecture]], members of the Shyg network will be able to choose what kinds of information to index. Recognizing bots in Shyg could be particularly facilitated by storing relationships like "[author] cites [different author]" or "[author] claims that [different author] is human". It seems likely that some portion of the Shyg community will choose to include such information in the index.
-misc:
+flags:
 - Had_ID_Before_Import

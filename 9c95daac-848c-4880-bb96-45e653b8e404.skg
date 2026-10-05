@@ -3,5 +3,5 @@ pid: 9c95daac-848c-4880-bb96-45e653b8e404
 body: |2-
   Also gets back.
   One-handed if lower-back needs the support.
-misc:
+flags:
 - Had_ID_Before_Import
