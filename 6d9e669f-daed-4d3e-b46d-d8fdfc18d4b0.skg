@@ -1,0 +1,4 @@
+title: 'PITFALL: It doesn''t recognize triple-backticks fences.'
+pid: 6d9e669f-daed-4d3e-b46d-d8fdfc18d4b0
+body: |2-
+  Instead, use "C-c C-," to make a quote/example/src block.
