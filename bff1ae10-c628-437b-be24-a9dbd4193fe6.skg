@@ -1,0 +1,5 @@
+title: collect paths in folders
+pid: bff1ae10-c628-437b-be24-a9dbd4193fe6
+body: |2-
+  Grafting non-contentward path forests to their origin
+   should perhaps be deprecated; it's confusing.

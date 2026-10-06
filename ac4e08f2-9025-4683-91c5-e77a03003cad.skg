@@ -1,0 +1,10 @@
+title: '"multiply-reachable leaves" : folder'
+pid: ac4e08f2-9025-4683-91c5-e77a03003cad
+body: |2-
+  If a (root, origin)'s recursive content
+  links to a leaf multiple ways,
+  provide a folder at the origin for the multiply-reachable leaves.
+
+  The folder should perhaps be "choked contentward"
+  to the nearest common containerward node,
+  to avoid bloated root folders.

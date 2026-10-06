@@ -1,0 +1,9 @@
+title: '"contentward-reachable mentioners" folder'
+pid: 4fe443c1-ed3b-43ce-95e7-22b9ac2c5ede
+body: |2-
+  If node D is in origin O's recursive content,
+  and mentioner R mentions D,
+  then O might file R somewhere in its own recursive content.
+  Once it does, its mentionward views
+  should collect D and any similar node
+  into a "contentward-reachable mentioners" folder.
