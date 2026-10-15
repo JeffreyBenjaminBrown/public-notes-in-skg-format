@@ -1,0 +1,4 @@
+title: The code can adapt on the fly.
+pid: c5cf0418-3991-4be0-8cc6-ceab4ac61d3b
+body: |2-
+  The grid tells you exactly when you’re not touching it, and during those gaps the grid channel is pure bleed. So an adaptive filter can continuously re-estimate the control-to-grid path from those moments and update itself, even mid-set.

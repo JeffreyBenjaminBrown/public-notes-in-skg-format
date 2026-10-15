@@ -1,0 +1,19 @@
+title: materials for the slab
+pid: fcb3f79e-c601-4b25-91c3-03012d7c2af0
+body: |2-
+  Steel plate is the sturdiest option. Steel is about 490 lb per cubic foot, more than three times denser than concrete, so a 12" square is thin for its weight:
+
+  1/8" thick: about 5 lb
+  3/16": about 7.5 lb
+  1/4": about 10 lb
+
+  It can’t break, it’s thin enough to pack easily, and the thickness you choose sets the weight. Online cut-to-size metal services and local metal suppliers will cut 12" squares, and some hardware stores stock small plates.
+
+  A bare steel plate rings like a bell, though, which would add its own resonances to your piezo signal. Bond it to a sheet of 1/2" plywood with construction adhesive. The plywood absorbs the ringing, gives you a nicer surface, and adds a pound or so.
+
+  A couple of other options that won’t break:
+
+  A granite cutting board or pastry slab: a 12" square, 3/4" thick, is about 10 lb. Granite is much tougher than porcelain tile, though a hard drop onto concrete could still crack it.
+  Horse stall mat: dense recycled rubber, 3/4" thick, about 5 lb per 12" square, sold at farm stores and cut with a utility knife. It’s indestructible and absorbs vibration, but it has some give itself, so do a firm press test to see how it feels.
+
+  I’d go with steel bonded to plywood: thin, tough, and predictable.

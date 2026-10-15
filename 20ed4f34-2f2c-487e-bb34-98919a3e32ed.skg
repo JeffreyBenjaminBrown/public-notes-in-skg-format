@@ -1,0 +1,28 @@
+title: drawing them, some code for
+pid: 20ed4f34-2f2c-487e-bb34-98919a3e32ed
+body: |2-
+  -- Example: The grid I know for 58-edo:
+  -- showGrid 58 8 5 8 8 [0,5,10,19,27,34,41,47,53]
+
+  import Data.List (intercalate)
+
+  grid edo colSpace rowSpace cols rows =
+    [ [ mod (firstInRow + colSpace * col) edo
+      | col <- [0..cols] ]
+    | row <- [0..rows],
+      let firstInRow = rowSpace * row]
+
+  formatCell specials width val =
+    let suffix = if val `elem` specials then "/ " else "  "
+        shown = show val
+        padding = replicate (width - length shown) ' '
+    in padding ++ shown ++ suffix
+
+  formatGrid edo colSpace rowSpace cols rows specials =
+    let g = grid edo colSpace rowSpace cols rows
+        maxVal = maximum $ concat g
+        width = length (show maxVal)
+    in unlines [concatMap (formatCell specials width) row | row <- g]
+
+  showGrid edo colSpace rowSpace cols rows specials =
+    putStr $ formatGrid edo colSpace rowSpace cols rows specials
