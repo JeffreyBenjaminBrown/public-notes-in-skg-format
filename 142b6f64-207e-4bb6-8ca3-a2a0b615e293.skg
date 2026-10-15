@@ -1,0 +1,31 @@
+title: collect & synthesize data
+pid: 142b6f64-207e-4bb6-8ca3-a2a0b615e293
+body: |2-
+  Play the monome, across the whole space,
+  and vary my finger velocity a lot. Then I'd "normalize" the data:
+  For every key (x,y), collect all the waveforms that happened when I pressed it,
+  and assume that they roughly cover the full range of impact velocities.
+
+  But that's clearly imperfect, because my lowest velocity for one key
+  might be lower than my lowest for another key.
+  So I'd like to impose some kind of smoothing condition, whereby
+  one key's can inform the keys of its neighbors.
+  There will only be one contact mic per monome,
+  plus the "control" mic mounted to something else.
+  Each monome mic will presumably
+  respond more to impacts in some regions than others,
+  but in a small x-y neighborhood it probably responds roughly smiliarly.
+
+  It might be ideal to simply gather a lot of data
+  with the drummer playing in the same room, but that's not feasible.
+  To make synthetic data, the obvious technique would be to replace
+  the monome data with the some of some monome data and a drum recording,
+  and put the drum recording alone on the control channel.
+  But in reality those signals will be off slightly --
+  maybe a foot or two of distance between them,
+  so up to two miliseconds of lead or lag depending on how the mics
+  are arranged relative to the speaker and the physical drums,
+  plus, probably, subtle phase differences across each frequency.
+  Changing the offset of the two signals is easy,
+  but how to realistically mangling the drumkit signal
+  to behave like it would in two different mics is not obvious to me.

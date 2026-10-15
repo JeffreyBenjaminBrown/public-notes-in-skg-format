@@ -1,0 +1,6 @@
+title: Remove myself as a meat proxy for errors.
+pid: 6cf4edf1-d1bc-45ef-aed1-33aa22ece8f0
+body: |2-
+  Errors and all (or enough to recreate all) state should be logged,
+  so all I need to do is name the problem,
+  and Claude can immediately work on it.

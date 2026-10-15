@@ -1,0 +1,7 @@
+title: signals to send the NN
+pid: 1f6429dd-2a96-40f7-aab3-0f5457c16514
+body: |2-
+  Including the difference between the control mic and the treatment mic
+  would achieve nothing; the NN will compute that itself if it helps.
+
+  But something that would add information is the grid signal minus the adaptive filter’s prediction of the bleed. That filter is fit to the current room, so it carries information the network can’t derive from the raw signals alone, and it’s what makes changing rooms manageable. So I’d feed the network four inputs: control, grid, the room-specific residual, and the key’s position. The residual does most of the work in a familiar room, and the raw channels let the network compensate when the adaptive filter is off.

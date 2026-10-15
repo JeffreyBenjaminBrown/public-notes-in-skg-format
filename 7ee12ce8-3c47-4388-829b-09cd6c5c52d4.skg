@@ -1,0 +1,8 @@
+title: faster search
+pid: 7ee12ce8-3c47-4388-829b-09cd6c5c52d4
+body: |2-
+  - An option for 'only if it matches everything'.
+  - A limit on the number of words matched.
+  - Let C-c G RET cancel the enrichment.
+  - When searching buffer text, permit skipping metadata,
+    or focusing exclusively on metadata.
