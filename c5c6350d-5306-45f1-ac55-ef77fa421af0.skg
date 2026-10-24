@@ -1,5 +1,7 @@
-title: Content is nice as the only thing you have to review for share-safety.
+title: Properties are the only thing that needs review for safe sharing.
 pid: c5c6350d-5306-45f1-ac55-ef77fa421af0
 body: |2-
-  Having to review the backlinks before publishing
-  imposes friction on publishing.
+  Something is safe to share if its properties and (visible) out-links
+  are safe to share, even if very private things link to it,
+  and even if it out-links to some very private things
+  (because by default those relationships are in the very-private thing's skrepo).
