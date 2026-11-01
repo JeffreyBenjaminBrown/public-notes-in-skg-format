@@ -1,0 +1,13 @@
+title: intermediate goals to triage
+pid: 969510aa-da4e-499a-b083-1a37c187167e
+body: |2-
+  - Communicate. Sometimes this should be high-order:
+    we'll need to think at least occasionally
+    about how we talk to each other.
+  - Think (in your own notes).
+  - Dream?
+  - Make it correct.
+  - Make it user-friendly.
+  - Document (for others).
+  - Address technical debt.
+  - Test.

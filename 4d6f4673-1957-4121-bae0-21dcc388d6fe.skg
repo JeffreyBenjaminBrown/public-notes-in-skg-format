@@ -1,0 +1,8 @@
+title: how to make the fretboard
+pid: 4d6f4673-1957-4121-bae0-21dcc388d6fe
+body: |2-
+  - keep the odd notes, 1\41 3\41 5\41 ... 41\41, 43\41 ...
+    so that there's an octave to tune with
+  - keep all the initial frets
+    1\41, 2\41, 3\41 ... up to at least 13\41, probably better 17\41.
+    Playing near the nut is otherwise awkward, due to missing notes.

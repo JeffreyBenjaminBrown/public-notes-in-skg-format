@@ -2,4 +2,5 @@ title: check upstream before beginning|resuming work in a git repo
 pid: f70e78df-6b0a-4288-b0ac-06e6326ed890
 body: |2-
   This means you don't have to pull from each clone
-  each time you push from one.
+  each time you push from one (or someone else does).
+  Just pull from the one you're about to work on.

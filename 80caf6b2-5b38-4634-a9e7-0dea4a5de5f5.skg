@@ -1,0 +1,10 @@
+title: fret distance calculator
+pid: 80caf6b2-5b38-4634-a9e7-0dea4a5de5f5
+body: |2-
+  -- Distance in inches between two frets on an equal-tempered fretboard.
+  -- Fret 0 is the nut. Works whichever order the frets are given in.
+  fretSpacing :: Double -> Int -> Int -> Int -> Double
+  fretSpacing scaleLen edo lo hi = abs (pos hi - pos lo)
+    where
+      pos :: Int -> Double
+      pos n = scaleLen * (1 - 2 ** (negate (fromIntegral n) / fromIntegral edo))

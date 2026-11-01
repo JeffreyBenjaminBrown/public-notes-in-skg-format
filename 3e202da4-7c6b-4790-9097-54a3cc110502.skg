@@ -1,0 +1,14 @@
+title: unsorted folder > queue
+pid: 3e202da4-7c6b-4790-9097-54a3cc110502
+body: |2-
+  Keeping an unsorted folder in each node
+  is better than
+  making each node a queue.
+
+  An unsorted bucket at the top of the queue
+  dispels the danger of not finding your way back,
+  but maybe increases the risk of being stuck there
+  beyond what simple insertion (at the top, bc it's a queue) would do.
+contains:
+- 5ef0aa80-0e12-4fe8-9b88-59e746110475
+- 78b925d8-33d1-4ebb-b47b-4edb154bb8da

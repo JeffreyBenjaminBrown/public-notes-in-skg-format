@@ -1,0 +1,5 @@
+title: '''cargo-build''ing the ''release'' version optimizes the code.'
+pid: adf2cc22-9d55-4c19-82a4-0da65f90e8f0
+body: |2-
+  Compilation is longer, runtime is faster.
+  I have never used it.

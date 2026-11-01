@@ -1,0 +1,7 @@
+title: Hide really can be just the one word.
+pid: 8310812c-3af2-4cf4-9ada-e14b3877e6fd
+body: |2-
+  'hides from backlinks' isn't interesting; as long as it's hidden from N
+  and in N's backlinks, we know what to do with it.
+  Similarly, 'hidden from its subscriptions' isn't interesting --
+  something N hides, contained by something N subscribes to, is hidden.

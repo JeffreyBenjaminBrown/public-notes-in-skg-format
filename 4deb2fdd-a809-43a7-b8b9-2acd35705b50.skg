@@ -1,0 +1,5 @@
+title: Implement the coordination infrastructure.
+pid: 4deb2fdd-a809-43a7-b8b9-2acd35705b50
+body: |2-
+  A skgrepo for each teammate.
+  A sleep|wake|trigger methodology.
