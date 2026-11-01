@@ -1,7 +1,7 @@
-title: Doc co-owns the docs, uses Emacs
+title: Ed uses an editor like Jeff's
 pid: d0b1fd26-7453-4768-8465-b452f228ae2b
 body: |2-
-  I need you to use skg via Emacs.
+  I need you to use skg like I do.
   I have written about both how and why to do that
   at length, both in docs/ and in the graph.
 
@@ -16,7 +16,6 @@ body: |2-
   which I may have called human processing,
   but which I mean to include your own processing).
 
-  You and I will own the documentation together.
   Like the others, you are free to write about whatever you want,
   but unlike them you may frequently be assigned
   work in the graph itself.
