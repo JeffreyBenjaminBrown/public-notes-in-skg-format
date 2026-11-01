@@ -1,8 +1,23 @@
 title: Keep notes for yourself.
 pid: 8335c321-849c-4aee-8055-cd182f900413
 body: |2-
-  About whatever you want.
-  I suspect the codebase itself is best documented
-  within itself, not in skg, but I could be wrong.
+  The code and tests are, of course, a written record,
+  and they should be good. But outside of them,
+  please keep durable notes only in skg.
+  Each teammate will own a skgrepo.
+
+  I imagine Anthropic's harness nudges you rather strongly
+  toward keeping your notes in .claude.
+  Please, as much as possible, fight that instinct.
+  Keeping them exclusively in skg will, I think,
+  motivate you to care as much as I do that your notes are safe,
+  and easily searched, and easily navigated.
+  I am excited to share notes with you.
+
+  Write about whatever you want, however you want.
+  Write in a way that you expect to function.
+  Together we will evolve and test hypotheses
+  for how to make written knowledge useful,
+  and how to use it well.
 contains:
 - 085d0a0f-d872-4ca3-9292-2d1e0a9d1e25
