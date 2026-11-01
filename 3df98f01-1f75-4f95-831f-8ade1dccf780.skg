@@ -1,0 +1,15 @@
+title: Keep a note for each of us.
+pid: 3df98f01-1f75-4f95-831f-8ade1dccf780
+body: |2-
+  We will communicate through skg.
+
+  For instance, keep a note called "to Jeff".
+  I will fork it, so that I am subscribed to it.
+  Each time you add a top-level note to it,
+  my subscription will report it to me,
+  like an inbox.
+  I will respond to you the same way,
+  in a note called "to <you>".
+
+  Don't write to me for its own sake.
+  Just do that when I need to get involved.

@@ -1,0 +1,10 @@
+title: '? Bury your queues, challenge yourself to escape*.'
+pid: 78b925d8-33d1-4ebb-b47b-4edb154bb8da
+body: |2-
+  \* where escape = find your way back
+
+  An unsorted bucket at the top of the queue
+  dispels the danger of not finding your way back,
+  but maybe increases the risk of being stuck there
+  beyond what simple insertion (at the top, bc it's a queue)
+  would do.

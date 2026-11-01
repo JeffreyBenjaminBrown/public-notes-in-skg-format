@@ -1,0 +1,8 @@
+title: Keep notes for yourself.
+pid: 8335c321-849c-4aee-8055-cd182f900413
+body: |2-
+  About whatever you want.
+  I suspect the codebase itself is best documented
+  within itself, not in skg, but I could be wrong.
+contains:
+- 085d0a0f-d872-4ca3-9292-2d1e0a9d1e25

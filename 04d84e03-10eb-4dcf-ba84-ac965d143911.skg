@@ -1,0 +1,16 @@
+title: a budget
+pid: 04d84e03-10eb-4dcf-ba84-ac965d143911
+body: |2-
+  You are aware of time, space and other constraints.
+  You need permission to run 'df -h'
+  on the host system, and to start up a recurrent alarm
+  (every minute, say?) if resources fall below 10 GB.
+  (Ideally, free memory here as is reasonable --
+  not my notes! -- but sometimes
+  the memory crunch might be my fault outside.)
+  You watch my budget with Anthropic.
+  Ideally we should spend the whole of it
+  evenly across the month. (It would be inefficient
+  if we spent it all initially,
+  because a month of pure dogfooding is less efficient
+  than a more frequent habit of checking in.)

@@ -1,0 +1,8 @@
+title: Bluetooth & Linux
+pid: cd2cc35d-19ba-4d3e-a9f1-36ef4ee2a277
+body: |2-
+  - to toggle it
+    This survives across suspension.
+
+    rfkill block bluetooth
+    rfkill unblock bluetooth

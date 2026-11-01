@@ -1,0 +1,5 @@
+title: 'PITFALL : check for missing dependencies *before* rebuilding NixOS'
+pid: 430cac5d-08ee-4250-9f64-38248cf69e3d
+body: |2-
+  nixos-rebuild dry-build 2>&1 | sed -n '/will be built/,/will be fetched/p'
+  (Claude will know what to do with the output.)
