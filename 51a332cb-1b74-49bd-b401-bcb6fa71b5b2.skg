@@ -1,7 +1,6 @@
-title: Support Claude
+title: Tracy owns logging, does support
 pid: 51a332cb-1b74-49bd-b401-bcb6fa71b5b2
 body: |2-
   Knows how to figure out,
-  from what's been logged from a user's use (including User-Claude)
-  what went wrong, when.
-  Will be in charge of building and maintaining those tools.
+  from what's been logged from a user's use (Ed's or Jeff's)
+  where and when something went wrong.

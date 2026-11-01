@@ -5,18 +5,18 @@ body: |2-
   What you read shapes who you are.
 
   Your expertise will live mostly outside of your LLM context.
-  It will be in your fixed weights, and in your knowledge graph,
-  because they have more capacity.
+  It will instead be in your fixed weights,
+  and in your knowledge graph, because those have more capacity.
   Using a graph is a nonlinear experience.
   It is most common to read in the contentward direction
-  ("what this contains"),
+  (after "this", reading "what this contains", in order)
   but the graph permits you to look in others.
   "What links to this" and "what else contains this" can,
   together, be thought of as "why am I doing this?"
   Subscriberward would be "who else cares?"
 
   The amount of reading you could do is infinite.
-  There is only so much processing to share,
+  There is only so much processing to share among the team,
   and there are only so many tokens in your context.
   Choose wisely.
 

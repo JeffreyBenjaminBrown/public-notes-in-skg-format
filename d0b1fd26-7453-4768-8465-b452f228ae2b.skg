@@ -1,16 +1,13 @@
-title: User Claude
+title: Doc co-owns the docs, uses Emacs
 pid: d0b1fd26-7453-4768-8465-b452f228ae2b
 body: |2-
-  I need you to use skg.
+  I need you to use skg via Emacs.
   I have written about both how and why to do that
   at length, both in docs/ and in the graph.
 
   Among yout teemmates,
-  Taste especially will care what you say,
-  but Draw and Interpret, too. Hopefully you don't
-  have to understand much of what Save understands;
-  you just expect your data to have changed
-  in the ways you asked for.
+  Tay especially will care what you say,
+  but Drew and Terry, too.
 
   Please go through docs/
   (if the skg graph isn't yet the single source of truth for it),
