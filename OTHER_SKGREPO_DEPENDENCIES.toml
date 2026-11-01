@@ -13,6 +13,7 @@
 # the remote only when it is not the conventional "origin".
 # skg makes no use of the git-remote values itself.
 dependencies = [
-  { path = "cheese-man", git-remote = "git@github.com:JeffreyBenjaminBrown/as-if-another-skg-user.git" },
-  { path = "owned/public", git-remote = "git@github.com:JeffreyBenjaminBrown/public-notes-in-skg-format.git" },
+  { path = "user-claude/first" },
+  { path = "jeff/skg-system" },
+  { path = "jeff/public", git-remote = "git@github.com:JeffreyBenjaminBrown/public-notes-in-skg-format.git" },
 ]
