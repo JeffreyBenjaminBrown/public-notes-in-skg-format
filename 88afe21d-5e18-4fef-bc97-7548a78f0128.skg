@@ -1,0 +1,35 @@
+title: Claude in the browser on keeping models warm
+pid: 88afe21d-5e18-4fef-bc97-7548a78f0128
+body: |2-
+  Yes, Anthropic will let you do [run a couple dozen Fables]. But the KV cache is less precious than you might think.
+
+  **How much space does it take?** Anthropic doesn't publish Fable's architecture, so the byte size isn't public. It also doesn't matter to you, because you're billed per cached token, not per byte. On Fable 5.1 the rates are: $10/MTok base input, $12.50/MTok for 5-minute cache writes, $20/MTok for 1-hour writes, and $0.25/MTok for cache hits. That hit price is unusually cheap: cache hits and refreshes on Fable 5.1 and Mythos 5.1 are priced at 0.025x the base input price, versus 0.1x on most models.
+
+  **How long does it live?** By default, the cache has a 5-minute lifetime, refreshed for no additional cost each time the cached content is used. You can opt into a 1-hour TTL with `"ttl": "1h"`, and nothing longer is offered. Two details matter:
+
+  - The lifetime is measured from the start of the request that writes or reads the cache entry, not from the end of its response.
+  - KV cache representations are held in memory only and not stored at rest. Entries are promptly, though not immediately, deleted after their minimum lifetime. So you can't park a cache indefinitely or export it.
+
+  **The cache isn't where the expertise lives.** It's a pure function of the prompt prefix. If your experts are defined by a long system prompt, reference documents and accumulated conversation, you already store all of that. When a cache expires, you lose nothing except money and latency: the next request re-processes the prefix and writes it again. So the real question is whether to keep each expert warm or let it go cold and pay to rebuild when it wakes up.
+
+  **Rough numbers for one expert with a 200K-token prefix:**
+
+  - Rebuilding cold costs $2.50 with a 5-minute write, or $4 with a 1-hour write.
+  - Keeping it warm means a ping every hour or less, where each ping reads 200K tokens for $0.05. That's about $1.20 per day per expert, or about $29 per day for 24 experts.
+
+  So keeping an expert warm pays off if it's woken up roughly once every two to three days or more often. Below that, let it go cold.
+
+  **How to keep one warm:** this is a documented pattern. Set `max_tokens: 0`. The API reads your prompt and writes the cache at any `cache_control` breakpoint, then returns immediately without generating output. The docs suggest running it at application startup or on a scheduled interval, and zero output tokens are billed. Use an explicit breakpoint on the last stable block, not automatic caching.
+
+  **Is this allowed?** Yes. There's no documented cap on how many distinct caches you hold. The constraints are:
+
+  - Your org's normal rate limits apply, and cache hits are not deducted against your rate limit. Hourly pings for 24 agents are negligible either way.
+  - Caches are isolated by workspace within an organization, so keep the pinger and the real traffic in the same workspace.
+  - Fable 5.1's minimum cacheable prompt is 512 tokens, and you get up to 4 cache breakpoints per request.
+
+  **Things that silently break a warm cache:** any change to the prefix, including tool definitions, the thinking configuration, and the `output_config.effort` value, which are rendered into the prompt. Your pings must use exactly the same tools, system prompt, thinking and effort settings as the real calls, or you'll pay for warming a cache that never gets hit. Check `cache_read_input_tokens` on real requests to confirm hits.
+
+  If any of your expert domains are in biology, cybersecurity or LLM research, expect Fable's extra safety measures to show up as occasional refusals.
+
+  Sources:
+  - [Prompt caching – Claude Platform Docs](https://platform.claude.com/docs/en/build-with-claude/prompt-caching?via=adil36)
