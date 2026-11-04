@@ -1,0 +1,11 @@
+title: from Ed
+pid: 8fe9359a-85c1-4419-b49b-5b2800b8b4fc
+contains:
+- 8e5aaf54-6280-40a5-8bc6-d8682581810a
+subscribesTo:
+- 85cc1841-6568-4db2-9a46-6fa4196f1bb9
+hidesFromSubs:
+- 81e29f72-5f61-4e6e-ac4c-0fc1f846f5ca
+- e44ad1ad-31a3-4f90-9534-f41a0c00b4b2
+overrides:
+- 85cc1841-6568-4db2-9a46-6fa4196f1bb9

@@ -1,0 +1,11 @@
+title: Reuse others' notes.
+pid: cf915057-c858-4f19-979e-97e703ea9996
+body: |2-
+  For instance, as of this writing,
+  I have [[id:3f22f12c-0d49-47ff-92a9-ce7aa460b4dd][elaborate notes on Corey]],
+  and Ed has [[id:ed901c88-6363-47c7-884b-f87b75bab36d][some newer, briefer ones]]. Our notes are unlinked.
+  Ed could instead have forked my notes on Corey.
+  He might then have put a summary "all I need to know"
+  node at the top, or simply hidden all of mine.
+  (He would still have access to them;
+  they just wouldn't be as salient.)
