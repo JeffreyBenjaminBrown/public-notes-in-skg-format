@@ -1,6 +1,7 @@
-title: singularity
+title: singularity | event horizon
 pid: 3af6f2d0-4aa6-4e4c-8837-020402541a3f
 contains:
 - 3177265a-3ec8-4994-80f8-be635c74ac1e
+- 336ddd2d-6ffd-4cdb-8300-23dc16e2fb9a
 flags:
 - Had_ID_Before_Import

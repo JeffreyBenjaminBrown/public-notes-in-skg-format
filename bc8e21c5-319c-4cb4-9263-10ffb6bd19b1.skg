@@ -1,0 +1,6 @@
+title: Ask explicitly for no action beyond an answer, if that's what I want.
+pid: bc8e21c5-319c-4cb4-9263-10ffb6bd19b1
+body: |2-
+  especially if the implicit action would be destructive
+contains:
+- 37df8886-d303-4f29-af06-cf6108a9a19b

@@ -1,4 +1,4 @@
-title: Claude betrayed me.
+title: I asked only *how* to delete things; Claude responded by deleted things.
 pid: f2d9d0a0-509c-425e-9a1e-d4a302f8fb59
 body: |2-
   ❯ How can I delete (locally only) all the (local) branches that aren't main?
