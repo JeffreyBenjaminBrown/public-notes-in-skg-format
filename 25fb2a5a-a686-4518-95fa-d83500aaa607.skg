@@ -1,0 +1,5 @@
+title: a way to stage and commit only the changes marked 'processed'.
+pid: 25fb2a5a-a686-4518-95fa-d83500aaa607
+body: |2-
+  Raises the question of whether a partially-processed node's changes
+  can be partially staged. Would require parsing the diff.

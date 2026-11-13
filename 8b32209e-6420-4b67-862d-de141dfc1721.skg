@@ -1,0 +1,8 @@
+title: Fuse two agents for a mission?
+pid: 8b32209e-6420-4b67-862d-de141dfc1721
+body: |2-
+  Right now we're asking Tracy to investigate a bug,
+  and then Drew will fix it. But once Tracy investigates it,
+  she's learned a lot about its machinery, and Drew will have to relearn that.
+  It might be more efficient if, for that mission,
+  a Tracy-Drew agent came into being, knowing what both know.

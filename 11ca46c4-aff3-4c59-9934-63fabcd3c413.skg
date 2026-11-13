@@ -1,0 +1,11 @@
+title: bug ? diff view was missing the modified text indicators
+pid: 11ca46c4-aff3-4c59-9934-63fabcd3c413
+body: |2-
+  The title of something had changed.
+  In the diff view I saw the new title, and a purple M herald
+  indicating that something was modified.
+  I thought we had implemented some kind of descendent structure
+  to show the old title, but that was absent;
+  this node was a leaf in the diffview.
+contains:
+- c57a3db4-3962-4f1b-8bb0-4c557dad2ffe

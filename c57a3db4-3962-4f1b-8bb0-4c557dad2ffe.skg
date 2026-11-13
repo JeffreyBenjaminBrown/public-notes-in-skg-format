@@ -1,0 +1,13 @@
+title: example!
+pid: c57a3db4-3962-4f1b-8bb0-4c557dad2ffe
+body: |2-
+  Currently (<2026-11-13 Fri>) in the skg diff view I see this:
+    * (skg (vnid 1q) node (gnid 846207ef-11d6-49e4-89b4-4558b2989a60) (skgRepos (nodeRepo pers-p)) (view (rels (contains (out 9)) (linksTo (in 1 (substantive 0)))) (props (aliases 1) (flags 1)) repoBoundary)) doing
+    ... // skippping some
+    ** (skg (vnid 4h) node (gnid a992d3ed-d756-4305-9210-47de5857bc0e) (skgRepos (nodeRepo pers-p)) (view (rels (contains (in 1 (ancestors 1)) (out 15))) (birth (contains in 1)))) pressing, by topic
+    *** (skg (vnid 4i) (changesetMarker content) (diff (leaves 8 rel) (processed rel)))
+    *** (skg (vnid 4j) node (gnid 04c4122b-83c7-4f9a-b361-fe2179a4fa47) (skgRepos (nodeRepo pers-p)) noClaim writeProtected (view (rels (contains (in 3)) (linksTo (out 1))) ghostWarrant) (diff (rel removed) (leaves 1 rel) (processed rel))) [[id:4eba5bd5-48c6-48eb-9df7-324993082579][DIY ECG]]
+    *** (skg (vnid 4k) node (gnid 2a409b0d-8caa-4b9e-a9c2-9281472d233c) (skgRepos (nodeRepo pers-p)) noClaim writeProtected (view omittedBody (rels (contains (in 1))) ghostWarrant) (diff (rel removed) (leaves 1 rel) (processed rel))) ? strengthen mouth muscles , contra apnea
+    *** (skg (vnid 4l) node (gnid 2fac9260-f1b7-4df2-a8b7-249a71035365) (skgRepos (nodeRepo pers-p)) (view (rels (contains (in 1 (ancestors 1))) (linksTo (out 1))) (birth (contains in 1))) (diff (properties changed) (leaves 1 node))) [[id:ef673990-4aa1-466f-ac5f-f0296b02e716][health \ jbb]]
+  There is nothing underneath that last node to indicate how it changed.
+  Shouldn't something show the old title?

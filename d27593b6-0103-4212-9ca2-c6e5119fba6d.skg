@@ -1,0 +1,7 @@
+title: diffing merges
+pid: d27593b6-0103-4212-9ca2-c6e5119fba6d
+body: |2-
+  Show ID inheritance under both sides of a merge.
+  That is, if E merged into R, E's ghost is visible under R
+  (appropriately foldered to indicate the relationship)
+  and R is visible under E's ghost (similarly foldered)
