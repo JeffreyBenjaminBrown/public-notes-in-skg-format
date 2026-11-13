@@ -1,0 +1,8 @@
+title: in elisp/skg-sexpr/skg-lens.el, rather than concatenate with ":"
+pid: 682be635-417e-4c2a-bc94-0c5152fde42f
+body: |2-
+     (that's done by skg--tokens->string)
+
+     Instead of returning a :-separated string,
+     return a list of lists of propertized strings,
+     which the calling function can decide how to concatenate.

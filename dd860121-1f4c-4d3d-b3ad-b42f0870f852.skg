@@ -1,0 +1,7 @@
+title: AWAITS TODO/command-name-echo.org
+pid: dd860121-1f4c-4d3d-b3ad-b42f0870f852
+body: |2-
+  A config option, for recording videos.
+  Could put a second minibuffer line,
+  that reads if anything (key sequence -> command),
+  leaving a trail for five seconds or until interrupted.

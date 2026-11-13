@@ -1,0 +1,5 @@
+title: Warn the user if they changed an write-protected source.
+pid: 2f36e933-5237-4e42-8373-036211ac863f
+body: |2-
+  Don't other kinds of edits to write-protected nodes
+  already bork the save?

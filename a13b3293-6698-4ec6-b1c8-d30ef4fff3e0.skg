@@ -1,0 +1,10 @@
+title: 'ONGOING bug : flattening example links'
+pid: a13b3293-6698-4ec6-b1c8-d30ef4fff3e0
+body: |2-
+    - Example links inside verbatim text got flattened. The exporter treats a link
+      written as a literal example, like =[[id:X][LABEL]]= in COMMANDS.org, as a
+      real link to a node that wasn't exported, and replaces it with its label. So
+      "=[[id:X][LABEL]]= link is inserted at point" became "=LABEL= link is
+      inserted at point". The same happened to the example link in the
+      export-marker section I just wrote. That one points at the documentation
+      node in public, which wasn't exported, so it came out as : Export to Org.

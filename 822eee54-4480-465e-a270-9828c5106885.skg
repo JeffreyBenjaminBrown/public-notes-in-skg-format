@@ -1,0 +1,5 @@
+title: 'BUG :: make-content cleanup -> collateral view not found'
+pid: 822eee54-4480-465e-a270-9828c5106885
+contains:
+- c2663760-2541-4e25-95dc-3cfc4a4315f6
+- 778bd052-7416-4f3d-9bbc-50c7813b4bfc

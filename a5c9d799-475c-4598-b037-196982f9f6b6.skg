@@ -1,0 +1,6 @@
+title: why
+pid: a5c9d799-475c-4598-b037-196982f9f6b6
+body: |2-
+  When going from magit-view to a modified node,
+  it's very nice if that one jump goes directly to
+  the one big context where it and its brothers were made.

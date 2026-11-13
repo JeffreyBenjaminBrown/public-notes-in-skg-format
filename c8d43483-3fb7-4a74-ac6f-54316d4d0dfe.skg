@@ -1,0 +1,6 @@
+title: a function to relabel link labels
+pid: c8d43483-3fb7-4a74-ac6f-54316d4d0dfe
+body: |2-
+  The label could be a special string like ":skg default label:".
+  That is, the target got a better title, and you would like
+  everything that uses the default title to switch to the new one.

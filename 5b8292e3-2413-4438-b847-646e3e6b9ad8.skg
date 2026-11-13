@@ -1,0 +1,7 @@
+title: to be more sure of the git diff analysis
+pid: 5b8292e3-2413-4438-b847-646e3e6b9ad8
+body: |2-
+  Have independent code count the number of disappeared files,
+  moved files, new roots, and other anomalies,
+  and check it against the report.
+  (Backgrounded.)

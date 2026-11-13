@@ -1,0 +1,7 @@
+title: folders need better labels
+pid: a29fbb76-961e-4618-b7b5-91d6fc518e95
+body: |2-
+  <b> hides these, which <a> contains.
+  It hides these, yet nothing it subscribes to contains them, and they do not link to it.
+  These link to it. Each one's descendents are a containerward forest.
+  These contain it. Each one's descendents are a containerward forest.

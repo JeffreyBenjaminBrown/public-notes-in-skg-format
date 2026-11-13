@@ -1,0 +1,6 @@
+title: Validate ancestry, not descendents.
+pid: 0cd29312-768f-4938-a3e3-d46a1de46ca7
+body: |2-
+     For instance, "an alias should have an aliasFolder parent"
+     is easier to say than "an aliasFolder's children can only be aliases".
+     (Because it prevents combinatorial explosion?)

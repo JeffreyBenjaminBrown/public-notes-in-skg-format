@@ -1,0 +1,14 @@
+title: 'step 1: shuffle'
+pid: 913353c2-aaa1-4cc6-8101-9ebf0af17d94
+body: |2-
+  Welcome, Codex! Please read coding-advice/ORIENTATION.org, and whatever it refers to (recursively), for orientation. (If anything refers to Claude in the present or future tense, please don't be offended. You are the chosen one, um, lately.)
+
+  Then: This project has gotten too big. server/ has 43,000 lines of Rust code. It did almost everything it now does 20K lines ago. Every change is now a massive ordeal. Our mission is to reduce that complexity.
+
+  But before we can even *surveil* it, we need to shuffle things. The codebase has been growing for 1.5 years. At some point I gave up and let AI do lots of things with much less oversight than I would like to give, and now concerns are extremely mixed across files.
+
+  So I would like you to make a plan, which I will review, to move functions across files until each collection feels coherent.
+
+  You might find the call-graph and code-map tools at tools/introspect/ helpful. (You'll certainly want that kind of information, but maybe not in that format.)
+
+  Please put your results in a new headline below this one.

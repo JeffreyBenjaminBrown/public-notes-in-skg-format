@@ -1,0 +1,9 @@
+title: It can still show data!
+pid: 541b3dcc-b45a-4dfd-8974-b4a82c768c67
+body: |2-
+  This differs from the current skg implemntation of a "deleted node" viewnode,
+  which makes nothing available but the ID.
+  It seems better to never show a deletion that way --
+  instead, show it with its title,
+  and if the user asks for them, even its content.
+  (Deleted content would show as further 'deleted atom' viewnodes.)

@@ -1,0 +1,9 @@
+title: Changes to atoms and changes to relationships require separate commitment statuses.
+pid: a76f503b-f796-42b6-9922-ba64e49d50aa
+body: |2-
+  Suppose A and B both contain C, and C is deleted.
+  The user wants to separately OK each of
+  - the deletion of C
+  - the deletion of (A contains C)
+  - the deletion of (B contains C)
+  *But* they are likely to want to do that all from C!

@@ -1,0 +1,4 @@
+title: user can mark nodes well-edited
+pid: 7ff1c78a-c5a7-40ee-87e6-0ef44efc9df3
+body: |2-
+  Indicates that all changes to that node can be committed.

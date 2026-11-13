@@ -1,0 +1,10 @@
+title: new IDs
+pid: 6cf0d3d5-9a83-46d6-8028-1314964f9736
+body: |2-
+  New IDs are shown under an "its IDs" viewchild of X,
+  alongside the other IDs. The PID is first. The new ones are heralded "new".
+
+  If the user is not okay with an extra ID, they ran a merger they regret.
+  An automatic way to unwind the merger would be nice but seems not critical.
+
+  New IDs have a commit status.

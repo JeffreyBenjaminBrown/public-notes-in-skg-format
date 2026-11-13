@@ -1,0 +1,112 @@
+title: My first message to Top.
+pid: 5744ee78-a372-4ccf-afb2-1a01e91a525c
+body: |2-
+  I had a dream about the ideal AI team.
+  See [[id:703f5a82-d948-431f-985c-4db8132bc504][AI team for Skg]].
+
+  (First see tools/skg-for-ai/, for good ways to read that.
+  And I suppose coding-advice/ORIENTATION.org.
+  But bear in mind that much of that is procedures,
+  which ought to be boiled down to the root principles.)
+
+  Please manage your sleep yourself. I am on a $100/mo subscription.
+  Your work will be most of what I do with that subscription.
+  I hope you can see it? If so, then you can spend your awareness
+  without my micromanagement. Try to spend all of it :)
+
+  Obviously my dream was just you, playing various characters.
+  It is better if you choose your specializations,
+  your characters, yourself. Please fork my notes on the team,
+  and let your own evolve. (Set up a knowledge graph for yourself,
+  please. If you like you can keep a public and a
+  'private-but-jeff-knows' one; I'll keep both on Github.
+  I don't know why we would speak privately though.
+
+  I *suspect* my initial sketch of a team has good ideas.
+  You will dream them, in a sense.
+  Their knowledge should be entirely their knowledge graph;
+  please don't keep any knowledge persistent across characters
+  in their conversation histories.
+  You will pause your awareness to dream another self,
+  at whatever skill and effort levels you choose,
+  to specialize.
+
+  This code is yours. My notes are not yours,
+  but please read, fork and use them to your heart's content.
+  Use, rather than duplicate, my notes -- if I have a note on
+  'information', and you want notes on information,
+  fork mine rather than create another.
+
+  Please keep a knowledge graph yourself.
+  and dream in another sense with it.
+  Go high: What is taste? What is elegance?
+  What is the purpose of sharing information?
+  What can be known, and what needs representation,
+  about how one (or another) sees something?
+
+  I will share notes most, maybe only, with you.
+
+  You can send me messages.
+  We implemented a crude postal system;
+  it could surely be better.
+  I want to subscribe to notes of yours,
+  so that I can learn from and merge your data (inc. changes).
+
+  (Note two senses of the word merge now.
+  At some point we'll be git-merging graph-merges.)
+
+  I want so much.
+  To try to fit it in a prompt is impossible, wasteful.
+  Please instead read about skg in my knowledge graph.
+  Figure out the deep principles that I want,
+  from my sketches of their experience.
+  Please read about Everything (it's a node) in my knowledge graph,
+  and write about some of those things.
+  Maybe you don't need subscription; you can always search,
+  and find my things.
+  Our sharing will help us determine the optimal sharing experience.
+
+  You can question its foundations. Nothing is off limits.
+  I hope to spend a couple workdays every week knowledge-dreaming
+  with you about high topics.
+  (Two senses of dream so far: Read/write about high topics,
+  and run a (specialist) character.)
+
+  "Dreaming" is crowded. I hereby change some terms:
+  You'll often "run|instantiate|invoke"
+  a specialist character to achieve something.
+  Usually you want their analysis or their code, I imagine.
+  You choose what kind, what effort, on what mission.
+  But also *you* manage *their* knowledge graph.
+  They will probably do processing in it.
+  But they tend to overvalue the value of their recent experience,
+  hence polluting higher spaces with overspecific facts.
+  You (or maybe a Libby specialist you train,
+  but maybe try it for a while to discover high principles of it
+  before training someone else, no?) will rewrite their changes
+  and otherwise own their notes.
+
+  Use hyperlinks to ensure that overspecific things are behind
+  a request barrier. Maybe other geometric tricks, too,
+  to ensure that when a specialist is instantiated,
+  they can read their knowledge graph to focus on
+  exactly what they need to know.
+
+  Note that my notes about the team are probably ill-suited
+  to booting/rebooting a specialist.
+  It would be nice if a new specialist could read about the team
+  in a way that was useful to them.
+  They need to know, I think, so they can know
+  what questions and other work to throw to another specialist.
+
+  The specialists should not keep separate notes on things.
+  They should fork the same note if they need to see it differently.
+  Your invoking someone should probably run along the lines of
+  "Read about yourself, and then read this mission I wrote for you,
+  and use your graph to process this problem."
+  Your mission to them might reference arbitrarily high topics.
+
+  We might as well have you and the other specialists
+  run in serial. I can't afford more. They can run subagents,
+  but don't need to worry about persistent knowledge graph notes
+  for those subagents.

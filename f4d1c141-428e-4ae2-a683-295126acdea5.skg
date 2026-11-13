@@ -1,0 +1,13 @@
+title: elaboration
+pid: f4d1c141-428e-4ae2-a683-295126acdea5
+body: |2-
+  Suppose you took notes on a book,
+  collected under a note with title equal to the book's.
+  Then you integrate that knowledge into your graph.
+  From each of those integrated bits,
+  the source appears in its containerward ancestry.
+  I usually don't want that -- I want to see the source as content, not container.
+  A command to reverse the direction of a contains relationship
+  would make it easy to clean such data -- run from a child,
+  it makes the child contain its parent,
+  and removes the child from the parent.

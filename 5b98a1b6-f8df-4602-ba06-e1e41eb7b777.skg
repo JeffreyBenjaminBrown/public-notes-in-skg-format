@@ -1,0 +1,10 @@
+title: '[Jeff] How can I avoid having to constantly ask you to restate things less ambiguously?'
+pid: 5b98a1b6-f8df-4602-ba06-e1e41eb7b777
+body: |2-
+  I'm imagining some kind of adversarial review,
+  but that seems hard -- if the reviewer can wander through the code
+  as ambitiously as you, they won't get confused where I do,
+  and there's no obvious way to make them
+  know exactly what I remember.
+contains:
+- bba14521-9337-41e3-bf55-93e8095850c2

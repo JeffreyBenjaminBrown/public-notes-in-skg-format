@@ -1,0 +1,5 @@
+title: Got this error.
+pid: 37654640-158d-4d9a-97a2-dda9510f0935
+body: |2-
+    * errors
+    ** Collateral view search:sharing: No such file or directory (os error 2)

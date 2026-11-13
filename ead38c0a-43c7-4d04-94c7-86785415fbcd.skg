@@ -1,0 +1,6 @@
+title: Skgrepo-sets should be concentric privacy supersets.
+pid: ead38c0a-43c7-4d04-94c7-86785415fbcd
+body: |2-
+  I would like to be able to say 'these note repos are [public]', 'these, a superset of those, are [more private]," etc.
+
+  Then, when forking my own note, I can

@@ -1,0 +1,5 @@
+title: a 'repo changes of atoms'
+pid: 40274430-9e6f-4b18-a022-4c7eeac9cde8
+body: |2-
+  Show an atom's skgrepo changed with an
+  AtomRepoChanged child, which reads 'its repo changed from <repo> to <repo>', where the skgrepos and 'its repo changed' are all in a system font but the 'from' and 'to' are ordinary white text. It has no title, it is not a graphnode, just a viewnode.

@@ -1,0 +1,7 @@
+title: user can mark nodes well-placed
+pid: be5ae85f-29d2-4ff2-96e1-dba9598624f4
+body: |2-
+  This prevents redundant work.
+  It affects the NewHere and RemovedHere images of the node.
+  It doesn't describe edits to the node itself,
+  but rather to its containers.

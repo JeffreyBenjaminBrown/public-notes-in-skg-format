@@ -1,0 +1,6 @@
+title: claude --dangerously-skip-permissions
+pid: 2e4388eb-a960-4865-8c5a-bf92d5de38ca
+body: |2-
+     Less ergonomically, can say:
+     "Don't do anything you don't have permission to do.
+     I'm going to be away so I can't grant it."

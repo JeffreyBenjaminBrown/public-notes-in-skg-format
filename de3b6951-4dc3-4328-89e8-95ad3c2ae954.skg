@@ -1,0 +1,6 @@
+title: 'faster search : first use AND between all tokens'
+pid: de3b6951-4dc3-4328-89e8-95ad3c2ae954
+body: |2-
+  and return those results; then, backgrounded, update those results.
+  If the user kills the search buffer before the update,
+  abort the more exhaustive search.

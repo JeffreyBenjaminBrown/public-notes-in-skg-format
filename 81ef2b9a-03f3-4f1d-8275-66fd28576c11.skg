@@ -1,0 +1,4 @@
+title: cargo test --doc
+pid: 81ef2b9a-03f3-4f1d-8275-66fd28576c11
+body: |2-
+     runs 'doctests', which ensure code in documentation works.

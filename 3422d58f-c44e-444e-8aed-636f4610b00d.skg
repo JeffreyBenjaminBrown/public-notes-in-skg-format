@@ -1,0 +1,9 @@
+title: solution
+pid: 3422d58f-c44e-444e-8aed-636f4610b00d
+body: |2-
+      regex :
+        (struct|enum|type)\s+.*TYPE_NAME
+        (struct|enum|type|trait|union)\s+.*TYPE_NAME
+      \s+ handles whitespace.
+      To avoid matching superstrings, follow type name with \b
+        \b is a word boundary to avoid matching SourceDiffFoo.

@@ -1,0 +1,5 @@
+title: <the acquirer, initially write-protected and without its content>
+pid: aacc8725-38f9-41d5-b197-5177977a5cff
+body: |2-
+  Since the git report v2  is an ordinary view,
+  the user can summon its content and make it writable.

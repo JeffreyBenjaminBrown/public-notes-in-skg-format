@@ -1,0 +1,6 @@
+title: Role trees should be foldable to their endpoints.
+pid: afb7ab2b-1140-46f8-bec7-8bb9fab8fc9b
+body: |2-
+  => they should be reversed.
+  That way they could be folded and their ends easily read.
+  Maybe group them under a collector.

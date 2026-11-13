@@ -1,0 +1,4 @@
+title: uniformity in keymap
+pid: 9df5ec47-3554-4666-ac0e-e88b22760d50
+body: |2-
+  C-c s S -> C-u C-c s s

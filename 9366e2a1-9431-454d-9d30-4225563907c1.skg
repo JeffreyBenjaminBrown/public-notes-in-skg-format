@@ -1,0 +1,6 @@
+title: TODO the disappearing headline upon cycling todo/done
+pid: 9366e2a1-9431-454d-9d30-4225563907c1
+body: |2-
+  might only happen in the first headline.
+  Right now it's happening in 'taxes, my',
+  which has no body.

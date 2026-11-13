@@ -1,0 +1,4 @@
+title: eliminate some 'tracing' commands
+pid: 86082949-0f55-40a8-80eb-e68ac960352a
+body: |2-
+    Anything that's blazing fast can be safely removed.

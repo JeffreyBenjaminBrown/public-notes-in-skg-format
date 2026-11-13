@@ -1,0 +1,5 @@
+title: It's hard because two viewnodes can share an ID.
+pid: ab6539e6-270b-49a0-8bdd-4f3fb2123bca
+body: |2-
+  The incoming tree would have to be compared to the outgoing one.
+  Although they usually don't, things can shift around dramatically.

@@ -1,0 +1,11 @@
+title: elaboration | motivation
+pid: fc4eaf14-c406-4f70-9728-391b74d589d0
+body: |2-
+  TODO and ONGOING are both just prompts for the user.
+  Indeed maybe the user should be able to define other labels.
+
+  But DONE is a special label,
+  because (although the meaning of DONE is up to the user)
+  the user aims to mark all edits DONE,
+  knowing that once all are so marked
+  they can feel safe committing all changes to all repositories.

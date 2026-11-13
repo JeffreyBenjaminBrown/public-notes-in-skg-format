@@ -1,0 +1,6 @@
+title: show current positions under each RemovedHere node
+pid: 2071ebff-56f8-4397-abe5-9e160784471d
+body: |2-
+  That is, if content E was removed from container A,
+  then the RemovedHere image of E under A
+  should include as children all the current containers of E.

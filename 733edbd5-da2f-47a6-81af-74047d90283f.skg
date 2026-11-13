@@ -1,0 +1,4 @@
+title: importing org-roam should be possible while server is running
+pid: 733edbd5-da2f-47a6-81af-74047d90283f
+body: |2-
+  and automatically update the other dbs (not just disk as now)

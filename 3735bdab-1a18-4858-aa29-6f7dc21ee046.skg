@@ -1,0 +1,11 @@
+title: should rewrite relationships, including text links, that pointed to the node with the link
+pid: 3735bdab-1a18-4858-aa29-6f7dc21ee046
+body: |2-
+  That is, suppose node C (container)
+  contains node L (link)
+  which is just a link to node T (target),
+  and node S (source) links to L.
+  Replacing L with a contains relationship from C to T
+  orphans the link that went from S to L.
+
+  This is probably true of other relationships to L, too.

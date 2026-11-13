@@ -1,0 +1,12 @@
+title: if it was acquired, it should show that
+pid: f979b13a-7648-4bf5-859b-73362e8c10b7
+body: |2-
+  If the deleted graphnode was the acquiree in a merger,
+  the viewnode representing its deletion
+  should mention the acquirer.
+  This seems most easily shown via an intermediary folder:
+  #+begin_example
+    * <deleted node>
+    ** "it was acquired by"
+    *** <acquirer>
+  #+end_example

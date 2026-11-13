@@ -1,0 +1,4 @@
+title: In magit, discarding changes should reload that node.
+pid: 9a77c866-325d-4933-bce0-88b13851d104
+body: |2-
+  At least if they are text or outlink chnages.

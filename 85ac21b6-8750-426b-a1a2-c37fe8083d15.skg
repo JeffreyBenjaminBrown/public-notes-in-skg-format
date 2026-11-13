@@ -1,0 +1,7 @@
+title: It is legitimate to commit before testing.
+pid: 85ac21b6-8750-426b-a1a2-c37fe8083d15
+body: |2-
+     Even AI-generated code.
+     Just mark it so and test it in a later commit.
+     The later test will help straighten out the code
+     so that it is easier to review thereafter.

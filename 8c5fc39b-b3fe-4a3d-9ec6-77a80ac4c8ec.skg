@@ -1,0 +1,5 @@
+title: absorb a link source viewchild into a herald
+pid: 8c5fc39b-b3fe-4a3d-9ec6-77a80ac4c8ec
+body: |2-
+  if it has text identical to the target's,
+  i.e. is just a link to the target with the target's title as label

@@ -1,0 +1,5 @@
+title: No two forks in an owned chain of forks should share a source.
+pid: 4d2f61d6-428d-4b80-b8fe-7b4b95b28876
+body: |2-
+  regardless of whether the chain is manual or,
+  in the future per [[./TODO/DONE/privacy-telescope/]], automated

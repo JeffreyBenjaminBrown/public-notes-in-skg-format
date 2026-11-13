@@ -1,0 +1,10 @@
+title: 'TODO CRITICAL : don''t force that we keep owned files under ''owned/'''
+pid: 5f4ec4da-9483-47e4-b190-9eef3cddda39
+body: |2-
+  Let the user do that,
+  but have them write out an explicit path for each owned repo,
+  including the owned/ part if that's part of it.
+
+  Otherwise, when I switch between editing as myself and as Mr. Cheese
+  and push and pull from multiple skg images,
+  my DEPENDENCIES.toml file gets mangled.

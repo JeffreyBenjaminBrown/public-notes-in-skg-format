@@ -1,0 +1,4 @@
+title: in server/serve/containerward_view.rs
+pid: 645b9025-3fe4-4d30-8d8c-09ab3f795f2c
+body: |2-
+       fn extract_containerward_view_params

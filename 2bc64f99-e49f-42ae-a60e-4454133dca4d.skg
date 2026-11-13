@@ -1,0 +1,8 @@
+title: Links are single-node policies like, "Don't unfold this by default."
+pid: 2bc64f99-e49f-42ae-a60e-4454133dca4d
+body: |2-
+  A (in org mode multi-link) program I want:
+  'The node this link is to contains|presents the node that that link is to.'
+  When there's such a relationship between links,
+  the two links could show it's there to unfold,
+  which causes them both to light up (revealing the other one).

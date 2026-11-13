@@ -1,0 +1,10 @@
+title: I liked this prompt at the top of a vision document.
+pid: 03cbcb27-f7f9-4b80-8263-5a2d427f2f2d
+body: |2-
+  Please read and think about this.
+  Report anything unclear, inelegant, inefficient, or awkward about it,
+  in the following section, 'problems'.
+  Subdivide your questions and other feedback org-style
+  (remember, the tree does not have to be uniform depth!)
+  and I will respond inline.
+  Please don't perform any git write ops for now, but read all you want.

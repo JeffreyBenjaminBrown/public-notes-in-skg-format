@@ -1,0 +1,5 @@
+title: TODO heralds temporarily lose the overlay
+pid: e70b8535-9c6e-43dc-8efb-54ee6cb924dd
+body: |2-
+  If I save a big buffer, and then quickly move a node
+  while the buffer is still saving.

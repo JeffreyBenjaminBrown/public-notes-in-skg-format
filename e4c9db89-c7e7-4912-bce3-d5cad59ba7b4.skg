@@ -1,0 +1,2 @@
+title: Is it natural that skg-request-save-buffer issues so many distinct calls to process-send-string?
+pid: e4c9db89-c7e7-4912-bce3-d5cad59ba7b4

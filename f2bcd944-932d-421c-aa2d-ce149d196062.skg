@@ -1,0 +1,5 @@
+title: Warn the user when any change is discarded on save.
+pid: f2bcd944-932d-421c-aa2d-ce149d196062
+body: |2-
+  This should in particular cover (it currently doesn't)
+  whether a skgrepo was changed on an write-protected node.

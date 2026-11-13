@@ -1,0 +1,6 @@
+title: in making links
+pid: 4c66d822-71a8-4937-b310-8c32796b578c
+body: |2-
+  If there is exactly one node in the search results
+  that exactly matches each (possibly regex)
+  term in the search query, go straight there.

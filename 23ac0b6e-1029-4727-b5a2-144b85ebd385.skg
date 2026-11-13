@@ -1,0 +1,4 @@
+title: '? trying to delete an writeProtected node should warn, not err'
+pid: 23ac0b6e-1029-4727-b5a2-144b85ebd385
+body: |2-
+  That is, the save should still succeed.

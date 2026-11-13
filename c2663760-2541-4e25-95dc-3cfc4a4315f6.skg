@@ -1,0 +1,4 @@
+title: the bug
+pid: c2663760-2541-4e25-95dc-3cfc4a4315f6
+body: |2-
+  Change a link relationship into an ordinary content relationship. This orphans the linking node. Visit the linking node. If it is an island (ignoring its out-link), delete it. The save works, but a (warning?) buffer complains that some collateral buffer does not exist.

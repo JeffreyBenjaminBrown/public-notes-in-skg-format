@@ -1,0 +1,7 @@
+title: Commitment status propgagates across representations of the same object.
+pid: fe4f6e7a-a131-4e39-b5cd-07da3a72feea
+body: |2-
+  To cycle the diff work status of any graphnode,
+  deleted or present,
+  causes every representation of that graphnode
+  to show the same diff work status.

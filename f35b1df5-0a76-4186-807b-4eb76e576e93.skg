@@ -1,0 +1,5 @@
+title: '? make a partial diff-mode'
+pid: f35b1df5-0a76-4186-807b-4eb76e576e93
+body: |2-
+  This would behave just like the TDV, except it would not unfold a new view;
+  it would instead just provide a lens onto an existing view.

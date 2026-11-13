@@ -1,0 +1,13 @@
+title: The commitment status on an atom facilitates avoiding duplicate work.
+pid: 6ae04f41-3592-4cbd-aaf3-931b5992c23b
+body: |2-
+  For instance, two containers may have both lost a contains relationship
+  to the same node, because it was deleted.
+  That node will be represented by a 'resurrected deletion'
+  under both containers.
+  Once the user has determined that they are OK that it was deleted,
+  they can mark either deletion DONE,
+  and the other will show as DONE, too.
+  This way they don't have to redetermine,
+  when they come to the second container,
+  whether it is okay that that thing was deleted.

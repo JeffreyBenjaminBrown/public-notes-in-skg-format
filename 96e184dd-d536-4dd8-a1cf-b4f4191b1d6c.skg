@@ -1,0 +1,4 @@
+title: to extract Emacs properties into Rust
+pid: 96e184dd-d536-4dd8-a1cf-b4f4191b1d6c
+body: |2-
+     use [[~/hodal/emacs/property-dump.el][property-dump]]

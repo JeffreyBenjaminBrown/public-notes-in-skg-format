@@ -1,0 +1,6 @@
+title: Magit is dangerous!
+pid: 829ead58-017b-4bcc-ac4f-9c360fec69c8
+body: |2-
+  One key command can stage all changes,
+  effectively erasing the work of a careful review
+  over which one had staged some changes.

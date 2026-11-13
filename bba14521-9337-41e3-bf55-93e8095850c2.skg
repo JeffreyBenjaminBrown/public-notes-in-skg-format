@@ -1,0 +1,25 @@
+title: 'Claude says: a reader who knows only what you know'
+pid: bba14521-9337-41e3-bf55-93e8095850c2
+body: |2-
+  The reviewer you imagine need not wander through the code: give
+  it only what you have, the glossary and the user docs
+  ('docs/'), and the document, with no access to the code or to
+  this discussion. Its job is to list every phrase it cannot
+  resolve from those: a term neither in the glossary nor defined
+  in the document; a command named by less than its full name
+  and key; a pronoun, a "both", a "the latter" or a "this" whose
+  noun is not in the same sentence; a claim it cannot check
+  against the docs. I fix each before the document reaches you.
+  That matches its knowledge to yours (you read the docs, not
+  the code) at the cost of a cheap agent per document, a few
+  minutes. Beside it, three rules for my writing: the first
+  mention of a command gives its full name and key; "both", "the
+  latter" and "the former" are never used; every term of the
+  implementation is either in the glossary or defined under a
+  headline of its own before it is used. If you want, I run the
+  reader now over the review's Decide section and put its fixes
+  here, since the main document is yours at the moment; and the
+  habit goes into 'coding-advice/org-discussions.org' as a step
+  before any document is handed to you.
+contains:
+- 17d704d2-46a6-4c8f-b824-b6aab4aac681

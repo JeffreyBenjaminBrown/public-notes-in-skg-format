@@ -1,0 +1,5 @@
+title: Update viewstats in the background after save.
+pid: 411b5c7f-85e1-485c-b55e-84c3c56a1326
+body: |2-
+  Show 'rebuilding' in the modeline while rebuilding.
+  Don't update a dirty buffer silentl; show 'stale' instead.

@@ -1,0 +1,12 @@
+title: '''write-protected leaf'''
+pid: 6092b77c-cf25-4f7d-867c-67ae15619898
+body: |2-
+  This is a write-protected viewnode
+    without its body or content
+    but with a containerward viewtree.
+  A write-protected leaf can be decorated with view-descendents,
+    e.g. (as is common) a containerward tree.
+    Now it is not a leaf.
+  It can also be made writable,
+    which causes its content to be among its viewchildren
+    if they are not already.

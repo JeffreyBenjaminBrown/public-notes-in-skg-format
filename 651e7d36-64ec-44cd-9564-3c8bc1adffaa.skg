@@ -1,0 +1,7 @@
+title: The 'unknown node' phantom can't always say 'parent references'.
+pid: 651e7d36-64ec-44cd-9564-3c8bc1adffaa
+body: |2-
+  If it was arrived at by followiing a link,
+  it should say 'link source targets unknown node'.
+  Etc. for the other relationships --
+  it depends on why the node was drawn.

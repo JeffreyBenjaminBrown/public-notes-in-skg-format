@@ -1,0 +1,4 @@
+title: or mark in a way that identifies node as probably stageable
+pid: 1c344366-d334-496b-a123-e03cbd7fa8d7
+body: |2-
+  If a new or deleted node, it (is still in the graph and) has a parent.

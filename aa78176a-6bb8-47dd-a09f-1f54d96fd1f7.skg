@@ -1,0 +1,5 @@
+title: TODO What happened to the guard to prevent dirtying a second buffer?
+pid: aa78176a-6bb8-47dd-a09f-1f54d96fd1f7
+body: |2-
+  I made that change around <2026-09-11 Fri>,
+  but now <2026-09-14 Mon> it's not warning me.

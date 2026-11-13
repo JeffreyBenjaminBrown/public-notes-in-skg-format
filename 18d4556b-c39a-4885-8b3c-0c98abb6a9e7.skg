@@ -1,0 +1,5 @@
+title: 'TODO bug : C-c G on an alias kills the buffer'
+pid: 18d4556b-c39a-4885-8b3c-0c98abb6a9e7
+body: |2-
+  intending to replace it, but can't replace it.
+  There are likely other viewnode kinds for which this happens.

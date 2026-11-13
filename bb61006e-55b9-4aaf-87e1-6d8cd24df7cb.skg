@@ -1,0 +1,23 @@
+title: TODO commit eval
+pid: bb61006e-55b9-4aaf-87e1-6d8cd24df7cb
+body: |2-
+  Can ask for it for staged, unstaged or all changes.
+
+  If a node is new, it's fine as long as it's valid.
+  (What are the validation rules?
+  Some relationships enable/preclude others.)
+
+  If a node was removed, and all references to it removed,
+  it is reported deleted and listed.
+
+  Anything orphaned by a deletion is reported,
+  with the corresponding deletion.
+  Anything whose container(s) changed is reported as such.
+
+  A new content is fine if _.
+
+  [New|deleted] [rel type] is fine if _.
+
+  Changes to text are reported.
+
+  To test, compute this two ways: From disk and from dbs.

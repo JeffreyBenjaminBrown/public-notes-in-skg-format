@@ -1,0 +1,6 @@
+title: '"content it presented that nothing now presents"'
+pid: 0441c0ff-c317-4e65-abde-e2f90e3cd574
+body: |2-
+  Each child of folder is a write-protected viewnode
+  without its body or content
+  but with a containerward viewtree.

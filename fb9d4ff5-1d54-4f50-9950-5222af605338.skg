@@ -1,0 +1,5 @@
+title: 'bug : nested links'
+pid: fb9d4ff5-1d54-4f50-9950-5222af605338
+body: |2-
+  See, e.g.,
+  [[id:3c5b0fad-1559-42a4-bcaf-eb7c466cc4f8][[[id:758119b6-2b1e-428b-9664-d7b8a4b63ca1][Markets can aim [[id:2208f9f5-43be-49d4-99c0-d803f8c3e44e][selfishness]] toward social efficiency.]]]]

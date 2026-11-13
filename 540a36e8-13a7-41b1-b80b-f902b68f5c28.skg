@@ -1,0 +1,6 @@
+title: Don't reload a buffer without checking.
+pid: 540a36e8-13a7-41b1-b80b-f902b68f5c28
+body: |2-
+     If a buffer is empty when I don't think it should be,
+     don't reload it. Check on disk if it is in fact empty.
+     If not, try hitting 'undo' to restore it.

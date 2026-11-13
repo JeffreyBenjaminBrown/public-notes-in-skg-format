@@ -1,0 +1,5 @@
+title: Write-protected nodes skip the visited-checking logic
+pid: 820e6719-17bf-4d7f-9a3f-e8c6d6d5ccf9
+body: |2-
+     when saving a buffer.
+     This is not clearly a problem.

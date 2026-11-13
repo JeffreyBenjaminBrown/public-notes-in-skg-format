@@ -1,0 +1,9 @@
+title: JF's nix rec's
+pid: 7a777a00-82ff-4d3c-ac06-a7dc920c515a
+body: |2-
+  moonpiedumplings/home-manager
+  - make apt available for agents
+  - install claude via nix, preferably numtide/llm-agents.nix
+  - rather than shell, template and then copy in
+  - make nix available in container; will share packages from host
+  - replace container runtime with a microvm or gvisor

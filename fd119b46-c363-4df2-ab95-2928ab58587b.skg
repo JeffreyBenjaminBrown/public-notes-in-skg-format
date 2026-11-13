@@ -1,0 +1,6 @@
+title: 'optimization : don''t always check all viewstats'
+pid: fd119b46-c363-4df2-ab95-2928ab58587b
+body: |2-
+  e.g. gO, gS, etc.
+  Some viewstats are unliekly in most places,
+  and are already caught by the umbrella heralds A, I, O, S, etc.

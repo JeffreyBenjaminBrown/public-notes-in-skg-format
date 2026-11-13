@@ -1,0 +1,4 @@
+title: 'TODO C-c g m : skg-view-magit'
+pid: 48252101-6d6b-44cf-890b-abe3a48a69c0
+body: |2-
+      Opens a magit view of the changes to the file.

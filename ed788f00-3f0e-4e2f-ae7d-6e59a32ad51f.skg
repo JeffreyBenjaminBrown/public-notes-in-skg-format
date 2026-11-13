@@ -1,0 +1,4 @@
+title: TODO changing editRequest from delete to none in metadata buffer
+pid: ed788f00-3f0e-4e2f-ae7d-6e59a32ad51f
+body: |2-
+  works, but leaves a red DELETE herald in the metadata buffer.

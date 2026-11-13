@@ -1,0 +1,5 @@
+title: set the default Codex model
+pid: b289a436-6385-4673-a803-e0c286fd8418
+body: |2-
+  ■ Failed to save default model: config/batchWrite failed in TUI: config/batchWrite failed: failed to
+  persist config.toml: failed to persist config at /home/ubuntu/.codex/config.toml (code -32603)

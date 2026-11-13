@@ -1,0 +1,9 @@
+title: what it is
+pid: c6e78f74-aba7-4be9-bb17-c13c4f36f9fc
+body: |2-
+  If an atom from a skgrepo
+  has been deleted since that skgrepo's latest commit,
+  a 'resurrected deletion' can still show
+  its title, body and content.
+  Those data could be part of the ephemeral data store,
+  or they could be deduced from the git history.

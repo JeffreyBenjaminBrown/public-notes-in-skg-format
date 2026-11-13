@@ -1,0 +1,7 @@
+title: AWAITS navigate point through herald (overlay)
+pid: ac617231-d6ff-4aac-a822-4428dd56cbf4
+body: |2-
+  walk point through the herald string normally
+  treat it as one character
+  Shortcut to jump tokens treats it as one from outside,
+  but divides it at spaces if point is interior to it.

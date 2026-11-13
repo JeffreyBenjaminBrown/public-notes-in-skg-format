@@ -1,0 +1,5 @@
+title: '? graphnode -> atom'
+pid: f6638a3e-f3d7-4444-a195-ae8f0a257268
+body: |2-
+  Still specify 'viewnode' rather than saying 'node' to mean a node in a view.
+  But only the graph has atoms.

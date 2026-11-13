@@ -1,0 +1,5 @@
+title: '''timed'' and ''timed_async'' are noisy'
+pid: 4bdc671f-1cae-4326-a220-25d7f664706a
+body: |2-
+     Maybe, rather than using them at the function call,
+     use them at the function's definition.

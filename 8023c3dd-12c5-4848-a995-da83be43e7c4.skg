@@ -1,0 +1,4 @@
+title: the dangers of repeated nodes to the user
+pid: 8023c3dd-12c5-4848-a995-da83be43e7c4
+body: |2-
+     The original data model was that each node would have only one container. That proved infeasible, because the user can copy data at will. So skg accepts such data. But bear in mind that it is dangerous. The danger is this: If a node has branches, and is copied somewhere earlier in the same document, then that new copy will take precedence. Edits to it will be treated as *the* edits. If all you did was copy the node but not its branches, its branches will be lost when you save.

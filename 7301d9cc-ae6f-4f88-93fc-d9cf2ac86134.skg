@@ -1,0 +1,4 @@
+title: '"point" seems a better name than "node"'
+pid: 7301d9cc-ae6f-4f88-93fc-d9cf2ac86134
+body: |2-
+     But it conflicts with the Emacs 'point'.

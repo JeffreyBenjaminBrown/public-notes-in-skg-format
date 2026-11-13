@@ -1,0 +1,4 @@
+title: an important constraint on any graph serialization format
+pid: e8a26700-2c5d-4888-9c8d-cb15288fad70
+body: |2-
+  Deleting a node file should make sense.

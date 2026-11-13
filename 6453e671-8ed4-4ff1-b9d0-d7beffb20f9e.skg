@@ -1,0 +1,16 @@
+title: changes to a graphnode's text
+pid: 6453e671-8ed4-4ff1-b9d0-d7beffb20f9e
+body: |2-
+  The graphnode might be represented by a write-protected leaf,
+  in which case its body is not shown.
+  Therefore an "its text was changed" viewchild
+  should contain two children "old" and "new":
+  #+begin_example
+    * <a graphnode>
+    ** "its text changed"
+    *** "old" <old title>
+    <old body>
+    *** "new" <new title>
+    <new body>
+  #+end_example
+  The text in quotations shows in a system font.

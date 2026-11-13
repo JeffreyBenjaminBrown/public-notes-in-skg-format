@@ -1,0 +1,8 @@
+title: Show skgrepo changes for relationships.
+pid: bea4ef8b-af4b-4e89-bb9c-8aac54ff3fd3
+body: |2-
+  Show that an atom's rel to its parent changed skgrepo
+  with a RelRepoChanged child,
+  which reads 'its (a's) rel to its parent (b) changed from <skgrepo> to <skgrepo>',
+  again with all text except the 'from' and the 'to'
+  in a system font, and those two sybmols looking ordinary.

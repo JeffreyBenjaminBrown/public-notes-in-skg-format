@@ -1,0 +1,18 @@
+title: alias changes
+pid: 0ac73d19-a4cb-4cac-b7cf-7db4b43670e3
+body: |2-
+  New and deleted aliases have a commit status.
+  Their commit status propagates up to the aliases folder they belong to.
+
+  Alias changes to graphnode X are shown under an "its aliases" viewchild of X.
+  A deleted alias is just an alias node marked Removed.
+  A new alias is just an alias marked New.
+  All other aliases are also shown, but without a Removed or New.
+
+  Each deleted and each added alias is separately commit-cycled.
+  Each edit begins in the TODO state.
+  If any of them are TODO, the whole aliases collection is also TODO.
+  If not, but any of them is ONGOING, the whole aliases collection is ONGOING.
+  If they are all DONE, the whole is also DONE.
+  The user does not control the whole collection's commit status,
+  just the individual aliases.

@@ -1,0 +1,4 @@
+title: Graphstats is no longer used by active nodes, but it is for phantoms.
+pid: 3cb6428a-e22e-404f-a5a1-4e593de9b3fe
+body: |2-
+  Probably shouldn't be used for phantoms either.

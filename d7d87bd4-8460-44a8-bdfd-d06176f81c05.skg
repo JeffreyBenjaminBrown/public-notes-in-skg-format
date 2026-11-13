@@ -1,0 +1,5 @@
+title: Show changes to the subscribee list.
+pid: d7d87bd4-8460-44a8-bdfd-d06176f81c05
+body: |2-
+  Under a subscriber in the edit commit view,
+  the commit status of each member content here is cycleable.

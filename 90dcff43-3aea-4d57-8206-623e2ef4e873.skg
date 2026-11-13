@@ -1,0 +1,8 @@
+title: usage
+pid: 90dcff43-3aea-4d57-8206-623e2ef4e873
+body: |2-
+    use anyhow::Context;
+
+    let driver = TypeDBDriver::new(...)
+        .await
+        .context("Failed to connect to TypeDB server")?;

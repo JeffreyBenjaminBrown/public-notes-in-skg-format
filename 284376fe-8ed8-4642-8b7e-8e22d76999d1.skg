@@ -1,0 +1,6 @@
+title: Include all skgrepos.
+pid: 284376fe-8ed8-4642-8b7e-8e22d76999d1
+body: |2-
+  Refuse the view if that conflicts with the skgrepo-set
+  (the current maximum privacy level shown --
+  what's the term used in the code for that?)

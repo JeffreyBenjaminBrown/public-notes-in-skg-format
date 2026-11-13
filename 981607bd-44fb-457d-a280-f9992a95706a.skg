@@ -1,0 +1,4 @@
+title: Is it a misfeature to let config_path differ from data_root?
+pid: 981607bd-44fb-457d-a280-f9992a95706a
+body: |2-
+  Why would you split up your skg stuff?

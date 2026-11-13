@@ -1,0 +1,4 @@
+title: TODO the warning about two modified buffers
+pid: ca32796c-419b-4e7c-86af-5eebca87cec4
+body: |2-
+  should not come upon save, but upon modifying the second

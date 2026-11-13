@@ -1,0 +1,6 @@
+title: backpaths are no longer packpaths; they're just non-contentward trees
+pid: b488682e-7060-4eb2-a22e-11fb600e4c8c
+body: |2-
+  C-c M-t _
+  It would be principled if C-c M-t c
+  switched a node to editable.

@@ -1,0 +1,9 @@
+title: '?'
+pid: f893be55-08a8-47d7-8d0b-441ed9eef015
+body: |2-
+  If the link it replaces with content has no other relationships
+  beyond the one just removed from its parent --
+  that is, if the link becomes an island --
+  it should be deleted.
+  But not if it retains other relationships, in or out,
+  including non-content relationships.

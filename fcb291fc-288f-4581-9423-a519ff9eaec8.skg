@@ -1,0 +1,5 @@
+title: 'whitespace for distinct org domains: illegible'
+pid: fcb291fc-288f-4581-9423-a519ff9eaec8
+body: |2-
+  It doesn't understand nested one org passage quoted in another org document,
+  if the quotation is represented as leading whitespace.

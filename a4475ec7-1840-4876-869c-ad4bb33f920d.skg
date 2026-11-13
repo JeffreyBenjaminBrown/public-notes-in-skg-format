@@ -1,0 +1,5 @@
+title: Birth could be generalized as RelToAncestor.
+pid: a4475ec7-1840-4876-869c-ad4bb33f920d
+body: |2-
+     It would need both a relation and a number of levels.
+     (Birth would translate to 1 level; to grandparent, 2; etc.)

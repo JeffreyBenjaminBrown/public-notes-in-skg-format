@@ -1,0 +1,6 @@
+title: 'TODO C-c v d : skg-view-diff-mode'
+pid: 2666bda9-12a6-4de6-880f-184bc497959b
+body: |2-
+      If you use git to manage your data,
+      enable this view to see what you've changed since your last commit,
+      i.e. how your worktree differs from HEAD.

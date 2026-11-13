@@ -1,0 +1,9 @@
+title: a 'merges' branch
+pid: 11613e7e-9e61-440d-9269-075416372646
+body: |2-
+  Each merge has the following descendents.
+  Quotation marks indicate verbatim text;
+  angle brackets indicate substitution of graph data.
+contains:
+- 6577b130-ed8d-451f-a29f-bbaafdc1ef2e
+- b9ad3ce0-bb12-4a8a-a803-ed1dea083c77

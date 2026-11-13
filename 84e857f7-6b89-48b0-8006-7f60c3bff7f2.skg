@@ -1,0 +1,7 @@
+title: BUG cycling TODO | DONE etc. hides text
+pid: 84e857f7-6b89-48b0-8006-7f60c3bff7f2
+body: |2-
+  e.g. go to c02b9d3d-8857-4cf0-84b2-244b127160fc
+  and try toggling that for one of its intermediate children.
+contains:
+- 1316e25a-1232-405f-8907-c9f32adaf8e3

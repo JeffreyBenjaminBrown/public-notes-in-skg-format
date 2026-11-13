@@ -1,0 +1,8 @@
+title: TODO obsolete elisp macros
+pid: 1a7a4e5e-a524-40a7-ad13-498e17457d39
+body: |2-
+  ../elisp/skg-state.el: Warning: ‘when-let’ is an obsolete macro (as of 31.1); use ‘when-let*’ or ‘and-let*’ instead. [3 times]
+  ../elisp/skg-length-prefix.el: Warning: ‘if-let’ is an obsolete macro (as of 31.1); use ‘if-let*’ instead.
+  ../elisp/skg-worktree-guard.el: Warning: ‘when-let’ is an obsolete macro (as of 31.1); use ‘when-let*’ or ‘and-let*’ instead. [2 times]
+  ../elisp/skg-request-reload-paths.el: Warning: ‘if-let’ is an obsolete macro (as of 31.1); use ‘if-let*’ instead.
+  ../elisp/skg-request-reload-paths.el: Warning: ‘when-let’ is an obsolete macro (as of 31.1); use ‘when-let*’ or ‘and-let*’ instead. [3 times]

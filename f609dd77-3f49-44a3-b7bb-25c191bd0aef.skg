@@ -1,0 +1,6 @@
+title: strategy for moving skgrepo
+pid: f609dd77-3f49-44a3-b7bb-25c191bd0aef
+body: |2-
+  Commit all uncommitted changes from both skgrepos.
+  Do the move.
+  Compare the state of both skgrepos.

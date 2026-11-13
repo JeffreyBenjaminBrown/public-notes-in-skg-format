@@ -1,0 +1,4 @@
+title: should be able to follow links to paths
+pid: e2718fc6-2b93-44a3-9654-b2bd698755ff
+body: |2-
+  e.g. [[file:/home/jeff/org-roam/personal-proc/memory_used_in_home_folder.org][memory used in home folder]]

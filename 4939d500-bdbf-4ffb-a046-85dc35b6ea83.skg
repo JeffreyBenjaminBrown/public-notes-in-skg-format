@@ -1,0 +1,5 @@
+title: hides-from-subscriptions -> hides
+pid: 4939d500-bdbf-4ffb-a046-85dc35b6ea83
+body: |2-
+  Should apply not just to subscribee content,
+  but also to mentioners.

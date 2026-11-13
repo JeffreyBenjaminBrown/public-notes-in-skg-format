@@ -1,0 +1,7 @@
+title: Option to make backlinks more public than the active skgrepo-set.
+pid: ec3fc5b9-8317-4b77-bf26-bbe47d40b624
+body: |2-
+  alternatives
+contains:
+- a49d7c8e-c335-4f72-9a0f-024abcff38dc
+- aeb51c5b-ddf4-4f92-ae28-434f503d6884

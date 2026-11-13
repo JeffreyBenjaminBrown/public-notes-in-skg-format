@@ -1,0 +1,6 @@
+title: Make TextChanged more informative.
+pid: 6c4c4465-408d-4f3d-9057-a74cfc42ff0c
+body: |2-
+  Now TextChanged shows a synthetic OldText child,
+  with no content but the old title and the old body,
+  and also a BodyDiff node with a diff of the two bodies.

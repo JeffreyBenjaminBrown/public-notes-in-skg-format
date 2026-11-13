@@ -1,0 +1,5 @@
+title: must be able to set 'parent is affected' on all children of a node
+pid: 13942aa1-7d47-483d-8d64-950e002c22ed
+body: |2-
+  better, be able to run any operation on a child, with a prefix like 'C-c r' (repeat)
+  I needed this because I accidentally created a lot of orphans.

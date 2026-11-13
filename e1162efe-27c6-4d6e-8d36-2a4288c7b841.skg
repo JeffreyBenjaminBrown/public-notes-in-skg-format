@@ -1,0 +1,5 @@
+title: a way to present more nodes on one line
+pid: e1162efe-27c6-4d6e-8d36-2a4288c7b841
+body: |2-
+  Just triple the relationship character and color it differently.
+  Emacs could quickly toggle bbetween these two representations.

@@ -1,0 +1,7 @@
+title: 'TODO CRITICAL: subscription heralds must count historical changes contentward'
+pid: f0963f8d-8ac2-42c7-a148-9f649dd99e8b
+body: |2-
+  If R subscribes to E, and E contains C,
+  and C has changed,
+  the herald on E as a subscribee of R's
+  should count that change among the changes it is reporting.

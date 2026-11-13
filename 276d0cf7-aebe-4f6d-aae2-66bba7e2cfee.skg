@@ -1,0 +1,6 @@
+title: how to collect all edits in one buffer
+pid: 276d0cf7-aebe-4f6d-aae2-66bba7e2cfee
+body: |2-
+  List the edited nodes.
+  Compute a 'truncated spanning presentation forest'
+  for the edited nodes.

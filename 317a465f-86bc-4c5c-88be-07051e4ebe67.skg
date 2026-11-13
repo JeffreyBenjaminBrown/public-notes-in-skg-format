@@ -1,0 +1,11 @@
+title: 'save to disk: how to fork a checkpoint'
+pid: 317a465f-86bc-4c5c-88be-07051e4ebe67
+body: |2-
+  Create your “orientation loaded” checkpoint once:
+
+  /rename orientation-loaded
+
+  Then whenever you want to start a new piece of work from exactly that point, while sitting in that checkpoint thread:
+
+  /fork
+  /rename whatever-this-task-is

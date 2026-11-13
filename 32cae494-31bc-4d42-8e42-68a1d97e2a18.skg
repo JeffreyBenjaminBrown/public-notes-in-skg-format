@@ -1,0 +1,9 @@
+title: the idea
+pid: 32cae494-31bc-4d42-8e42-68a1d97e2a18
+body: |2-
+  Keep a tree of IDs.
+  If the ID that had point is lost,
+  destroy its spaces-in-the-text-of-that-node record,
+  and hand it to the nearest surviving ancestor.
+
+  Continue to apply foldedness leafward from the root as before.

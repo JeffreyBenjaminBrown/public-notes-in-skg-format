@@ -1,0 +1,5 @@
+title: Dogfood and develop in separate places on disk.
+pid: e5981b50-89d1-4562-8cd6-b6ed76ed7bbf
+body: |2-
+  That way I can keep investigating the latest usable commit
+  while a new one is being developed.

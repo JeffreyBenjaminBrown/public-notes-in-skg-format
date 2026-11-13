@@ -1,0 +1,4 @@
+title: staging should refresh views
+pid: 2e7f3d2f-77ba-43f9-851a-44725ca3edd1
+body: |2-
+  be it via magit, or via C-c t (a|A)

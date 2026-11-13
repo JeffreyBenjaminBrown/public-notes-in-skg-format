@@ -1,0 +1,13 @@
+title: subscribee-as-such must be a metadata property.
+pid: 08ec328a-e9ba-4650-81f5-9ff6d716e1c9
+body: |2-
+  The metadata should in effect say
+  "this is node <ID> as a subscribee presented by subscriber <ID>".
+
+  Otherwise the user could copy the subscribee
+  to somewhere outside of the collection of subscribees.
+  If it is owned, that could destroy a lot of its content relationships,
+  because they were being hidden from the subscribee-as-such view.
+
+  This requires no additional signaling to the user --
+  a subscribee-as-such is already visually obvious to the user.

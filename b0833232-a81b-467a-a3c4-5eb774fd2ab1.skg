@@ -1,0 +1,5 @@
+title: '? "any rel" ought to be what a single backward view shows'
+pid: b0833232-a81b-467a-a3c4-5eb774fd2ab1
+body: |2-
+  link sources, containers, subscribers
+  (but not overriders or hiders -- those should be more obscure)

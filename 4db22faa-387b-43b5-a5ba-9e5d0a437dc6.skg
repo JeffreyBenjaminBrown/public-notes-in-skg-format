@@ -1,0 +1,7 @@
+title: source -> repository
+pid: 4db22faa-387b-43b5-a5ba-9e5d0a437dc6
+body: |2-
+  SkgRepo (Rust), skg-repo (Emacs), "Skg repository" (English).
+  Specify skg to avoid confusion with a gitrepo.
+  Mention at each definition that a skgrepo can be a gitrepo,
+  and indeed skg is written to make that convenient.

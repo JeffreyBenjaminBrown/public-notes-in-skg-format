@@ -1,0 +1,5 @@
+title: '''merge'' should be encodeable in NodeSaveAction'
+pid: dd47ce32-99e8-4327-b895-b346234d6b04
+body: |2-
+      Then I wouldn't need to parse the action twice,
+      in two different ways.

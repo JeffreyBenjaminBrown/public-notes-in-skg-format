@@ -1,0 +1,11 @@
+title: how to define the nodes in this branch
+pid: a4894582-7918-42b8-9217-3deb383541d7
+body: |2-
+  For any node E that was edited, show contentward views
+  (that is, a view in which parents contain children)
+  from every rootish node R
+  (either uncontained or contained by a contains-cyclic root)
+  for which E is in R's recursive content.
+  Every atom in the spanning forest that is unedited
+  *and* whose recursive content is unedited
+  is rendered as a write-protected leaf.

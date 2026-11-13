@@ -1,0 +1,4 @@
+title: migrate .skg format
+pid: 91915a10-1e3d-4ab5-8c00-81d4cf960c50
+body: |2-
+  python3 tools/migrate-skg-keys-2026-10/migrate.py data/owned

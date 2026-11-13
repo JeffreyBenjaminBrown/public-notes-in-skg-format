@@ -1,0 +1,4 @@
+title: reduce 4-space indentation to 2-space indentation
+pid: e793c76b-e9ca-48ae-95a4-51dc0beabb61
+body: |2-
+     sed -i 's/^\( *\)\1/\1/' THE_FILE

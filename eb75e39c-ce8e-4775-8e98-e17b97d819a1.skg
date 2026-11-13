@@ -1,0 +1,7 @@
+title: DONE ? C-a is failing when point is after a folded text symbol.
+pid: eb75e39c-ce8e-4775-8e98-e17b97d819a1
+body: |2-
+  Probably it thinks point is on another line,
+  because in some sense it is,
+  and is moving it to the front of that line,
+  which has no visible effect.

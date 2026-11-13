@@ -1,0 +1,5 @@
+title: if needed, convert to haskell
+pid: 5c6d3e06-09b0-4ba1-aa7a-061ea38e7bab
+body: |2-
+    If it becomes a mess, Haskell is easier to refactor.
+    Rust could sit between TypeDB and Haskell.

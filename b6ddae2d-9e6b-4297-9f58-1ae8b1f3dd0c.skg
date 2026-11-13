@@ -1,0 +1,6 @@
+title: '"incremental init" might be garbage'
+pid: b6ddae2d-9e6b-4297-9f58-1ae8b1f3dd0c
+body: |2-
+  see TODO/DONE/what-affects-dbs.org
+  but that was before some tremendous improvements in performance
+  on <2026-04-22 Wed> and before and maybe after

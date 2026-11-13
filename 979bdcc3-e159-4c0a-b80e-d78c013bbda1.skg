@@ -1,0 +1,5 @@
+title: Don't refactor something without reading its comments.
+pid: 979bdcc3-e159-4c0a-b80e-d78c013bbda1
+body: |2-
+     Even if it's as 'simple' as a type --
+     non-obvious decisions often go into those brief definitions.

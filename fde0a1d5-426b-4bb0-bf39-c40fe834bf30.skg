@@ -1,0 +1,5 @@
+title: When staging a change in magit, should update any view with that node.
+pid: fde0a1d5-426b-4bb0-bf39-c40fe834bf30
+body: |2-
+  Might be hard in the containment direction but at least
+  when updating the file corresponding to that node.

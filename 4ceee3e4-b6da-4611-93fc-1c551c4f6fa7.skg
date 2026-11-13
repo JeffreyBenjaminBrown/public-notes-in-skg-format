@@ -1,0 +1,8 @@
+title: let user promote and demote a node in another's backlinks
+pid: 4ceee3e4-b6da-4611-93fc-1c551c4f6fa7
+body: |2-
+    Whichever means explicitly labeling fewer link sources.
+    e.g. relationship nodes like 'instances'
+    should promote a few nodes that are actually about the node
+    'instances'
+    vs. a lot that use it as a relationship label

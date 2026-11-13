@@ -1,0 +1,4 @@
+title: problem statement
+pid: 86a9f4a7-a3ec-4b2b-bb17-d8885423b52c
+body: |2-
+      How would I search for the regex 'struct or enum or type followed by the name of it'? To find a typedef where I know the thing's name but not whether it's a sum type, product type or alias.

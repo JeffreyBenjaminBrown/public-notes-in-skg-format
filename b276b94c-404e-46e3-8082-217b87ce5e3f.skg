@@ -1,0 +1,8 @@
+title: ONGOING List items that look like headings are lost.
+pid: b276b94c-404e-46e3-8082-217b87ce5e3f
+body: |2-
+  A Markdown list item at column 0 (* [Does it use plaintext?…] in FAQ.md)
+  is now a line starting with * , which Org reads as a top-level heading.
+  This breaks FAQ.org's outline.
+  The exporter warned about this and similar lines (#+begin_src, #+title)
+  but wrote them anyway.

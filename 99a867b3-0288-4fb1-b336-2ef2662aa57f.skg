@@ -1,0 +1,7 @@
+title: 'TODO bug : not warning me when I make changes under an indeefinitive node'
+pid: 99a867b3-0288-4fb1-b336-2ef2662aa57f
+body: |2-
+  Maybe that's in the spec but it's definitely bad.
+  Should prevent save.
+  Otherwise I save things under an write-protected,
+  think it worked, and lose them.

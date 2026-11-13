@@ -1,0 +1,5 @@
+title: bug in export to org-roam
+pid: 1316e25a-1232-405f-8907-c9f32adaf8e3
+body: |2-
+  The 'exporter' node, the one that defines where to write the org file
+  derived from its parent, might have multiple parents.
