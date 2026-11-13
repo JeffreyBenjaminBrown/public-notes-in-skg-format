@@ -1,0 +1,8 @@
+title: rather than cycling commit readiness
+pid: 216115ed-6355-483c-b8c3-e24888219cdd
+body: |2-
+  we should be able to act more granularly:
+  - mark <node|rel|both> <processed|unprocessed>
+  The key commands would be m <n|r|b> <p|u>,
+  and it should still be that the C-u prefix recurses contentward,
+  and C-u C-u recurses across all relationships in the owned direction.

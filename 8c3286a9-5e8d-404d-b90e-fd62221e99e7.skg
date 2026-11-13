@@ -1,0 +1,14 @@
+title: mark *another's* changes processed
+pid: 8c3286a9-5e8d-404d-b90e-fd62221e99e7
+body: |2-
+  When I read a pruned change view to see your latest changes,
+  I can mark yours processed. The experience is probably nearly identical to
+  marking changes commit-ready in my own data.
+  But those marks should stick around, in my repo,
+  until you edit the node again, at which point it will return to my
+  set of unprocessed-by-me changes by others.
+
+  You should be able to see whether I processed something of yours.
+  (Pronouns here are arbitrary; everything is symmetrical.)
+  A user should be able to include or exclude such information
+  from the heralds they see.

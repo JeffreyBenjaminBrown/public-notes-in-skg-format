@@ -1,0 +1,4 @@
+title: Let's make following foreign overrides possible.
+pid: cf937aed-c55e-4dd0-8916-729d226d0d04
+body: |2-
+  Also, let's have a contentward view rooted at a foreign node follow overrides as if the viewer were that foreign author. (Viewing contentward from one's own fork of it would continue to follow one's own overrides.)

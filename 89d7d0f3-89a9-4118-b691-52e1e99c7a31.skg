@@ -1,0 +1,6 @@
+title: generalize commit-readiness to processed-ness
+pid: 89d7d0f3-89a9-4118-b691-52e1e99c7a31
+body: |2-
+  We've been saying 'commit ready' or 'not commit ready', I think.
+  More general would be 'processed' and 'unprocessed':
+  that would work when looking over another's changes too.

@@ -1,0 +1,20 @@
+title: don't show view-ancestors in a node's containers
+pid: 0631c609-85f0-4587-b062-5c1a9f6e38fd
+body: |2-
+  I often see a view like this:
+  ````
+    * a
+    ** b
+    *** these contain it
+    **** a // redundant
+    **** c
+  ```
+  That line marked redundant does not need to exist.
+
+  This will be especially helpful in the diff view, which currently draws
+  a lot of "its containers changed" folders, most of which have such single
+  redundant children; they would instead have no such folder.
+
+  As part of this, we should relabel those folder nodes:
+    these contain it       -> these also contain it
+    its containers changed -> its other containers changed

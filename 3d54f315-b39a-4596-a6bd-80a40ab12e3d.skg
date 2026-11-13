@@ -1,0 +1,15 @@
+title: Let's make all the subsystem experts.
+pid: 3d54f315-b39a-4596-a6bd-80a40ab12e3d
+body: |2-
+  Frequently we will need to ask for a change to a particular system --
+  the UI, the renderer, etc. -- and it seems efficient to use a persistent
+  team member for such jobs.
+
+  I could be wrong. Maybe the overhead of maintaining persistent agents
+  is not worth it. But it seems basically costless, particularly once you
+  have introduced a Libby agent who can tend their knowledge without incurring
+  your Fable-scale usage rate.
+
+  This also has the advantage that if they get into a pinch, they can talk to you,
+  through the graph. (They'll need a way to notify you also.
+  Maybe you should just have a watcher looking at all your inboxes.)

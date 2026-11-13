@@ -1,0 +1,12 @@
+title: a big git diff view is intolerably slow
+pid: 4eda8d52-f2ee-4801-92b2-e341c90062cc
+body: |2-
+  See TODO/general-fast-diffView/ for some work that was done on it,
+  and some more that was intended.
+
+  On another copy of my data I ingested TODO.org into jeff/public/,
+  and had a few other unstaged changes in other places.
+  Marking any change commit-ready in that view
+  requires a ton of processing.
+  I suspect the client is doing a lot of things
+  that the server should instead do.

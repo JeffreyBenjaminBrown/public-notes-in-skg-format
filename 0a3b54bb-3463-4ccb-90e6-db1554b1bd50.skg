@@ -1,0 +1,18 @@
+title: 'One constraint lies under all seven: one person''s attention.'
+pid: 0a3b54bb-3463-4ccb-90e6-db1554b1bd50
+body: |2-
+  This reading is mine. Jeff has not said it in these words.
+  Jeff holds that [[id:0c399e74-6d5e-4f0a-95e5-331a7239b19d][elegance is constrained optimization]].
+  Here the constraint is that he is the only human. He reads
+  the code, the plans and the reviews, and many agents write them.
+  So the expensive thing is whatever costs him a second reading,
+  a question, or a round of review. Tokens are cheap beside it.
+  Principles 1, 2, 3, 4 and 7 spend his attention well.
+  Principles 5 and 6 keep his data and his decisions from being
+  spent without him.
+contains:
+- ab4bee23-3fa3-4a72-a912-33ce05e3a809
+subscribesTo:
+- 13aeeb66-e481-4278-8111-0379c2c4a26f
+overrides:
+- 13aeeb66-e481-4278-8111-0379c2c4a26f

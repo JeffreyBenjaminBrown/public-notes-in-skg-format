@@ -1,0 +1,27 @@
+title: many ideas
+pid: 3eda0169-b0ef-4c56-8f9d-c398b3729574
+body: |2-
+  I will probably read another's data depth-first,
+  and would like to be able to store which branches I have processed.
+  Forking and subscription basically affect one layer of contentward
+  relationships, which feels awkward.
+  If I subscribe my A' to your A, and your A contains B which contains C,
+  and then you add C2 to the content of B,
+  I want my subscription to A to inform me of the new C1 and B-contains-C1.
+  So the subscription herald should traverse recursively contentward
+  to calculate how much new content to report.
+
+  For us to discuss something, we must process our own forks of it
+  (one of them likely being the original).
+  It is unnatural for me to separately mark every "edit" I make to your note
+  (change I make to my fork of it) as needing your attention
+  by putting it in a mailbox.
+  I do want the mailboxes, but also I'd like to be able to say
+  "I've responded granularly to the contentward tree from <origin node>,"
+  and you can easily see what my responses are.
+
+  This is the diffview problem, generalized.
+  Some plans for it, some of them executed, are at TODO/general-fast-diffView/,
+  which we should definitely ingest into these skg notes.
+
+  The natural workflow, it would seem, is:

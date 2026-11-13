@@ -1,0 +1,24 @@
+title: justifying deleted content rels, and marking them okay
+pid: 84508eeb-aa53-4ca6-8e3d-695d553f84ab
+body: |2-
+  If N contained C, D and E, and now M contains C and D,
+  then N's content in the diff view shows the usual ghosts,
+  but also it should show 'ghosts' shared containers':
+  ```
+    * N
+    ** <a>'s lost content <1:2..> share the container <1:1 / 1>
+    *** the common container
+    **** M
+    ***** these contain it
+    ****** M' which contains M
+    ******* M'' which contains M' ...
+    **** (ghost) C
+    **** (ghost) D
+    ** (ghost) C
+    ** (ghost) D
+    ** (ghost) E
+  ```
+  Cycling the commit-readiness of the relationship from N to C
+  should work from either ghost image of C.
+  Cycling the "which share the container" node's commit-readiness
+  should mark the relationship from N to C and D.

@@ -1,0 +1,12 @@
+title: pruned change view for *other's* changes
+pid: 49f8979f-9818-4a50-b989-8558f811c44c
+body: |2-
+  I (or you) can see a "pruned change view" where the base
+  is the graph minus the new subscribed-to-content.
+  For instance the base graph to me if we have just one repo each
+  might be my worktree with your HEAD, and the other graph
+  (the side of the straddle farther ahead in time)
+  would be my worktree with your worktree. Or maybe
+  base is my worktree with your HEAD-1, and the futureward side is
+  my worktree with your HEAD (if e.g. I just pulled in your graph changes
+  from git).
